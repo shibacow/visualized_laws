@@ -14,3 +14,8 @@ class MongoOp(object):
                 self.db[db].insert(a)
             else:
                 self.db[db].save(a)
+    def save_data(self,db,a):
+        if a:
+            dbm=getattr(self.db,db)
+            ##self.db[db].save(a)
+            dbm.save(a)
