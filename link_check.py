@@ -5,6 +5,7 @@ from pyquery import PyQuery as pq
 import re
 from urlparse import urljoin
 from bson.objectid import ObjectId
+import csv
 
 src='http://law.e-gov.go.jp/'
 class RefCase(object):
@@ -47,6 +48,10 @@ class LinkCheck(object):
     def check(self):
         for i,k in enumerate(self.mp.law_base.find({"children":{"$size":0}})):
             print i,len(k['children'])
+    def cat_check(self,cat):
+        for i,k in enumerate(self.mp.law_base.find({"cat":cat})):
+            print i,k['cat'],k['title']
+        
     def __lspliter(self,s):
         cc=s.split(u'（')
         
@@ -59,7 +64,9 @@ class LinkCheck(object):
             return cc[0]
         else:
             return []
-
+    def write_csv(self,cname,clist):
+        cout=csv.writer(open(cname,'ab'))
+        cout.writerows(clist)
             
     def check_link(self):
         cnt=0
@@ -76,16 +83,54 @@ class LinkCheck(object):
                     srcdict.setdefault(source,{})
                     srcdict[source].setdefault(dst,[])
                     srcdict[source][dst].append(RefCase(source,dst))
-        for a,b in sorted(srcdict.items(),key=lambda x:len(x[1]),reverse=True)[:500]:
+        srclist= sorted(srcdict.items(),key=lambda x:len(x[1]),reverse=True)
+        srccsvs=[('Id','Label','Ref_size')]
+        dstcsvs=[('source','target')]
+        for i,(a,b) in enumerate(srclist):
             print '-'*60
             print len(b),a
             distdict=srcdict[a]
-            for c,d in sorted(distdict.items(),key=lambda x:len(x[1]),reverse=True)[:20]:
-                print '\t',c,len(d)
+            for c,d in sorted(distdict.items(),key=lambda x:len(x[1]),reverse=True):
+                #print '\t',c,len(d)
+                dstcsvs.append((c.encode('utf-8'),a.encode('utf-8'),len(d)))
+            srccsvs.append((a.encode('utf-8'),a.encode('utf-8'),len(b)))
+            if i%1000==0:
+                self.write_csv('node.csv',srccsvs)
+                srccsvs=[]
+                self.write_csv('edges.csv',dstcsvs)
+                dstcsvs=[]
+        self.write_csv('node.csv',srccsvs)
+        srccsvs=[]
+        self.write_csv('edges.csv',dstcsvs)
+        dstcsvs=[]
+    def remove_chapter(self,s):
+        cc=s.split(u'「')[0]
+        return cc
+        
+    def ref_link(self):
+        
+        for i,k in enumerate(self.mp.law_base.find()):
+            for c in k['children']:
+                tt=self.mp.ref.find_one({"_id":c})
+                pt=tt['title']
+                st=k['title']
+                ptt=self.remove_chapter(pt)
+                ptt=ptt.strip()
+                #print "=%s=" % ptt
+                kq=self.mp.law_base.find_one({'title':ptt})
+                if not kq:
+                    pass
+                    #print st,"\n\t",ptt
+            #if i%10==0:
+               # print i
+
 def main():
     mp=mog_op.MongoOp('localhost')
     lc=LinkCheck(mp)
     #lc.split_law_name()
     #lc.check()
-    lc.check_link()
+    #lc.check_link()
+    #lc.cat_check(u"刑事")
+    lc.ref_link()
+
 if __name__=='__main__':main()
