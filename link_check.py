@@ -6,6 +6,9 @@ import re
 from urlparse import urljoin
 from bson.objectid import ObjectId
 import csv
+import logging
+logging.basicConfig(level=logging.DEBUG,\
+                        format="%(asctime)s %(levelname)s %(message)s")
 
 src='http://law.e-gov.go.jp/'
 class RefCase(object):
@@ -108,8 +111,16 @@ class LinkCheck(object):
         return cc
         
     def ref_link(self):
-        
-        for i,k in enumerate(self.mp.law_base.find()):
+        klist=list(self.mp.law_base.find())
+        for i,k in enumerate(klist):
+            if i%100==0:
+                print i
+
+            if i<7570:continue
+            csz=len(k['children'])
+            #if i%10==0:
+            msg="i=%d csz=%d title=%s" % (i,csz,k['title'])
+            logging.info(msg)
             for c in k['children']:
                 tt=self.mp.ref.find_one({"_id":c})
                 pt=tt['title']
@@ -118,11 +129,15 @@ class LinkCheck(object):
                 ptt=ptt.strip()
                 #print "=%s=" % ptt
                 kq=self.mp.law_base.find_one({'title':ptt})
-                if not kq:
-                    pass
-                    #print st,"\n\t",ptt
-            #if i%10==0:
-               # print i
+                if kq:
+                    linkdict={"link_id":ObjectId(c),
+                              "src_id":ObjectId(kq['_id']),
+                              "dst_id":ObjectId(k['_id']),
+                              "src_title":kq['title'],
+                              "dst_title":k['title'],
+                              "src_cat":kq['cat'],
+                              "dst_cat":k['cat']}
+                    self.mp.save_link(linkdict)
 
 def main():
     mp=mog_op.MongoOp('localhost')

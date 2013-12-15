@@ -7,6 +7,7 @@ class MongoOp(object):
         self.db=self.con.laws
         self.law_base=self.db.base
         self.ref=self.db.ref_title
+        self.link=self.db.link
 
     def save(self,db,a,key):
         if a:
@@ -14,6 +15,12 @@ class MongoOp(object):
                 self.db[db].insert(a)
             else:
                 self.db[db].save(a)
+    def save_link(self,a):
+        if not self.link.find_one({"src_id":a['src_id'],
+                                   "link_id":a['link_id'],
+                                   "dst_id":a['dst_id']}):
+            self.link.insert(a)
+            #print 'insert law=%s' % a['src_title']
     def save_data(self,db,a):
         if a:
             dbm=getattr(self.db,db)
