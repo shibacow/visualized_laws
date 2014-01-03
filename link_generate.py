@@ -7,6 +7,9 @@ from urlparse import urljoin
 from bson.objectid import ObjectId
 import csv
 import logging
+import re
+import os
+
 logging.basicConfig(level=logging.DEBUG,\
                         format="%(asctime)s %(levelname)s %(message)s")
 
@@ -26,36 +29,66 @@ class LinkCheck(object):
     def write_csv(self,cname,clist):
         cout=csv.writer(open(cname,'ab'))
         cout.writerows(clist)
-    
-    def cat_collect(self,cat):
+    def cat_collect(self,src_cat):
+        d=dict(src_cat=src_cat)
+        self.__collect(d,prefix=src_cat)
+    def act_collect(self):
+        d=dict(src_is_act=True,dst_is_act=True)
+        self.__collect(d,"is_act",'actcsv')
+    def __collect(self,conddict,prefix="default",csvdir="csvdir"):
         nodeset=set()
         srcdict={}
-        for k in self.mp.link.find({"src_cat":cat}):
+        nodedict={}
+        dstcat={}
+        for k in self.mp.link.find(conddict):
             dst=self.__lspliter(k['dst_title'])
             src=self.__lspliter(k['src_title'])
+            dstcat[dst]=k['dst_cat']
             if dst and src:
                 srcdict.setdefault(src,{})
                 srcdict[src].setdefault(dst,0)
                 srcdict[src][dst]+=1
                 nodeset.add(src)
                 nodeset.add(dst)
-        edges_filename=cat+'_edges.csv'
-        node_filename=cat+'_node.csv'
+                nodedict.setdefault(src,0)
+                nodedict[src]+=1
+        edges_filename=csvdir+os.sep+prefix+'_edges.csv'
+        node_filename=csvdir+os.sep+prefix+'_node.csv'
         self.write_csv(edges_filename,[['source','target']])
         for a,b in srcdict.items():
             clist=[]
             for c,d in b.items():
                 clist.append((a.encode('utf-8'),c.encode('utf-8')))
             self.write_csv(edges_filename,clist)
-        nodelist=[('Id','Label')]
+        nodelist=[('Id','Label','Modularity')]
         for n in nodeset:
             nn=n.encode('utf-8')
-            nodelist.append((nn,nn))
+            size=' '
+            cat='cat'
+            if n in nodedict and nodedict[n]>40:
+                size=nn
+                print size
+            if n in dstcat:
+                cat=dstcat[n]
+                cat=cat.encode('utf-8')
+            nodelist.append((nn,size,cat))
         self.write_csv(node_filename,nodelist)
-                
+        #for a,b in sorted(nodedict.items(),key=lambda x:x[1],reverse=True)[:30]:
+        #    print a,b
+            
+    
+    def title_regrex_collect(self,title):
+        rtitle=re.compile(title)
+        for r in self.mp.link.find({"src_title":rtitle}):
+            if 'src_is_act' in r and 'dst_is_act' in r:
+                print r['src_is_act'],r['src_title'],r['dst_title'],r['dst_is_act']
+        
+        
 def main():
     mp=mog_op.MongoOp('localhost')
     lc=LinkCheck(mp)
-    lc.cat_collect(u"海運")
-
+    #lc.cat_collect(u"刑事")
+    lc.act_collect()
+    #lc.title_regrex_collect(u"日本国憲法[^の]")
+    
 if __name__=='__main__':main()
