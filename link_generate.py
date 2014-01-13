@@ -9,6 +9,7 @@ import csv
 import logging
 import re
 import os
+from glob import glob
 
 logging.basicConfig(level=logging.DEBUG,\
                         format="%(asctime)s %(levelname)s %(message)s")
@@ -65,9 +66,11 @@ class LinkCheck(object):
             nn=n.encode('utf-8')
             size=' '
             cat='cat'
-            if n in nodedict and nodedict[n]>40:
-                size=nn
-                print size
+            #if n in nodedict and nodedict[n]>40:
+            #    size=nn
+                #print size
+            #    logging.info(size)
+            size=nn
             if n in dstcat:
                 cat=dstcat[n]
                 cat=cat.encode('utf-8')
@@ -81,14 +84,30 @@ class LinkCheck(object):
         rtitle=re.compile(title)
         for r in self.mp.link.find({"src_title":rtitle}):
             if 'src_is_act' in r and 'dst_is_act' in r:
-                print r['src_is_act'],r['src_title'],r['dst_title'],r['dst_is_act']
-        
-        
+                msg="%s %s %s %s" % (r['src_is_act'],r['src_title'],r['dst_title'],r['dst_is_act'])
+                logging.info(msg)
+    def groupby_cat(self):
+        tdict={'cat':True}
+        r=self.mp.groupby_cat('base',tdict)
+        catset=set()
+        for c in r:
+            catset.add(c['cat'])
+        return catset
+def remove_csv(paths):
+    for d in paths:
+        gb=d+os.sep+'*.csv'
+        for f in glob(gb):
+            msg='remvoe %s'  % f
+            logging.info(msg)
+            os.remove(f)
 def main():
+    remove_csv(('csvdir','actcsv'))
     mp=mog_op.MongoOp('localhost')
     lc=LinkCheck(mp)
-    #lc.cat_collect(u"刑事")
-    lc.act_collect()
+    catlist=lc.groupby_cat()
+    for c in catlist:
+        lc.cat_collect(c)
+    #lc.act_collect()
     #lc.title_regrex_collect(u"日本国憲法[^の]")
     
 if __name__=='__main__':main()

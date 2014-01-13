@@ -1,0 +1,2931 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.1draft" version="1.1" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd">
+  <meta lastmodifieddate="2014-01-13">
+    <creator>Gephi 0.8</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" timeformat="double" mode="dynamic">
+    <attributes class="node" mode="static">
+      <attribute id="Modularity" title="Modularity" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律" label="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-3795.051" y="-866.6354"></viz:position>
+        <viz:color r="64" g="133" b="167"></viz:color>
+      </node>
+      <node id="海洋汚染等及び海上災害の防止に関する法律" label="海洋汚染等及び海上災害の防止に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3921.7795" y="-1005.18384"></viz:position>
+        <viz:color r="81" g="167" b="64"></viz:color>
+      </node>
+      <node id="石綿による健康被害の救済に関する法律施行令" label="石綿による健康被害の救済に関する法律施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1099.972" y="1255.8402"></viz:position>
+        <viz:color r="64" g="167" b="81"></viz:color>
+      </node>
+      <node id="地方公務員法" label="地方公務員法">
+        <attvalues>
+          <attvalue for="Modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="796.3053" y="9.687638"></viz:position>
+        <viz:color r="64" g="167" b="150"></viz:color>
+      </node>
+      <node id="内閣府所管旅費取扱規則" label="内閣府所管旅費取扱規則">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1170.9486" y="680.8739"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律施行令" label="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3947.9814" y="-864.87665"></viz:position>
+        <viz:color r="64" g="133" b="167"></viz:color>
+      </node>
+      <node id="宮内庁法施行令" label="宮内庁法施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="721.5036" y="199.15707"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="小笠原諸島における土地に関する権利の調整等に関する政令の施行に伴う特別賃借権に係る公告による申出の掲載事項及び特別賃借権の譲渡の許可等の申請書の記載事項を定める省令" label="小笠原諸島における土地に関する権利の調整等に関する政令の施行に伴う特別賃借権に係る公告による申出の掲載事項及び特別賃借権の譲渡の許可等の申請書の記載事項を定める省令">
+        <attvalues>
+          <attvalue for="Modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1065.0865" y="1901.2467"></viz:position>
+        <viz:color r="133" g="167" b="64"></viz:color>
+      </node>
+      <node id="位階令施行細則" label="位階令施行細則">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-707.8985" y="4410.7163"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う文部省関係省令の適用の特別措置等に関する省令" label="沖縄の復帰に伴う文部省関係省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="教育"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1277.6171" y="516.08356"></viz:position>
+        <viz:color r="167" g="167" b="64"></viz:color>
+      </node>
+      <node id="割賦販売法施行規則" label="割賦販売法施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="商業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1235.5604" y="1227.3887"></viz:position>
+        <viz:color r="64" g="116" b="167"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う地方税法の適用の特別措置等に関する政令" label="沖縄の復帰に伴う地方税法の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="地方財政"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1208.3519" y="428.2782"></viz:position>
+        <viz:color r="167" g="64" b="81"></viz:color>
+      </node>
+      <node id="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律施行規則" label="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1005.10846" y="1286.6416"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="内閣府本府組織規則" label="内閣府本府組織規則">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="792.7656" y="767.2947"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う労働省関係法令の適用の暫定措置等に関する政令　抄" label="奄美群島の復帰に伴う労働省関係法令の適用の暫定措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="499.6412" y="-334.56607"></viz:position>
+        <viz:color r="167" g="98" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う科学技術庁関係法令の適用の経過措置に関する政令" label="沖縄の復帰に伴う科学技術庁関係法令の適用の経過措置に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1230.0011" y="662.91925"></viz:position>
+        <viz:color r="167" g="64" b="133"></viz:color>
+      </node>
+      <node id="国会議員の選挙等の執行経費の基準に関する法律" label="国会議員の選挙等の執行経費の基準に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="756.5823" y="190.54027"></viz:position>
+        <viz:color r="98" g="167" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う環境庁関係法令の適用の特別措置に関する政令" label="沖縄の復帰に伴う環境庁関係法令の適用の特別措置に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1327.6722" y="467.40237"></viz:position>
+        <viz:color r="81" g="167" b="64"></viz:color>
+      </node>
+      <node id="人事院規則一―九" label="人事院規則一―九">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1197.7734" y="655.73285"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う民事特別法" label="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う民事特別法">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-3983.8796" y="1433.6055"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う公務員等共済組合等の権利義務の承継等に関する政令" label="沖縄の復帰に伴う公務員等共済組合等の権利義務の承継等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1116.5934" y="515.9851"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="小笠原諸島振興開発特別措置法" label="小笠原諸島振興開発特別措置法">
+        <attvalues>
+          <attvalue for="Modularity" value="国土開発"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1071.2466" y="1864.3405"></viz:position>
+        <viz:color r="64" g="81" b="167"></viz:color>
+      </node>
+      <node id="沖縄振興特別措置法施行令" label="沖縄振興特別措置法施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="国土開発"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1154.0801" y="457.7329"></viz:position>
+        <viz:color r="64" g="81" b="167"></viz:color>
+      </node>
+      <node id="昭和二十二年法律第七十二号" label="昭和二十二年法律第七十二号">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="741.9398" y="38.520756"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="自衛隊法" label="自衛隊法">
+        <attvalues>
+          <attvalue for="Modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="790.57263" y="149.77908"></viz:position>
+        <viz:color r="81" g="64" b="167"></viz:color>
+      </node>
+      <node id="皇室典範" label="皇室典範">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="13.0"></viz:size>
+        <viz:position x="714.3785" y="411.18665"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う建設省関係法律の適用の経過措置に関する政令　抄" label="奄美群島の復帰に伴う建設省関係法律の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="土地"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="530.85474" y="-315.26028"></viz:position>
+        <viz:color r="64" g="167" b="167"></viz:color>
+      </node>
+      <node id="環境省関係石綿による健康被害の救済に関する法律施行規則" label="環境省関係石綿による健康被害の救済に関する法律施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="990.29663" y="1258.2346"></viz:position>
+        <viz:color r="64" g="167" b="81"></viz:color>
+      </node>
+      <node id="武力攻撃事態等における国民の保護のための措置に関する法律　抄" label="武力攻撃事態等における国民の保護のための措置に関する法律　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="889.86664" y="55.6625"></viz:position>
+        <viz:color r="64" g="167" b="133"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う通商産業省関係の法律の適用の暫定措置等に関する政令の施行に伴う鉱業権の設定の出願の手続等に関する省令" label="奄美群島の復帰に伴う通商産業省関係の法律の適用の暫定措置等に関する政令の施行に伴う鉱業権の設定の出願の手続等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="鉱業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="425.07492" y="-293.203"></viz:position>
+        <viz:color r="64" g="98" b="167"></viz:color>
+      </node>
+      <node id="防衛施設中央審議会令" label="防衛施設中央審議会令">
+        <attvalues>
+          <attvalue for="Modularity" value="土地"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1035.4843" y="1299.9032"></viz:position>
+        <viz:color r="64" g="167" b="167"></viz:color>
+      </node>
+      <node id="鉱害賠償供託金配当令施行規則" label="鉱害賠償供託金配当令施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="鉱業"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-3857.2268" y="-829.8152"></viz:position>
+        <viz:color r="64" g="98" b="167"></viz:color>
+      </node>
+      <node id="裁判所法" label="裁判所法">
+        <attvalues>
+          <attvalue for="Modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="812.5881" y="48.9629"></viz:position>
+        <viz:color r="150" g="167" b="64"></viz:color>
+      </node>
+      <node id="内閣府設置法" label="内閣府設置法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="752.3981" y="428.06027"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="相続税法" label="相続税法">
+        <attvalues>
+          <attvalue for="Modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="736.9564" y="808.38824"></viz:position>
+        <viz:color r="150" g="64" b="167"></viz:color>
+      </node>
+      <node id="割賦販売法" label="割賦販売法">
+        <attvalues>
+          <attvalue for="Modularity" value="商業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1288.9338" y="1252.687"></viz:position>
+        <viz:color r="64" g="116" b="167"></viz:color>
+      </node>
+      <node id="厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う移行農林共済年金等に関する経過措置に関する政令" label="厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う移行農林共済年金等に関する経過措置に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1132.7682" y="663.4608"></viz:position>
+        <viz:color r="167" g="64" b="150"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う労働省関係法令の適用の特別措置等に関する政令　抄" label="沖縄の復帰に伴う労働省関係法令の適用の特別措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1169.0685" y="497.59714"></viz:position>
+        <viz:color r="167" g="98" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う国家公務員等の懲戒免除に関する政令" label="沖縄の復帰に伴う国家公務員等の懲戒免除に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1182.588" y="444.63956"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="警察法施行令" label="警察法施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="837.60925" y="76.682365"></viz:position>
+        <viz:color r="64" g="150" b="167"></viz:color>
+      </node>
+      <node id="消費者庁組織令" label="消費者庁組織令">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1253.5747" y="1255.9528"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="裁判官分限法" label="裁判官分限法">
+        <attvalues>
+          <attvalue for="Modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="785.38965" y="188.40074"></viz:position>
+        <viz:color r="150" g="167" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う農林水産省関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う農林水産省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1261.1425" y="562.7979"></viz:position>
+        <viz:color r="167" g="64" b="150"></viz:color>
+      </node>
+      <node id="国家公務員制度改革基本法" label="国家公務員制度改革基本法">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-853.6011" y="-4174.5063"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う厚生省関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う厚生省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1207.295" y="470.4713"></viz:position>
+        <viz:color r="64" g="167" b="81"></viz:color>
+      </node>
+      <node id="国家賠償法" label="国家賠償法">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="21.0"></viz:size>
+        <viz:position x="-772.9033" y="-4140.6353"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="石油の備蓄の確保等に関する法律施行規則" label="石油の備蓄の確保等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="鉱業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3857.0972" y="-731.106"></viz:position>
+        <viz:color r="64" g="98" b="167"></viz:color>
+      </node>
+      <node id="出入国管理及び難民認定法" label="出入国管理及び難民認定法">
+        <attvalues>
+          <attvalue for="Modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="679.1867" y="3.0149806"></viz:position>
+        <viz:color r="64" g="167" b="133"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う琉球政府の職員の引継の暫定措置等に関する政令　抄" label="奄美群島の復帰に伴う琉球政府の職員の引継の暫定措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="403.95035" y="-273.344"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う国家公務員退職手当法の適用の特別措置等に関する政令" label="沖縄の復帰に伴う国家公務員退職手当法の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="1374.515" y="607.7408"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う労働省令等の適用の特別措置等に関する省令" label="沖縄の復帰に伴う労働省令等の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1270.9667" y="685.33295"></viz:position>
+        <viz:color r="167" g="98" b="64"></viz:color>
+      </node>
+      <node id="裁判所法施行法" label="裁判所法施行法">
+        <attvalues>
+          <attvalue for="Modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="703.7936" y="-13.603305"></viz:position>
+        <viz:color r="150" g="167" b="64"></viz:color>
+      </node>
+      <node id="防衛省組織令" label="防衛省組織令">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="972.842" y="1180.3854"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="特定フィブリノゲン製剤及び特定血液凝固第ＩＸ因子製剤によるＣ型肝炎感染被害者を救済するための給付金の支給に関する特別措置法" label="特定フィブリノゲン製剤及び特定血液凝固第ＩＸ因子製剤によるＣ型肝炎感染被害者を救済するための給付金の支給に関する特別措置法">
+        <attvalues>
+          <attvalue for="Modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-743.21674" y="-4061.8723"></viz:position>
+        <viz:color r="64" g="167" b="81"></viz:color>
+      </node>
+      <node id="防衛省設置法" label="防衛省設置法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="862.29156" y="1167.2806"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="警察官の職務に協力援助した者の災害給付に関する法律" label="警察官の職務に協力援助した者の災害給付に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-805.0929" y="-4228.105"></viz:position>
+        <viz:color r="64" g="150" b="167"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う厚生省関係法律の適用の経過措置に関する政令　抄" label="奄美群島の復帰に伴う厚生省関係法律の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="439.04877" y="-318.25928"></viz:position>
+        <viz:color r="81" g="167" b="64"></viz:color>
+      </node>
+      <node id="鉱業法施行規則" label="鉱業法施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="鉱業"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-3820.3606" y="-871.3799"></viz:position>
+        <viz:color r="64" g="98" b="167"></viz:color>
+      </node>
+      <node id="鹿児島県大島郡十島村の区域に関する法令の適用の経過措置に関する政令　抄" label="鹿児島県大島郡十島村の区域に関する法令の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="2643.2522" y="-3449.3547"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="合衆国軍隊等の行為等による被害者等に対する賠償金の支給等に関する省令" label="合衆国軍隊等の行為等による被害者等に対する賠償金の支給等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3927.9004" y="1411.3928"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="刑事訴訟法施行法　抄" label="刑事訴訟法施行法　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="刑事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="779.42426" y="39.07902"></viz:position>
+        <viz:color r="64" g="167" b="64"></viz:color>
+      </node>
+      <node id="刑事補償法" label="刑事補償法">
+        <attvalues>
+          <attvalue for="Modularity" value="刑事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-771.0965" y="-4237.8213"></viz:position>
+        <viz:color r="64" g="167" b="64"></viz:color>
+      </node>
+      <node id="人事院規則二―〇" label="人事院規則二―〇">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="648.5787" y="177.33081"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="国土交通省組織令" label="国土交通省組織令">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="506.0993" y="595.24445"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="会計検査院法" label="会計検査院法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="727.8476" y="79.28609"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="地方防衛局組織規則" label="地方防衛局組織規則">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="989.2049" y="1157.1376"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="海洋基本法" label="海洋基本法">
+        <attvalues>
+          <attvalue for="Modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3842.4934" y="-979.201"></viz:position>
+        <viz:color r="64" g="167" b="81"></viz:color>
+      </node>
+      <node id="総務省組織令" label="総務省組織令">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="846.5387" y="97.30532"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="登録免許税法施行令" label="登録免許税法施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="1312.6688" y="1231.5803"></viz:position>
+        <viz:color r="150" g="64" b="167"></viz:color>
+      </node>
+      <node id="勲章褫奪令" label="勲章褫奪令">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="4284.5063" y="1924.7614"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う農林省関係法令の適用の暫定措置等に関する政令" label="奄美群島の復帰に伴う農林省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="440.15744" y="-253.04353"></viz:position>
+        <viz:color r="167" g="64" b="150"></viz:color>
+      </node>
+      <node id="国土形成計画法" label="国土形成計画法">
+        <attvalues>
+          <attvalue for="Modularity" value="国土開発"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3976.2114" y="-900.0551"></viz:position>
+        <viz:color r="64" g="81" b="167"></viz:color>
+      </node>
+      <node id="中央省庁等改革関係法施行法　抄" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="13.0"></viz:size>
+        <viz:position x="1027.3365" y="879.7484"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="国籍法" label="国籍法">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="568.11694" y="70.891045"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="勲章褫奪令施行細則" label="勲章褫奪令施行細則">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="4329.2515" y="1944.1189"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="破壊活動防止法" label="破壊活動防止法">
+        <attvalues>
+          <attvalue for="Modularity" value="刑事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="854.39" y="4.4737415"></viz:position>
+        <viz:color r="64" g="167" b="64"></viz:color>
+      </node>
+      <node id="地方公務員災害補償法" label="地方公務員災害補償法">
+        <attvalues>
+          <attvalue for="Modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-829.21173" y="-4200.6846"></viz:position>
+        <viz:color r="64" g="167" b="150"></viz:color>
+      </node>
+      <node id="自衛隊法施行規則" label="自衛隊法施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="708.326" y="130.11758"></viz:position>
+        <viz:color r="81" g="64" b="167"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う郵政省関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う郵政省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="郵務"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1228.0939" y="629.02985"></viz:position>
+        <viz:color r="64" g="167" b="98"></viz:color>
+      </node>
+      <node id="昭和二十二年法律第百十一号" label="昭和二十二年法律第百十一号">
+        <attvalues>
+          <attvalue for="Modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="605.5157" y="416.71268"></viz:position>
+        <viz:color r="133" g="167" b="64"></viz:color>
+      </node>
+      <node id="排他的経済水域及び大陸棚に関する法律" label="排他的経済水域及び大陸棚に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="24.0"></viz:size>
+        <viz:position x="-3871.621" y="-913.5816"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う特別措置に関する法律" label="沖縄の復帰に伴う特別措置に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="59.0"></viz:size>
+        <viz:position x="1202.9211" y="553.9942"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="領海及び接続水域に関する法律" label="領海及び接続水域に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="16.0"></viz:size>
+        <viz:position x="-3820.976" y="-810.06116"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="国民年金法等に基づく保険料の納付手続の特例に関する省令" label="国民年金法等に基づく保険料の納付手続の特例に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1305.5221" y="622.4423"></viz:position>
+        <viz:color r="116" g="167" b="64"></viz:color>
+      </node>
+      <node id="小笠原諸島の復帰に伴う村の設置及び現地における行政機関の設置等に関する政令" label="小笠原諸島の復帰に伴う村の設置及び現地における行政機関の設置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1098.8628" y="1903.0518"></viz:position>
+        <viz:color r="64" g="167" b="150"></viz:color>
+      </node>
+      <node id="国家公務員共済組合法の長期給付に関する施行法" label="国家公務員共済組合法の長期給付に関する施行法">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1240.5233" y="692.26953"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="貸金業法" label="貸金業法">
+        <attvalues>
+          <attvalue for="Modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1304.0244" y="1185.8134"></viz:position>
+        <viz:color r="167" g="150" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する省令" label="沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1279.6683" y="456.85168"></viz:position>
+        <viz:color r="116" g="167" b="64"></viz:color>
+      </node>
+      <node id="遺言の方式の準拠法に関する法律" label="遺言の方式の準拠法に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1533.9131" y="469.8392"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="男女共同参画社会基本法" label="男女共同参画社会基本法">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="841.173" y="676.25916"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="海上保安庁組織規則" label="海上保安庁組織規則">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="521.29285" y="627.63947"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="皇室経済法" label="皇室経済法">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="13.0"></viz:size>
+        <viz:position x="790.82874" y="706.6258"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="所得税法" label="所得税法">
+        <attvalues>
+          <attvalue for="Modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="712.4355" y="790.4634"></viz:position>
+        <viz:color r="150" g="64" b="167"></viz:color>
+      </node>
+      <node id="消費者庁及び消費者委員会設置法" label="消費者庁及び消費者委員会設置法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1330.1646" y="1151.703"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="財務省組織規則" label="財務省組織規則">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1350.6372" y="517.8264"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="武力攻撃事態における外国軍用品等の海上輸送の規制に関する法律" label="武力攻撃事態における外国軍用品等の海上輸送の規制に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-750.41034" y="-4212.9463"></viz:position>
+        <viz:color r="64" g="167" b="133"></viz:color>
+      </node>
+      <node id="公職選挙法" label="公職選挙法">
+        <attvalues>
+          <attvalue for="Modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="657.4563" y="22.270105"></viz:position>
+        <viz:color r="98" g="167" b="64"></viz:color>
+      </node>
+      <node id="教育職員免許法施行規則" label="教育職員免許法施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="教育"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="746.6374" y="160.79037"></viz:position>
+        <viz:color r="167" g="167" b="64"></viz:color>
+      </node>
+      <node id="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律施行令" label="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="862.4016" y="1139.5875"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="外務省組織令" label="外務省組織令">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="656.4743" y="139.23973"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う地方税関係以外の自治省関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う地方税関係以外の自治省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1135.2651" y="557.7006"></viz:position>
+        <viz:color r="64" g="167" b="150"></viz:color>
+      </node>
+      <node id="小笠原諸島の復帰に伴う大蔵省関係法令の適用の暫定措置等に関する政令" label="小笠原諸島の復帰に伴う大蔵省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1132.9042" y="1896.4927"></viz:position>
+        <viz:color r="150" g="64" b="167"></viz:color>
+      </node>
+      <node id="領海及び接続水域に関する法律施行令" label="領海及び接続水域に関する法律施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3801.6929" y="-729.07153"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="日本国憲法の改正手続に関する法律施行規則" label="日本国憲法の改正手続に関する法律施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="871.6118" y="-262.68182"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="鉱業登録令施行規則" label="鉱業登録令施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="鉱業"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-3886.3638" y="-825.50494"></viz:position>
+        <viz:color r="64" g="98" b="167"></viz:color>
+      </node>
+      <node id="行政手続法" label="行政手続法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政手続"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="629.2127" y="469.26166"></viz:position>
+        <viz:color r="64" g="167" b="116"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う厚生省関係の特例に関する省令　抄" label="沖縄の復帰に伴う厚生省関係の特例に関する省令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1249.2931" y="491.3219"></viz:position>
+        <viz:color r="64" g="167" b="81"></viz:color>
+      </node>
+      <node id="警察職員の服務の宣誓に関する規則" label="警察職員の服務の宣誓に関する規則">
+        <attvalues>
+          <attvalue for="Modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="838.64746" y="166.5006"></viz:position>
+        <viz:color r="64" g="150" b="167"></viz:color>
+      </node>
+      <node id="競争の導入による公共サービスの改革に関する法律" label="競争の導入による公共サービスの改革に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-695.3491" y="-4174.6445"></viz:position>
+        <viz:color r="167" g="64" b="133"></viz:color>
+      </node>
+      <node id="地方制度調査会設置法" label="地方制度調査会設置法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="626.7278" y="141.3791"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う自治省関係法令の適用の暫定措置等に関する政令" label="奄美群島の復帰に伴う自治省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="462.95847" y="-285.0748"></viz:position>
+        <viz:color r="64" g="167" b="150"></viz:color>
+      </node>
+      <node id="内閣法" label="内閣法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="761.71875" y="-7.2779717"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="犯罪被害者等基本法" label="犯罪被害者等基本法">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="11.0"></viz:size>
+        <viz:position x="619.2872" y="563.59375"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う農林水産省令の適用の特別措置等に関する省令" label="沖縄の復帰に伴う農林水産省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1335.5677" y="632.78046"></viz:position>
+        <viz:color r="167" g="64" b="150"></viz:color>
+      </node>
+      <node id="保護司法" label="保護司法">
+        <attvalues>
+          <attvalue for="Modularity" value="刑事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="881.4872" y="84.15759"></viz:position>
+        <viz:color r="64" g="167" b="64"></viz:color>
+      </node>
+      <node id="公立学校の学校医、学校歯科医及び学校薬剤師の公務災害補償に関する法律" label="公立学校の学校医、学校歯科医及び学校薬剤師の公務災害補償に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="教育"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-779.18" y="-4090.3645"></viz:position>
+        <viz:color r="167" g="167" b="64"></viz:color>
+      </node>
+      <node id="小笠原諸島の復帰に伴う労働省関係法律の適用の特例に関する政令　抄" label="小笠原諸島の復帰に伴う労働省関係法律の適用の特例に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1030.2574" y="1880.9412"></viz:position>
+        <viz:color r="167" g="98" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う通商産業省関係法令の適用の特別措置等に関する政令　抄" label="沖縄の復帰に伴う通商産業省関係法令の適用の特別措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="鉱業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1110.4039" y="627.88544"></viz:position>
+        <viz:color r="64" g="98" b="167"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="1380.6276" y="559.44904"></viz:position>
+        <viz:color r="150" g="64" b="167"></viz:color>
+      </node>
+      <node id="国家公務員共済組合法施行令" label="国家公務員共済組合法施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1296.1254" y="485.6777"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="学校教育法" label="学校教育法">
+        <attvalues>
+          <attvalue for="Modularity" value="教育"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="634.2257" y="107.72414"></viz:position>
+        <viz:color r="167" g="167" b="64"></viz:color>
+      </node>
+      <node id="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" label="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="1090.0668" y="1784.9454"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律" label="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="13.0"></viz:size>
+        <viz:position x="943.0252" y="1085.8339"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="沖縄県の区域における労働安全衛生法及びこれに基づく命令の適用の特別措置等に関する省令" label="沖縄県の区域における労働安全衛生法及びこれに基づく命令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1101.4417" y="589.42017"></viz:position>
+        <viz:color r="167" g="98" b="64"></viz:color>
+      </node>
+      <node id="小笠原諸島の復帰に伴う運輸省関係法律の適用の暫定措置等に関する政令　抄" label="小笠原諸島の復帰に伴う運輸省関係法律の適用の暫定措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="海運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1159.2977" y="1870.6885"></viz:position>
+        <viz:color r="116" g="64" b="167"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う建設省令の適用の特別措置等に関する省令" label="沖縄の復帰に伴う建設省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="建築・住宅"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1306.9207" y="552.6032"></viz:position>
+        <viz:color r="167" g="133" b="64"></viz:color>
+      </node>
+      <node id="刑事訴訟法" label="刑事訴訟法">
+        <attvalues>
+          <attvalue for="Modularity" value="刑事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="871.5636" y="37.50887"></viz:position>
+        <viz:color r="64" g="167" b="64"></viz:color>
+      </node>
+      <node id="日本国内にある国際連合の軍隊により損害を受けた者に対する補償金並びに見舞金の支給等に関する省令" label="日本国内にある国際連合の軍隊により損害を受けた者に対する補償金並びに見舞金の支給等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-4082.252" y="1472.7771"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う漁船特殊規則及び漁船特殊規程の適用の特別措置に関する省令" label="沖縄の復帰に伴う漁船特殊規則及び漁船特殊規程の適用の特別措置に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="海運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1202.9724" y="694.8243"></viz:position>
+        <viz:color r="116" g="64" b="167"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う法務省関係法令の適用の経過措置等に関する政令" label="奄美群島の復帰に伴う法務省関係法令の適用の経過措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="405.4311" y="-217.83524"></viz:position>
+        <viz:color r="133" g="167" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う総務庁関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う総務庁関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="行政手続"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1341.1239" y="491.90808"></viz:position>
+        <viz:color r="64" g="167" b="116"></viz:color>
+      </node>
+      <node id="戸籍法" label="戸籍法">
+        <attvalues>
+          <attvalue for="Modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="498.424" y="42.3886"></viz:position>
+        <viz:color r="133" g="167" b="64"></viz:color>
+      </node>
+      <node id="海洋構築物等に係る安全水域の設定等に関する法律" label="海洋構築物等に係る安全水域の設定等に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="海運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3867.9893" y="-1008.9393"></viz:position>
+        <viz:color r="116" g="64" b="167"></viz:color>
+      </node>
+      <node id="小笠原諸島の復帰に伴う防衛庁関係法令の適用の暫定措置に関する政令" label="小笠原諸島の復帰に伴う防衛庁関係法令の適用の暫定措置に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="1073.4237" y="1489.5352"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="建築基準法に基づく指定資格検定機関等に関する省令" label="建築基準法に基づく指定資格検定機関等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="建築・住宅"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-716.55804" y="-4204.183"></viz:position>
+        <viz:color r="167" g="133" b="64"></viz:color>
+      </node>
+      <node id="ポツダム宣言の受諾に伴い発する命令に関する件の廃止に関する法律" label="ポツダム宣言の受諾に伴い発する命令に関する件の廃止に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="2627.2893" y="-3422.4849"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う琉球政府の権利義務の承継等に関する政令" label="沖縄の復帰に伴う琉球政府の権利義務の承継等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1316.9711" y="517.8484"></viz:position>
+        <viz:color r="116" g="167" b="64"></viz:color>
+      </node>
+      <node id="船舶油濁損害賠償保障法" label="船舶油濁損害賠償保障法">
+        <attvalues>
+          <attvalue for="Modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3898.2363" y="-972.849"></viz:position>
+        <viz:color r="81" g="167" b="64"></viz:color>
+      </node>
+      <node id="警察法" label="警察法">
+        <attvalues>
+          <attvalue for="Modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="849.0796" y="142.95326"></viz:position>
+        <viz:color r="64" g="150" b="167"></viz:color>
+      </node>
+      <node id="総務省設置法" label="総務省設置法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="815.16595" y="-48.92786"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="内閣府本府組織令" label="内閣府本府組織令">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="705.2601" y="643.90857"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="国家公務員災害補償法" label="国家公務員災害補償法">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-818.28986" y="-4074.274"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="警察法施行規則" label="警察法施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="814.91016" y="97.834526"></viz:position>
+        <viz:color r="64" g="150" b="167"></viz:color>
+      </node>
+      <node id="国民年金法" label="国民年金法">
+        <attvalues>
+          <attvalue for="Modularity" value="社会保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="863.308" y="121.758995"></viz:position>
+        <viz:color r="133" g="64" b="167"></viz:color>
+      </node>
+      <node id="位階令" label="位階令">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-729.7451" y="4379.723"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="小笠原諸島の復帰に伴う厚生省関係法令の適用の暫定措置に関する政令" label="小笠原諸島の復帰に伴う厚生省関係法令の適用の暫定措置に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="社会保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1159.7244" y="1837.4573"></viz:position>
+        <viz:color r="133" g="64" b="167"></viz:color>
+      </node>
+      <node id="国事行為の臨時代行に関する法律" label="国事行為の臨時代行に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="720.9283" y="277.79376"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="奄美群島における自動車抵当法及び道路交通事業抵当法の施行に関する政令" label="奄美群島における自動車抵当法及び道路交通事業抵当法の施行に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="397.44168" y="-245.74352"></viz:position>
+        <viz:color r="133" g="167" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う運輸省令の適用の特別措置等に関する省令" label="沖縄の復帰に伴う運輸省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="陸運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1270.9048" y="648.50366"></viz:position>
+        <viz:color r="98" g="64" b="167"></viz:color>
+      </node>
+      <node id="小笠原諸島の復帰に伴う自治省関係法令の適用の暫定措置等に関する政令" label="小笠原諸島の復帰に伴う自治省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1115.8987" y="1861.5641"></viz:position>
+        <viz:color r="64" g="167" b="150"></viz:color>
+      </node>
+      <node id="国籍法施行規則" label="国籍法施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="441.00317" y="45.803726"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="独立行政法人日本スポーツ振興センター法施行令" label="独立行政法人日本スポーツ振興センター法施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-695.5682" y="-4134.741"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う関係法令の改廃に関する法律　抄" label="沖縄の復帰に伴う関係法令の改廃に関する法律　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1460.872" y="596.31714"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="雇用の分野における男女の均等な機会及び待遇の確保等に関する法律" label="雇用の分野における男女の均等な機会及び待遇の確保等に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="646.01636" y="77.97737"></viz:position>
+        <viz:color r="167" g="98" b="64"></viz:color>
+      </node>
+      <node id="地方税法" label="地方税法">
+        <attvalues>
+          <attvalue for="Modularity" value="地方財政"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="686.8199" y="746.1962"></viz:position>
+        <viz:color r="167" g="64" b="81"></viz:color>
+      </node>
+      <node id="海洋汚染等及び海上災害の防止に関する法律施行令" label="海洋汚染等及び海上災害の防止に関する法律施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-3853.0596" y="-858.50037"></viz:position>
+        <viz:color r="81" g="167" b="64"></viz:color>
+      </node>
+      <node id="日本国憲法の改正手続に関する法律　抄" label="日本国憲法の改正手続に関する法律　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="13.0"></viz:size>
+        <viz:position x="831.3888" y="-139.69255"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う郵政省関係法令の適用の特別措置等に関する省令" label="沖縄の復帰に伴う郵政省関係法令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="郵務"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1138.369" y="604.416"></viz:position>
+        <viz:color r="64" g="167" b="98"></viz:color>
+      </node>
+      <node id="海洋汚染等及び海上災害の防止に関する法律の規定に基づく船舶の設備等に関する技術上の基準等に関する省令" label="海洋汚染等及び海上災害の防止に関する法律の規定に基づく船舶の設備等に関する技術上の基準等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3946.6733" y="-916.35565"></viz:position>
+        <viz:color r="81" g="167" b="64"></viz:color>
+      </node>
+      <node id="生活保護法" label="生活保護法">
+        <attvalues>
+          <attvalue for="Modularity" value="社会福祉"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="826.71454" y="-3.6364033"></viz:position>
+        <viz:color r="167" g="64" b="116"></viz:color>
+      </node>
+      <node id="個人情報の保護に関する法律施行令" label="個人情報の保護に関する法律施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="1332.6993" y="1215.1117"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="国家公務員法" label="国家公務員法">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="809.8368" y="168.54538"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="子ども・若者育成支援推進法" label="子ども・若者育成支援推進法">
+        <attvalues>
+          <attvalue for="Modularity" value="社会福祉"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="681.5304" y="199.12744"></viz:position>
+        <viz:color r="167" g="64" b="116"></viz:color>
+      </node>
+      <node id="探偵業の業務の適正化に関する法律" label="探偵業の業務の適正化に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1345.2916" y="1181.0579"></viz:position>
+        <viz:color r="64" g="150" b="167"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う防衛庁関係法律の適用の特別措置等に関する法律　抄" label="沖縄の復帰に伴う防衛庁関係法律の適用の特別措置等に関する法律　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1341.5402" y="552.81726"></viz:position>
+        <viz:color r="81" g="64" b="167"></viz:color>
+      </node>
+      <node id="特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法" label="特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法">
+        <attvalues>
+          <attvalue for="Modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-852.5151" y="-4138.8755"></viz:position>
+        <viz:color r="64" g="167" b="81"></viz:color>
+      </node>
+      <node id="個人情報の保護に関する法律" label="個人情報の保護に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="17.0"></viz:size>
+        <viz:position x="1233.9535" y="1134.8812"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="国会法" label="国会法">
+        <attvalues>
+          <attvalue for="Modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="737.64905" y="-24.774012"></viz:position>
+        <viz:color r="98" g="167" b="64"></viz:color>
+      </node>
+      <node id="皇室経済法施行法" label="皇室経済法施行法">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="685.1348" y="774.81323"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う土地等の使用等に関する特別措置法" label="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う土地等の使用等に関する特別措置法">
+        <attvalues>
+          <attvalue for="Modularity" value="土地"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1097.2137" y="1287.4633"></viz:position>
+        <viz:color r="64" g="167" b="167"></viz:color>
+      </node>
+      <node id="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律施行令" label="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1042.3702" y="1262.9756"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="日本国憲法" label="日本国憲法">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="768.93976" y="118.34141"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律施行令" label="中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="社会福祉"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1067.6115" y="1296.8097"></viz:position>
+        <viz:color r="167" g="64" b="116"></viz:color>
+      </node>
+      <node id="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律施行規則" label="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="895.69586" y="1181.3218"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="地方公務員等共済組合法の長期給付等に関する施行法　抄" label="地方公務員等共済組合法の長期給付等に関する施行法　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1304.6672" y="586.1862"></viz:position>
+        <viz:color r="64" g="167" b="150"></viz:color>
+      </node>
+      <node id="皇統譜令" label="皇統譜令">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="603.21027" y="449.29178"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="国土交通省設置法" label="国土交通省設置法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1026.7656" y="1844.9054"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="臓器の移植に関する法律附則第十一条第一項の法律を定める政令" label="臓器の移植に関する法律附則第十一条第一項の法律を定める政令">
+        <attvalues>
+          <attvalue for="Modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="1133.8461" y="873.5604"></viz:position>
+        <viz:color r="64" g="167" b="81"></viz:color>
+      </node>
+      <node id="特定大臣許可漁業等の取締りに関する省令" label="特定大臣許可漁業等の取締りに関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3794.9917" y="-945.40906"></viz:position>
+        <viz:color r="64" g="133" b="167"></viz:color>
+      </node>
+      <node id="人権擁護委員法" label="人権擁護委員法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="787.2511" y="-21.634941"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="国際連合の軍隊に関する民事特別法の適用に関する法律" label="国際連合の軍隊に関する民事特別法の適用に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="-4030.5496" y="1452.2191"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う防衛庁関係法令の適用の特別措置に関する政令" label="沖縄の復帰に伴う防衛庁関係法令の適用の特別措置に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1334.3593" y="596.54"></viz:position>
+        <viz:color r="81" g="64" b="167"></viz:color>
+      </node>
+      <node id="宇宙基本法" label="宇宙基本法">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="737.85876" y="-72.10073"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う文部省関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う文部省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="教育"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1298.3547" y="671.7696"></viz:position>
+        <viz:color r="167" g="167" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う外務省関係法令の適用の経過措置に関する政令　抄" label="沖縄の復帰に伴う外務省関係法令の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="Modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1308.4429" y="441.773"></viz:position>
+        <viz:color r="64" g="167" b="133"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令" label="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1155.7234" y="645.4836"></viz:position>
+        <viz:color r="150" g="64" b="167"></viz:color>
+      </node>
+      <node id="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" label="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="1057.9025" y="1176.254"></viz:position>
+        <viz:color r="64" g="64" b="167"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う運輸省関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う運輸省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="陸運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1181.9342" y="616.16583"></viz:position>
+        <viz:color r="98" g="64" b="167"></viz:color>
+      </node>
+      <node id="領海等における外国船舶の航行に関する法律" label="領海等における外国船舶の航行に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="海運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3766.4658" y="-760.24976"></viz:position>
+        <viz:color r="116" g="64" b="167"></viz:color>
+      </node>
+      <node id="銃砲刀剣類所持等取締法施行令" label="銃砲刀剣類所持等取締法施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="819.25665" y="-261.21585"></viz:position>
+        <viz:color r="64" g="150" b="167"></viz:color>
+      </node>
+      <node id="ハンセン病療養所入所者等に対する補償金の支給等に関する法律" label="ハンセン病療養所入所者等に対する補償金の支給等に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-845.86194" y="-4106.0513"></viz:position>
+        <viz:color r="64" g="167" b="81"></viz:color>
+      </node>
+      <node id="関税法施行令" label="関税法施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1243.9149" y="449.89703"></viz:position>
+        <viz:color r="150" g="64" b="167"></viz:color>
+      </node>
+      <node id="貸金業法施行規則" label="貸金業法施行規則">
+        <attvalues>
+          <attvalue for="Modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1273.4766" y="1214.888"></viz:position>
+        <viz:color r="167" g="150" b="64"></viz:color>
+      </node>
+      <node id="教育職員免許法" label="教育職員免許法">
+        <attvalues>
+          <attvalue for="Modularity" value="教育"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="822.11694" y="122.27066"></viz:position>
+        <viz:color r="167" g="167" b="64"></viz:color>
+      </node>
+      <node id="厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例年金給付等に関する政令" label="厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例年金給付等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1281.5273" y="425.28085"></viz:position>
+        <viz:color r="167" g="64" b="150"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う地方税法等の適用の特別措置等に関する省令" label="沖縄の復帰に伴う地方税法等の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="Modularity" value="地方財政"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1245.7712" y="418.50208"></viz:position>
+        <viz:color r="167" g="64" b="81"></viz:color>
+      </node>
+      <node id="無差別大量殺人行為を行った団体の規制に関する法律" label="無差別大量殺人行為を行った団体の規制に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="刑事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="682.4173" y="67.93549"></viz:position>
+        <viz:color r="64" g="167" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う建設省関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う建設省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="土地"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="1377.5315" y="583.7288"></viz:position>
+        <viz:color r="64" g="167" b="167"></viz:color>
+      </node>
+      <node id="沖縄弁護士に関する政令" label="沖縄弁護士に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1097.4174" y="554.28595"></viz:position>
+        <viz:color r="150" g="167" b="64"></viz:color>
+      </node>
+      <node id="武力攻撃事態等における我が国の平和と独立並びに国及び国民の安全の確保に関する法律" label="武力攻撃事態等における我が国の平和と独立並びに国及び国民の安全の確保に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="693.682" y="33.7308"></viz:position>
+        <viz:color r="64" g="167" b="133"></viz:color>
+      </node>
+      <node id="人身保護法" label="人身保護法">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="601.0211" y="67.45008"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う警察庁関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う警察庁関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1267.6636" y="611.224"></viz:position>
+        <viz:color r="64" g="150" b="167"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" label="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="19.0"></viz:size>
+        <viz:position x="520.2204" y="-200.13467"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="国民の祝日に関する法律" label="国民の祝日に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="文化"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="843.81805" y="40.105904"></viz:position>
+        <viz:color r="167" g="116" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1318.9474" y="654.4505"></viz:position>
+        <viz:color r="116" g="167" b="64"></viz:color>
+      </node>
+      <node id="国家公務員退職手当法施行令" label="国家公務員退職手当法施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="678.8929" y="103.35429"></viz:position>
+        <viz:color r="167" g="64" b="98"></viz:color>
+      </node>
+      <node id="海洋生物資源の保存及び管理に関する法律" label="海洋生物資源の保存及び管理に関する法律">
+        <attvalues>
+          <attvalue for="Modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3966.967" y="-948.13214"></viz:position>
+        <viz:color r="64" g="133" b="167"></viz:color>
+      </node>
+      <node id="水産加工業施設改良資金融通臨時措置法" label="水産加工業施設改良資金融通臨時措置法">
+        <attvalues>
+          <attvalue for="Modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3940.4014" y="-971.62756"></viz:position>
+        <viz:color r="167" g="150" b="64"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う通貨及び債権等の措置に関する政令" label="奄美群島の復帰に伴う通貨及び債権等の措置に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="497.13766" y="-298.4711"></viz:position>
+        <viz:color r="116" g="167" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う経済企画庁関係法令の適用の特別措置に関する政令" label="沖縄の復帰に伴う経済企画庁関係法令の適用の特別措置に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="国土開発"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1133.1774" y="488.0707"></viz:position>
+        <viz:color r="64" g="81" b="167"></viz:color>
+      </node>
+      <node id="住民基本台帳法" label="住民基本台帳法">
+        <attvalues>
+          <attvalue for="Modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="897.80597" y="-243.88536"></viz:position>
+        <viz:color r="133" g="167" b="64"></viz:color>
+      </node>
+      <node id="奄美群島の復帰に伴う国税関係法令の適用の暫定措置等に関する政令" label="奄美群島の復帰に伴う国税関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="467.12006" y="-328.50052"></viz:position>
+        <viz:color r="150" g="64" b="167"></viz:color>
+      </node>
+      <node id="電波法" label="電波法">
+        <attvalues>
+          <attvalue for="Modularity" value="電気通信"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="728.7235" y="8.222562"></viz:position>
+        <viz:color r="167" g="64" b="167"></viz:color>
+      </node>
+      <node id="昭和二十二年政令第十四号" label="昭和二十二年政令第十四号">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="647.5531" y="48.376408"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+      <node id="中央省庁等改革基本法" label="中央省庁等改革基本法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="684.2744" y="166.57542"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="沖縄の復帰に伴う法務省関係法令の適用の特別措置等に関する政令" label="沖縄の復帰に伴う法務省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="Modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="1402.1046" y="498.22684"></viz:position>
+        <viz:color r="150" g="167" b="64"></viz:color>
+      </node>
+      <node id="水産基本法" label="水産基本法">
+        <attvalues>
+          <attvalue for="Modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3809.6458" y="-985.1032"></viz:position>
+        <viz:color r="64" g="133" b="167"></viz:color>
+      </node>
+      <node id="独立行政法人日本スポーツ振興センター法" label="独立行政法人日本スポーツ振興センター法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-715.1159" y="-4100.905"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="独立行政法人宇宙航空研究開発機構法" label="独立行政法人宇宙航空研究開発機構法">
+        <attvalues>
+          <attvalue for="Modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="720.31616" y="-196.89507"></viz:position>
+        <viz:color r="167" g="64" b="64"></viz:color>
+      </node>
+      <node id="日本国憲法の改正手続に関する法律施行令" label="日本国憲法の改正手続に関する法律施行令">
+        <attvalues>
+          <attvalue for="Modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="9.0"></viz:size>
+        <viz:position x="848.412" y="-266.43768"></viz:position>
+        <viz:color r="167" g="81" b="64"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う民事特別法" target="合衆国軍隊等の行為等による被害者等に対する賠償金の支給等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う民事特別法" target="国際連合の軍隊に関する民事特別法の適用に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室典範" target="昭和二十二年法律第百十一号">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室典範" target="皇室経済法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室典範" target="行政手続法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室典範" target="国事行為の臨時代行に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室典範" target="日本国憲法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室典範" target="皇統譜令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="国家公務員制度改革基本法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="特定フィブリノゲン製剤及び特定血液凝固第ＩＸ因子製剤によるＣ型肝炎感染被害者を救済するための給付金の支給に関する特別措置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="警察官の職務に協力援助した者の災害給付に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="刑事補償法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="地方公務員災害補償法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="武力攻撃事態における外国軍用品等の海上輸送の規制に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="競争の導入による公共サービスの改革に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="公立学校の学校医、学校歯科医及び学校薬剤師の公務災害補償に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="建築基準法に基づく指定資格検定機関等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="国家公務員災害補償法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="独立行政法人日本スポーツ振興センター法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="ハンセン病療養所入所者等に対する補償金の支給等に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国家賠償法" target="独立行政法人日本スポーツ振興センター法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="勲章褫奪令" target="勲章褫奪令施行細則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国籍法" target="戸籍法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国籍法" target="国籍法施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="海洋汚染等及び海上災害の防止に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="鉱害賠償供託金配当令施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="鉱業法施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="海洋基本法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="国土形成計画法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="鉱業登録令施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="海洋構築物等に係る安全水域の設定等に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="船舶油濁損害賠償保障法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="海洋汚染等及び海上災害の防止に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="海洋汚染等及び海上災害の防止に関する法律の規定に基づく船舶の設備等に関する技術上の基準等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="特定大臣許可漁業等の取締りに関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="海洋生物資源の保存及び管理に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="水産加工業施設改良資金融通臨時措置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="排他的経済水域及び大陸棚に関する法律" target="水産基本法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="内閣府所管旅費取扱規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う文部省関係省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う地方税法の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う科学技術庁関係法令の適用の経過措置に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う環境庁関係法令の適用の特別措置に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="人事院規則一―九">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う公務員等共済組合等の権利義務の承継等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄振興特別措置法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う移行農林共済年金等に関する経過措置に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う労働省関係法令の適用の特別措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う国家公務員等の懲戒免除に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う農林水産省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う厚生省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う国家公務員退職手当法の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う労働省令等の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う郵政省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="国民年金法等に基づく保険料の納付手続の特例に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="国家公務員共済組合法の長期給付に関する施行法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="財務省組織規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う地方税関係以外の自治省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う厚生省関係の特例に関する省令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う農林水産省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う通商産業省関係法令の適用の特別措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="国家公務員共済組合法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄県の区域における労働安全衛生法及びこれに基づく命令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う建設省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う漁船特殊規則及び漁船特殊規程の適用の特別措置に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う総務庁関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う琉球政府の権利義務の承継等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う運輸省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う郵政省関係法令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う防衛庁関係法律の適用の特別措置等に関する法律　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="地方公務員等共済組合法の長期給付等に関する施行法　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="臓器の移植に関する法律附則第十一条第一項の法律を定める政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う防衛庁関係法令の適用の特別措置に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う文部省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う外務省関係法令の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う運輸省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="関税法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例年金給付等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う地方税法等の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う建設省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄弁護士に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う警察庁関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う経済企画庁関係法令の適用の特別措置に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う特別措置に関する法律" target="沖縄の復帰に伴う法務省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="領海及び接続水域に関する法律" target="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="領海及び接続水域に関する法律" target="鉱害賠償供託金配当令施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="領海及び接続水域に関する法律" target="石油の備蓄の確保等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="領海及び接続水域に関する法律" target="鉱業法施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="領海及び接続水域に関する法律" target="排他的経済水域及び大陸棚に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="領海及び接続水域に関する法律" target="領海及び接続水域に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="領海及び接続水域に関する法律" target="鉱業登録令施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="領海及び接続水域に関する法律" target="海洋汚染等及び海上災害の防止に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="領海及び接続水域に関する法律" target="領海等における外国船舶の航行に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="遺言の方式の準拠法に関する法律" target="沖縄の復帰に伴う法務省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="男女共同参画社会基本法" target="内閣府本府組織規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="男女共同参画社会基本法" target="内閣府設置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="男女共同参画社会基本法" target="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="男女共同参画社会基本法" target="内閣府本府組織令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室経済法" target="相続税法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室経済法" target="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室経済法" target="所得税法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室経済法" target="地方税法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="皇室経済法" target="皇室経済法施行法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="犯罪被害者等基本法" target="内閣府設置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="犯罪被害者等基本法" target="国土交通省組織令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="犯罪被害者等基本法" target="海上保安庁組織規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="犯罪被害者等基本法" target="内閣府本府組織令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="小笠原諸島における土地に関する権利の調整等に関する政令の施行に伴う特別賃借権に係る公告による申出の掲載事項及び特別賃借権の譲渡の許可等の申請書の記載事項を定める省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="小笠原諸島振興開発特別措置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="小笠原諸島の復帰に伴う村の設置及び現地における行政機関の設置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="小笠原諸島の復帰に伴う大蔵省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="小笠原諸島の復帰に伴う労働省関係法律の適用の特例に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="小笠原諸島の復帰に伴う運輸省関係法律の適用の暫定措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="小笠原諸島の復帰に伴う防衛庁関係法令の適用の暫定措置に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="小笠原諸島の復帰に伴う厚生省関係法令の適用の暫定措置に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="小笠原諸島の復帰に伴う自治省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律" target="国土交通省設置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律" target="防衛省組織令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律" target="防衛省設置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律" target="地方防衛局組織規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律" target="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律" target="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律" target="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="ポツダム宣言の受諾に伴い発する命令に関する件の廃止に関する法律" target="鹿児島県大島郡十島村の区域に関する法令の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="位階令" target="位階令施行細則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う関係法令の改廃に関する法律　抄" target="沖縄の復帰に伴う国家公務員退職手当法の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う関係法令の改廃に関する法律　抄" target="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="沖縄の復帰に伴う関係法令の改廃に関する法律　抄" target="沖縄の復帰に伴う建設省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法の改正手続に関する法律　抄" target="日本国憲法の改正手続に関する法律施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法の改正手続に関する法律　抄" target="総務省設置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法の改正手続に関する法律　抄" target="銃砲刀剣類所持等取締法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法の改正手続に関する法律　抄" target="住民基本台帳法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法の改正手続に関する法律　抄" target="日本国憲法の改正手続に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律施行令" target="登録免許税法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="割賦販売法施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="割賦販売法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="消費者庁組織令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="登録免許税法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="貸金業法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="消費者庁及び消費者委員会設置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="個人情報の保護に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="探偵業の業務の適正化に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="個人情報の保護に関する法律" target="貸金業法施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="地方公務員法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="宮内庁法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="国会議員の選挙等の執行経費の基準に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="昭和二十二年法律第七十二号">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="自衛隊法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="武力攻撃事態等における国民の保護のための措置に関する法律　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="裁判所法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="内閣府設置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="警察法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="裁判官分限法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="出入国管理及び難民認定法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="裁判所法施行法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="刑事訴訟法施行法　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="人事院規則二―〇">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="会計検査院法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="総務省組織令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="国籍法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="破壊活動防止法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="自衛隊法施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="沖縄の復帰に伴う特別措置に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="公職選挙法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="教育職員免許法施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="外務省組織令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="警察職員の服務の宣誓に関する規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="地方制度調査会設置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="内閣法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="保護司法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="学校教育法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="刑事訴訟法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="警察法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="総務省設置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="警察法施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="国民年金法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="国事行為の臨時代行に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="雇用の分野における男女の均等な機会及び待遇の確保等に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="日本国憲法の改正手続に関する法律　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="生活保護法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="国家公務員法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="子ども・若者育成支援推進法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="国会法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="人権擁護委員法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="宇宙基本法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="教育職員免許法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="無差別大量殺人行為を行った団体の規制に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="武力攻撃事態等における我が国の平和と独立並びに国及び国民の安全の確保に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="人身保護法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="国民の祝日に関する法律">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="国家公務員退職手当法施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="電波法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="昭和二十二年政令第十四号">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法" target="中央省庁等改革基本法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="国際連合の軍隊に関する民事特別法の適用に関する法律" target="日本国内にある国際連合の軍隊により損害を受けた者に対する補償金並びに見舞金の支給等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="宇宙基本法" target="独立行政法人宇宙航空研究開発機構法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="石綿による健康被害の救済に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="環境省関係石綿による健康被害の救済に関する法律施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="防衛施設中央審議会令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="防衛省組織令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="地方防衛局組織規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="小笠原諸島の復帰に伴う防衛庁関係法令の適用の暫定措置に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う土地等の使用等に関する特別措置法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律施行令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="連合国占領軍等の行為等による被害者等に対する給付金の支給に関する法律" target="臓器の移植に関する法律附則第十一条第一項の法律を定める政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="人身保護法" target="戸籍法">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う労働省関係法令の適用の暫定措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う建設省関係法律の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う通商産業省関係の法律の適用の暫定措置等に関する政令の施行に伴う鉱業権の設定の出願の手続等に関する省令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う琉球政府の職員の引継の暫定措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う厚生省関係法律の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う農林省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う自治省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う法務省関係法令の適用の経過措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島における自動車抵当法及び道路交通事業抵当法の施行に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う通貨及び債権等の措置に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律" target="奄美群島の復帰に伴う国税関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="日本国憲法の改正手続に関する法律施行令" target="日本国憲法の改正手続に関する法律施行規則">
+        <attvalues>
+          <attvalue for="weight" value="1.0"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

@@ -26,3 +26,5 @@ class MongoOp(object):
             dbm=getattr(self.db,db)
             ##self.db[db].save(a)
             dbm.save(a)
+    def groupby_cat(self,col,tdict):
+        return self.db[col].group(tdict,None,{},'function(obj,prev){}')
