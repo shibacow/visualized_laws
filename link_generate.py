@@ -105,9 +105,9 @@ def main():
     mp=mog_op.MongoOp('localhost')
     lc=LinkCheck(mp)
     catlist=lc.groupby_cat()
-    for c in catlist:
-        lc.cat_collect(c)
-    #lc.act_collect()
+    #for c in catlist:
+    #    lc.cat_collect(c)
+    lc.act_collect()
     #lc.title_regrex_collect(u"日本国憲法[^の]")
     
 if __name__=='__main__':main()
