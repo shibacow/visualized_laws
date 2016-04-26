@@ -27,13 +27,13 @@ function init() {
     //sigInst.parseGexf('/static/keiji.gexf');
     //sigInst.parseGexf('/static/arctic.gexf');
     var sigInsts = new Array();
-    sigInsts.push(genSig('/static/法令.gexf','sigma-example01'));
     sigInsts.push(genSig('/static/刑事.gexf','sigma-example02'));
     sigInsts.push(genSig('/static/民事.gexf','sigma-example03'));
     sigInsts.push(genSig('/static/憲法.gexf','sigma-example04'));
     sigInsts.push(genSig('/static/教育.gexf','sigma-example05'));
     sigInsts.push(genSig('/static/地方自治.gexf','sigma-example06'));
     sigInsts.push(genSig('/static/財務通則.gexf','sigma-example07'));
+    sigInsts.push(genSig('/static/法律.gexf','sigma-example08'));
 
     sigInsts.forEach(function(v){
 	v.draw();
