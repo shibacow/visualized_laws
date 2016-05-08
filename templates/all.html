@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style type="text/css">
+    p  {color: red}
+    h2 {color: blue; font-size: 120%}
+    .sigma-example-parent {height: 600px;background-color:#111111;width:700px;}
+    .sigma-example {height: 599px;
+    width:699px;
+    background-color:#FCFCFC;
+    border: medium solid #0F0F0F;
+    }
+    img.sample{height:40%;}
+  </style>
+  <script src="static/js/sigma.js"></script>
+  <script src="static/js/plugins/sigma.parsers.gexf.min.js"></script>
+  <script src="static/js/plugins/sigma.renderers.edgeLabels.min.js"></script>
+  <script src="static/js/plugins/sigma.renderers.parallelEdges.min.js"></script>
+
+  <script src="static/js/load.js"></script>
+</head>
+<body>
+
+{% for df in gexfs %}
+   <div >
+   <h2>{{df.cat}}</h2>
+   <div id="sigma-container-{{df.cat}}" class="sigma-example"></div>
+<script>
+    gexfload("{{df.gexfpath}}","{{df.cat}}");
+</script>
+    </div>
+{% endfor %}
+
+</body>
+</html>

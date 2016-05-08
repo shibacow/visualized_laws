@@ -1,0 +1,1851 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-05-08">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" idtype="integer" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity" title="Modularity" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="2024" label="民間事業者による信書の送達に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="郵務"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="250.58087" y="239.67795"></viz:position>
+        <viz:color r="201" g="71" b="120"></viz:color>
+      </node>
+      <node id="2025" label="電子公告に関する登記事項を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3.1781666" y="352.37036"></viz:position>
+        <viz:color r="201" g="96" b="71"></viz:color>
+      </node>
+      <node id="2026" label="独立行政法人石油天然ガス・金属鉱物資源機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-374.28876" y="-348.53336"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2027" label="日本環境安全事業株式会社法">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-502.01724" y="-302.00595"></viz:position>
+        <viz:color r="87" g="201" b="71"></viz:color>
+      </node>
+      <node id="2028" label="国際復興開発銀行等からの外資の受入に関する特別措置に関する法律に基づき政府が保証契約をすることができる法人を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-424.19247" y="-348.97702"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2029" label="使用済自動車の再資源化等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="221.74374" y="300.33868"></viz:position>
+        <viz:color r="201" g="71" b="193"></viz:color>
+      </node>
+      <node id="2030" label="化学兵器の禁止及び特定物質の規制等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="339.62262" y="108.559944"></viz:position>
+        <viz:color r="201" g="71" b="193"></viz:color>
+      </node>
+      <node id="2031" label="船舶運航事業者等の提出する定期報告書に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="海運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="635.5733" y="74.74985"></viz:position>
+        <viz:color r="112" g="201" b="71"></viz:color>
+      </node>
+      <node id="2032" label="外国為替及び外国貿易法における附属の島に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="211.17285" y="149.67412"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2033" label="貿易保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="29.041622" y="138.92665"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2034" label="輸入貿易管理規則">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="11.433962"></viz:size>
+        <viz:position x="590.94165" y="375.05267"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2035" label="外国人漁業の規制に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="649.1313" y="422.36984"></viz:position>
+        <viz:color r="201" g="169" b="71"></viz:color>
+      </node>
+      <node id="2036" label="主要食糧の需給及び価格の安定に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="633.29553" y="208.52486"></viz:position>
+        <viz:color r="71" g="201" b="201"></viz:color>
+      </node>
+      <node id="2037" label="特定融資枠契約に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="245.90489" y="110.72195"></viz:position>
+        <viz:color r="71" g="79" b="201"></viz:color>
+      </node>
+      <node id="2038" label="電子情報処理組織による輸出入等関連業務の処理等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="9.471698"></viz:size>
+        <viz:position x="490.0486" y="288.85074"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2039" label="企業内容等の開示に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="390.22403" y="200.95944"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2040" label="拉致問題その他北朝鮮当局による人権侵害問題への対処に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="388.9062" y="145.0459"></viz:position>
+        <viz:color r="71" g="201" b="79"></viz:color>
+      </node>
+      <node id="2041" label="国際復興開発銀行等からの外資の受入に関する特別措置に関する法律に規定する外国政府金融機関を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-522.928" y="-350.0051"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2042" label="中小企業による地域産業資源を活用した事業活動の促進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-111.09752" y="44.531178"></viz:position>
+        <viz:color r="201" g="96" b="71"></viz:color>
+      </node>
+      <node id="2043" label="民間都市開発の推進に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-450.82233" y="-365.76733"></viz:position>
+        <viz:color r="161" g="201" b="71"></viz:color>
+      </node>
+      <node id="2044" label="金融商品取引法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="380.5129" y="73.59743"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2045" label="中央省庁等改革のための財務省関係大蔵省令の整備等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.9811325"></viz:size>
+        <viz:position x="607.0988" y="133.73428"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2046" label="国際復興開発銀行等からの外資の受入に関する特別措置に関する法律に基づき政府が保証契約をすることができる地方債証券を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-526.14734" y="-302.2044"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2047" label="独立行政法人日本貿易保険の業務運営に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-159.04385" y="62.450092"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2048" label="独立行政法人中小企業基盤整備機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-463.12384" y="-261.6037"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2049" label="金融商品取引業等に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="256.9116" y="350.14972"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2050" label="独立行政法人国際協力機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-429.95193" y="-391.6916"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2051" label="特定有価証券の内容等の開示に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="400.75394" y="71.710014"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2052" label="経済連携協定に基づく特定原産地証明書の発給等に関する法律に基づく指定発給機関に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="-328.5957" y="667.2842"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2053" label="輸入貿易管理令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="13.396227"></viz:size>
+        <viz:position x="541.7271" y="348.00555"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2054" label="株式会社国際協力銀行法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-494.23578" y="-332.49518"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2055" label="警察法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="224.6718" y="250.88751"></viz:position>
+        <viz:color r="185" g="201" b="71"></viz:color>
+      </node>
+      <node id="2056" label="有価証券の取引等の規制に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="367.42004" y="166.54445"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2057" label="外国相互間の貨物の移動を伴う貨物の売買、貸借又は贈与に関する取引に係る貨物が核兵器等の開発等のために用いられるおそれがある場合を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="656.75244" y="249.36179"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2058" label="輸入の促進及び対内投資事業の円滑化に関する臨時措置法第十一条の地方公共団体の特例を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3946.6646" y="-978.4066"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2059" label="外国為替及び外国貿易法第六十八条第二項に規定する証票の様式を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="399.34564" y="110.30381"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2060" label="準備預金制度に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="311.9089" y="168.88571"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2061" label="金融商品取引所等に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="347.08755" y="373.31244"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2062" label="外国為替法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政手続"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="319.18683" y="350.9918"></viz:position>
+        <viz:color r="71" g="104" b="201"></viz:color>
+      </node>
+      <node id="2063" label="一般社団法人及び一般財団法人に関する法律等の施行に伴う経済産業省関係省令の整備に関する省令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="-216.57243" y="554.1287"></viz:position>
+        <viz:color r="71" g="79" b="201"></viz:color>
+      </node>
+      <node id="2064" label="保険業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="314.29086" y="98.56961"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2065" label="対内直接投資等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="9.471698"></viz:size>
+        <viz:position x="472.97003" y="197.6708"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2066" label="アジア開発銀行への加盟に伴う措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="262.08453" y="301.71982"></viz:position>
+        <viz:color r="71" g="201" b="152"></viz:color>
+      </node>
+      <node id="2067" label="関税暫定措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="631.6232" y="443.4168"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2068" label="輸入の促進及び対内投資事業の円滑化に関する臨時措置法第十一条の地方税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-3910.0515" y="-968.50244"></viz:position>
+        <viz:color r="71" g="177" b="201"></viz:color>
+      </node>
+      <node id="2069" label="日本道路公団等民営化関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="道路"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-401.28378" y="-431.98535"></viz:position>
+        <viz:color r="201" g="71" b="71"></viz:color>
+      </node>
+      <node id="2070" label="輸出入取引法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.9811325"></viz:size>
+        <viz:position x="-83.43968" y="418.85266"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2071" label="金融商品の販売等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="商業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-182.62668" y="204.54405"></viz:position>
+        <viz:color r="71" g="201" b="128"></viz:color>
+      </node>
+      <node id="2072" label="農林中央金庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-158.57327" y="227.77214"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2073" label="証券情報等の提供又は公表に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="344.2456" y="349.914"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2074" label="沖縄振興開発金融公庫法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-507.3914" y="-388.65256"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2075" label="国土交通省組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="415.3909" y="177.18523"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2076" label="経済連携協定に基づく特定原産地証明書の発給等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-485.33487" y="817.4634"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2077" label="沖縄総合事務局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="241.11522" y="336.42023"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2078" label="特定輸入承認の表示に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="705.0666" y="447.83148"></viz:position>
+        <viz:color r="201" g="169" b="71"></viz:color>
+      </node>
+      <node id="2079" label="協同組合による金融事業に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-202.74014" y="147.52481"></viz:position>
+        <viz:color r="201" g="96" b="71"></viz:color>
+      </node>
+      <node id="2080" label="信託業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="440.60413" y="161.82365"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2081" label="金融機関の信託業務の兼営等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="328.11633" y="303.85455"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2082" label="発行者以外の者による株券等の公開買付けの開示に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="386.66174" y="311.81708"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2083" label="犯罪による収益の移転防止に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="338.15543" y="53.559532"></viz:position>
+        <viz:color r="71" g="152" b="201"></viz:color>
+      </node>
+      <node id="2084" label="貿易関係貿易外取引等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="11.924528"></viz:size>
+        <viz:position x="502.62167" y="308.8905"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2085" label="対内直接投資等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.9811325"></viz:size>
+        <viz:position x="467.073" y="171.30276"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2086" label="租税特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="317.6541" y="373.53528"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2087" label="消費税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="457.64117" y="213.2837"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2088" label="国際金融公社への加盟に伴う措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="371.85336" y="118.52643"></viz:position>
+        <viz:color r="71" g="201" b="152"></viz:color>
+      </node>
+      <node id="2089" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="9.471698"></viz:size>
+        <viz:position x="-40.755398" y="15.33636"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2090" label="金融商品取引法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="307.3175" y="134.14177"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2091" label="独立行政法人都市再生機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-353.68295" y="-407.98813"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2092" label="特定製品に係るフロン類の回収及び破壊の実施の確保等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="301.36932" y="77.03005"></viz:position>
+        <viz:color r="136" g="71" b="201"></viz:color>
+      </node>
+      <node id="2093" label="投資信託及び投資法人に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="228.122" y="173.13109"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2094" label="公益通報者保護法別表第八号の法律を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="161.54602" y="239.23996"></viz:position>
+        <viz:color r="87" g="71" b="201"></viz:color>
+      </node>
+      <node id="2095" label="商品先物取引法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="商業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="352.7744" y="82.30957"></viz:position>
+        <viz:color r="71" g="201" b="128"></viz:color>
+      </node>
+      <node id="2096" label="電子情報処理組織による輸出入等関連業務の処理等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="295.21964" y="365.74823"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2097" label="外国為替に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="11.924528"></viz:size>
+        <viz:position x="518.1026" y="192.97777"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2098" label="輸出貨物が核兵器等の開発等のために用いられるおそれがある場合を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.9811325"></viz:size>
+        <viz:position x="702.9607" y="264.8289"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2099" label="沖縄の復帰に伴う特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="255.3376" y="208.78717"></viz:position>
+        <viz:color r="71" g="201" b="79"></viz:color>
+      </node>
+      <node id="2100" label="特定家庭用機器再商品化法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="345.5291" y="324.98126"></viz:position>
+        <viz:color r="201" g="71" b="193"></viz:color>
+      </node>
+      <node id="2101" label="財務省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="411.33585" y="219.64404"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2102" label="銀行法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-123.83351" y="194.91624"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2103" label="独立行政法人日本学生支援機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-487.00925" y="-360.79797"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2104" label="特定多国籍企業による研究開発事業等の促進に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="275.51797" y="74.450325"></viz:position>
+        <viz:color r="201" g="96" b="71"></viz:color>
+      </node>
+      <node id="2105" label="輸出貨物が輸出貿易管理令別表第一の一の項の中欄に掲げる貨物">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="714.2291" y="304.49445"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2106" label="中小企業者と農林漁業者との連携による事業活動の促進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-185.36012" y="95.18244"></viz:position>
+        <viz:color r="201" g="96" b="71"></viz:color>
+      </node>
+      <node id="2107" label="独立行政法人鉄道建設・運輸施設整備支援機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-421.63278" y="-434.65118"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2108" label="クラスター弾等の製造の禁止及び所持の規制等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="381.80377" y="284.28613"></viz:position>
+        <viz:color r="201" g="71" b="193"></viz:color>
+      </node>
+      <node id="2109" label="貿易保険法">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="19.773586"></viz:size>
+        <viz:position x="-67.757" y="143.42128"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2110" label="国土交通省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="288.1089" y="106.29415"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2111" label="預金保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="278.12338" y="356.44843"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2112" label="核原料物質、核燃料物質及び原子炉の規制に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="697.8771" y="353.88507"></viz:position>
+        <viz:color r="201" g="71" b="193"></viz:color>
+      </node>
+      <node id="2113" label="輸出貿易管理令別表第二及び別表第七の規定に基づき貨物を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="717.4153" y="329.0099"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2114" label="漁業協同組合等の信用事業等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-195.75494" y="119.79284"></viz:position>
+        <viz:color r="201" g="169" b="71"></viz:color>
+      </node>
+      <node id="2115" label="船主相互保険組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="432.19513" y="133.94106"></viz:position>
+        <viz:color r="112" g="201" b="71"></viz:color>
+      </node>
+      <node id="2116" label="財務省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="172.91383" y="278.38284"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2117" label="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う外国為替令等の臨時特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="11.433962"></viz:size>
+        <viz:position x="540.9927" y="233.8749"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2118" label="経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-182.0898" y="160.45009"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2119" label="文化財の不法な輸出入等の規制等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="文化"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="211.6718" y="191.74622"></viz:position>
+        <viz:color r="185" g="71" b="201"></viz:color>
+      </node>
+      <node id="2120" label="信託業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="402.9858" y="339.57574"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2121" label="絶滅のおそれのある野生動植物の種の保存に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="592.9271" y="467.72952"></viz:position>
+        <viz:color r="136" g="71" b="201"></viz:color>
+      </node>
+      <node id="2122" label="会社法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-31.718336" y="299.06168"></viz:position>
+        <viz:color r="71" g="79" b="201"></viz:color>
+      </node>
+      <node id="2123" label="金融庁組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="257.95572" y="279.3437"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2124" label="財務省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政手続"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="445.42184" y="250.95201"></viz:position>
+        <viz:color r="71" g="104" b="201"></viz:color>
+      </node>
+      <node id="2125" label="独立行政法人国立大学財務・経営センター法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-479.57358" y="-290.27823"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2126" label="特定物質の規制等によるオゾン層の保護に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="267.73495" y="128.81215"></viz:position>
+        <viz:color r="136" g="71" b="201"></viz:color>
+      </node>
+      <node id="2127" label="関税・外国為替等審議会令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="379.70923" y="243.52434"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2128" label="国際復興開発銀行等からの外資の受入に関する特別措置に関する法律に基づく債券の利子の非課税等に関する規定の適用を受けない者の範囲を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-386.19662" y="-370.48666"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2129" label="貿易保険法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-155.98863" y="175.28831"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2130" label="準備預金制度に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="364.89926" y="57.852665"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2131" label="沖縄の復帰に伴う通商産業省関係法令の適用の特別措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="633.78516" y="363.56357"></viz:position>
+        <viz:color r="136" g="201" b="71"></viz:color>
+      </node>
+      <node id="2132" label="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="298.67255" y="337.8659"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2133" label="まぐろ資源の保存及び管理の強化に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="224.39803" y="117.308754"></viz:position>
+        <viz:color r="201" g="169" b="71"></viz:color>
+      </node>
+      <node id="2134" label="労働安全衛生法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="611.86707" y="453.71518"></viz:position>
+        <viz:color r="87" g="71" b="201"></viz:color>
+      </node>
+      <node id="2135" label="確定給付企業年金法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="270.3128" y="324.84525"></viz:position>
+        <viz:color r="201" g="193" b="71"></viz:color>
+      </node>
+      <node id="2136" label="財務省組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="167.3436" y="261.9562"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2137" label="株式会社地域経済活性化支援機構法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-38.121193" y="326.88614"></viz:position>
+        <viz:color r="201" g="96" b="71"></viz:color>
+      </node>
+      <node id="2138" label="独立行政法人国立病院機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-491.51483" y="-251.1345"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2139" label="経済産業省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="175.21317" y="246.79663"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2140" label="経済産業省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-194.60258" y="181.9334"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2141" label="外国為替令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="16.830189"></viz:size>
+        <viz:position x="515.8878" y="248.5439"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2142" label="独立行政法人国際協力機構法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-336.28696" y="-363.04895"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2143" label="出納官吏事務規程">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="326.81912" y="259.1266"></viz:position>
+        <viz:color r="201" g="71" b="96"></viz:color>
+      </node>
+      <node id="2144" label="保険業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="157.67055" y="161.65663"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2145" label="独立行政法人住宅金融支援機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-455.45126" y="-407.63718"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2146" label="株式会社日本政策金融公庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-494.36472" y="-410.31955"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2147" label="国際復興開発銀行等からの外資の受入に関する特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="23.698112"></viz:size>
+        <viz:position x="-402.0094" y="-311.63763"></viz:position>
+        <viz:color r="71" g="177" b="201"></viz:color>
+      </node>
+      <node id="2148" label="高度専門医療に関する研究等を行う独立行政法人に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-512.94916" y="-272.74753"></viz:position>
+        <viz:color r="87" g="201" b="71"></viz:color>
+      </node>
+      <node id="2149" label="消費税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="378.54443" y="96.41551"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2150" label="国際連合安全保障理事会決議第千八百七十四号等を踏まえ我が国が実施する貨物検査等に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="299.92007" y="313.61478"></viz:position>
+        <viz:color r="71" g="201" b="152"></viz:color>
+      </node>
+      <node id="2151" label="特定重要貨物等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.9811325"></viz:size>
+        <viz:position x="484.51715" y="256.2736"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2152" label="警察庁組織令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="300.80804" y="57.6696"></viz:position>
+        <viz:color r="185" g="201" b="71"></viz:color>
+      </node>
+      <node id="2153" label="容器包装に係る分別収集及び再商品化の促進等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="278.1379" y="255.08218"></viz:position>
+        <viz:color r="87" g="201" b="71"></viz:color>
+      </node>
+      <node id="2154" label="仮に陸揚げした貨物が核兵器等の開発等のために用いられるおそれがある場合を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="719.09735" y="281.18463"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2155" label="郵政民営化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="郵務"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-132.16032" y="113.556854"></viz:position>
+        <viz:color r="201" g="71" b="120"></viz:color>
+      </node>
+      <node id="2156" label="輸出入取引法第二条第四号の規定に基づく政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="13.6416445" y="367.47235"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2157" label="株式会社日本政策金融公庫法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-438.25452" y="-245.25533"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2158" label="通関業法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="264.0451" y="179.28384"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2159" label="金融商品取引法第二条に規定する定義に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="423.49185" y="100.80245"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2160" label="特別会計に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="114.41344" y="172.86667"></viz:position>
+        <viz:color r="201" g="71" b="96"></viz:color>
+      </node>
+      <node id="2161" label="租税特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="447.91287" y="231.02798"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2162" label="財政融資資金の管理及び運用の手続に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="222.2722" y="220.91373"></viz:position>
+        <viz:color r="201" g="71" b="96"></viz:color>
+      </node>
+      <node id="2163" label="輸出貿易管理令別表第一及び外国為替令別表の規定に基づき貨物又は技術を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="629.6841" y="273.782"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2164" label="独立行政法人日本高速道路保有・債務返済機構法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-404.94858" y="-399.35858"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2165" label="発行者による上場株券等の公開買付けの開示に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="273.43283" y="152.95822"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2166" label="国際復興開発銀行等からの外資の受入に関する特別措置に関する法律に規定する主務大臣を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-530.11035" y="-328.5865"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2167" label="サリン等による人身被害の防止に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="384.24026" y="353.4059"></viz:position>
+        <viz:color r="185" g="201" b="71"></viz:color>
+      </node>
+      <node id="2168" label="地方税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-13.109921" y="330.13202"></viz:position>
+        <viz:color r="71" g="128" b="201"></viz:color>
+      </node>
+      <node id="2169" label="海上保安庁組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="268.33133" y="99.05103"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2170" label="輸出者等遵守基準を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.9811325"></viz:size>
+        <viz:position x="489.23193" y="239.36234"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2171" label="開示用電子情報処理組織による手続の特例等に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="329.25858" y="75.07304"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2172" label="信用金庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-132.04257" y="150.6423"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2173" label="金融機関の信託業務の兼営等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-163.68103" y="138.85423"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2174" label="国際通貨基金及び国際復興開発銀行への加盟に伴う措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="408.75537" y="263.87555"></viz:position>
+        <viz:color r="71" g="201" b="152"></viz:color>
+      </node>
+      <node id="2175" label="中部国際空港の設置及び管理に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="航空"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-462.9859" y="-328.32065"></viz:position>
+        <viz:color r="71" g="201" b="104"></viz:color>
+      </node>
+      <node id="2176" label="電子情報処理組織による輸出入等関連業務の処理等に関する法律施行令第一条第五項第一号の申請等又は処分通知等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="435.66205" y="310.80844"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2177" label="日本国有鉄道改革法等施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-470.90518" y="-427.1134"></viz:position>
+        <viz:color r="201" g="144" b="71"></viz:color>
+      </node>
+      <node id="2178" label="特定国際種事業に係る届出等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="450.93512" y="330.2539"></viz:position>
+        <viz:color r="136" g="71" b="201"></viz:color>
+      </node>
+      <node id="2179" label="関西国際空港及び大阪国際空港の一体的かつ効率的な設置及び管理に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="航空"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-443.40228" y="-312.92795"></viz:position>
+        <viz:color r="71" g="201" b="104"></viz:color>
+      </node>
+      <node id="2180" label="経済産業省組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="166.33911" y="221.95018"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2181" label="特定有害廃棄物等の輸出入等の規制に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="251.10211" y="86.73882"></viz:position>
+        <viz:color r="87" g="201" b="71"></viz:color>
+      </node>
+      <node id="2182" label="輸出入取引法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="-35.158367" y="369.99808"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2183" label="軍票による支払等の許可の申請手続に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="9.471698"></viz:size>
+        <viz:position x="601.66595" y="175.96333"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2184" label="独立行政法人農畜産業振興機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-517.7391" y="-370.36966"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2185" label="国際開発協会への加盟に伴う措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="372.80164" y="332.73593"></viz:position>
+        <viz:color r="71" g="201" b="152"></viz:color>
+      </node>
+      <node id="2186" label="独立行政法人日本高速道路保有・債務返済機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-475.32007" y="-388.8782"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2187" label="関税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.9811325"></viz:size>
+        <viz:position x="480.34332" y="271.15747"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2188" label="労働金庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-92.63391" y="64.725685"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2189" label="放射性同位元素等による放射線障害の防止に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="695.03564" y="325.23834"></viz:position>
+        <viz:color r="201" g="71" b="193"></viz:color>
+      </node>
+      <node id="2190" label="日本国における国際連合の軍隊の地位に関する協定の実施に伴う外国為替令等の臨時特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="10.45283"></viz:size>
+        <viz:position x="536.28827" y="200.236"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2191" label="株式会社商工組合中央金庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-156.114" y="202.60611"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2192" label="経済連携協定に基づく特定原産地証明書の発給等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="-420.00046" y="756.263"></viz:position>
+        <viz:color r="71" g="177" b="201"></viz:color>
+      </node>
+      <node id="2193" label="武力紛争の際の文化財の保護に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="文化"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="455.6608" y="134.29018"></viz:position>
+        <viz:color r="185" g="71" b="201"></viz:color>
+      </node>
+      <node id="2194" label="長期信用銀行法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-128.27553" y="227.65627"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2195" label="産業投資特別会計の貸付の財源に充てるための外貨債の発行に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国債"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="234.82967" y="142.01335"></viz:position>
+        <viz:color r="71" g="201" b="177"></viz:color>
+      </node>
+      <node id="2196" label="独立行政法人水資源機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-377.41663" y="-426.187"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2197" label="輸出貿易管理規則">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="10.45283"></viz:size>
+        <viz:position x="507.97098" y="322.85178"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2198" label="輸出入取引法">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="14.377358"></viz:size>
+        <viz:position x="64.21179" y="265.5236"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2199" label="対人地雷の製造の禁止及び所持の規制等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="344.12177" y="138.24203"></viz:position>
+        <viz:color r="201" g="71" b="193"></viz:color>
+      </node>
+      <node id="2200" label="外国為替及び外国貿易法における主務大臣を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="9.471698"></viz:size>
+        <viz:position x="450.61542" y="279.82455"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2201" label="沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="370.42773" y="368.25287"></viz:position>
+        <viz:color r="201" g="71" b="96"></viz:color>
+      </node>
+      <node id="2202" label="株券等の大量保有の状況の開示に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="222.27342" y="276.7282"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2203" label="絶滅のおそれのある野生動植物の種の保存に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="415.0258" y="147.56093"></viz:position>
+        <viz:color r="136" g="71" b="201"></viz:color>
+      </node>
+      <node id="2204" label="国家公務員退職手当法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-121.777664" y="81.33336"></viz:position>
+        <viz:color r="201" g="71" b="169"></viz:color>
+      </node>
+      <node id="2205" label="輸出貿易管理令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="17.320755"></viz:size>
+        <viz:position x="578.8632" y="287.71515"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2206" label="農水産業協同組合貯金保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="353.42926" y="293.31622"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2207" label="外国為替及び外国貿易法第五十六条の規定による意見の聴取の手続に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="414.4904" y="296.29047"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2208" label="独立行政法人日本貿易保険の財務及び会計に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-163.90349" y="82.0778"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2209" label="印紙税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="418.35776" y="82.31811"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2210" label="特定放射性廃棄物の最終処分に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="684.5401" y="472.6976"></viz:position>
+        <viz:color r="201" g="71" b="193"></viz:color>
+      </node>
+      <node id="2211" label="関税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="298.05707" y="285.38864"></viz:position>
+        <viz:color r="112" g="71" b="201"></viz:color>
+      </node>
+      <node id="2212" label="計量単位令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.490566"></viz:size>
+        <viz:position x="633.0678" y="185.19522"></viz:position>
+        <viz:color r="201" g="96" b="71"></viz:color>
+      </node>
+      <node id="2213" label="農業協同組合及び農業協同組合連合会の信用事業に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-162.25969" y="112.81141"></viz:position>
+        <viz:color r="71" g="201" b="201"></viz:color>
+      </node>
+      <node id="2214" label="独立行政法人福祉医療機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-443.56042" y="-429.9562"></viz:position>
+        <viz:color r="201" g="71" b="144"></viz:color>
+      </node>
+      <node id="2215" label="株式会社国際協力銀行法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-370.5355" y="-389.88312"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2216" label="外国為替及び外国貿易法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="328.87704" y="214.11357"></viz:position>
+        <viz:color r="71" g="177" b="201"></viz:color>
+      </node>
+      <node id="2217" label="外国債等の発行者の内容等の開示に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="442.20575" y="108.21988"></viz:position>
+        <viz:color r="201" g="120" b="71"></viz:color>
+      </node>
+      <node id="2218" label="中小企業の新たな事業活動の促進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-136.79668" y="51.409508"></viz:position>
+        <viz:color r="201" g="96" b="71"></viz:color>
+      </node>
+      <node id="2219" label="外国為替の取引等の報告に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="10.45283"></viz:size>
+        <viz:position x="523.52704" y="154.68979"></viz:position>
+        <viz:color r="161" g="71" b="201"></viz:color>
+      </node>
+      <node id="2220" label="国家公務員共済組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="232.36447" y="317.0898"></viz:position>
+        <viz:color r="201" g="71" b="169"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="2764" source="2033" target="2144"></edge>
+      <edge id="2767" source="2034" target="2078"></edge>
+      <edge id="2766" source="2034" target="2084"></edge>
+      <edge id="2769" source="2034" target="2197"></edge>
+      <edge id="2768" source="2034" target="2210"></edge>
+      <edge id="2818" source="2052" target="2063"></edge>
+      <edge id="2821" source="2053" target="2034"></edge>
+      <edge id="2822" source="2053" target="2035"></edge>
+      <edge id="2826" source="2053" target="2038"></edge>
+      <edge id="2828" source="2053" target="2067"></edge>
+      <edge id="2825" source="2053" target="2117"></edge>
+      <edge id="2820" source="2053" target="2121"></edge>
+      <edge id="2827" source="2053" target="2131"></edge>
+      <edge id="2819" source="2053" target="2134"></edge>
+      <edge id="2824" source="2053" target="2141"></edge>
+      <edge id="2823" source="2053" target="2178"></edge>
+      <edge id="3017" source="2065" target="2085"></edge>
+      <edge id="3016" source="2065" target="2097"></edge>
+      <edge id="2762" source="2068" target="2058"></edge>
+      <edge id="2763" source="2070" target="2063"></edge>
+      <edge id="2770" source="2084" target="2034"></edge>
+      <edge id="2771" source="2084" target="2176"></edge>
+      <edge id="2772" source="2084" target="2197"></edge>
+      <edge id="2765" source="2085" target="2097"></edge>
+      <edge id="2775" source="2097" target="2045"></edge>
+      <edge id="2776" source="2097" target="2183"></edge>
+      <edge id="2777" source="2097" target="2219"></edge>
+      <edge id="2778" source="2098" target="2057"></edge>
+      <edge id="2779" source="2098" target="2154"></edge>
+      <edge id="2887" source="2109" target="2033"></edge>
+      <edge id="2890" source="2109" target="2042"></edge>
+      <edge id="2882" source="2109" target="2047"></edge>
+      <edge id="2881" source="2109" target="2071"></edge>
+      <edge id="2893" source="2109" target="2072"></edge>
+      <edge id="2886" source="2109" target="2079"></edge>
+      <edge id="2888" source="2109" target="2089"></edge>
+      <edge id="2896" source="2109" target="2102"></edge>
+      <edge id="2903" source="2109" target="2106"></edge>
+      <edge id="2894" source="2109" target="2114"></edge>
+      <edge id="2904" source="2109" target="2118"></edge>
+      <edge id="2885" source="2109" target="2129"></edge>
+      <edge id="2891" source="2109" target="2140"></edge>
+      <edge id="2898" source="2109" target="2155"></edge>
+      <edge id="2900" source="2109" target="2160"></edge>
+      <edge id="2883" source="2109" target="2172"></edge>
+      <edge id="2884" source="2109" target="2173"></edge>
+      <edge id="2901" source="2109" target="2188"></edge>
+      <edge id="2895" source="2109" target="2191"></edge>
+      <edge id="2902" source="2109" target="2194"></edge>
+      <edge id="2897" source="2109" target="2204"></edge>
+      <edge id="2899" source="2109" target="2208"></edge>
+      <edge id="2892" source="2109" target="2213"></edge>
+      <edge id="2889" source="2109" target="2218"></edge>
+      <edge id="3014" source="2117" target="2036"></edge>
+      <edge id="3013" source="2117" target="2183"></edge>
+      <edge id="3012" source="2117" target="2190"></edge>
+      <edge id="3015" source="2117" target="2212"></edge>
+      <edge id="2813" source="2141" target="2038"></edge>
+      <edge id="2806" source="2141" target="2057"></edge>
+      <edge id="2814" source="2141" target="2065"></edge>
+      <edge id="2815" source="2141" target="2084"></edge>
+      <edge id="2808" source="2141" target="2087"></edge>
+      <edge id="2805" source="2141" target="2097"></edge>
+      <edge id="2812" source="2141" target="2117"></edge>
+      <edge id="2809" source="2141" target="2124"></edge>
+      <edge id="2804" source="2141" target="2151"></edge>
+      <edge id="2811" source="2141" target="2161"></edge>
+      <edge id="2817" source="2141" target="2163"></edge>
+      <edge id="2810" source="2141" target="2170"></edge>
+      <edge id="2803" source="2141" target="2187"></edge>
+      <edge id="2807" source="2141" target="2190"></edge>
+      <edge id="2816" source="2141" target="2219"></edge>
+      <edge id="2835" source="2147" target="2026"></edge>
+      <edge id="2831" source="2147" target="2027"></edge>
+      <edge id="2832" source="2147" target="2028"></edge>
+      <edge id="2846" source="2147" target="2041"></edge>
+      <edge id="2836" source="2147" target="2043"></edge>
+      <edge id="2848" source="2147" target="2046"></edge>
+      <edge id="2852" source="2147" target="2048"></edge>
+      <edge id="2853" source="2147" target="2050"></edge>
+      <edge id="2856" source="2147" target="2054"></edge>
+      <edge id="2829" source="2147" target="2069"></edge>
+      <edge id="2858" source="2147" target="2074"></edge>
+      <edge id="2841" source="2147" target="2089"></edge>
+      <edge id="2842" source="2147" target="2091"></edge>
+      <edge id="2854" source="2147" target="2103"></edge>
+      <edge id="2857" source="2147" target="2107"></edge>
+      <edge id="2833" source="2147" target="2125"></edge>
+      <edge id="2859" source="2147" target="2128"></edge>
+      <edge id="2839" source="2147" target="2138"></edge>
+      <edge id="2844" source="2147" target="2142"></edge>
+      <edge id="2847" source="2147" target="2145"></edge>
+      <edge id="2849" source="2147" target="2146"></edge>
+      <edge id="2851" source="2147" target="2148"></edge>
+      <edge id="2855" source="2147" target="2157"></edge>
+      <edge id="2838" source="2147" target="2164"></edge>
+      <edge id="2830" source="2147" target="2166"></edge>
+      <edge id="2843" source="2147" target="2175"></edge>
+      <edge id="2837" source="2147" target="2177"></edge>
+      <edge id="2840" source="2147" target="2179"></edge>
+      <edge id="2834" source="2147" target="2184"></edge>
+      <edge id="2845" source="2147" target="2186"></edge>
+      <edge id="2850" source="2147" target="2196"></edge>
+      <edge id="2860" source="2147" target="2214"></edge>
+      <edge id="2861" source="2147" target="2215"></edge>
+      <edge id="2773" source="2182" target="2070"></edge>
+      <edge id="2774" source="2183" target="2045"></edge>
+      <edge id="2781" source="2190" target="2036"></edge>
+      <edge id="2780" source="2190" target="2183"></edge>
+      <edge id="2782" source="2190" target="2212"></edge>
+      <edge id="2783" source="2192" target="2052"></edge>
+      <edge id="2784" source="2192" target="2076"></edge>
+      <edge id="2785" source="2197" target="2034"></edge>
+      <edge id="2786" source="2197" target="2084"></edge>
+      <edge id="2787" source="2198" target="2025"></edge>
+      <edge id="2789" source="2198" target="2070"></edge>
+      <edge id="2799" source="2198" target="2089"></edge>
+      <edge id="2788" source="2198" target="2094"></edge>
+      <edge id="2797" source="2198" target="2116"></edge>
+      <edge id="2793" source="2198" target="2122"></edge>
+      <edge id="2790" source="2198" target="2136"></edge>
+      <edge id="2791" source="2198" target="2137"></edge>
+      <edge id="2796" source="2198" target="2139"></edge>
+      <edge id="2795" source="2198" target="2156"></edge>
+      <edge id="2792" source="2198" target="2168"></edge>
+      <edge id="2794" source="2198" target="2180"></edge>
+      <edge id="2798" source="2198" target="2182"></edge>
+      <edge id="2801" source="2200" target="2084"></edge>
+      <edge id="2802" source="2200" target="2141"></edge>
+      <edge id="2800" source="2200" target="2207"></edge>
+      <edge id="2872" source="2205" target="2034"></edge>
+      <edge id="2864" source="2205" target="2038"></edge>
+      <edge id="2862" source="2205" target="2053"></edge>
+      <edge id="2870" source="2205" target="2084"></edge>
+      <edge id="2868" source="2205" target="2097"></edge>
+      <edge id="2869" source="2205" target="2098"></edge>
+      <edge id="2867" source="2205" target="2105"></edge>
+      <edge id="2874" source="2205" target="2112"></edge>
+      <edge id="2875" source="2205" target="2113"></edge>
+      <edge id="2877" source="2205" target="2117"></edge>
+      <edge id="2879" source="2205" target="2131"></edge>
+      <edge id="2863" source="2205" target="2141"></edge>
+      <edge id="2866" source="2205" target="2151"></edge>
+      <edge id="2878" source="2205" target="2154"></edge>
+      <edge id="2880" source="2205" target="2163"></edge>
+      <edge id="2873" source="2205" target="2170"></edge>
+      <edge id="2865" source="2205" target="2187"></edge>
+      <edge id="2871" source="2205" target="2189"></edge>
+      <edge id="2876" source="2205" target="2197"></edge>
+      <edge id="2905" source="2216" target="2024"></edge>
+      <edge id="2906" source="2216" target="2029"></edge>
+      <edge id="2907" source="2216" target="2030"></edge>
+      <edge id="2936" source="2216" target="2032"></edge>
+      <edge id="2909" source="2216" target="2037"></edge>
+      <edge id="2910" source="2216" target="2038"></edge>
+      <edge id="2911" source="2216" target="2039"></edge>
+      <edge id="2912" source="2216" target="2040"></edge>
+      <edge id="2913" source="2216" target="2044"></edge>
+      <edge id="2915" source="2216" target="2049"></edge>
+      <edge id="2918" source="2216" target="2051"></edge>
+      <edge id="2917" source="2216" target="2053"></edge>
+      <edge id="2916" source="2216" target="2055"></edge>
+      <edge id="2919" source="2216" target="2056"></edge>
+      <edge id="2993" source="2216" target="2059"></edge>
+      <edge id="2921" source="2216" target="2060"></edge>
+      <edge id="2922" source="2216" target="2061"></edge>
+      <edge id="2923" source="2216" target="2062"></edge>
+      <edge id="2924" source="2216" target="2064"></edge>
+      <edge id="2925" source="2216" target="2065"></edge>
+      <edge id="2920" source="2216" target="2066"></edge>
+      <edge id="2928" source="2216" target="2073"></edge>
+      <edge id="2929" source="2216" target="2075"></edge>
+      <edge id="2930" source="2216" target="2077"></edge>
+      <edge id="2931" source="2216" target="2080"></edge>
+      <edge id="2932" source="2216" target="2081"></edge>
+      <edge id="2933" source="2216" target="2082"></edge>
+      <edge id="2934" source="2216" target="2083"></edge>
+      <edge id="2935" source="2216" target="2084"></edge>
+      <edge id="2951" source="2216" target="2085"></edge>
+      <edge id="2937" source="2216" target="2086"></edge>
+      <edge id="2938" source="2216" target="2087"></edge>
+      <edge id="2939" source="2216" target="2088"></edge>
+      <edge id="2940" source="2216" target="2089"></edge>
+      <edge id="2941" source="2216" target="2090"></edge>
+      <edge id="2942" source="2216" target="2092"></edge>
+      <edge id="2943" source="2216" target="2093"></edge>
+      <edge id="2944" source="2216" target="2094"></edge>
+      <edge id="2945" source="2216" target="2095"></edge>
+      <edge id="2946" source="2216" target="2096"></edge>
+      <edge id="2947" source="2216" target="2097"></edge>
+      <edge id="2948" source="2216" target="2099"></edge>
+      <edge id="2949" source="2216" target="2100"></edge>
+      <edge id="2950" source="2216" target="2101"></edge>
+      <edge id="2952" source="2216" target="2104"></edge>
+      <edge id="2953" source="2216" target="2108"></edge>
+      <edge id="2954" source="2216" target="2109"></edge>
+      <edge id="2926" source="2216" target="2110"></edge>
+      <edge id="2955" source="2216" target="2111"></edge>
+      <edge id="2956" source="2216" target="2115"></edge>
+      <edge id="2957" source="2216" target="2116"></edge>
+      <edge id="2958" source="2216" target="2117"></edge>
+      <edge id="2959" source="2216" target="2119"></edge>
+      <edge id="2908" source="2216" target="2120"></edge>
+      <edge id="2960" source="2216" target="2123"></edge>
+      <edge id="2961" source="2216" target="2124"></edge>
+      <edge id="2962" source="2216" target="2126"></edge>
+      <edge id="2963" source="2216" target="2127"></edge>
+      <edge id="2964" source="2216" target="2130"></edge>
+      <edge id="2965" source="2216" target="2132"></edge>
+      <edge id="2966" source="2216" target="2133"></edge>
+      <edge id="2927" source="2216" target="2135"></edge>
+      <edge id="2968" source="2216" target="2136"></edge>
+      <edge id="2969" source="2216" target="2139"></edge>
+      <edge id="2970" source="2216" target="2141"></edge>
+      <edge id="2971" source="2216" target="2143"></edge>
+      <edge id="2972" source="2216" target="2144"></edge>
+      <edge id="3005" source="2216" target="2149"></edge>
+      <edge id="2974" source="2216" target="2150"></edge>
+      <edge id="2975" source="2216" target="2151"></edge>
+      <edge id="2976" source="2216" target="2152"></edge>
+      <edge id="2977" source="2216" target="2153"></edge>
+      <edge id="2978" source="2216" target="2158"></edge>
+      <edge id="2979" source="2216" target="2159"></edge>
+      <edge id="2980" source="2216" target="2160"></edge>
+      <edge id="2981" source="2216" target="2161"></edge>
+      <edge id="2982" source="2216" target="2162"></edge>
+      <edge id="2983" source="2216" target="2165"></edge>
+      <edge id="2984" source="2216" target="2167"></edge>
+      <edge id="2985" source="2216" target="2169"></edge>
+      <edge id="2986" source="2216" target="2170"></edge>
+      <edge id="2987" source="2216" target="2171"></edge>
+      <edge id="2988" source="2216" target="2174"></edge>
+      <edge id="2998" source="2216" target="2176"></edge>
+      <edge id="2990" source="2216" target="2178"></edge>
+      <edge id="2991" source="2216" target="2180"></edge>
+      <edge id="2992" source="2216" target="2181"></edge>
+      <edge id="2994" source="2216" target="2185"></edge>
+      <edge id="2995" source="2216" target="2187"></edge>
+      <edge id="2996" source="2216" target="2190"></edge>
+      <edge id="2997" source="2216" target="2193"></edge>
+      <edge id="2989" source="2216" target="2195"></edge>
+      <edge id="2999" source="2216" target="2197"></edge>
+      <edge id="3000" source="2216" target="2198"></edge>
+      <edge id="3001" source="2216" target="2199"></edge>
+      <edge id="3002" source="2216" target="2200"></edge>
+      <edge id="3003" source="2216" target="2201"></edge>
+      <edge id="3004" source="2216" target="2202"></edge>
+      <edge id="2914" source="2216" target="2203"></edge>
+      <edge id="2973" source="2216" target="2205"></edge>
+      <edge id="3006" source="2216" target="2206"></edge>
+      <edge id="3007" source="2216" target="2207"></edge>
+      <edge id="3008" source="2216" target="2209"></edge>
+      <edge id="3009" source="2216" target="2211"></edge>
+      <edge id="3010" source="2216" target="2217"></edge>
+      <edge id="3011" source="2216" target="2219"></edge>
+      <edge id="2967" source="2216" target="2220"></edge>
+      <edge id="3020" source="2219" target="2031"></edge>
+      <edge id="3019" source="2219" target="2045"></edge>
+      <edge id="3018" source="2219" target="2097"></edge>
+    </edges>
+  </graph>
+</gexf>
