@@ -7,7 +7,6 @@
     .sigma-example-parent {height: 600px;background-color:#111111;width:700px;}
     .sigma-example {height: 599px;
     width:699px;
-    margin: auto;
     background-color:#FCFCFC;
     border: medium solid #0F0F0F;
     }
@@ -15,16 +14,21 @@
   </style>
   <script src="static/js/sigma.js"></script>
   <script src="static/js/plugins/sigma.parsers.gexf.min.js"></script>
+  <script src="static/js/plugins/sigma.renderers.edgeLabels.min.js"></script>
+  <script src="static/js/plugins/sigma.renderers.parallelEdges.min.js"></script>
+
   <script src="static/js/load.js"></script>
 </head>
 <body>
-<div id="sigma-container-憲法" class="sigma-example"></div>
-<script>
-    gexfload("/static/gexf/憲法.gexf","憲法")
-</script>
 
 {% for df in gexfs %}
-  {{ df }}<br/>
+   <div >
+   <h2>{{df.cat}}</h2>
+   <div id="sigma-container-{{df.cat}}" class="sigma-example"></div>
+<script>
+    gexfload("{{df.gexfpath}}","{{df.cat}}");
+</script>
+    </div>
 {% endfor %}
 
 </body>
