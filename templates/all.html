@@ -5,43 +5,27 @@
     p  {color: red}
     h2 {color: blue; font-size: 120%}
     .sigma-example-parent {height: 600px;background-color:#111111;width:700px;}
-    .sigma-example {height: 599px;width:699px;}
+    .sigma-example {height: 599px;
+    width:699px;
+    margin: auto;
+    background-color:#FCFCFC;
+    border: medium solid #0F0F0F;
+    }
     img.sample{height:40%;}
   </style>
+  <script src="static/js/sigma.js"></script>
+  <script src="static/js/plugins/sigma.parsers.gexf.min.js"></script>
+  <script src="static/js/load.js"></script>
 </head>
 <body>
-<div class="container">
-
-<div class="sigma-example-parent">
-<div id="sigma-container" classs="sigma-example">
-</div>
-</div>
-<script src="static/js/sigma.js"></script>
-<script src="static/js/plugins/sigma.parsers.gexf.min.js"></script>
+<div id="sigma-container-憲法" class="sigma-example"></div>
 <script>
-  sigma.parsers.gexf(
-  'static/gexf/憲法.gexf',
-  { // Here is the ID of the DOM element that
-  // will contain the graph:
-  container: 'sigma-container',
-  settings: {
-  defaultNodeColor: '#ec5148'
-  }
-  },
-  function(s) {
-  // This function will be executed when the
-  // graph is displayed, with "s" the related
-  // sigma instance.
-  console.log("hoge");
-  }
-  );
+    gexfload("/static/gexf/憲法.gexf","憲法")
 </script>
-
 
 {% for df in gexfs %}
   {{ df }}<br/>
 {% endfor %}
 
-</div>
 </body>
 </html>
