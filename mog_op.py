@@ -3,7 +3,7 @@
 import pymongo
 class MongoOp(object):
     def __init__(self,host):
-        self.con=pymongo.Connection(host,27017)
+        self.con=pymongo.MongoClient(host,27017)
         self.db=self.con.laws
         self.law_base=self.db.base
         self.ref=self.db.ref_title

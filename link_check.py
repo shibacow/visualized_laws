@@ -15,7 +15,6 @@ class RefCase(object):
     def __init__(self,source,ref):
         self.source=source
         self.ref=ref
-        
 
 class LinkCheck(object):
     def __init__(self,mp):

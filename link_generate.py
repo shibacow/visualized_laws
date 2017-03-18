@@ -78,9 +78,8 @@ class LinkCheck(object):
         self.write_csv(node_filename,nodelist)
         #for a,b in sorted(nodedict.items(),key=lambda x:x[1],reverse=True)[:30]:
         #    print a,b
-            
-    
-    def title_regrex_collect(self,title):
+
+def title_regrex_collect(self,title):
         rtitle=re.compile(title)
         for r in self.mp.link.find({"src_title":rtitle}):
             if 'src_is_act' in r and 'dst_is_act' in r:
