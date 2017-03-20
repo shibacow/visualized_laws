@@ -1,6 +1,24 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
 import pymongo
+from dotenv import load_dotenv, find_dotenv
+import os
+
+load_dotenv(find_dotenv())
+MONGO_DB=os.environ.get("MONGO_DB")
+
+class NewMongoOp(object):
+    def __init__(self,host):
+        self.con=pymongo.MongoClient(host,27017)
+        self.db=self.con[MONGO_DB]
+        self.col=self.db.laws
+    def insert(self,dkt):
+        title=dkt['title']
+        if not self.col.find_one({title:title}):
+            self.col.insert_one(dkt)
+    def has_one(self,title):
+        return self.col.find_one({title:title})
+
 class MongoOp(object):
     def __init__(self,host):
         self.con=pymongo.MongoClient(host,27017)
