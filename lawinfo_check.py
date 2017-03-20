@@ -51,9 +51,36 @@ class ChangeWareki(object):
             #print s2,year,nen,month,day
             self.wareki=s2
             self.date=datetime(year,month,day)
+        else:
+            #wrong path
+            assert(False)
+    def __parse_nums(self,nums):
+        digit=0
+        nums2=nums[::-1]
+        yn={u"一":1,
+            u"―":1,
+            u"元":1,
+            u"二":2,
+            u"三":3,
+            u"四":4,
+            u'五':5,
+            u'六':6,
+            u'七':7,
+            u'八':8,
+            u'九':9,
+            u'十':10,
+            u"○":0,
+            u"〇":0,
+        }
+
+        for i,c in enumerate(nums2):
+            k=yn[c]
+            digit+=k*10**i
+        return digit
     def __parse_go(self,s):
         ss=re.findall(u"（(.*?)）",s)
         if ss:
+            #[FIXME]日が、公布日だけでなく、日本にもマッチしてしまう
             s2=u''.join(ss[-1].split(u'日')[1:])
             st=re.findall(u"^(.*?)第([壱一二弐三参四五六七八九十拾百千万萬億兆〇１２３４５６７８９０]+?)号$",s2)
             if st and len(st[0])==2:
@@ -64,40 +91,51 @@ class ChangeWareki(object):
                 c2=re.sub(u"^[十|拾]",u"一十",c2)
                 c2=re.sub(u"百十",u"百一十",c2)
                 c3=kansuji2arabic(c2)
-                print "c1={} c3={} int_c3={}".format(c1.encode('utf-8'),c3.encode("utf-8"),int(c3))
+                self.authorities=c
+                self.law_number=int(c3)
             else:
-                if not re.search(u"人事院規則|日本国憲法",self.title):
-                    pass
-                    #print len(st),self.title
-                    #        print s
+                if re.search(u"人事院規則",self.title):
+                    nums=re.findall(u"^人事院規則([壱一二弐三参四五六七八九十〇―一]*)",self.title)
+                    if nums:
+                        nums=nums[0]
+                        self.authorities=u"人事院規則"
+                        self.law_number=self.__parse_nums(nums)
+                elif re.search(u"日本国憲法",self.title):
+                    self.authorities=u"日本国憲法"
+                    self.law_number=0
+                else:
+                    self.authorities=s2
+                    self.law_number=0
+        assert(self.authorities!=None)
+        assert(self.law_number!=None)
     def __init__(self,tl):
-        self.wareki=None
-        self.date=None
         self.title=tl
+        self.date=None
+        self.wareki=None
+        self.law_number=None
+        self.authorities=None
     def conv_date(self,s):
         s=s.strip()
         self.__parse_date(s)
-
     def conv_go(self,s):
         s=s.strip()
         self.__parse_go(s)
+    def get_info(self):
+        return dict(wareki=self.wareki,created_date=self.date,\
+                    decree_number=self.law_number,authorities=self.authorities)
 
-def check_created_date(mp):
-    ycnt=Counter()
+def check_created_date_and_auth(mp):
     for i,c in enumerate(mp.col.find()):
         tl=c['title']
         cw=ChangeWareki(tl)
         cw.conv_date(tl)
-        date=cw.date
-        year=date.year
-        month=date.month
-        day=date.day
-        ycnt[year]+=1
         cw.conv_go(tl)
-        #msg="i={} date={}-{}-{} title={}".format(i,year,month,day,tl.encode("utf-8"))
-        #logging.info(msg)
-    #for a,b in sorted(ycnt.most_common()):
-    #    print a,b
+        info=cw.get_info()
+        c['wareki']=info['wareki']
+        c['created_date']=info['created_date']
+        c['decree_number']=info['decree_number']
+        c['authorities']=info['authorities']
+        #mp.col.update({"title":tl},c)
 def duplicate_check(mp):
     cnt=Counter()
     for c in mp.col.find():
@@ -106,8 +144,23 @@ def duplicate_check(mp):
     for k,c in cnt.most_common(100):
         if c>1:
             print c,k
+def check_authorities(mp):
+    cnt=Counter()
+    sz=Counter()
+    for c in mp.col.find():
+        auth=c['authorities']
+        #if not re.search(u"法律|政令|省令|勅令",auth):
+        if re.search(u"本",auth):
+            cnt[auth]+=1
+        sz[auth]=len(auth)
+    for a,b in cnt.most_common():
+        print a,b
+    #for a,b in sz.most_common(20):
+    #    print a,b
+
 def main():
     mp=NewMongoOp('localhost')
-    check_created_date(mp)
+    check_created_date_and_auth(mp)
     #duplicate_check(mp)
+    #check_authorities(mp)
 if __name__=='__main__':main()
