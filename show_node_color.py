@@ -20,6 +20,9 @@ import logging
 FORMAT="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 logging.basicConfig(level=logging.DEBUG,format=FORMAT)
 import org.gephi.preview.types as preview_types
+from java.awt import GraphicsEnvironment
+from java.awt import Font
+from com.itextpdf.text import FontFactory
 
 def ProjectController(lookup):
     return lookup(project.ProjectController)
@@ -58,6 +61,18 @@ class GexfPdfer(object):
         logging.info(appearance_controller)
         appearance_model = appearance_controller.getModel()
         logging.info(appearance_model)
+        ge = GraphicsEnvironment.getLocalGraphicsEnvironment()
+        for f in ge.getAllFonts():
+            n=f.getName()
+            if n=="Yu Gothic UI Regular":
+                #print(dir(f))
+                self.font=f
+                #self.font.size=20
+            #print("font={}".format(str(f)))
+        #    print(dir(f))
+        #for fm in ge.getAvailableFontFamilyNames():
+            #print("font famiry={}".format(str(fm)))
+        #    print(fm)
     def readfile(self,f):
         try:
             logging.info(File(f).length())
@@ -67,45 +82,71 @@ class GexfPdfer(object):
         except Exception,err:
             logging.info(err)
         self.import_controller.process(container,processor.DefaultProcessor(),self.workspace)
-        graph = self.graph_model.getDirectedGraph()
+        self.graph = self.graph_model.getDirectedGraph()
         logging.info(graph)
-    
     def nodeshow(self):
-        #print(f)
-        #print(graph.getNodeCount())
-        #print(graph.getEdgeCount())
-        #msg="f={} node_cnt={} edged_count={}".format(f.encode('utf-8'),graph.getNodeCount(),graph.getEdgeCount())
-        #print(msg)
-        #dkt={}
-        for node in graph.getNodes():
-            #print(dir(node))
-            #print(node.label)
-            label=node.label
-            color=node.color
-            cat=node.getAttribute("modularity")
-            r=color.red
-            g=color.green
-            b=color.blue
-            msg="cat={} r={} g={} b={}".format(cat.encode("utf-8"),r,g,b)
+        for i,node in enumerate(self.graph.getNodes()):
+            if i==0:
+                for k in dir(node):
+                    print("k={}".format(k))
+                for k in node.getAttributeKeys():
+                    print("ak={}".format(k))
+            v=node.getDegree()
+            #sz=node.size()
+            l=node.label
+            #lent=len(l)
+            #node.setLabel(str(lent))
+            if v<20:
+                node.setSize(20.0)
+                node.setLabel(None)
+            #print("v={} sz={}".format(v,sz))
+            #if v<10:
+            #    sz=
+            #if i==0:
+            #    label=node.label
+            #    
+            #color=node.color
+            #cat=node.getAttribute("modularity")
+            #r=color.red
+            #g=color.green
+            #b=color.blue
+            #msg="cat={} r={} g={} b={}".format(cat.encode("utf-8"),r,g,b)
             #print(msg)
-            dkt[cat]=color
-        return dkt
+            #dkt[cat]=color
+        #return dkt
+    def edgeshow(self):
+        for i,edge in enumerate(self.graph.getEdges()):
+            edge.setWeight(0.0)
+            #if i==0:
+            #for k in dir(edge):
+                    #v=getattr(edge,k)
+                    #msg="k={} v={}".format(k,v)
+                    #print("k={}".format(k))
+                    #print edge.weight
+                    #print edge.getWeight()
+            #        edge.setWeight(0.001)
     def export(self,i):
         print("start to set preview")
-        #preview_model=self.preview_model
-        #v=self.preview_model.getProperties().getValue(preview.PreviewProperty.NODE_BORDER_WIDTH)
-        #print("v={}".format(v))
-        self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_BORDER_WIDTH,0.0)
+        FontFactory.register("/usr/share/fonts")
+        FontFactory.register("/usr/share/fonts/YuGothM.ttc","Yu Gothic UI Regular")
+        self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_THICKNESS,3.0)
+        #self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_BORDER_WIDTH,0.0)
+        self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_BORDER_WIDTH,1.0)
         self.preview_model.getProperties().putValue(preview.PreviewProperty.SHOW_NODE_LABELS,True)
         self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_COLOR,preview_types.EdgeColor(preview_types.EdgeColor.Mode.MIXED))
-        self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_THICKNESS,1.0)
         self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_LABEL_FONT,
-                                               self.preview_model.getProperties().getFontValue(preview.PreviewProperty.NODE_LABEL_FONT).deriveFont(8))
+                                               self.preview_model.getProperties().getFontValue(preview.PreviewProperty.NODE_LABEL_FONT).deriveFont(20))
+        #self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_LABEL_FONT,Font({"name":"Yu Gothic Medium"}))
+        #self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_LABEL_FONT,self.font)
+        #f=self.preview_model.getProperties().getFontValue(preview.PreviewProperty.NODE_LABEL_FONT)
+        #print(f)
         print("end to set preview")
         ec = ExportController(self.lookup)
         try:
             fname="out/cat_"+self.basef+".pdf"
             ec.exportFile(File(fname))
+            svgname="out/svg_"+self.basef+".svg"
+            ec.exportFile(File(svgname))
         except Exception,err:
             print(err)
 
@@ -119,6 +160,8 @@ def show_files():
     for i,f in enumerate(glob("gexf/*.gexf")):
         gx=GexfPdfer(f)
         gx.readfile(f)
+        gx.nodeshow()
+        gx.edgeshow()
         gx.export(i)
 def main():
     show_files()
