@@ -1,0 +1,1393 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-05-08">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" idtype="integer" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity" title="Modularity" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="1024" label="自衛隊員倫理規程">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="9.591837"></viz:size>
+        <viz:position x="-160.1634" y="86.52168"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1025" label="東日本大震災に対処するための特別の財政援助及び助成に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="221.08304" y="184.48569"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1026" label="石綿による健康被害の救済に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-513.753" y="-172.4282"></viz:position>
+        <viz:color r="204" g="86" b="11"></viz:color>
+      </node>
+      <node id="1027" label="海賊行為の処罰及び海賊行為への対処に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-253.8474" y="-184.38261"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1028" label="国有提供施設等所在市町村助成交付金に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-123.118546" y="484.15298"></viz:position>
+        <viz:color r="11" g="204" b="111"></viz:color>
+      </node>
+      <node id="1029" label="国際機関等に派遣される防衛省の職員の処遇等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-146.57423" y="-1.0971328"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1030" label="国際緊急援助隊の派遣に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-597.21716" y="70.68339"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1031" label="防衛省職員給与施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="9.591837"></viz:size>
+        <viz:position x="-90.374374" y="144.49786"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1032" label="安全保障会議設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-385.7718" y="-231.82112"></viz:position>
+        <viz:color r="11" g="204" b="36"></viz:color>
+      </node>
+      <node id="1033" label="国家公務員の給与の改定及び臨時特例に関する法律の施行に伴う防衛省の職員の給与の特例等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="111.17872" y="261.87958"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1034" label="有線電気通信法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-369.1412" y="254.20158"></viz:position>
+        <viz:color r="24" g="204" b="11"></viz:color>
+      </node>
+      <node id="1035" label="南スーダン国際平和協力隊の設置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="232.91643" y="16.195257"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1036" label="自衛隊法">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="-326.3642" y="25.573639"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1037" label="行政機関が行う政策の評価に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-446.59058" y="-9.557802"></viz:position>
+        <viz:color r="11" g="204" b="36"></viz:color>
+      </node>
+      <node id="1038" label="防衛人事審議会令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-82.21469" y="9.010018"></viz:position>
+        <viz:color r="11" g="204" b="36"></viz:color>
+      </node>
+      <node id="1039" label="環境省関係石綿による健康被害の救済に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-115.69432" y="-59.782284"></viz:position>
+        <viz:color r="204" g="86" b="11"></viz:color>
+      </node>
+      <node id="1040" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-282.87933" y="154.75783"></viz:position>
+        <viz:color r="11" g="204" b="36"></viz:color>
+      </node>
+      <node id="1041" label="周辺事態に際して実施する船舶検査活動に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-482.17892" y="84.17108"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1042" label="原子力災害対策特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-201.31802" y="-151.05353"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1043" label="防衛省の職員の育児休業等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="129.40144" y="114.001526"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1044" label="公職選挙法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-437.44876" y="-113.166374"></viz:position>
+        <viz:color r="11" g="148" b="204"></viz:color>
+      </node>
+      <node id="1045" label="防衛省と民間企業との間の交流基準を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-559.7408" y="-42.809296"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1046" label="雇用保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="195.76979" y="-8.210427"></viz:position>
+        <viz:color r="173" g="204" b="11"></viz:color>
+      </node>
+      <node id="1047" label="武力攻撃事態等におけるアメリカ合衆国の軍隊の行動に伴い我が国が実施する措置に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-125.9786" y="525.157"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1048" label="災害対策基本法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="9.591837"></viz:size>
+        <viz:position x="-112.3814" y="116.909996"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1049" label="防衛省の職員の育児休業等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-434.9027" y="56.48418"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1050" label="日本年金機構の設立に伴う関係政令の整備等及び経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-40.907406" y="513.1258"></viz:position>
+        <viz:color r="204" g="161" b="11"></viz:color>
+      </node>
+      <node id="1051" label="電波法施行規則　抄">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-565.82837" y="-113.52042"></viz:position>
+        <viz:color r="24" g="204" b="11"></viz:color>
+      </node>
+      <node id="1052" label="防衛医科大学校の編制等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-422.8674" y="-151.1351"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1053" label="防衛省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="9.061224"></viz:size>
+        <viz:position x="-144.90659" y="155.9383"></viz:position>
+        <viz:color r="11" g="204" b="36"></viz:color>
+      </node>
+      <node id="1054" label="国家公務員の給与の改定及び臨時特例に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="292.1359" y="50.244957"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1055" label="防衛省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-99.20559" y="-12.850003"></viz:position>
+        <viz:color r="11" g="204" b="36"></viz:color>
+      </node>
+      <node id="1056" label="社会保険診療報酬支払基金法">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="226.98816" y="-60.04613"></viz:position>
+        <viz:color r="204" g="161" b="11"></viz:color>
+      </node>
+      <node id="1057" label="自動車損害賠償保障法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-405.2051" y="223.73969"></viz:position>
+        <viz:color r="61" g="11" b="204"></viz:color>
+      </node>
+      <node id="1058" label="平成二十二年四月以降において発生が確認された口蹄疫に起因して生じた事態に対処するための手当金等についての健康保険法施行令等の臨時特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="126.61967" y="201.6285"></viz:position>
+        <viz:color r="204" g="161" b="11"></viz:color>
+      </node>
+      <node id="1059" label="宅地建物取引業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-600.3261" y="22.284655"></viz:position>
+        <viz:color r="61" g="204" b="11"></viz:color>
+      </node>
+      <node id="1060" label="救急救命士法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-423.65625" y="-69.05456"></viz:position>
+        <viz:color r="204" g="86" b="11"></viz:color>
+      </node>
+      <node id="1061" label="航空総隊司令部、航空支援集団司令部、航空教育集団司令部、航空開発実験集団司令部、航空方面隊司令部、航空混成団司令部及び航空団司令部組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="287.29532" y="125.27027"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1062" label="武力攻撃事態等におけるアメリカ合衆国の軍隊の行動に伴い我が国が実施する措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-62.913742" y="477.62848"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1063" label="武力攻撃事態における捕虜等の取扱いに関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-246.56923" y="228.01248"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1064" label="災害対策基本法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-304.4943" y="-236.836"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1065" label="国家公務員の給与の改定及び臨時特例に関する法律附則第九条第三項の政令で定める年齢等を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="250.08875" y="-26.512218"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1066" label="大規模地震対策特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-294.3526" y="-148.53043"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1067" label="火薬類の運搬に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-384.21698" y="-171.96136"></viz:position>
+        <viz:color r="11" g="111" b="204"></viz:color>
+      </node>
+      <node id="1068" label="研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-112.906944" y="54.924217"></viz:position>
+        <viz:color r="204" g="11" b="49"></viz:color>
+      </node>
+      <node id="1069" label="武力攻撃事態等における国民の保護のための措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-598.3202" y="-19.23839"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1070" label="租税特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="293.01508" y="89.969444"></viz:position>
+        <viz:color r="11" g="73" b="204"></viz:color>
+      </node>
+      <node id="1071" label="裁判員の参加する刑事裁判に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="209.86124" y="129.77147"></viz:position>
+        <viz:color r="136" g="11" b="204"></viz:color>
+      </node>
+      <node id="1072" label="武力攻撃事態等における国民の保護のための措置に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-375.90903" y="-45.395348"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1073" label="道路交通法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-294.6706" y="-201.97289"></viz:position>
+        <viz:color r="204" g="11" b="11"></viz:color>
+      </node>
+      <node id="1074" label="介護保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"></attvalue>
+        </attvalues>
+        <viz:size value="9.061224"></viz:size>
+        <viz:position x="-179.02176" y="228.49008"></viz:position>
+        <viz:color r="11" g="204" b="73"></viz:color>
+      </node>
+      <node id="1075" label="自衛隊法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="11.714286"></viz:size>
+        <viz:position x="-41.34346" y="132.5747"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1076" label="防衛省職員の留学費用の償還に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="9.061224"></viz:size>
+        <viz:position x="-126.327415" y="175.14693"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1077" label="捕虜収容所処遇規則">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-555.80304" y="140.64523"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1078" label="大規模災害からの復興に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="9.591837"></viz:size>
+        <viz:position x="-119.34967" y="139.50441"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1079" label="防衛省職員給与留守宅渡実施規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="92.4898" y="201.38855"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1080" label="駐留軍等の再編の円滑な実施に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="9.061224"></viz:size>
+        <viz:position x="1396.4324" y="-394.4782"></viz:position>
+        <viz:color r="173" g="11" b="204"></viz:color>
+      </node>
+      <node id="1081" label="防衛省の職員に支給する特地勤務手当及び準特地勤務手当の月額の特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="133.56596" y="238.05159"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1082" label="国と民間企業との間の人事交流に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="9.061224"></viz:size>
+        <viz:position x="-138.91661" y="72.56418"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1083" label="国際連合平和維持活動等に対する協力に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-484.68057" y="230.34184"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1084" label="指定職俸給表の適用を受ける書記官その他の官職及びこれらに準ずる自衛官の官職を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="66.62779" y="429.34796"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1085" label="政治資金規正法">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-473.9201" y="-169.61734"></viz:position>
+        <viz:color r="11" g="148" b="204"></viz:color>
+      </node>
+      <node id="1086" label="車両の通行の許可の手続等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="道路"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-443.24823" y="104.96118"></viz:position>
+        <viz:color r="11" g="36" b="204"></viz:color>
+      </node>
+      <node id="1087" label="統合幕僚学校組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-227.00438" y="-118.39991"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1088" label="輸出貨物が輸出貿易管理令別表第一の一の項の中欄に掲げる貨物">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-585.60675" y="114.19155"></viz:position>
+        <viz:color r="24" g="11" b="204"></viz:color>
+      </node>
+      <node id="1089" label="河川法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-266.33905" y="250.50432"></viz:position>
+        <viz:color r="204" g="123" b="11"></viz:color>
+      </node>
+      <node id="1090" label="海上保安庁組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="96.66203" y="-218.4481"></viz:position>
+        <viz:color r="11" g="204" b="36"></viz:color>
+      </node>
+      <node id="1091" label="公益通報者保護法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-430.03" y="-227.51062"></viz:position>
+        <viz:color r="173" g="204" b="11"></viz:color>
+      </node>
+      <node id="1092" label="武力攻撃事態における外国軍用品等の海上輸送の規制に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-326.76215" y="-174.40675"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1093" label="石油公団法及び金属鉱業事業団法の廃止等に関する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-83.953926" y="516.178"></viz:position>
+        <viz:color r="204" g="198" b="11"></viz:color>
+      </node>
+      <node id="1094" label="方面総監部、師団司令部、旅団司令部及び中央即応集団司令部組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-127.91145" y="-29.99431"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1095" label="絶滅のおそれのある野生動植物の種の保存に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-512.52985" y="-45.719685"></viz:position>
+        <viz:color r="11" g="204" b="186"></viz:color>
+      </node>
+      <node id="1096" label="防衛省の職員の自己啓発等休業に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-459.4319" y="148.56651"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1097" label="研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-86.24012" y="41.75882"></viz:position>
+        <viz:color r="204" g="11" b="49"></viz:color>
+      </node>
+      <node id="1098" label="自衛官に対する入院時食事療養費等の額についての特例を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="82.351875" y="242.37712"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1099" label="武力攻撃事態等における特定公共施設等の利用に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-559.0503" y="83.87505"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1100" label="沖縄の復帰に伴う防衛庁関係法律の適用の特別措置等に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-372.16644" y="530.78766"></viz:position>
+        <viz:color r="173" g="11" b="204"></viz:color>
+      </node>
+      <node id="1101" label="防衛省所管に属する物品の無償貸付及び譲与等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-194.07243" y="198.79547"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1102" label="災害対策基本法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-526.76184" y="110.12934"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1103" label="一般職の任期付研究員の採用、給与及び勤務時間の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-483.90897" y="22.580393"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1104" label="人事院規則一一―九">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-425.13727" y="181.45985"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1105" label="地方防衛局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-343.4419" y="-233.22823"></viz:position>
+        <viz:color r="11" g="204" b="36"></viz:color>
+      </node>
+      <node id="1106" label="日米相互防衛援助協定等に伴う秘密保護法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="10.122449"></viz:size>
+        <viz:position x="-49.819115" y="-64.73932"></viz:position>
+        <viz:color r="173" g="11" b="204"></viz:color>
+      </node>
+      <node id="1107" label="国際連合平和維持活動等に対する協力に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-523.24054" y="53.662548"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1108" label="国家公務員共済組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="219.24062" y="56.828133"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1109" label="若年定年退職者給付金に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="277.35593" y="10.167187"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1110" label="捕虜等懲戒規則">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-478.5705" y="-76.97383"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1111" label="日本国に駐留するアメリカ合衆国軍隊等の行為による特別損失の補償に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-521.8942" y="210.22173"></viz:position>
+        <viz:color r="204" g="11" b="198"></viz:color>
+      </node>
+      <node id="1112" label="公職選挙法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-358.46277" y="-200.55093"></viz:position>
+        <viz:color r="11" g="148" b="204"></viz:color>
+      </node>
+      <node id="1113" label="地方総監部組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="276.82462" y="163.31764"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1114" label="犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-374.05624" y="-114.698746"></viz:position>
+        <viz:color r="204" g="11" b="11"></viz:color>
+      </node>
+      <node id="1115" label="周辺事態に際して我が国の平和及び安全を確保するための措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-385.63522" y="124.1286"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1116" label="駐留軍等の再編の円滑な実施に関する特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1264.5248" y="-391.41296"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1117" label="所得税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="156.94896" y="-82.133804"></viz:position>
+        <viz:color r="11" g="73" b="204"></viz:color>
+      </node>
+      <node id="1118" label="自衛隊法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="17.020409"></viz:size>
+        <viz:position x="-118.98902" y="291.92227"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1119" label="駐留軍等の再編の円滑な実施に関する特別措置法施行令第七条第三項の額の算定に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1527.7185" y="-432.35648"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1120" label="予算決算及び会計令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="109.145584" y="433.59064"></viz:position>
+        <viz:color r="204" g="49" b="11"></viz:color>
+      </node>
+      <node id="1121" label="大規模地震対策特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-516.8663" y="-115.02272"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1122" label="職員の退職管理に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-526.43286" y="-3.722498"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1123" label="国家公務員の給与の改定及び臨時特例に関する法律の施行に伴う自衛官等の平均給与額計算の特例を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="499.1066" y="-134.61229"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1124" label="国家公務員退職手当法">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-498.15933" y="143.6658"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1125" label="介護保険法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="111.076965" y="396.21893"></viz:position>
+        <viz:color r="11" g="204" b="73"></viz:color>
+      </node>
+      <node id="1126" label="航空法">
+        <attvalues>
+          <attvalue for="modularity" value="航空"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-536.4915" y="-149.5551"></viz:position>
+        <viz:color r="204" g="11" b="123"></viz:color>
+      </node>
+      <node id="1127" label="防衛省職員の災害補償に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="9.061224"></viz:size>
+        <viz:position x="303.48822" y="-71.37119"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1128" label="自衛隊員倫理法">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="12.775511"></viz:size>
+        <viz:position x="-183.44849" y="134.91098"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1129" label="警察庁組織令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="32.413605" y="-267.05096"></viz:position>
+        <viz:color r="204" g="11" b="11"></viz:color>
+      </node>
+      <node id="1130" label="雇用の分野における男女の均等な機会及び待遇の確保等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-255.04715" y="-222.92024"></viz:position>
+        <viz:color r="173" g="204" b="11"></viz:color>
+      </node>
+      <node id="1131" label="道路交通法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-423.8098" y="-187.9191"></viz:position>
+        <viz:color r="204" g="11" b="11"></viz:color>
+      </node>
+      <node id="1132" label="原子力災害対策特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-408.56165" y="263.62723"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1133" label="国家公務員法">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-478.64774" y="-130.08723"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1134" label="防衛省の職員の給与等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="17.551022"></viz:size>
+        <viz:position x="-18.521292" y="236.1527"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1135" label="地方税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="256.17877" y="72.60474"></viz:position>
+        <viz:color r="11" g="204" b="111"></viz:color>
+      </node>
+      <node id="1136" label="予算決算及び会計令臨時特例">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-344.13467" y="-136.36073"></viz:position>
+        <viz:color r="204" g="49" b="11"></viz:color>
+      </node>
+      <node id="1137" label="特定独立行政法人の役員の退職管理に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-471.96017" y="-205.11105"></viz:position>
+        <viz:color r="11" g="204" b="36"></viz:color>
+      </node>
+      <node id="1138" label="自動車の保管場所の確保等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-461.0864" y="203.50597"></viz:position>
+        <viz:color r="204" g="11" b="11"></viz:color>
+      </node>
+      <node id="1139" label="駐留軍等の再編の円滑な実施に関する特別措置法第十六条に規定する業務を行う場合における株式会社国際協力銀行の会計に関する省令の特例を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1271.2594" y="-326.00577"></viz:position>
+        <viz:color r="136" g="204" b="11"></viz:color>
+      </node>
+      <node id="1140" label="中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="151.29375" y="384.19113"></viz:position>
+        <viz:color r="11" g="204" b="73"></viz:color>
+      </node>
+      <node id="1141" label="特定都市河川浸水被害対策法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-497.87997" y="181.05684"></viz:position>
+        <viz:color r="11" g="204" b="148"></viz:color>
+      </node>
+      <node id="1142" label="臓器の移植に関する法律附則第十一条第一項の法律を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-143.10901" y="33.662285"></viz:position>
+        <viz:color r="204" g="86" b="11"></viz:color>
+      </node>
+      <node id="1143" label="ゴラン高原国際平和協力隊の設置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="257.77246" y="199.52095"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1144" label="国際機関等に派遣される防衛省の職員の処遇等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="9.061224"></viz:size>
+        <viz:position x="-20.87831" y="-47.203472"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1145" label="日本国有鉄道改革法等施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-566.43616" y="40.531353"></viz:position>
+        <viz:color r="61" g="11" b="204"></viz:color>
+      </node>
+      <node id="1146" label="防衛省の職員に対する寒冷地手当支給規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="9.591837"></viz:size>
+        <viz:position x="-82.35522" y="110.122215"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1147" label="国家公務員の自己啓発等休業に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-551.03217" y="176.68283"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1148" label="沖縄の復帰に伴う防衛庁関係法令の適用の特別措置に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="9.061224"></viz:size>
+        <viz:position x="-300.5749" y="325.01273"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1149" label="国家公務員の育児休業等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-120.46357" y="13.85451"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1150" label="国家公務員共済組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="360.8714" y="-234.1106"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1151" label="商法等の一部を改正する等の法律の施行に伴う関係法律の整備に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-177.74408" y="350.25345"></viz:position>
+        <viz:color r="204" g="11" b="86"></viz:color>
+      </node>
+      <node id="1152" label="消費税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="248.29843" y="127.95095"></viz:position>
+        <viz:color r="11" g="73" b="204"></viz:color>
+      </node>
+      <node id="1153" label="麻薬及び向精神薬取締法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-167.11732" y="507.14545"></viz:position>
+        <viz:color r="204" g="86" b="11"></viz:color>
+      </node>
+      <node id="1154" label="犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-348.7894" y="221.78955"></viz:position>
+        <viz:color r="204" g="11" b="11"></viz:color>
+      </node>
+      <node id="1155" label="ハイチ国際平和協力隊の設置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="218.52414" y="230.35858"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1156" label="武力攻撃事態等における我が国の平和と独立並びに国及び国民の安全の確保に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-215.87137" y="-175.41356"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1157" label="有線電気通信設備令">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-559.37573" y="-4.09193"></viz:position>
+        <viz:color r="24" g="204" b="11"></viz:color>
+      </node>
+      <node id="1158" label="不動産特定共同事業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-306.36984" y="-79.12153"></viz:position>
+        <viz:color r="61" g="204" b="11"></viz:color>
+      </node>
+      <node id="1159" label="武力攻撃事態における捕虜等の取扱いに関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-264.9844" y="-109.19669"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1160" label="防衛省の職員の俸給の切替えに関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="180.1071" y="-46.852684"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1161" label="スパイクタイヤ粉じんの発生の防止に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-13.131694" y="479.0116"></viz:position>
+        <viz:color r="11" g="204" b="186"></viz:color>
+      </node>
+      <node id="1162" label="日米相互防衛援助協定等に伴う秘密保護法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="69.56727" y="-247.53362"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1163" label="防衛省職員の災害補償に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="9.591837"></viz:size>
+        <viz:position x="192.52377" y="-110.9471"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1164" label="武力攻撃事態等におけるアメリカ合衆国の軍隊の行動に伴い我が国が実施する措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-363.11597" y="180.7365"></viz:position>
+        <viz:color r="98" g="204" b="11"></viz:color>
+      </node>
+      <node id="1165" label="電波法">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-586.3236" y="-69.44367"></viz:position>
+        <viz:color r="24" g="204" b="11"></viz:color>
+      </node>
+      <node id="1166" label="防衛大学校、防衛医科大学校、防衛研究所、技術研究本部、装備施設本部及び防衛監察本部組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-542.8803" y="-86.585205"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1167" label="防衛省の職員の給与等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+        </attvalues>
+        <viz:size value="34.0"></viz:size>
+        <viz:position x="46.757915" y="76.59538"></viz:position>
+        <viz:color r="98" g="11" b="204"></viz:color>
+      </node>
+      <node id="1168" label="防衛省と民間企業との間の人事交流に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.530612"></viz:size>
+        <viz:position x="-93.21323" y="-42.139668"></viz:position>
+        <viz:color r="11" g="186" b="204"></viz:color>
+      </node>
+      <node id="1169" label="住宅・土地統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="111.23563" y="48.981346"></viz:position>
+        <viz:color r="204" g="11" b="161"></viz:color>
+      </node>
+      <node id="1170" label="日本国憲法の改正手続に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-450.38834" y="249.99161"></viz:position>
+        <viz:color r="204" g="11" b="198"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="1710" source="1024" target="1128"></edge>
+      <edge id="1806" source="1036" target="1024"></edge>
+      <edge id="1807" source="1036" target="1026"></edge>
+      <edge id="1808" source="1036" target="1027"></edge>
+      <edge id="1809" source="1036" target="1029"></edge>
+      <edge id="1810" source="1036" target="1030"></edge>
+      <edge id="1811" source="1036" target="1031"></edge>
+      <edge id="1812" source="1036" target="1032"></edge>
+      <edge id="1813" source="1036" target="1034"></edge>
+      <edge id="1814" source="1036" target="1037"></edge>
+      <edge id="1815" source="1036" target="1038"></edge>
+      <edge id="1816" source="1036" target="1039"></edge>
+      <edge id="1834" source="1036" target="1040"></edge>
+      <edge id="1837" source="1036" target="1041"></edge>
+      <edge id="1818" source="1036" target="1042"></edge>
+      <edge id="1819" source="1036" target="1044"></edge>
+      <edge id="1855" source="1036" target="1045"></edge>
+      <edge id="1820" source="1036" target="1048"></edge>
+      <edge id="1821" source="1036" target="1049"></edge>
+      <edge id="1822" source="1036" target="1051"></edge>
+      <edge id="1890" source="1036" target="1052"></edge>
+      <edge id="1823" source="1036" target="1053"></edge>
+      <edge id="1824" source="1036" target="1055"></edge>
+      <edge id="1825" source="1036" target="1057"></edge>
+      <edge id="1826" source="1036" target="1059"></edge>
+      <edge id="1827" source="1036" target="1060"></edge>
+      <edge id="1828" source="1036" target="1063"></edge>
+      <edge id="1829" source="1036" target="1064"></edge>
+      <edge id="1830" source="1036" target="1066"></edge>
+      <edge id="1831" source="1036" target="1067"></edge>
+      <edge id="1832" source="1036" target="1068"></edge>
+      <edge id="1833" source="1036" target="1069"></edge>
+      <edge id="1817" source="1036" target="1072"></edge>
+      <edge id="1840" source="1036" target="1073"></edge>
+      <edge id="1835" source="1036" target="1074"></edge>
+      <edge id="1836" source="1036" target="1075"></edge>
+      <edge id="1849" source="1036" target="1076"></edge>
+      <edge id="1838" source="1036" target="1077"></edge>
+      <edge id="1839" source="1036" target="1078"></edge>
+      <edge id="1841" source="1036" target="1082"></edge>
+      <edge id="1842" source="1036" target="1083"></edge>
+      <edge id="1843" source="1036" target="1085"></edge>
+      <edge id="1844" source="1036" target="1086"></edge>
+      <edge id="1862" source="1036" target="1087"></edge>
+      <edge id="1845" source="1036" target="1088"></edge>
+      <edge id="1876" source="1036" target="1089"></edge>
+      <edge id="1847" source="1036" target="1091"></edge>
+      <edge id="1848" source="1036" target="1092"></edge>
+      <edge id="1850" source="1036" target="1094"></edge>
+      <edge id="1851" source="1036" target="1095"></edge>
+      <edge id="1852" source="1036" target="1096"></edge>
+      <edge id="1853" source="1036" target="1097"></edge>
+      <edge id="1854" source="1036" target="1099"></edge>
+      <edge id="1856" source="1036" target="1101"></edge>
+      <edge id="1857" source="1036" target="1102"></edge>
+      <edge id="1858" source="1036" target="1103"></edge>
+      <edge id="1859" source="1036" target="1104"></edge>
+      <edge id="1860" source="1036" target="1105"></edge>
+      <edge id="1861" source="1036" target="1107"></edge>
+      <edge id="1863" source="1036" target="1110"></edge>
+      <edge id="1864" source="1036" target="1111"></edge>
+      <edge id="1865" source="1036" target="1112"></edge>
+      <edge id="1866" source="1036" target="1114"></edge>
+      <edge id="1867" source="1036" target="1115"></edge>
+      <edge id="1868" source="1036" target="1118"></edge>
+      <edge id="1870" source="1036" target="1121"></edge>
+      <edge id="1871" source="1036" target="1122"></edge>
+      <edge id="1872" source="1036" target="1124"></edge>
+      <edge id="1873" source="1036" target="1126"></edge>
+      <edge id="1874" source="1036" target="1128"></edge>
+      <edge id="1875" source="1036" target="1130"></edge>
+      <edge id="1846" source="1036" target="1131"></edge>
+      <edge id="1869" source="1036" target="1132"></edge>
+      <edge id="1877" source="1036" target="1133"></edge>
+      <edge id="1878" source="1036" target="1134"></edge>
+      <edge id="1879" source="1036" target="1136"></edge>
+      <edge id="1880" source="1036" target="1137"></edge>
+      <edge id="1881" source="1036" target="1138"></edge>
+      <edge id="1882" source="1036" target="1141"></edge>
+      <edge id="1883" source="1036" target="1142"></edge>
+      <edge id="1884" source="1036" target="1144"></edge>
+      <edge id="1885" source="1036" target="1145"></edge>
+      <edge id="1886" source="1036" target="1146"></edge>
+      <edge id="1887" source="1036" target="1147"></edge>
+      <edge id="1888" source="1036" target="1148"></edge>
+      <edge id="1899" source="1036" target="1149"></edge>
+      <edge id="1891" source="1036" target="1154"></edge>
+      <edge id="1892" source="1036" target="1156"></edge>
+      <edge id="1893" source="1036" target="1157"></edge>
+      <edge id="1894" source="1036" target="1158"></edge>
+      <edge id="1895" source="1036" target="1159"></edge>
+      <edge id="1896" source="1036" target="1164"></edge>
+      <edge id="1897" source="1036" target="1165"></edge>
+      <edge id="1898" source="1036" target="1166"></edge>
+      <edge id="1889" source="1036" target="1167"></edge>
+      <edge id="1900" source="1036" target="1168"></edge>
+      <edge id="1901" source="1036" target="1170"></edge>
+      <edge id="1903" source="1075" target="1031"></edge>
+      <edge id="1902" source="1075" target="1043"></edge>
+      <edge id="1905" source="1075" target="1146"></edge>
+      <edge id="1904" source="1075" target="1169"></edge>
+      <edge id="1732" source="1080" target="1116"></edge>
+      <edge id="1731" source="1080" target="1119"></edge>
+      <edge id="1730" source="1080" target="1139"></edge>
+      <edge id="1733" source="1100" target="1148"></edge>
+      <edge id="1709" source="1106" target="1036"></edge>
+      <edge id="1708" source="1106" target="1090"></edge>
+      <edge id="1707" source="1106" target="1118"></edge>
+      <edge id="1705" source="1106" target="1129"></edge>
+      <edge id="1706" source="1106" target="1162"></edge>
+      <edge id="1794" source="1118" target="1028"></edge>
+      <edge id="1786" source="1118" target="1047"></edge>
+      <edge id="1787" source="1118" target="1050"></edge>
+      <edge id="1785" source="1118" target="1053"></edge>
+      <edge id="1798" source="1118" target="1062"></edge>
+      <edge id="1784" source="1118" target="1063"></edge>
+      <edge id="1792" source="1118" target="1074"></edge>
+      <edge id="1795" source="1118" target="1075"></edge>
+      <edge id="1791" source="1118" target="1076"></edge>
+      <edge id="1788" source="1118" target="1089"></edge>
+      <edge id="1796" source="1118" target="1093"></edge>
+      <edge id="1789" source="1118" target="1134"></edge>
+      <edge id="1793" source="1118" target="1148"></edge>
+      <edge id="1790" source="1118" target="1153"></edge>
+      <edge id="1797" source="1118" target="1161"></edge>
+      <edge id="1783" source="1127" target="1123"></edge>
+      <edge id="1803" source="1128" target="1024"></edge>
+      <edge id="1805" source="1128" target="1036"></edge>
+      <edge id="1804" source="1128" target="1040"></edge>
+      <edge id="1801" source="1128" target="1048"></edge>
+      <edge id="1800" source="1128" target="1078"></edge>
+      <edge id="1802" source="1128" target="1082"></edge>
+      <edge id="1799" source="1128" target="1151"></edge>
+      <edge id="1719" source="1134" target="1031"></edge>
+      <edge id="1716" source="1134" target="1033"></edge>
+      <edge id="1720" source="1134" target="1048"></edge>
+      <edge id="1722" source="1134" target="1058"></edge>
+      <edge id="1728" source="1134" target="1074"></edge>
+      <edge id="1729" source="1134" target="1075"></edge>
+      <edge id="1715" source="1134" target="1078"></edge>
+      <edge id="1717" source="1134" target="1079"></edge>
+      <edge id="1721" source="1134" target="1081"></edge>
+      <edge id="1725" source="1134" target="1084"></edge>
+      <edge id="1718" source="1134" target="1098"></edge>
+      <edge id="1723" source="1134" target="1101"></edge>
+      <edge id="1714" source="1134" target="1120"></edge>
+      <edge id="1724" source="1134" target="1125"></edge>
+      <edge id="1727" source="1134" target="1140"></edge>
+      <edge id="1726" source="1134" target="1146"></edge>
+      <edge id="1712" source="1163" target="1127"></edge>
+      <edge id="1713" source="1163" target="1144"></edge>
+      <edge id="1711" source="1163" target="1150"></edge>
+      <edge id="1743" source="1167" target="1024"></edge>
+      <edge id="1736" source="1167" target="1025"></edge>
+      <edge id="1748" source="1167" target="1029"></edge>
+      <edge id="1756" source="1167" target="1031"></edge>
+      <edge id="1754" source="1167" target="1033"></edge>
+      <edge id="1761" source="1167" target="1035"></edge>
+      <edge id="1765" source="1167" target="1036"></edge>
+      <edge id="1767" source="1167" target="1038"></edge>
+      <edge id="1769" source="1167" target="1039"></edge>
+      <edge id="1778" source="1167" target="1046"></edge>
+      <edge id="1779" source="1167" target="1048"></edge>
+      <edge id="1734" source="1167" target="1053"></edge>
+      <edge id="1738" source="1167" target="1054"></edge>
+      <edge id="1739" source="1167" target="1055"></edge>
+      <edge id="1745" source="1167" target="1056"></edge>
+      <edge id="1742" source="1167" target="1058"></edge>
+      <edge id="1747" source="1167" target="1061"></edge>
+      <edge id="1777" source="1167" target="1065"></edge>
+      <edge id="1755" source="1167" target="1068"></edge>
+      <edge id="1759" source="1167" target="1070"></edge>
+      <edge id="1760" source="1167" target="1071"></edge>
+      <edge id="1766" source="1167" target="1075"></edge>
+      <edge id="1749" source="1167" target="1076"></edge>
+      <edge id="1768" source="1167" target="1078"></edge>
+      <edge id="1770" source="1167" target="1079"></edge>
+      <edge id="1771" source="1167" target="1081"></edge>
+      <edge id="1772" source="1167" target="1082"></edge>
+      <edge id="1735" source="1167" target="1094"></edge>
+      <edge id="1737" source="1167" target="1097"></edge>
+      <edge id="1740" source="1167" target="1098"></edge>
+      <edge id="1776" source="1167" target="1108"></edge>
+      <edge id="1753" source="1167" target="1109"></edge>
+      <edge id="1744" source="1167" target="1113"></edge>
+      <edge id="1762" source="1167" target="1117"></edge>
+      <edge id="1763" source="1167" target="1118"></edge>
+      <edge id="1750" source="1167" target="1127"></edge>
+      <edge id="1775" source="1167" target="1128"></edge>
+      <edge id="1764" source="1167" target="1134"></edge>
+      <edge id="1741" source="1167" target="1135"></edge>
+      <edge id="1751" source="1167" target="1142"></edge>
+      <edge id="1752" source="1167" target="1143"></edge>
+      <edge id="1746" source="1167" target="1144"></edge>
+      <edge id="1758" source="1167" target="1146"></edge>
+      <edge id="1780" source="1167" target="1149"></edge>
+      <edge id="1757" source="1167" target="1152"></edge>
+      <edge id="1773" source="1167" target="1155"></edge>
+      <edge id="1774" source="1167" target="1160"></edge>
+      <edge id="1782" source="1167" target="1163"></edge>
+      <edge id="1781" source="1167" target="1168"></edge>
+    </edges>
+  </graph>
+</gexf>

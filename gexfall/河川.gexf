@@ -1,0 +1,1974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-05-08">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" idtype="integer" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity" title="Modularity" type="string"></attribute>
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="1" label="広域的地域活性化のための基盤整備に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-266.49075" y="-93.996605"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="2" label="水道法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="205.57855" y="-146.89177"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="3" label="ダム使用権登録令">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.615385"></viz:size>
+        <viz:position x="658.9309" y="-300.39566"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="4" label="地震防災対策特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-255.64946" y="218.00201"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="5" label="湖沼水質保全特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-231.96852" y="143.70839"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="6" label="石綿による健康被害の救済に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-182.84865" y="-48.505783"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="7" label="電気事業法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-157.7192" y="51.105156"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="8" label="自然公園法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-280.45404" y="253.39029"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="9" label="内閣府において交付金の配分計画に関する事務を行う事業又は事務を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="165.3297" y="126.9322"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="10" label="国有財産特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国有財産"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-103.03929" y="363.1333"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="11" label="国土交通省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="11.304283" y="-200.51427"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="12" label="電気事業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-193.72202" y="286.20465"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="13" label="首都圏近郊緑地保全法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="63.000416" y="222.95189"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="14" label="特定多目的ダム法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="567.03796" y="-212.04187"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="15" label="日本国有鉄道改革法等施行法の施行に伴う経過措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-186.42923" y="335.0917"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="16" label="一般電気事業託送供給約款料金算定規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="80.28066" y="180.61316"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="17" label="法人税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-65.35412" y="-132.16417"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="18" label="都市公園法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-214.37006" y="-158.35573"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="19" label="高度専門医療に関する研究等を行う独立行政法人に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="151.43843" y="-103.22393"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="20" label="都市緑地法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="9.024818" y="295.96658"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="21" label="一般電気事業供給約款料金算定規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-170.45872" y="-84.630585"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="22" label="大深度地下の公共的使用に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="土地"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-287.08118" y="-129.12813"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="23" label="自衛隊法">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-215.97723" y="59.336205"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="24" label="海岸法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-352.84454" y="55.821255"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="25" label="奄美群島の復帰に伴う建設省関係法律の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="土地"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-67.81205" y="-179.85013"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="26" label="首都圏、近畿圏及び中部圏の近郊整備地帯等の整備のための国の財政上の特別措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-313.65613" y="-14.465731"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="27" label="環境省関係石綿による健康被害の救済に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="83.262146" y="260.2968"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="28" label="武力攻撃事態等における国民の保護のための措置に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-107.00421" y="195.53464"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="29" label="独立行政法人水資源機構法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.923077"></viz:size>
+        <viz:position x="270.6695" y="-25.440733"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="30" label="激甚災害に対処するための特別の財政援助等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-241.7005" y="10.573044"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="31" label="土地収用法">
+        <attvalues>
+          <attvalue for="modularity" value="土地"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="-41.188137" y="-286.32993"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="32" label="日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-66.24178" y="243.8997"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="33" label="水産資源保護法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-157.66187" y="319.28986"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="34" label="国立大学法人法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="190.47041" y="55.4717"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="35" label="鉱業等に係る土地利用の調整手続等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-27.222216" y="-169.27458"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="36" label="危険物の規制に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="消防"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="-144.67908" y="-269.99823"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="37" label="河川法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="-37.185646" y="53.9063"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="38" label="港湾法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-19.29774" y="255.49156"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="39" label="水防法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-191.95674" y="-204.52162"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="40" label="水防法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="540.81085" y="266.19818"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="41" label="土地改良法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="21.399284" y="185.65222"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="42" label="密集市街地における防災街区の整備の促進に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-23.088497" y="141.21082"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="43" label="独立行政法人国立高等専門学校機構法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="38.035904" y="-82.77025"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="44" label="独立行政法人年金・健康保険福祉施設整理機構法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-57.606564" y="194.3391"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="45" label="海岸法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-223.8825" y="-36.555447"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="46" label="河川管理施設等構造令">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="8.923077"></viz:size>
+        <viz:position x="350.60214" y="58.205288"></viz:position>
+        <viz:color r="195" g="71" b="226"></viz:color>
+      </node>
+      <node id="47" label="工業用水法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-195.74675" y="-128.94513"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="48" label="発電用水力設備に関する技術基準を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="251.40495" y="57.860344"></viz:position>
+        <viz:color r="195" g="71" b="226"></viz:color>
+      </node>
+      <node id="49" label="地価税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-189.92299" y="168.57187"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="50" label="国土交通省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-322.30493" y="134.87094"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="51" label="特定水道利水障害の防止のための水道水源水域の水質の保全に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="157.47844" y="285.9866"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="52" label="新都市基盤整備法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="77.4049" y="343.49838"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="53" label="鳥獣の保護及び狩猟の適正化に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-153.22696" y="115.33092"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="54" label="所得税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="124.81176" y="161.3614"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="55" label="国有資産等所在市町村交付金法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="559.1987" y="-340.24692"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="56" label="医療法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="523.244" y="299.46155"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="57" label="北海道開発局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="40.57559" y="355.53244"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="58" label="宅地建物取引業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-130.45848" y="-173.99539"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="59" label="沖縄総合事務局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="198.5963" y="-172.53433"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="60" label="特定多目的ダム法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.615385"></viz:size>
+        <viz:position x="244.01079" y="-89.6466"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="61" label="地方税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="85.80636" y="-203.18391"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="62" label="土壌汚染対策法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="50.817516" y="-184.09598"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="63" label="水質汚濁防止法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-213.62666" y="249.44734"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="64" label="大都市地域における住宅及び住宅地の供給の促進に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="157.60333" y="245.97116"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="65" label="武力攻撃事態等における国民の保護のための措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="587.0823" y="78.82955"></viz:position>
+        <viz:color r="195" g="71" b="226"></viz:color>
+      </node>
+      <node id="66" label="租税特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-345.0566" y="-20.107574"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="67" label="東日本大震災による被害を受けた公共土木施設の災害復旧事業等に係る工事の国等による代行に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-47.64117" y="368.08664"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="68" label="有明海及び八代海等を再生するための特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-76.439545" y="345.82663"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="69" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.923077"></viz:size>
+        <viz:position x="112.49373" y="-236.98259"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="70" label="産業廃棄物の処理に係る特定施設の整備の促進に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="106.74804" y="-65.73183"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="71" label="都市再生特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="43.492725" y="-222.89188"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="72" label="ダム使用権登録令施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="721.37213" y="-199.01804"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="73" label="放水路が都市施設として都市計画に定められる場合における当該都市施設に係る放水路事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="211.67967" y="132.94167"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="74" label="自衛隊法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="112.714905" y="-115.4203"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="75" label="大規模災害からの復興に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-34.67981" y="325.35226"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="76" label="ダムが都市施設として都市計画に定められる場合における当該都市施設に係るダム事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="256.04333" y="102.13065"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="77" label="砂防法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-296.5363" y="-52.05813"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="78" label="沖縄振興特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="224.8122" y="-114.15267"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="79" label="沖縄の復帰に伴う建設省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="土地"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="72.80423" y="-154.50743"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="80" label="東日本大震災復興特別区域法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="21.332346" y="245.09087"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="81" label="道路法">
+        <attvalues>
+          <attvalue for="modularity" value="道路"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-347.84372" y="16.849895"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="82" label="国有資産等所在市町村交付金法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="526.52594" y="-382.15543"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="83" label="特別交付税に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-328.6273" y="-65.56357"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="84" label="津波防災地域づくりに関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-217.53731" y="310.3202"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="85" label="河川法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.615385"></viz:size>
+        <viz:position x="209.45395" y="-34.500816"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="86" label="企業再建整備法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-230.5953" y="-667.6518"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="87" label="社会資本整備重点計画法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-173.63608" y="-170.80846"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="88" label="砂利採取法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-274.5438" y="105.43964"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="89" label="河川法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="13.230769"></viz:size>
+        <viz:position x="322.0498" y="163.59091"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="90" label="後進地域の開発に関する公共事業に係る国の負担割合の特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-302.54544" y="85.905754"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="91" label="放水路事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="248.68524" y="138.30255"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="92" label="近畿圏整備法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-233.35953" y="-185.6375"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="93" label="広域的地域活性化のための基盤整備に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="119.93332" y="-22.91629"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="94" label="水質汚濁防止法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-151.27124" y="-206.01674"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="95" label="東南海・南海地震に係る地震防災対策の推進に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="52.116425" y="285.43665"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="96" label="水道法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-194.63795" y="218.53456"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="97" label="工業用水道事業法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-101.13486" y="278.51624"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="98" label="漁業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-317.48465" y="49.796093"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="99" label="企業再建整備法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-199.03867" y="-640.35956"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="100" label="絶滅のおそれのある野生動植物の種の保存に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-236.43016" y="-124.84866"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="101" label="地価税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-139.78064" y="-14.503095"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="102" label="古都における歴史的風土の保存に関する特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-291.12204" y="145.39746"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="103" label="明日香村における歴史的風土の保存及び生活環境の整備等に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-236.37157" y="97.18795"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="104" label="公共土木施設災害復旧事業費国庫負担法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="103.10905" y="93.649376"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="105" label="行政改革を推進するため当面講ずべき措置の一環としての国の補助金等の縮減その他の臨時の特例措置に関する法律に基づく特定地域に係る国の負担、補助等の特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="553.078" y="225.82927"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="106" label="不動産登記法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-111.70232" y="-85.87294"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="107" label="災害対策基本法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="487.05545" y="-395.66202"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="108" label="電気通信事業法">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-264.18622" y="-156.1025"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="109" label="建築物用地下水の採取の規制に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="61.7318" y="126.543495"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="110" label="ダム事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="240.84183" y="185.0651"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="111" label="国有財産法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国有財産"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="173.6417" y="-37.742565"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="112" label="湖沼水質保全特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="5.1653924" y="-233.22453"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="113" label="都市計画法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="120.21433" y="243.62132"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="114" label="湖沼水質保全特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-12.740155" y="-105.37947"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="115" label="公有地の拡大の推進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="土地"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-109.60821" y="-147.22961"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="116" label="河川法第四条第一項の水系を指定する政令">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="86.831" y="311.09723"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="117" label="採石法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="37.621803" y="-129.9372"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="118" label="牧野法">
+        <attvalues>
+          <attvalue for="modularity" value="農業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-2.2280698" y="368.45303"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="119" label="国土交通省関係地域における歴史的風致の維持及び向上に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="109.101425" y="-166.84642"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="120" label="国土交通省関係東日本大震災復興特別区域法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="233.21594" y="29.140396"></viz:position>
+        <viz:color r="195" g="71" b="226"></viz:color>
+      </node>
+      <node id="121" label="自然再生推進法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-115.53101" y="317.5923"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="122" label="犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-37.812637" y="-212.17271"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="123" label="国有資産等所在市町村交付金法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="563.68756" y="-295.91336"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="124" label="地震防災対策強化地域における地震対策緊急整備事業に係る国の財政上の特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="57.383446" y="-37.5012"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="125" label="自衛隊法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="196.4371" y="167.30629"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="126" label="大規模地震対策特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-167.43164" y="247.76999"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="127" label="地すべり等防止法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="38.24844" y="319.77216"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="128" label="漁港漁場整備法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-195.0607" y="111.752144"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="129" label="環境影響評価法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-48.212982" y="281.29456"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="130" label="独立行政法人都市再生機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-274.64822" y="-7.0089946"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="131" label="北方領土問題等の解決の促進のための特別措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-1.5377287" y="337.22427"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="132" label="港湾法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-246.71733" y="257.76578"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="133" label="牧野法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="農業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-147.15977" y="285.8103"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="134" label="運河法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-194.8885" y="-673.7802"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="135" label="モーターボート競走法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-303.9292" y="-96.39472"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="136" label="中部圏開発整備法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="-123.40385" y="-282.95667"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="137" label="自然環境保全法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-326.59225" y="175.59624"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="138" label="福島復興再生特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="138.31966" y="-157.3882"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="139" label="急傾斜地の崩壊による災害の防止に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="139.01547" y="110.71004"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="140" label="卸供給料金算定規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="151.52614" y="-63.460987"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="141" label="堰が都市施設として都市計画に定められる場合における当該都市施設に係る堰事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="226.59763" y="105.218315"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="142" label="国土調査法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-138.26566" y="350.77454"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="143" label="構造改革特別区域法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-228.31044" y="191.75752"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="144" label="特別会計に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="230.9439" y="-138.84995"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="145" label="景観法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="100.714806" y="48.0695"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="146" label="港湾法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="海運"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-346.94495" y="91.19091"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="147" label="租税特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="159.14192" y="55.199966"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="148" label="砂利採取法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="497.88705" y="328.75757"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="149" label="会社経理応急措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-247.24011" y="-631.47003"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="150" label="集落地域整備法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="農業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-267.7118" y="168.0991"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="151" label="特別会計に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="520.19965" y="-341.3347"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="152" label="河川法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="9.538462"></viz:size>
+        <viz:position x="329.22464" y="15.37911"></viz:position>
+        <viz:color r="195" g="71" b="226"></viz:color>
+      </node>
+      <node id="153" label="国土交通省関係構造改革特別区域法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="231.79346" y="0.28760234"></viz:position>
+        <viz:color r="195" g="71" b="226"></viz:color>
+      </node>
+      <node id="154" label="河川附帯工事の費用負担に関する事務取扱規則">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="307.979" y="-50.065063"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="155" label="コンビナート等保安規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="-71.46403" y="-269.17422"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="156" label="特定都市河川浸水被害対策法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="226.81953" y="162.40544"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="157" label="道州制特別区域における広域行政の推進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-20.672781" y="212.67896"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="158" label="土地区画整理法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="-76.75572" y="-292.22797"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="159" label="密集市街地における防災街区の整備の促進に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="126.7797" y="202.27689"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="160" label="臓器の移植に関する法律附則第十一条第一項の法律を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-59.219173" y="-84.70009"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="161" label="地方整備局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-120.97752" y="241.15683"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="162" label="堰事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="211.8376" y="232.62933"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="163" label="電気通信事業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-98.48319" y="-198.49329"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="164" label="所得税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-152.82825" y="-121.464485"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="165" label="独立行政法人都市再生機構法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="57.2075" y="27.930052"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="166" label="軌道法">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="123.37018" y="316.41724"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="167" label="湖沼水位調節施設が都市施設として都市計画に定められる場合における当該都市施設に係る湖沼水位調節施設事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="196.72418" y="203.39082"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="168" label="都市計画法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="130.56726" y="15.75283"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="169" label="構造改革特別区域法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="8.328743" y="-152.56877"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="170" label="道の区域内の国土交通大臣が管理する河川に係る流水占用料等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-305.5326" y="225.12834"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="171" label="中央省庁等改革のための関係建設省令の整備に関する省令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="9.230769"></viz:size>
+        <viz:position x="530.9803" y="-95.75182"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="172" label="都市再開発法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-193.74567" y="5.3392015"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="173" label="特定都市河川浸水被害対策法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-220.0434" y="-83.172585"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="174" label="林業種苗法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="林業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-260.84552" y="-54.711956"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="175" label="犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-349.70612" y="126.13672"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="176" label="砂防法施行規程">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="77.37623" y="-106.4168"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="177" label="河川管理施設等構造令施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="8.615385"></viz:size>
+        <viz:position x="509.52924" y="3.6286266"></viz:position>
+        <viz:color r="195" g="71" b="226"></viz:color>
+      </node>
+      <node id="178" label="独立行政法人水資源機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-246.77934" y="289.18115"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="179" label="水道原水水質保全事業の実施の促進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-16.520727" y="-50.238735"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="180" label="不動産特定共同事業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-153.37906" y="200.79634"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="181" label="湖沼水位調節施設事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"></attvalue>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="232.48524" y="210.42831"></viz:position>
+        <viz:color r="226" g="71" b="71"></viz:color>
+      </node>
+      <node id="182" label="東日本大震災による被害を受けた公共土木施設の災害復旧事業等に係る工事の国等による代行に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="115.43277" y="283.26175"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="183" label="租税特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-294.11652" y="194.27022"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="184" label="東日本大震災復興特別区域法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-104.90907" y="134.93758"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="185" label="運河法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="11.076923"></viz:size>
+        <viz:position x="-119.62419" y="-450.62125"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="186" label="特定多目的ダム法">
+        <attvalues>
+          <attvalue for="modularity" value="河川"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="12.307692"></viz:size>
+        <viz:position x="359.682" y="-210.94742"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+      <node id="187" label="石油パイプライン事業の事業用施設の技術上の基準を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"></attvalue>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="8.307693"></viz:size>
+        <viz:position x="-101.65696" y="-272.49606"></viz:position>
+        <viz:color r="195" g="226" b="71"></viz:color>
+      </node>
+      <node id="188" label="都市開発資金の貸付けに関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-273.50903" y="54.121494"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="189" label="景観法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-74.5086" y="-26.091297"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="190" label="漁港漁場整備法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-297.45026" y="21.409494"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="191" label="自動車損害賠償保障法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"></attvalue>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-73.591095" y="308.0636"></viz:position>
+        <viz:color r="71" g="226" b="133"></viz:color>
+      </node>
+      <node id="192" label="工場抵当登記規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="844.5298" y="-391.27466"></viz:position>
+        <viz:color r="71" g="133" b="226"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="47" source="3" target="72"></edge>
+      <edge id="48" source="3" target="192"></edge>
+      <edge id="26" source="14" target="171"></edge>
+      <edge id="55" source="37" target="1"></edge>
+      <edge id="60" source="37" target="2"></edge>
+      <edge id="57" source="37" target="4"></edge>
+      <edge id="58" source="37" target="5"></edge>
+      <edge id="59" source="37" target="6"></edge>
+      <edge id="56" source="37" target="7"></edge>
+      <edge id="61" source="37" target="8"></edge>
+      <edge id="62" source="37" target="9"></edge>
+      <edge id="63" source="37" target="10"></edge>
+      <edge id="64" source="37" target="11"></edge>
+      <edge id="65" source="37" target="12"></edge>
+      <edge id="66" source="37" target="13"></edge>
+      <edge id="68" source="37" target="15"></edge>
+      <edge id="69" source="37" target="16"></edge>
+      <edge id="70" source="37" target="17"></edge>
+      <edge id="71" source="37" target="18"></edge>
+      <edge id="72" source="37" target="19"></edge>
+      <edge id="73" source="37" target="20"></edge>
+      <edge id="74" source="37" target="21"></edge>
+      <edge id="75" source="37" target="22"></edge>
+      <edge id="76" source="37" target="23"></edge>
+      <edge id="77" source="37" target="24"></edge>
+      <edge id="78" source="37" target="25"></edge>
+      <edge id="79" source="37" target="26"></edge>
+      <edge id="80" source="37" target="27"></edge>
+      <edge id="116" source="37" target="28"></edge>
+      <edge id="172" source="37" target="29"></edge>
+      <edge id="83" source="37" target="30"></edge>
+      <edge id="84" source="37" target="31"></edge>
+      <edge id="193" source="37" target="32"></edge>
+      <edge id="210" source="37" target="33"></edge>
+      <edge id="85" source="37" target="34"></edge>
+      <edge id="145" source="37" target="35"></edge>
+      <edge id="87" source="37" target="36"></edge>
+      <edge id="146" source="37" target="38"></edge>
+      <edge id="89" source="37" target="39"></edge>
+      <edge id="90" source="37" target="41"></edge>
+      <edge id="91" source="37" target="42"></edge>
+      <edge id="92" source="37" target="43"></edge>
+      <edge id="93" source="37" target="44"></edge>
+      <edge id="94" source="37" target="45"></edge>
+      <edge id="95" source="37" target="46"></edge>
+      <edge id="96" source="37" target="47"></edge>
+      <edge id="97" source="37" target="48"></edge>
+      <edge id="98" source="37" target="49"></edge>
+      <edge id="99" source="37" target="50"></edge>
+      <edge id="100" source="37" target="51"></edge>
+      <edge id="101" source="37" target="52"></edge>
+      <edge id="102" source="37" target="53"></edge>
+      <edge id="103" source="37" target="54"></edge>
+      <edge id="105" source="37" target="57"></edge>
+      <edge id="106" source="37" target="58"></edge>
+      <edge id="107" source="37" target="59"></edge>
+      <edge id="108" source="37" target="60"></edge>
+      <edge id="109" source="37" target="61"></edge>
+      <edge id="110" source="37" target="62"></edge>
+      <edge id="111" source="37" target="63"></edge>
+      <edge id="112" source="37" target="64"></edge>
+      <edge id="113" source="37" target="66"></edge>
+      <edge id="114" source="37" target="67"></edge>
+      <edge id="115" source="37" target="68"></edge>
+      <edge id="81" source="37" target="69"></edge>
+      <edge id="204" source="37" target="70"></edge>
+      <edge id="117" source="37" target="71"></edge>
+      <edge id="118" source="37" target="73"></edge>
+      <edge id="119" source="37" target="74"></edge>
+      <edge id="120" source="37" target="75"></edge>
+      <edge id="121" source="37" target="76"></edge>
+      <edge id="122" source="37" target="77"></edge>
+      <edge id="123" source="37" target="78"></edge>
+      <edge id="206" source="37" target="79"></edge>
+      <edge id="124" source="37" target="80"></edge>
+      <edge id="125" source="37" target="81"></edge>
+      <edge id="126" source="37" target="83"></edge>
+      <edge id="127" source="37" target="84"></edge>
+      <edge id="128" source="37" target="85"></edge>
+      <edge id="67" source="37" target="87"></edge>
+      <edge id="130" source="37" target="88"></edge>
+      <edge id="131" source="37" target="89"></edge>
+      <edge id="223" source="37" target="90"></edge>
+      <edge id="132" source="37" target="91"></edge>
+      <edge id="133" source="37" target="92"></edge>
+      <edge id="134" source="37" target="93"></edge>
+      <edge id="212" source="37" target="94"></edge>
+      <edge id="136" source="37" target="95"></edge>
+      <edge id="217" source="37" target="96"></edge>
+      <edge id="159" source="37" target="97"></edge>
+      <edge id="139" source="37" target="98"></edge>
+      <edge id="140" source="37" target="100"></edge>
+      <edge id="141" source="37" target="101"></edge>
+      <edge id="142" source="37" target="102"></edge>
+      <edge id="143" source="37" target="103"></edge>
+      <edge id="144" source="37" target="104"></edge>
+      <edge id="88" source="37" target="106"></edge>
+      <edge id="147" source="37" target="108"></edge>
+      <edge id="148" source="37" target="109"></edge>
+      <edge id="149" source="37" target="110"></edge>
+      <edge id="150" source="37" target="111"></edge>
+      <edge id="151" source="37" target="112"></edge>
+      <edge id="152" source="37" target="113"></edge>
+      <edge id="153" source="37" target="114"></edge>
+      <edge id="154" source="37" target="115"></edge>
+      <edge id="155" source="37" target="116"></edge>
+      <edge id="156" source="37" target="117"></edge>
+      <edge id="157" source="37" target="118"></edge>
+      <edge id="158" source="37" target="119"></edge>
+      <edge id="138" source="37" target="120"></edge>
+      <edge id="160" source="37" target="121"></edge>
+      <edge id="161" source="37" target="122"></edge>
+      <edge id="162" source="37" target="124"></edge>
+      <edge id="175" source="37" target="125"></edge>
+      <edge id="164" source="37" target="126"></edge>
+      <edge id="165" source="37" target="127"></edge>
+      <edge id="166" source="37" target="128"></edge>
+      <edge id="167" source="37" target="129"></edge>
+      <edge id="168" source="37" target="130"></edge>
+      <edge id="169" source="37" target="131"></edge>
+      <edge id="104" source="37" target="132"></edge>
+      <edge id="170" source="37" target="133"></edge>
+      <edge id="171" source="37" target="135"></edge>
+      <edge id="82" source="37" target="136"></edge>
+      <edge id="173" source="37" target="137"></edge>
+      <edge id="174" source="37" target="138"></edge>
+      <edge id="163" source="37" target="139"></edge>
+      <edge id="176" source="37" target="140"></edge>
+      <edge id="177" source="37" target="141"></edge>
+      <edge id="178" source="37" target="142"></edge>
+      <edge id="179" source="37" target="143"></edge>
+      <edge id="180" source="37" target="144"></edge>
+      <edge id="181" source="37" target="145"></edge>
+      <edge id="182" source="37" target="146"></edge>
+      <edge id="183" source="37" target="147"></edge>
+      <edge id="184" source="37" target="150"></edge>
+      <edge id="185" source="37" target="152"></edge>
+      <edge id="186" source="37" target="153"></edge>
+      <edge id="187" source="37" target="154"></edge>
+      <edge id="188" source="37" target="155"></edge>
+      <edge id="202" source="37" target="156"></edge>
+      <edge id="190" source="37" target="157"></edge>
+      <edge id="221" source="37" target="158"></edge>
+      <edge id="192" source="37" target="159"></edge>
+      <edge id="137" source="37" target="160"></edge>
+      <edge id="194" source="37" target="161"></edge>
+      <edge id="195" source="37" target="162"></edge>
+      <edge id="196" source="37" target="163"></edge>
+      <edge id="197" source="37" target="164"></edge>
+      <edge id="198" source="37" target="165"></edge>
+      <edge id="199" source="37" target="166"></edge>
+      <edge id="200" source="37" target="167"></edge>
+      <edge id="201" source="37" target="168"></edge>
+      <edge id="189" source="37" target="169"></edge>
+      <edge id="203" source="37" target="170"></edge>
+      <edge id="205" source="37" target="172"></edge>
+      <edge id="191" source="37" target="173"></edge>
+      <edge id="207" source="37" target="174"></edge>
+      <edge id="208" source="37" target="175"></edge>
+      <edge id="209" source="37" target="176"></edge>
+      <edge id="211" source="37" target="178"></edge>
+      <edge id="135" source="37" target="179"></edge>
+      <edge id="213" source="37" target="180"></edge>
+      <edge id="214" source="37" target="181"></edge>
+      <edge id="86" source="37" target="182"></edge>
+      <edge id="215" source="37" target="183"></edge>
+      <edge id="216" source="37" target="184"></edge>
+      <edge id="218" source="37" target="186"></edge>
+      <edge id="219" source="37" target="187"></edge>
+      <edge id="220" source="37" target="188"></edge>
+      <edge id="222" source="37" target="189"></edge>
+      <edge id="129" source="37" target="190"></edge>
+      <edge id="224" source="37" target="191"></edge>
+      <edge id="44" source="46" target="48"></edge>
+      <edge id="46" source="46" target="65"></edge>
+      <edge id="45" source="46" target="177"></edge>
+      <edge id="227" source="60" target="29"></edge>
+      <edge id="27" source="72" target="171"></edge>
+      <edge id="226" source="85" target="69"></edge>
+      <edge id="225" source="85" target="89"></edge>
+      <edge id="29" source="89" target="29"></edge>
+      <edge id="39" source="89" target="40"></edge>
+      <edge id="36" source="89" target="56"></edge>
+      <edge id="43" source="89" target="73"></edge>
+      <edge id="31" source="89" target="76"></edge>
+      <edge id="34" source="89" target="91"></edge>
+      <edge id="35" source="89" target="105"></edge>
+      <edge id="30" source="89" target="110"></edge>
+      <edge id="33" source="89" target="125"></edge>
+      <edge id="37" source="89" target="141"></edge>
+      <edge id="42" source="89" target="148"></edge>
+      <edge id="41" source="89" target="152"></edge>
+      <edge id="28" source="89" target="156"></edge>
+      <edge id="32" source="89" target="162"></edge>
+      <edge id="38" source="89" target="167"></edge>
+      <edge id="40" source="89" target="181"></edge>
+      <edge id="50" source="152" target="120"></edge>
+      <edge id="49" source="152" target="153"></edge>
+      <edge id="51" source="152" target="171"></edge>
+      <edge id="54" source="154" target="171"></edge>
+      <edge id="53" source="177" target="152"></edge>
+      <edge id="52" source="177" target="171"></edge>
+      <edge id="5" source="185" target="31"></edge>
+      <edge id="7" source="185" target="36"></edge>
+      <edge id="8" source="185" target="69"></edge>
+      <edge id="11" source="185" target="86"></edge>
+      <edge id="3" source="185" target="99"></edge>
+      <edge id="10" source="185" target="134"></edge>
+      <edge id="1" source="185" target="136"></edge>
+      <edge id="4" source="185" target="149"></edge>
+      <edge id="9" source="185" target="155"></edge>
+      <edge id="2" source="185" target="158"></edge>
+      <edge id="6" source="185" target="187"></edge>
+      <edge id="13" source="186" target="2"></edge>
+      <edge id="15" source="186" target="3"></edge>
+      <edge id="14" source="186" target="14"></edge>
+      <edge id="12" source="186" target="29"></edge>
+      <edge id="17" source="186" target="55"></edge>
+      <edge id="23" source="186" target="59"></edge>
+      <edge id="24" source="186" target="60"></edge>
+      <edge id="25" source="186" target="69"></edge>
+      <edge id="16" source="186" target="78"></edge>
+      <edge id="21" source="186" target="82"></edge>
+      <edge id="19" source="186" target="107"></edge>
+      <edge id="22" source="186" target="123"></edge>
+      <edge id="20" source="186" target="144"></edge>
+      <edge id="18" source="186" target="151"></edge>
+    </edges>
+  </graph>
+</gexf>

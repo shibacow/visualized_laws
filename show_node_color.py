@@ -185,9 +185,7 @@ def show_files(config):
         gx.export(i)
 def load_yaml():
     return ruamel.yaml.load(open("config/config.yaml"),Loader=ruamel.yaml.Loader)
-    
 def main():
     config=load_yaml()
     show_files(config)
-    
 if __name__=='__main__':main()
