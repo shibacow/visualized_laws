@@ -23,6 +23,8 @@ import org.gephi.preview.types as preview_types
 from java.awt import GraphicsEnvironment
 from java.awt import Font
 from com.itextpdf.text import FontFactory
+import ruamel.yaml
+from pprint import pprint
 
 def ProjectController(lookup):
     return lookup(project.ProjectController)
@@ -84,6 +86,16 @@ class GexfPdfer(object):
         self.import_controller.process(container,processor.DefaultProcessor(),self.workspace)
         self.graph = self.graph_model.getDirectedGraph()
         logging.info(graph)
+    def __get_color(self,cat):
+        colors=self.config['COLORS']
+        if cat=='cat':
+            cat=self.basef
+        cfg=colors[cat]
+        h=cfg['h']
+        s=cfg['s']
+        b=cfg['b']
+        return Color.getHSBColor(h,s,b)
+
     def nodeshow(self):
         for i,node in enumerate(self.graph.getNodes()):
             if i==0:
@@ -106,7 +118,9 @@ class GexfPdfer(object):
             #    label=node.label
             #    
             #color=node.color
-            #cat=node.getAttribute("modularity")
+            cat=node.getAttribute("modularity")
+            c=self.__get_color(cat)
+            node.setColor(c)
             #r=color.red
             #g=color.green
             #b=color.blue
@@ -131,7 +145,12 @@ class GexfPdfer(object):
         FontFactory.register("/usr/share/fonts/YuGothM.ttc","Yu Gothic UI Regular")
         self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_THICKNESS,3.0)
         #self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_BORDER_WIDTH,0.0)
-        self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_BORDER_WIDTH,1.0)
+        assert(self.config['NODE_BORDER'])
+        if self.config.get('NODE_BORDER',False)==True:
+            border_width=1.0
+        else:
+            border_width=0.0
+        self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_BORDER_WIDTH,border_width)
         self.preview_model.getProperties().putValue(preview.PreviewProperty.SHOW_NODE_LABELS,True)
         self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_COLOR,preview_types.EdgeColor(preview_types.EdgeColor.Mode.MIXED))
         self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_LABEL_FONT,
@@ -150,19 +169,25 @@ class GexfPdfer(object):
         except Exception,err:
             print(err)
 
-    def __init__(self,f):
+    def __init__(self,f,config):
         df=os.path.basename(f)
         (basef,ext)=os.path.splitext(df)
         self.basef=basef
+        self.config=config
         self.__initialize()
 
-def show_files():
+def show_files(config):
     for i,f in enumerate(glob("gexf/*.gexf")):
-        gx=GexfPdfer(f)
+        gx=GexfPdfer(f,config)
         gx.readfile(f)
         gx.nodeshow()
         gx.edgeshow()
         gx.export(i)
+def load_yaml():
+    return ruamel.yaml.load(open("config/config.yaml"),Loader=ruamel.yaml.Loader)
+    
 def main():
-    show_files()
+    config=load_yaml()
+    show_files(config)
+    
 if __name__=='__main__':main()
