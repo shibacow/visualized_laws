@@ -73,9 +73,9 @@ def makematrix():
 
 def inverth(matrix):
     cat2=[]
-    for i in range(5):
-        for j in range(10):
-            cat2.append(matrix[j][i])
+    for i in range(10):
+        for j in range(5):
+            cat2.append(matrix[i][j])
     return cat2
 def genhsbhash(cat2list):
     configdict={

@@ -1,3 +1,5 @@
+#/usr/bin/env jython
+# -*- coding:utf-8 -*-
 import org.gephi.project.api as project
 from org.openide.util import Lookup
 import org.gephi.graph.api as graph
@@ -25,6 +27,7 @@ from java.awt import Font
 from com.itextpdf.text import FontFactory
 import ruamel.yaml
 from pprint import pprint
+import csv
 
 def ProjectController(lookup):
     return lookup(project.ProjectController)
@@ -90,7 +93,8 @@ class GexfPdfer(object):
         colors=self.config['COLORS']
         if cat=='cat':
             cat=self.basef
-        cfg=colors[cat]
+        defcfg=colors[u'憲法']
+        cfg=colors.get(cat,defcfg)
         h=cfg['h']
         s=cfg['s']
         b=cfg['b']
@@ -104,10 +108,10 @@ class GexfPdfer(object):
                 for k in node.getAttributeKeys():
                     print("ak={}".format(k))
             v=node.getDegree()
-            #sz=node.size()
             l=node.label
-            #lent=len(l)
-            #node.setLabel(str(lent))
+            if self.shortcut.has_key(l):
+                s=self.shortcut[l]
+                node.setLabel(s)
             if v<20:
                 node.setSize(20.0)
                 node.setLabel(None)
@@ -164,28 +168,41 @@ class GexfPdfer(object):
         try:
             fname="out/cat_"+self.basef+".pdf"
             ec.exportFile(File(fname))
-            svgname="out/svg_"+self.basef+".svg"
+            svgname="out/cat_"+self.basef+".svg"
             ec.exportFile(File(svgname))
         except Exception,err:
             print(err)
 
-    def __init__(self,f,config):
+    def __init__(self,f,config,shortcut):
         df=os.path.basename(f)
         (basef,ext)=os.path.splitext(df)
         self.basef=basef
         self.config=config
+        self.shortcut=shortcut
         self.__initialize()
 
-def show_files(config):
-    for i,f in enumerate(glob("gexf/*.gexf")):
-        gx=GexfPdfer(f,config)
+def show_files(config,shortcut):
+    for i,f in enumerate(glob("gexfall/*.gexf")):
+        gx=GexfPdfer(f,config,shortcut)
         gx.readfile(f)
         gx.nodeshow()
         gx.edgeshow()
         gx.export(i)
 def load_yaml():
     return ruamel.yaml.load(open("config/config.yaml"),Loader=ruamel.yaml.Loader)
+def load_shortcut():
+    dkt={}
+    for r in csv.reader(open('config/shortcut.csv')):
+        k=r[0]
+        v=r.pop()
+        while not v:
+            v=r.pop()
+        k=unicode(k,'utf-8')
+        v=unicode(v,'utf-8')
+        dkt[k]=v
+    return dkt
 def main():
     config=load_yaml()
-    show_files(config)
+    shortcut=load_shortcut()
+    show_files(config,shortcut)
 if __name__=='__main__':main()
