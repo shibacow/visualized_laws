@@ -20,7 +20,7 @@ import os
 from glob import glob
 import logging
 FORMAT="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
-logging.basicConfig(level=logging.DEBUG,format=FORMAT)
+logging.basicConfig(level=logging.INFO,format=FORMAT)
 import org.gephi.preview.types as preview_types
 from java.awt import GraphicsEnvironment
 from java.awt import Font
@@ -70,14 +70,7 @@ class GexfPdfer(object):
         for f in ge.getAllFonts():
             n=f.getName()
             if n=="Yu Gothic UI Regular":
-                #print(dir(f))
                 self.font=f
-                #self.font.size=20
-            #print("font={}".format(str(f)))
-        #    print(dir(f))
-        #for fm in ge.getAvailableFontFamilyNames():
-            #print("font famiry={}".format(str(fm)))
-        #    print(fm)
     def readfile(self,f):
         try:
             logging.info(File(f).length())
@@ -99,52 +92,37 @@ class GexfPdfer(object):
         s=cfg['s']
         b=cfg['b']
         return Color.getHSBColor(h,s,b)
+    def __detect_threshold_degree(self,limit=0.5):
+        deglist=[node.getDegree() for node in self.graph.getNodes()]
+        deglist=sorted(deglist)
+        sz=len(deglist)
+        sz=int(sz*limit)
+        return deglist[sz]
 
     def nodeshow(self):
+        thresh_hold_deg=self.__detect_threshold_degree(0.97)
+        logging.info("thresh_hold={}".format(thresh_hold_deg))
         for i,node in enumerate(self.graph.getNodes()):
             if i==0:
                 for k in dir(node):
-                    print("k={}".format(k))
+                    logging.debug("k={}".format(k))
                 for k in node.getAttributeKeys():
-                    print("ak={}".format(k))
+                    logging.debug("ak={}".format(k))
             v=node.getDegree()
             l=node.label
             if self.shortcut.has_key(l):
                 s=self.shortcut[l]
                 node.setLabel(s)
-            if v<20:
-                node.setSize(20.0)
+            if v<thresh_hold_deg:
                 node.setLabel(None)
-            #print("v={} sz={}".format(v,sz))
-            #if v<10:
-            #    sz=
-            #if i==0:
-            #    label=node.label
-            #    
-            #color=node.color
+                node.setSize(20.0)
+            if v<thresh_hold_deg/2.0:
+                node.setSize(14.0)
             cat=node.getAttribute("modularity")
             c=self.__get_color(cat)
             node.setColor(c)
-            #r=color.red
-            #g=color.green
-            #b=color.blue
-            #msg="cat={} r={} g={} b={}".format(cat.encode("utf-8"),r,g,b)
-            #print(msg)
-            #dkt[cat]=color
-        #return dkt
-    def edgeshow(self):
-        for i,edge in enumerate(self.graph.getEdges()):
-            edge.setWeight(0.0)
-            #if i==0:
-            #for k in dir(edge):
-                    #v=getattr(edge,k)
-                    #msg="k={} v={}".format(k,v)
-                    #print("k={}".format(k))
-                    #print edge.weight
-                    #print edge.getWeight()
-            #        edge.setWeight(0.001)
     def export(self,i):
-        print("start to set preview")
+        logging.info("start to set preview")
         FontFactory.register("/usr/share/fonts")
         FontFactory.register("/usr/share/fonts/YuGothM.ttc","Yu Gothic UI Regular")
         self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_THICKNESS,3.0)
@@ -159,11 +137,7 @@ class GexfPdfer(object):
         self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_COLOR,preview_types.EdgeColor(preview_types.EdgeColor.Mode.MIXED))
         self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_LABEL_FONT,
                                                self.preview_model.getProperties().getFontValue(preview.PreviewProperty.NODE_LABEL_FONT).deriveFont(20))
-        #self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_LABEL_FONT,Font({"name":"Yu Gothic Medium"}))
-        #self.preview_model.getProperties().putValue(preview.PreviewProperty.NODE_LABEL_FONT,self.font)
-        #f=self.preview_model.getProperties().getFontValue(preview.PreviewProperty.NODE_LABEL_FONT)
-        #print(f)
-        print("end to set preview")
+        logging.info("end to set preview")
         ec = ExportController(self.lookup)
         try:
             fname="out/cat_"+self.basef+".pdf"
@@ -171,7 +145,7 @@ class GexfPdfer(object):
             svgname="out/cat_"+self.basef+".svg"
             ec.exportFile(File(svgname))
         except Exception,err:
-            print(err)
+            logging.error(err)
 
     def __init__(self,f,config,shortcut):
         df=os.path.basename(f)
@@ -182,11 +156,10 @@ class GexfPdfer(object):
         self.__initialize()
 
 def show_files(config,shortcut):
-    for i,f in enumerate(glob("gexfall/*.gexf")):
+    for i,f in enumerate(glob("gexf/*.gexf")):
         gx=GexfPdfer(f,config,shortcut)
         gx.readfile(f)
         gx.nodeshow()
-        gx.edgeshow()
         gx.export(i)
 def load_yaml():
     return ruamel.yaml.load(open("config/config.yaml"),Loader=ruamel.yaml.Loader)
