@@ -1,0 +1,1467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-05-08">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" idtype="integer" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity" title="Modularity" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="16485" label="国会職員の育児休業等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="14.077922"></viz:size>
+        <viz:position x="452.6969" y="286.97192"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16486" label="農業委員会等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="258.9547" y="-507.2992"></viz:position>
+        <viz:color r="245" g="98" b="98"></viz:color>
+      </node>
+      <node id="16487" label="雇用保険法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="617.2696" y="365.65646"></viz:position>
+        <viz:color r="193" g="98" b="245"></viz:color>
+      </node>
+      <node id="16488" label="石綿による健康被害の救済に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="113.45746" y="52.000526"></viz:position>
+        <viz:color r="245" g="155" b="98"></viz:color>
+      </node>
+      <node id="16489" label="公認会計士法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="141.85194" y="295.9791"></viz:position>
+        <viz:color r="221" g="98" b="245"></viz:color>
+      </node>
+      <node id="16490" label="地方公務員等共済組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-112.414375" y="202.34697"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16491" label="内閣府において交付金の配分計画に関する事務を行う事業又は事務を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="399.8152" y="2476.4873"></viz:position>
+        <viz:color r="98" g="117" b="245"></viz:color>
+      </node>
+      <node id="16492" label="在外選挙執行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="70.007866" y="-456.1524"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16493" label="国会議員の選挙等の執行経費の基準に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-116.594894" y="-284.14648"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16494" label="地方公務員等共済組合法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="534.49713" y="424.17694"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16495" label="平成二十四年十一月十六日の衆議院の解散による衆議院議員の総選挙に係る在外公館等における在外投票の時間の特例を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="24.748528" y="-471.75385"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16496" label="防衛省職員の留学費用の償還に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="328.9892" y="264.69745"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16497" label="漁業法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="202.68642" y="-841.4479"></viz:position>
+        <viz:color r="245" g="98" b="240"></viz:color>
+      </node>
+      <node id="16498" label="地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="307.78555" y="-681.8484"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16499" label="内閣府本府組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="410.99826" y="2572.0208"></viz:position>
+        <viz:color r="98" g="202" b="245"></viz:color>
+      </node>
+      <node id="16500" label="裁判員の参加する刑事裁判に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="290.46292" y="-532.69116"></viz:position>
+        <viz:color r="164" g="245" b="98"></viz:color>
+      </node>
+      <node id="16501" label="大都市地域における特別区の設置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="-1.5299168" y="-511.23267"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16502" label="政治資金規正法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="430.46655" y="-373.98376"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16503" label="市町村の合併の特例に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="141.6477" y="-488.38535"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16504" label="公職選挙郵便規則">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="10.701299"></viz:size>
+        <viz:position x="-163.86823" y="-533.6475"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16505" label="政党助成法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="472.66437" y="-467.06662"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16506" label="国会職員法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="28.935064"></viz:size>
+        <viz:position x="148.35277" y="146.50876"></viz:position>
+        <viz:color r="98" g="117" b="245"></viz:color>
+      </node>
+      <node id="16507" label="環境省関係石綿による健康被害の救済に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="116.87034" y="21.78655"></viz:position>
+        <viz:color r="245" g="155" b="98"></viz:color>
+      </node>
+      <node id="16508" label="海事代理士法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="99.05464" y="302.28958"></viz:position>
+        <viz:color r="221" g="245" b="98"></viz:color>
+      </node>
+      <node id="16509" label="裁判所法">
+        <attvalues>
+          <attvalue for="modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="51.718594" y="678.1432"></viz:position>
+        <viz:color r="164" g="245" b="98"></viz:color>
+      </node>
+      <node id="16510" label="公職選挙法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="22.857143"></viz:size>
+        <viz:position x="65.896675" y="-382.99234"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16511" label="相続税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="274.40485" y="-810.9726"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16512" label="国会議員の歳費、旅費及び手当等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="17.454546"></viz:size>
+        <viz:position x="44.373173" y="80.7331"></viz:position>
+        <viz:color r="98" g="117" b="245"></viz:color>
+      </node>
+      <node id="16513" label="雇用保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="149.66525" y="68.65575"></viz:position>
+        <viz:color r="193" g="98" b="245"></viz:color>
+      </node>
+      <node id="16514" label="昭和四十二年度以後における国家公務員等共済組合等からの年金の額の改定に関する法律第一条の六に規定する仮定俸給の額等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="51.591988" y="273.45227"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16515" label="地方自治法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="29.652876" y="-507.91647"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16516" label="小笠原諸島の復帰に伴う公職選挙法の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="62.996506" y="-762.36285"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16517" label="災害対策基本法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="444.09955" y="-120.43555"></viz:position>
+        <viz:color r="98" g="245" b="174"></viz:color>
+      </node>
+      <node id="16518" label="最高裁判所裁判官国民審査法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="17.747532" y="-430.6774"></viz:position>
+        <viz:color r="164" g="245" b="98"></viz:color>
+      </node>
+      <node id="16519" label="日本道路公団等民営化関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="道路"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="48.614864" y="-811.6278"></viz:position>
+        <viz:color r="98" g="174" b="245"></viz:color>
+      </node>
+      <node id="16520" label="恩給法">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="141.0673" y="359.90326"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16521" label="政党交付金の交付を受ける政党等に対する法人格の付与に関する法律による登記に関する各種法人等登記規則の特例を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="630.66095" y="-696.75653"></viz:position>
+        <viz:color r="98" g="245" b="231"></viz:color>
+      </node>
+      <node id="16522" label="特別職の職員の給与に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="212.12383" y="45.049145"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16523" label="内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-350.74762" y="-615.87537"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16524" label="指定都市、中核市又は特例市の指定があつた場合における必要な事項を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="84.64889" y="-711.28204"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16525" label="職業安定法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="101.513535" y="352.92032"></viz:position>
+        <viz:color r="193" g="98" b="245"></viz:color>
+      </node>
+      <node id="16526" label="健康保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="492.0197" y="467.96124"></viz:position>
+        <viz:color r="245" g="126" b="98"></viz:color>
+      </node>
+      <node id="16527" label="開発道路に関する占用料等徴収規則">
+        <attvalues>
+          <attvalue for="modularity" value="道路"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="195.96567" y="-807.17773"></viz:position>
+        <viz:color r="98" g="174" b="245"></viz:color>
+      </node>
+      <node id="16528" label="会計検査院法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="461.47546" y="-158.44193"></viz:position>
+        <viz:color r="98" g="202" b="245"></viz:color>
+      </node>
+      <node id="16529" label="住民基本台帳法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="17.563084" y="-796.2633"></viz:position>
+        <viz:color r="98" g="245" b="231"></viz:color>
+      </node>
+      <node id="16530" label="郵政民営化に関する法人税及び相続税に係る課税の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="郵務"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-363.68436" y="-572.24457"></viz:position>
+        <viz:color r="98" g="231" b="245"></viz:color>
+      </node>
+      <node id="16531" label="総務省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="378.0802" y="-661.80975"></viz:position>
+        <viz:color r="98" g="202" b="245"></viz:color>
+      </node>
+      <node id="16532" label="犯罪による収益の移転防止に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-362.75473" y="-526.46405"></viz:position>
+        <viz:color r="136" g="245" b="98"></viz:color>
+      </node>
+      <node id="16533" label="地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-51.187527" y="-724.51636"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16534" label="政党助成法">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="13.402597"></viz:size>
+        <viz:position x="403.54626" y="-494.2676"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16535" label="義務教育諸学校の教科用図書の無償措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="教育"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="629.85" y="-406.115"></viz:position>
+        <viz:color r="107" g="98" b="245"></viz:color>
+      </node>
+      <node id="16536" label="国立国会図書館法">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="10.025974"></viz:size>
+        <viz:position x="52.7518" y="498.8597"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16537" label="租税特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="246.1909" y="-466.53583"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16538" label="消費税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="107.33067" y="85.182976"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16539" label="国民健康保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="58.912884" y="41.447163"></viz:position>
+        <viz:color r="245" g="126" b="98"></viz:color>
+      </node>
+      <node id="16540" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="12.051949"></viz:size>
+        <viz:position x="271.68268" y="-381.95398"></viz:position>
+        <viz:color r="98" g="202" b="245"></viz:color>
+      </node>
+      <node id="16541" label="政党交付金の交付を受ける政党等に対する法人格の付与に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="16.103897"></viz:size>
+        <viz:position x="464.75516" y="-577.4987"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16542" label="道路交通法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="247.71481" y="-769.5345"></viz:position>
+        <viz:color r="245" g="98" b="126"></viz:color>
+      </node>
+      <node id="16543" label="中小企業診断士の登録等及び試験に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="262.72897" y="254.35431"></viz:position>
+        <viz:color r="221" g="98" b="245"></viz:color>
+      </node>
+      <node id="16544" label="沖縄の復帰に伴う特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-13.817411" y="-705.024"></viz:position>
+        <viz:color r="193" g="245" b="98"></viz:color>
+      </node>
+      <node id="16545" label="行政改革を推進するため当面講ずべき措置の一環としての国の補助金等の縮減その他の臨時の特例措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="342.65323" y="-720.904"></viz:position>
+        <viz:color r="245" g="183" b="98"></viz:color>
+      </node>
+      <node id="16546" label="小笠原諸島の復帰に伴う村の設置及び現地における行政機関の設置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="-35.149727" y="-520.6226"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16547" label="政治資金規正法">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="22.18182"></viz:size>
+        <viz:position x="300.8565" y="-375.85773"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16548" label="船員職業安定法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="181.9556" y="355.95535"></viz:position>
+        <viz:color r="193" g="98" b="245"></viz:color>
+      </node>
+      <node id="16549" label="政治資金規正法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="335.68668" y="-459.48337"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16550" label="地方公共団体の議会の議員及び長の選挙に係る電磁的記録式投票機を用いて行う投票方法等の特例に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="106.29831" y="-451.46793"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16551" label="国会議員の歳費及び期末手当の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-133.24197" y="158.77931"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16552" label="平成二十五年七月二十八日に任期が満了することに伴う参議院議員の通常選挙及びこれと同日に行われる衆議院議員又は参議院議員の選挙に係る在外公館等における在外投票の時間の特例を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="-10.484506" y="-443.71375"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16553" label="農業委員会等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="105.7723" y="-585.7254"></viz:position>
+        <viz:color r="245" g="98" b="98"></viz:color>
+      </node>
+      <node id="16554" label="国立国会図書館法の規定により行政各部門に置かれる支部図書館及びその職員に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="5.5842133" y="675.2868"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16555" label="国会審議の活性化及び政治主導の政策決定システムの確立に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="400.2413" y="-110.048805"></viz:position>
+        <viz:color r="98" g="202" b="245"></viz:color>
+      </node>
+      <node id="16556" label="所得税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-57.089817" y="-621.6062"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16557" label="政党交付金の交付を受ける政党等に対する法人格の付与に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="661.9867" y="-675.17365"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16558" label="公益通報者保護法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="214.04488" y="280.01025"></viz:position>
+        <viz:color r="193" g="98" b="245"></viz:color>
+      </node>
+      <node id="16559" label="児童手当法">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="544.1921" y="464.8935"></viz:position>
+        <viz:color r="245" g="240" b="98"></viz:color>
+      </node>
+      <node id="16560" label="日本国憲法の改正手続に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="77.672516" y="-492.37375"></viz:position>
+        <viz:color r="193" g="245" b="98"></viz:color>
+      </node>
+      <node id="16561" label="古都における歴史的風土の保存に関する特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="184.87297" y="-719.2653"></viz:position>
+        <viz:color r="98" g="245" b="202"></viz:color>
+      </node>
+      <node id="16562" label="高齢者の医療の確保に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="152.80548" y="40.785755"></viz:position>
+        <viz:color r="245" g="240" b="98"></viz:color>
+      </node>
+      <node id="16563" label="道路法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="道路"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="102.09576" y="-775.6279"></viz:position>
+        <viz:color r="98" g="174" b="245"></viz:color>
+      </node>
+      <node id="16564" label="公職にある者等のあっせん行為による利得等の処罰に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="10.025974"></viz:size>
+        <viz:position x="424.93134" y="-411.8508"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16565" label="国会議事堂等周辺地域及び外国公館等周辺地域の静穏の保持に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="194.75906" y="-767.56555"></viz:position>
+        <viz:color r="245" g="98" b="126"></viz:color>
+      </node>
+      <node id="16566" label="地方自治法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="106.04206" y="-509.54742"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16567" label="総務省組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="370.51224" y="-634.71796"></viz:position>
+        <viz:color r="98" g="202" b="245"></viz:color>
+      </node>
+      <node id="16568" label="国会議員の選挙等の執行経費の基準に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="68.53582" y="-359.31396"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16569" label="東日本大震災に伴う地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="234.13489" y="-731.48804"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16570" label="消費者契約法">
+        <attvalues>
+          <attvalue for="modularity" value="商業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="451.981" y="-272.7191"></viz:position>
+        <viz:color r="98" g="145" b="245"></viz:color>
+      </node>
+      <node id="16571" label="国家公務員共済組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="13.876461" y="193.53337"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16572" label="政党助成法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="346.31104" y="-598.407"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16573" label="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-5.5338697" y="-653.663"></viz:position>
+        <viz:color r="193" g="245" b="98"></viz:color>
+      </node>
+      <node id="16574" label="公職選挙法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="14.753246"></viz:size>
+        <viz:position x="151.13063" y="-461.67508"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16575" label="弁護士となる資格に係る認定の手続等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-28.590399" y="-758.94025"></viz:position>
+        <viz:color r="164" g="245" b="98"></viz:color>
+      </node>
+      <node id="16576" label="犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="25.727064" y="40.23454"></viz:position>
+        <viz:color r="245" g="98" b="126"></viz:color>
+      </node>
+      <node id="16577" label="昭和四十二年度以後における国家公務員等共済組合等からの年金の額の改定に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="33.65708" y="320.23044"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16578" label="所得税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="80.33982" y="68.98973"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16579" label="検察審査会法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="251.47452" y="-688.5995"></viz:position>
+        <viz:color r="164" g="245" b="98"></viz:color>
+      </node>
+      <node id="16580" label="平成二十三年東北地方太平洋沖地震等による災害からの復旧復興に資するための国会議員の歳費の月額の減額特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="203.09702" y="-49.10556"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16581" label="政治倫理の確立のための仮名による株取引等の禁止に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-1271.6897" y="2415.4663"></viz:position>
+        <viz:color r="98" g="117" b="245"></viz:color>
+      </node>
+      <node id="16582" label="東日本大震災に伴う地方公共団体の議会の議員及び長の選挙期日等の臨時特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="76.09755" y="-822.1874"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16583" label="地方自治法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="283.61105" y="-473.12982"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16584" label="大都市地域における特別区の設置に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="106.01228" y="-415.29956"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16585" label="在外選挙人名簿の登録申請に関する領事官の管轄区域を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="237.51381" y="-821.0164"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16586" label="政治倫理の確立のための国会議員の資産等の公開等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-1249.9543" y="2327.1929"></viz:position>
+        <viz:color r="98" g="117" b="245"></viz:color>
+      </node>
+      <node id="16587" label="総務省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="351.2142" y="-534.9016"></viz:position>
+        <viz:color r="98" g="202" b="245"></viz:color>
+      </node>
+      <node id="16588" label="内閣府本府組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="385.64233" y="2352.708"></viz:position>
+        <viz:color r="98" g="202" b="245"></viz:color>
+      </node>
+      <node id="16589" label="児童扶養手当法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="180.19151" y="317.79764"></viz:position>
+        <viz:color r="245" g="240" b="98"></viz:color>
+      </node>
+      <node id="16590" label="法人税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="652.68036" y="-640.98627"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16591" label="税理士法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-11.424258" y="258.81467"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16592" label="特定電気通信役務提供者の損害賠償責任の制限及び発信者情報の開示に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-70.43678" y="-658.4099"></viz:position>
+        <viz:color r="245" g="98" b="183"></viz:color>
+      </node>
+      <node id="16593" label="民事執行法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="624.038" y="-360.00745"></viz:position>
+        <viz:color r="98" g="245" b="231"></viz:color>
+      </node>
+      <node id="16594" label="海区漁業調整委員会委員の選挙等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="139.56413" y="-426.30432"></viz:position>
+        <viz:color r="245" g="98" b="240"></viz:color>
+      </node>
+      <node id="16595" label="国等の債権債務等の金額の端数計算に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="604.80164" y="-495.00864"></viz:position>
+        <viz:color r="245" g="183" b="98"></viz:color>
+      </node>
+      <node id="16596" label="雇用の分野における男女の均等な機会及び待遇の確保等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="230.51634" y="341.45032"></viz:position>
+        <viz:color r="193" g="98" b="245"></viz:color>
+      </node>
+      <node id="16597" label="鹿児島県大島郡十島村の区域に関する法令の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="323.1309" y="-772.1626"></viz:position>
+        <viz:color r="193" g="245" b="98"></viz:color>
+      </node>
+      <node id="16598" label="特定非営利活動促進法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="132.33054" y="-726.02454"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16599" label="職員団体等に対する法人格の付与に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="258.92636" y="304.8503"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16600" label="日本国憲法の改正手続に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="224.84938" y="-372.42465"></viz:position>
+        <viz:color r="193" g="245" b="98"></viz:color>
+      </node>
+      <node id="16601" label="検察審査会法">
+        <attvalues>
+          <attvalue for="modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="313.5664" y="-504.2683"></viz:position>
+        <viz:color r="164" g="245" b="98"></viz:color>
+      </node>
+      <node id="16602" label="租税特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="484.2471" y="-298.3165"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16603" label="貸金業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="58.26528" y="345.64273"></viz:position>
+        <viz:color r="164" g="98" b="245"></viz:color>
+      </node>
+      <node id="16604" label="育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="労働"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="584.27576" y="392.3849"></viz:position>
+        <viz:color r="193" g="98" b="245"></viz:color>
+      </node>
+      <node id="16605" label="公職選挙法">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="158.66179" y="-584.82385"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16606" label="厚生年金保険法">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="590.51636" y="433.2616"></viz:position>
+        <viz:color r="245" g="126" b="98"></viz:color>
+      </node>
+      <node id="16607" label="社債、株式等の振替に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="3.615965" y="-765.6498"></viz:position>
+        <viz:color r="98" g="245" b="231"></viz:color>
+      </node>
+      <node id="16608" label="地方税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="611.18335" y="-732.5282"></viz:position>
+        <viz:color r="245" g="98" b="212"></viz:color>
+      </node>
+      <node id="16609" label="国会法">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="15.428572"></viz:size>
+        <viz:position x="293.1821" y="-232.03604"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16610" label="国会議員の秘書の給与等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="16.77922"></viz:size>
+        <viz:position x="139.94247" y="-117.25174"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16611" label="平成二十五年分として交付すべき政党交付金の交付時期の特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="598.6503" y="-542.3273"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16612" label="地方公共団体の議会の議員及び長の選挙に係る電磁的記録式投票機を用いて行う投票方法等の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="288.8837" y="-766.93066"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16613" label="最高裁判所裁判官国民審査法">
+        <attvalues>
+          <attvalue for="modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="106.51703" y="-839.58844"></viz:position>
+        <viz:color r="164" g="245" b="98"></viz:color>
+      </node>
+      <node id="16614" label="臓器の移植に関する法律附則第十一条第一項の法律を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="83.220474" y="16.26848"></viz:position>
+        <viz:color r="245" g="155" b="98"></viz:color>
+      </node>
+      <node id="16615" label="漁業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="-25.903793" y="-489.08374"></viz:position>
+        <viz:color r="245" g="98" b="240"></viz:color>
+      </node>
+      <node id="16616" label="日本国有鉄道改革法等施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="151.72365" y="-849.4823"></viz:position>
+        <viz:color r="98" g="245" b="145"></viz:color>
+      </node>
+      <node id="16617" label="裁判官弾劾法">
+        <attvalues>
+          <attvalue for="modularity" value="司法"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="171.28864" y="-66.86369"></viz:position>
+        <viz:color r="164" g="245" b="98"></viz:color>
+      </node>
+      <node id="16618" label="市町村の合併の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-45.431644" y="-680.9807"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16619" label="在外選挙人名簿の登録申請について領事官を経由して行うことが著しく困難である地域等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="147.91234" y="-776.6437"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16620" label="著作権法">
+        <attvalues>
+          <attvalue for="modularity" value="文化"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="-36.43234" y="653.9412"></viz:position>
+        <viz:color r="136" g="98" b="245"></viz:color>
+      </node>
+      <node id="16621" label="国家公務員共済組合法">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="422.42044" y="37.413006"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16622" label="銃砲刀剣類所持等取締法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="300.68484" y="-727.3206"></viz:position>
+        <viz:color r="245" g="98" b="126"></viz:color>
+      </node>
+      <node id="16623" label="市町村の合併の特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="0.78476405" y="-546.48724"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16624" label="商法等の一部を改正する等の法律の施行に伴う関係法律の整備に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="-1223.3341" y="2327.653"></viz:position>
+        <viz:color r="98" g="245" b="231"></viz:color>
+      </node>
+      <node id="16625" label="大規模な公有水面の埋立てに伴う村の設置に係る地方自治法等の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="30.287266" y="-731.28503"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16626" label="東日本大震災に伴う海区漁業調整委員会及び農業委員会の委員の選挙の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="139.54291" y="-815.6169"></viz:position>
+        <viz:color r="245" g="98" b="240"></viz:color>
+      </node>
+      <node id="16627" label="犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="47.65187" y="13.902915"></viz:position>
+        <viz:color r="245" g="98" b="126"></viz:color>
+      </node>
+      <node id="16628" label="国会における各会派に対する立法事務費の交付に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国会"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="496.02908" y="-337.54074"></viz:position>
+        <viz:color r="98" g="245" b="117"></viz:color>
+      </node>
+      <node id="16629" label="国立国会図書館建築委員会法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="391.4709" y="-275.45135"></viz:position>
+        <viz:color r="98" g="117" b="245"></viz:color>
+      </node>
+      <node id="16630" label="租税特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="673.0806" y="-606.12286"></viz:position>
+        <viz:color r="245" g="98" b="155"></viz:color>
+      </node>
+      <node id="16631" label="国家公務員退職手当法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="395.88013" y="44.76061"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16632" label="住民基本台帳法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="36.654385" y="-685.73114"></viz:position>
+        <viz:color r="98" g="245" b="231"></viz:color>
+      </node>
+      <node id="16633" label="沖縄の復帰に伴う地方税関係以外の自治省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"></attvalue>
+        </attvalues>
+        <viz:size value="9.350649"></viz:size>
+        <viz:position x="190.39789" y="-417.9702"></viz:position>
+        <viz:color r="107" g="245" b="98"></viz:color>
+      </node>
+      <node id="16634" label="農業委員会等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="-34.171803" y="-462.14423"></viz:position>
+        <viz:color r="245" g="98" b="98"></viz:color>
+      </node>
+      <node id="16635" label="国家公務員退職手当法">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"></attvalue>
+        </attvalues>
+        <viz:size value="8.0"></viz:size>
+        <viz:position x="1.3238504" y="297.44492"></viz:position>
+        <viz:color r="245" g="212" b="98"></viz:color>
+      </node>
+      <node id="16636" label="日本国憲法の改正手続に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"></attvalue>
+        </attvalues>
+        <viz:size value="8.675324"></viz:size>
+        <viz:position x="41.60683" y="-541.2378"></viz:position>
+        <viz:color r="193" g="245" b="98"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="29627" source="16485" target="16487"></edge>
+      <edge id="29633" source="16485" target="16494"></edge>
+      <edge id="29626" source="16485" target="16496"></edge>
+      <edge id="29632" source="16485" target="16526"></edge>
+      <edge id="29631" source="16485" target="16559"></edge>
+      <edge id="29630" source="16485" target="16604"></edge>
+      <edge id="29629" source="16485" target="16606"></edge>
+      <edge id="29634" source="16485" target="16621"></edge>
+      <edge id="29628" source="16485" target="16631"></edge>
+      <edge id="29675" source="16491" target="16499"></edge>
+      <edge id="29676" source="16491" target="16588"></edge>
+      <edge id="29625" source="16504" target="16523"></edge>
+      <edge id="29623" source="16504" target="16530"></edge>
+      <edge id="29624" source="16504" target="16532"></edge>
+      <edge id="29679" source="16506" target="16485"></edge>
+      <edge id="29681" source="16506" target="16488"></edge>
+      <edge id="29682" source="16506" target="16489"></edge>
+      <edge id="29687" source="16506" target="16496"></edge>
+      <edge id="29697" source="16506" target="16507"></edge>
+      <edge id="29698" source="16506" target="16508"></edge>
+      <edge id="29702" source="16506" target="16510"></edge>
+      <edge id="29706" source="16506" target="16513"></edge>
+      <edge id="29683" source="16506" target="16514"></edge>
+      <edge id="29696" source="16506" target="16520"></edge>
+      <edge id="29680" source="16506" target="16522"></edge>
+      <edge id="29684" source="16506" target="16525"></edge>
+      <edge id="29690" source="16506" target="16536"></edge>
+      <edge id="29692" source="16506" target="16538"></edge>
+      <edge id="29685" source="16506" target="16539"></edge>
+      <edge id="29699" source="16506" target="16543"></edge>
+      <edge id="29703" source="16506" target="16547"></edge>
+      <edge id="29686" source="16506" target="16548"></edge>
+      <edge id="29710" source="16506" target="16558"></edge>
+      <edge id="29694" source="16506" target="16562"></edge>
+      <edge id="29689" source="16506" target="16571"></edge>
+      <edge id="29691" source="16506" target="16576"></edge>
+      <edge id="29693" source="16506" target="16577"></edge>
+      <edge id="29707" source="16506" target="16578"></edge>
+      <edge id="29701" source="16506" target="16589"></edge>
+      <edge id="29705" source="16506" target="16591"></edge>
+      <edge id="29708" source="16506" target="16596"></edge>
+      <edge id="29709" source="16506" target="16599"></edge>
+      <edge id="29695" source="16506" target="16603"></edge>
+      <edge id="29688" source="16506" target="16614"></edge>
+      <edge id="29700" source="16506" target="16627"></edge>
+      <edge id="29704" source="16506" target="16635"></edge>
+      <edge id="29723" source="16510" target="16492"></edge>
+      <edge id="29717" source="16510" target="16495"></edge>
+      <edge id="29720" source="16510" target="16501"></edge>
+      <edge id="29730" source="16510" target="16503"></edge>
+      <edge id="29712" source="16510" target="16504"></edge>
+      <edge id="29725" source="16510" target="16515"></edge>
+      <edge id="29713" source="16510" target="16518"></edge>
+      <edge id="29722" source="16510" target="16546"></edge>
+      <edge id="29727" source="16510" target="16550"></edge>
+      <edge id="29718" source="16510" target="16552"></edge>
+      <edge id="29715" source="16510" target="16560"></edge>
+      <edge id="29724" source="16510" target="16566"></edge>
+      <edge id="29719" source="16510" target="16574"></edge>
+      <edge id="29728" source="16510" target="16584"></edge>
+      <edge id="29714" source="16510" target="16594"></edge>
+      <edge id="29716" source="16510" target="16615"></edge>
+      <edge id="29711" source="16510" target="16623"></edge>
+      <edge id="29729" source="16510" target="16633"></edge>
+      <edge id="29721" source="16510" target="16634"></edge>
+      <edge id="29726" source="16510" target="16636"></edge>
+      <edge id="29773" source="16512" target="16488"></edge>
+      <edge id="29775" source="16512" target="16490"></edge>
+      <edge id="29768" source="16512" target="16507"></edge>
+      <edge id="29771" source="16512" target="16513"></edge>
+      <edge id="29778" source="16512" target="16538"></edge>
+      <edge id="29779" source="16512" target="16539"></edge>
+      <edge id="29781" source="16512" target="16551"></edge>
+      <edge id="29772" source="16512" target="16562"></edge>
+      <edge id="29770" source="16512" target="16571"></edge>
+      <edge id="29777" source="16512" target="16576"></edge>
+      <edge id="29780" source="16512" target="16578"></edge>
+      <edge id="29782" source="16512" target="16580"></edge>
+      <edge id="29769" source="16512" target="16614"></edge>
+      <edge id="29774" source="16512" target="16617"></edge>
+      <edge id="29776" source="16512" target="16627"></edge>
+      <edge id="29750" source="16534" target="16505"></edge>
+      <edge id="29754" source="16534" target="16540"></edge>
+      <edge id="29751" source="16534" target="16547"></edge>
+      <edge id="29752" source="16534" target="16572"></edge>
+      <edge id="29753" source="16534" target="16595"></edge>
+      <edge id="29755" source="16534" target="16611"></edge>
+      <edge id="29672" source="16536" target="16509"></edge>
+      <edge id="29671" source="16536" target="16554"></edge>
+      <edge id="29673" source="16536" target="16620"></edge>
+      <edge id="29756" source="16541" target="16505"></edge>
+      <edge id="29758" source="16541" target="16521"></edge>
+      <edge id="29757" source="16541" target="16531"></edge>
+      <edge id="29765" source="16541" target="16534"></edge>
+      <edge id="29762" source="16541" target="16540"></edge>
+      <edge id="29760" source="16541" target="16557"></edge>
+      <edge id="29763" source="16541" target="16567"></edge>
+      <edge id="29761" source="16541" target="16587"></edge>
+      <edge id="29764" source="16541" target="16590"></edge>
+      <edge id="29759" source="16541" target="16608"></edge>
+      <edge id="29766" source="16541" target="16630"></edge>
+      <edge id="29738" source="16547" target="16486"></edge>
+      <edge id="29741" source="16547" target="16500"></edge>
+      <edge id="29733" source="16547" target="16502"></edge>
+      <edge id="29731" source="16547" target="16505"></edge>
+      <edge id="29743" source="16547" target="16510"></edge>
+      <edge id="29747" source="16547" target="16534"></edge>
+      <edge id="29740" source="16547" target="16537"></edge>
+      <edge id="29744" source="16547" target="16540"></edge>
+      <edge id="29746" source="16547" target="16541"></edge>
+      <edge id="29735" source="16547" target="16549"></edge>
+      <edge id="29732" source="16547" target="16570"></edge>
+      <edge id="29737" source="16547" target="16574"></edge>
+      <edge id="29734" source="16547" target="16583"></edge>
+      <edge id="29742" source="16547" target="16587"></edge>
+      <edge id="29736" source="16547" target="16601"></edge>
+      <edge id="29745" source="16547" target="16602"></edge>
+      <edge id="29749" source="16547" target="16605"></edge>
+      <edge id="29739" source="16547" target="16628"></edge>
+      <edge id="29748" source="16547" target="16633"></edge>
+      <edge id="29767" source="16549" target="16502"></edge>
+      <edge id="29669" source="16564" target="16535"></edge>
+      <edge id="29668" source="16564" target="16593"></edge>
+      <edge id="29670" source="16564" target="16605"></edge>
+      <edge id="29678" source="16568" target="16493"></edge>
+      <edge id="29677" source="16568" target="16540"></edge>
+      <edge id="29664" source="16574" target="16492"></edge>
+      <edge id="29666" source="16574" target="16503"></edge>
+      <edge id="29667" source="16574" target="16550"></edge>
+      <edge id="29663" source="16574" target="16553"></edge>
+      <edge id="29661" source="16574" target="16560"></edge>
+      <edge id="29665" source="16574" target="16566"></edge>
+      <edge id="29662" source="16574" target="16584"></edge>
+      <edge id="29660" source="16574" target="16594"></edge>
+      <edge id="29647" source="16581" target="16624"></edge>
+      <edge id="29674" source="16586" target="16624"></edge>
+      <edge id="29834" source="16605" target="16486"></edge>
+      <edge id="29796" source="16605" target="16492"></edge>
+      <edge id="29832" source="16605" target="16495"></edge>
+      <edge id="29841" source="16605" target="16497"></edge>
+      <edge id="29810" source="16605" target="16498"></edge>
+      <edge id="29816" source="16605" target="16500"></edge>
+      <edge id="29799" source="16605" target="16501"></edge>
+      <edge id="29823" source="16605" target="16503"></edge>
+      <edge id="29783" source="16605" target="16504"></edge>
+      <edge id="29836" source="16605" target="16510"></edge>
+      <edge id="29839" source="16605" target="16511"></edge>
+      <edge id="29840" source="16605" target="16515"></edge>
+      <edge id="29848" source="16605" target="16516"></edge>
+      <edge id="29790" source="16605" target="16518"></edge>
+      <edge id="29786" source="16605" target="16519"></edge>
+      <edge id="29798" source="16605" target="16524"></edge>
+      <edge id="29784" source="16605" target="16527"></edge>
+      <edge id="29827" source="16605" target="16529"></edge>
+      <edge id="29805" source="16605" target="16531"></edge>
+      <edge id="29808" source="16605" target="16533"></edge>
+      <edge id="29800" source="16605" target="16534"></edge>
+      <edge id="29815" source="16605" target="16537"></edge>
+      <edge id="29817" source="16605" target="16540"></edge>
+      <edge id="29820" source="16605" target="16541"></edge>
+      <edge id="29792" source="16605" target="16542"></edge>
+      <edge id="29831" source="16605" target="16544"></edge>
+      <edge id="29833" source="16605" target="16545"></edge>
+      <edge id="29844" source="16605" target="16546"></edge>
+      <edge id="29837" source="16605" target="16547"></edge>
+      <edge id="29804" source="16605" target="16549"></edge>
+      <edge id="29842" source="16605" target="16550"></edge>
+      <edge id="29847" source="16605" target="16552"></edge>
+      <edge id="29785" source="16605" target="16553"></edge>
+      <edge id="29803" source="16605" target="16556"></edge>
+      <edge id="29787" source="16605" target="16560"></edge>
+      <edge id="29788" source="16605" target="16561"></edge>
+      <edge id="29791" source="16605" target="16563"></edge>
+      <edge id="29794" source="16605" target="16565"></edge>
+      <edge id="29797" source="16605" target="16566"></edge>
+      <edge id="29822" source="16605" target="16567"></edge>
+      <edge id="29814" source="16605" target="16568"></edge>
+      <edge id="29801" source="16605" target="16569"></edge>
+      <edge id="29806" source="16605" target="16572"></edge>
+      <edge id="29854" source="16605" target="16573"></edge>
+      <edge id="29811" source="16605" target="16574"></edge>
+      <edge id="29812" source="16605" target="16575"></edge>
+      <edge id="29819" source="16605" target="16579"></edge>
+      <edge id="29826" source="16605" target="16582"></edge>
+      <edge id="29828" source="16605" target="16583"></edge>
+      <edge id="29821" source="16605" target="16584"></edge>
+      <edge id="29818" source="16605" target="16585"></edge>
+      <edge id="29835" source="16605" target="16587"></edge>
+      <edge id="29843" source="16605" target="16592"></edge>
+      <edge id="29838" source="16605" target="16594"></edge>
+      <edge id="29855" source="16605" target="16597"></edge>
+      <edge id="29851" source="16605" target="16598"></edge>
+      <edge id="29853" source="16605" target="16600"></edge>
+      <edge id="29830" source="16605" target="16601"></edge>
+      <edge id="29789" source="16605" target="16607"></edge>
+      <edge id="29793" source="16605" target="16609"></edge>
+      <edge id="29825" source="16605" target="16610"></edge>
+      <edge id="29802" source="16605" target="16612"></edge>
+      <edge id="29850" source="16605" target="16613"></edge>
+      <edge id="29807" source="16605" target="16615"></edge>
+      <edge id="29809" source="16605" target="16616"></edge>
+      <edge id="29813" source="16605" target="16618"></edge>
+      <edge id="29852" source="16605" target="16619"></edge>
+      <edge id="29846" source="16605" target="16622"></edge>
+      <edge id="29824" source="16605" target="16623"></edge>
+      <edge id="29795" source="16605" target="16625"></edge>
+      <edge id="29829" source="16605" target="16626"></edge>
+      <edge id="29849" source="16605" target="16632"></edge>
+      <edge id="29856" source="16605" target="16633"></edge>
+      <edge id="29845" source="16605" target="16634"></edge>
+      <edge id="29857" source="16605" target="16636"></edge>
+      <edge id="29651" source="16609" target="16517"></edge>
+      <edge id="29648" source="16609" target="16528"></edge>
+      <edge id="29652" source="16609" target="16555"></edge>
+      <edge id="29653" source="16609" target="16564"></edge>
+      <edge id="29656" source="16609" target="16580"></edge>
+      <edge id="29655" source="16609" target="16600"></edge>
+      <edge id="29658" source="16609" target="16605"></edge>
+      <edge id="29649" source="16609" target="16610"></edge>
+      <edge id="29650" source="16609" target="16617"></edge>
+      <edge id="29657" source="16609" target="16621"></edge>
+      <edge id="29654" source="16609" target="16631"></edge>
+      <edge id="29639" source="16610" target="16488"></edge>
+      <edge id="29635" source="16610" target="16507"></edge>
+      <edge id="29636" source="16610" target="16513"></edge>
+      <edge id="29638" source="16610" target="16522"></edge>
+      <edge id="29642" source="16610" target="16538"></edge>
+      <edge id="29643" source="16610" target="16539"></edge>
+      <edge id="29644" source="16610" target="16540"></edge>
+      <edge id="29645" source="16610" target="16562"></edge>
+      <edge id="29641" source="16610" target="16576"></edge>
+      <edge id="29637" source="16610" target="16578"></edge>
+      <edge id="29646" source="16610" target="16614"></edge>
+      <edge id="29640" source="16610" target="16627"></edge>
+      <edge id="29659" source="16629" target="16540"></edge>
+    </edges>
+  </graph>
+</gexf>
