@@ -156,7 +156,7 @@ class GexfPdfer(object):
         self.__initialize()
 
 def show_files(config,shortcut):
-    for i,f in enumerate(glob("gexf/*.gexf")):
+    for i,f in enumerate(glob("gexfall/*.gexf")):
         gx=GexfPdfer(f,config,shortcut)
         gx.readfile(f)
         gx.nodeshow()
