@@ -124,8 +124,8 @@ class GexfPdfer(object):
     def export(self,i):
         logging.info("start to set preview")
         FontFactory.register("/usr/share/fonts")
-        FontFactory.register("/usr/share/fonts/YuGothM.ttc","Yu Gothic UI Regular")
-        self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_THICKNESS,3.0)
+        #FontFactory.register("/usr/share/fonts/YuGothM.ttc","Yu Gothic UI Regular")
+        self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_THICKNESS,1.0)
         #self.preview_model.getProperties().putValue(preview.PreviewProperty.EDGE_BORDER_WIDTH,0.0)
         assert(self.config['NODE_BORDER'])
         if self.config.get('NODE_BORDER',False)==True:
