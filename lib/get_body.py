@@ -4,6 +4,9 @@ from mog_op import MongoOp
 from pyquery import PyQuery as pq
 import re
 from datetime import datetime
+import logging
+log_fmt = '%(asctime)s- %(name)s - %(levelname)s - %(message)s'
+logging.basicConfig(level=logging.INFO,format=log_fmt)
 
 class ChangeWareki(object):
     def __parse_kanji(self,p):
@@ -51,17 +54,17 @@ class ChangeWareki(object):
             if st and len(st[0])==2:
                 c=st[0][0]
                 c2=st[0][1]
-                #print c2
+                logging.debug(c2)
             else:
                 if not re.search(u"人事院規則",s2):
-                    print title,s
+                   logging.debug(u"title={} s={}".format(title,s))
     def __init__(self):
         self.wareki=None
         self.date=None
     def conv_date(self,s):
+        logging.info(u"s={}".format(s))
         s=s.strip()
         self.__parse_date(s)
-
     def conv_go(self,s,title):
         s=s.strip()
         self.__parse_go(s,title)
@@ -75,7 +78,7 @@ def parse(l):
     ch=ChangeWareki()
     ch.conv_date(s[-1])
     ch.conv_go(s[-1],title)
-
+    #logging.info(u"date={} title={}".format(ch.date,title))
 def main():
     mp = MongoOp('localhost')
     for l in mp.law_base.find():

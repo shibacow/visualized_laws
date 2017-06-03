@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # -*- coding:utf-8 -*-
+import sys
+sys.path.append('lib')
 import mog_op
 from pyquery import PyQuery as pq
 import re
