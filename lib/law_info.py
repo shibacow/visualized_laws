@@ -35,6 +35,8 @@ class ChangeWareki(object):
             nm+=ppk*(10**i)
         return nm
     def __parse_date(self,s):
+        result=False
+        logging.debug(s)
         jc={u"平成":1988,
             u"昭和":1925,
             u"大正":1911,
@@ -52,9 +54,13 @@ class ChangeWareki(object):
             #print s2,year,nen,month,day
             self.wareki=s2
             self.date=datetime(year,month,day)
+            result=True
         else:
             #wrong path
-            assert(False)
+            logging.error(s)
+            result=False
+            #assert(False)
+        return result
     def __parse_nums(self,nums):
         digit=0
         nums2=nums[::-1]
@@ -117,7 +123,7 @@ class ChangeWareki(object):
         self.authorities=None
     def conv_date(self,s):
         s=s.strip()
-        self.__parse_date(s)
+        return self.__parse_date(s)
     def conv_go(self,s):
         s=s.strip()
         self.__parse_go(s)
