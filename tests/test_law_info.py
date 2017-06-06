@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 import sys
 sys.path.append('../lib')
+sys.path.append('lib')
 from law_info import ChangeWareki
 import codecs
 import unittest
