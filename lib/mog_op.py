@@ -26,6 +26,9 @@ class MongoOp(object):
         self.law_base=self.db.base
         self.ref=self.db.ref_title
         self.link=self.db.link
+    def __del__(self):
+        if self.con:
+            self.con.close()
 
     def save(self,db,a,key):
         if a:
@@ -44,5 +47,6 @@ class MongoOp(object):
             dbm=getattr(self.db,db)
             ##self.db[db].save(a)
             dbm.save(a)
-    def groupby_cat(self,col,tdict):
-        return self.db[col].group(tdict,None,{},'function(obj,prev){}')
+    def groupby_cat(self,col):
+        pipe = [{ '$group' : { '_id': '$cat', 'count': { '$sum': 1}}}]
+        return self.db[col].aggregate(pipeline = pipe)

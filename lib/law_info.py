@@ -8,6 +8,7 @@ import logging
 from datetime import datetime
 from collections import Counter
 from kanji2arabic import kansuji2arabic
+import codecs
 
 log_fmt = '%(asctime)s- %(name)s - %(levelname)s - %(message)s'
 logging.basicConfig(level=logging.INFO,format=log_fmt)
@@ -34,6 +35,8 @@ class ChangeWareki(object):
             nm+=ppk*(10**i)
         return nm
     def __parse_date(self,s):
+        result=False
+        logging.debug(s)
         jc={u"平成":1988,
             u"昭和":1925,
             u"大正":1911,
@@ -51,9 +54,13 @@ class ChangeWareki(object):
             #print s2,year,nen,month,day
             self.wareki=s2
             self.date=datetime(year,month,day)
+            result=True
         else:
             #wrong path
-            assert(False)
+            logging.error(s)
+            result=False
+            #assert(False)
+        return result
     def __parse_nums(self,nums):
         digit=0
         nums2=nums[::-1]
@@ -116,7 +123,7 @@ class ChangeWareki(object):
         self.authorities=None
     def conv_date(self,s):
         s=s.strip()
-        self.__parse_date(s)
+        return self.__parse_date(s)
     def conv_go(self,s):
         s=s.strip()
         self.__parse_go(s)
@@ -125,6 +132,7 @@ class ChangeWareki(object):
                     decree_number=self.law_number,authorities=self.authorities)
 
 def check_created_date_and_auth(mp):
+    out=codecs.open("resouce.txt",'wb',encoding='utf-8')
     for i,c in enumerate(mp.col.find()):
         tl=c['title']
         cw=ChangeWareki(tl)
@@ -136,6 +144,11 @@ def check_created_date_and_auth(mp):
         c['decree_number']=info['decree_number']
         c['authorities']=info['authorities']
         #mp.col.update({"title":tl},c)
+        #logging.info(info)
+        msg=u"{},{},{},{},{}\n".format(tl,info['wareki'],info['created_date'],info['decree_number'],info['authorities'])
+        print(msg)
+        out.write(msg)
+    out.close()
 def duplicate_check(mp):
     cnt=Counter()
     for c in mp.col.find():
