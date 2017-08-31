@@ -18,22 +18,35 @@ function genSig(gexf,divelm){
     sigInst.parseGexf(gexf);
     return sigInst;
 }
+
+function onclickednode(event){
+    console.log(event.data.node.label);
+}
+
 function gexfload(gexfpath,catname){
+    // Instantiate sigma:
+    var container='sigma-container-'+catname;
+    s = new sigma({
+        renderer: {
+            container: document.getElementById(container),
+            type: 'canvas'
+        },
+        settings: {
+            edgeLabelSize: 'proportional',
+            //minArrowSize: '7',
+            defaultEdgeType: 'curve',
+            minEdgeSize: 0.1,
+            maxEdgeSize: 0.1,
+        }
+    });
+
     sigma.parsers.gexf(
         gexfpath,
-        { // Here is the ID of the DOM element that
-            // will contain the graph:
-            container: 'sigma-container-'+catname,
-            settings: {
-                defaultEdgeType: 'curve',
-            }
-        },
-        function(s) {
-            s.graph.edges().forEach(function(edge){ 
-                edge.type = 'curve';
-            });
-            s.refresh();     
+        s,
+        function(s){
+            s.refresh();
         }
     );
+    s.bind('clickNode',onclickednode);
 }
 
