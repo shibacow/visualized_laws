@@ -1,0 +1,3194 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2017-09-24">
+    <creator>Gephi 0.9</creator>
+    <description/>
+  </meta>
+  <graph defaultedgetype="directed" label="" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="URI" title="URI" type="string"/>
+      <attribute id="modularity" title="Modularity" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="6228" label="信託業法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO154.html"/>
+        </attvalues>
+      </node>
+      <node id="6229" label="対象火気設備等の位置、構造及び管理並びに対象火気器具等の取扱いに関する条例の制定に関する基準を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="消防"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F11001000024.html"/>
+        </attvalues>
+      </node>
+      <node id="6230" label="石綿による健康被害の救済に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18SE037.html"/>
+        </attvalues>
+      </node>
+      <node id="6231" label="海賊対処法">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21HO055.html"/>
+        </attvalues>
+      </node>
+      <node id="6232" label="電気通信事業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F04001000025.html"/>
+        </attvalues>
+      </node>
+      <node id="6233" label="首都圏近郊緑地保全法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42SE013.html"/>
+        </attvalues>
+      </node>
+      <node id="6234" label="美術刀剣類製作承認規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F03501000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6235" label="地方団体に対して交付すべき平成二十三年度分の震災復興特別交付税の額の算定方法、決定時期及び決定額並びに交付時期及び交付額の特例等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F11001000155.html"/>
+        </attvalues>
+      </node>
+      <node id="6236" label="犯罪捜査規範">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F30301000002.html"/>
+        </attvalues>
+      </node>
+      <node id="6237" label="薬事工業生産動態統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03601000010.html"/>
+        </attvalues>
+      </node>
+      <node id="6238" label="警察官の職務に協力援助した者の災害給付に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE429.html"/>
+        </attvalues>
+      </node>
+      <node id="6239" label="自動車安全運転センターの財務及び会計に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50F03101000066.html"/>
+        </attvalues>
+      </node>
+      <node id="6240" label="国民保護法">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO112.html"/>
+        </attvalues>
+      </node>
+      <node id="6241" label="警備業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57SE308.html"/>
+        </attvalues>
+      </node>
+      <node id="6242" label="劇場、音楽堂等の活性化に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="文化"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24HO049.html"/>
+        </attvalues>
+      </node>
+      <node id="6243" label="農林業センサス規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44F00601000039.html"/>
+        </attvalues>
+      </node>
+      <node id="6244" label="金融商品取引業等に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F10001000052.html"/>
+        </attvalues>
+      </node>
+      <node id="6245" label="個人企業経済調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50F03101000005.html"/>
+        </attvalues>
+      </node>
+      <node id="6246" label="多極分散型国土形成促進法第十四条の地方公共団体等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H01/H01F04301000019.html"/>
+        </attvalues>
+      </node>
+      <node id="6247" label="公益社団法人及び公益財団法人の認定等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO049.html"/>
+        </attvalues>
+      </node>
+      <node id="6248" label="銃刀登録規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33F31501000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6249" label="タクシー業務適正化特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45HO075.html"/>
+        </attvalues>
+      </node>
+      <node id="6250" label="旅客自動車運送事業運輸規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F03901000044.html"/>
+        </attvalues>
+      </node>
+      <node id="6251" label="技能検定、技能講習及び射撃教習に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53F30301000008.html"/>
+        </attvalues>
+      </node>
+      <node id="6252" label="電波法施行規則　抄">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F30901000014.html"/>
+        </attvalues>
+      </node>
+      <node id="6253" label="サリン防止法規制等物質政令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07SE317.html"/>
+        </attvalues>
+      </node>
+      <node id="6254" label="輸入の促進及び対内投資事業の円滑化に関する臨時措置法第十一条の地方税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000032.html"/>
+        </attvalues>
+      </node>
+      <node id="6255" label="警備員指導教育責任者及び機械警備業務管理者に係る講習等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58F30301000002.html"/>
+        </attvalues>
+      </node>
+      <node id="6256" label="銃刀法銃砲の範囲命令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50F03102003001.html"/>
+        </attvalues>
+      </node>
+      <node id="6257" label="たばこ事業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="事業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F03401000005.html"/>
+        </attvalues>
+      </node>
+      <node id="6258" label="応急救護処置に関し医師である者に準ずる能力を有する者を定める規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F30301000002.html"/>
+        </attvalues>
+      </node>
+      <node id="6259" label="船員職業安定法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO130.html"/>
+        </attvalues>
+      </node>
+      <node id="6260" label="サービサー法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO126.html"/>
+        </attvalues>
+      </node>
+      <node id="6261" label="地域再生法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F10001000053.html"/>
+        </attvalues>
+      </node>
+      <node id="6262" label="障害者雇用促進法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35HO123.html"/>
+        </attvalues>
+      </node>
+      <node id="6263" label="原動機を用いる歩行補助車等の型式認定の手続等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F30301000019.html"/>
+        </attvalues>
+      </node>
+      <node id="6264" label="保険業法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07HO105.html"/>
+        </attvalues>
+      </node>
+      <node id="6265" label="証取法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO025.html"/>
+        </attvalues>
+      </node>
+      <node id="6266" label="都市再生特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14SE190.html"/>
+        </attvalues>
+      </node>
+      <node id="6267" label="放射性物質汚染対処特措法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F18001000033.html"/>
+        </attvalues>
+      </node>
+      <node id="6268" label="高速自動車国道法">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO079.html"/>
+        </attvalues>
+      </node>
+      <node id="6269" label="商業統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03801000060.html"/>
+        </attvalues>
+      </node>
+      <node id="6270" label="ストーカー法意見聴取規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F30301000019.html"/>
+        </attvalues>
+      </node>
+      <node id="6271" label="警備員等の検定等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F30301000020.html"/>
+        </attvalues>
+      </node>
+      <node id="6272" label="観光圏整備法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="観光"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F16001000065.html"/>
+        </attvalues>
+      </node>
+      <node id="6273" label="道交法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35SE270.html"/>
+        </attvalues>
+      </node>
+      <node id="6274" label="地域交通安全活動推進委員及び地域交通安全活動推進委員協議会に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F30301000007.html"/>
+        </attvalues>
+      </node>
+      <node id="6275" label="質屋営業法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO158.html"/>
+        </attvalues>
+      </node>
+      <node id="6276" label="就業構造基本調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03101000025.html"/>
+        </attvalues>
+      </node>
+      <node id="6277" label="総合特別区域法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F10001000039.html"/>
+        </attvalues>
+      </node>
+      <node id="6278" label="ダンプカー規制法">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42HO131.html"/>
+        </attvalues>
+      </node>
+      <node id="6279" label="身障者補助犬法">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO049.html"/>
+        </attvalues>
+      </node>
+      <node id="6280" label="相続税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F03401000017.html"/>
+        </attvalues>
+      </node>
+      <node id="6281" label="少年法第六条の二第三項の規定に基づく警察職員の職務等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F30301000023.html"/>
+        </attvalues>
+      </node>
+      <node id="6282" label="古都保存法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42F04201000002.html"/>
+        </attvalues>
+      </node>
+      <node id="6283" label="消費生活協同組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23F03404001001.html"/>
+        </attvalues>
+      </node>
+      <node id="6284" label="暴対法意見聴取規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F30301000005.html"/>
+        </attvalues>
+      </node>
+      <node id="6285" label="銃刀法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33F03101000016.html"/>
+        </attvalues>
+      </node>
+      <node id="6286" label="相続税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25SE071.html"/>
+        </attvalues>
+      </node>
+      <node id="6287" label="自動車ターミナルの位置、構造及び設備の基準を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34SE320.html"/>
+        </attvalues>
+      </node>
+      <node id="6288" label="自衛隊法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE179.html"/>
+        </attvalues>
+      </node>
+      <node id="6289" label="経済産業省関係中心市街地の活性化に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F15001000083.html"/>
+        </attvalues>
+      </node>
+      <node id="6290" label="道交法意見聴取及び弁明機会付与規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F30301000027.html"/>
+        </attvalues>
+      </node>
+      <node id="6291" label="証人等の被害についての給付に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO109.html"/>
+        </attvalues>
+      </node>
+      <node id="6292" label="刑事確定訴訟記録法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62F03201000041.html"/>
+        </attvalues>
+      </node>
+      <node id="6293" label="内閣府本府組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE245.html"/>
+        </attvalues>
+      </node>
+      <node id="6294" label="警察法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03101000044.html"/>
+        </attvalues>
+      </node>
+      <node id="6295" label="オートレース法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F15001000098.html"/>
+        </attvalues>
+      </node>
+      <node id="6296" label="沖縄振興特別措置法第九条等の地方税の課税免除又は不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F11001000042.html"/>
+        </attvalues>
+      </node>
+      <node id="6297" label="小売物価統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03101000006.html"/>
+        </attvalues>
+      </node>
+      <node id="6298" label="警察官等けん銃使用及び取扱い規範">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F30301000007.html"/>
+        </attvalues>
+      </node>
+      <node id="6299" label="職業安定法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22HO141.html"/>
+        </attvalues>
+      </node>
+      <node id="6300" label="ＮＰＯ法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO007.html"/>
+        </attvalues>
+      </node>
+      <node id="6301" label="容器包装リサイクル法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F03404003001.html"/>
+        </attvalues>
+      </node>
+      <node id="6302" label="騒音規制法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43HO098.html"/>
+        </attvalues>
+      </node>
+      <node id="6303" label="中小企業支援法第十三条第一項に規定する情報提供業務を行う者の認定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F15001000046.html"/>
+        </attvalues>
+      </node>
+      <node id="6304" label="道交法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35F03101000060.html"/>
+        </attvalues>
+      </node>
+      <node id="6305" label="風営法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO122.html"/>
+        </attvalues>
+      </node>
+      <node id="6306" label="公選法">
+        <attvalues>
+          <attvalue for="modularity" value="国会"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO100.html"/>
+        </attvalues>
+      </node>
+      <node id="6307" label="自動車リサイクル法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14SE389.html"/>
+        </attvalues>
+      </node>
+      <node id="6308" label="苦情の申出の手続に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F30301000011.html"/>
+        </attvalues>
+      </node>
+      <node id="6309" label="研究開発段階発電用原子炉及びその附属施設の位置、構造及び設備の基準に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F31901000009.html"/>
+        </attvalues>
+      </node>
+      <node id="6310" label="社振法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO075.html"/>
+        </attvalues>
+      </node>
+      <node id="6311" label="サリン防止法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07HO078.html"/>
+        </attvalues>
+      </node>
+      <node id="6312" label="放射性同位元素等車両運搬規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52F03901000033.html"/>
+        </attvalues>
+      </node>
+      <node id="6313" label="信託法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE199.html"/>
+        </attvalues>
+      </node>
+      <node id="6314" label="質屋営業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F03101000025.html"/>
+        </attvalues>
+      </node>
+      <node id="6315" label="高齢者虐待防止法">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17HO124.html"/>
+        </attvalues>
+      </node>
+      <node id="6316" label="道路標識、区画線及び道路標示に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35F03102010003.html"/>
+        </attvalues>
+      </node>
+      <node id="6317" label="駐車場法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE340.html"/>
+        </attvalues>
+      </node>
+      <node id="6318" label="携帯電話不正利用防止法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F11001000167.html"/>
+        </attvalues>
+      </node>
+      <node id="6319" label="社会生活基本調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S56/S56F03101000038.html"/>
+        </attvalues>
+      </node>
+      <node id="6320" label="資産流動化法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO105.html"/>
+        </attvalues>
+      </node>
+      <node id="6321" label="排ガス抑制法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F03101000053.html"/>
+        </attvalues>
+      </node>
+      <node id="6322" label="国家公安委員会行政文書管理規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F30301000008.html"/>
+        </attvalues>
+      </node>
+      <node id="6323" label="銃刀法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO006.html"/>
+        </attvalues>
+      </node>
+      <node id="6324" label="ダンプカー規制法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42F03901000086.html"/>
+        </attvalues>
+      </node>
+      <node id="6325" label="警察等が取り扱う死体の死因又は身元の調査等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24HO034.html"/>
+        </attvalues>
+      </node>
+      <node id="6326" label="自動車道事業規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03902005002.html"/>
+        </attvalues>
+      </node>
+      <node id="6327" label="海上保安庁法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO028.html"/>
+        </attvalues>
+      </node>
+      <node id="6328" label="銃刀法推薦数規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46F30301000006.html"/>
+        </attvalues>
+      </node>
+      <node id="6329" label="中小小売商業振興法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48F03801000100.html"/>
+        </attvalues>
+      </node>
+      <node id="6330" label="不動産登記規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F12001000018.html"/>
+        </attvalues>
+      </node>
+      <node id="6331" label="刑事収容施設及び被収容者等の処遇に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17HO050.html"/>
+        </attvalues>
+      </node>
+      <node id="6332" label="東日本大震災財特法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO040.html"/>
+        </attvalues>
+      </node>
+      <node id="6333" label="特定サービス産業実態調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F03801000067.html"/>
+        </attvalues>
+      </node>
+      <node id="6334" label="道路運送車両法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000074.html"/>
+        </attvalues>
+      </node>
+      <node id="6335" label="金融業者の貸付業務のための社債の発行等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11F03102002031.html"/>
+        </attvalues>
+      </node>
+      <node id="6336" label="都市の低炭素化の促進に関する法律に基づく軌道利便増進実施計画及び道路運送利便増進実施計画の認定に係る都道府県公安委員会の意見の聴取に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F10002009003.html"/>
+        </attvalues>
+      </node>
+      <node id="6337" label="猟銃用火薬類等の譲渡、譲受け、輸入及び消費に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F03101000046.html"/>
+        </attvalues>
+      </node>
+      <node id="6338" label="国家公安委員会関係警察等が取り扱う死体の死因又は身元の調査等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F30301000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6339" label="自動車リサイクル法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F15002002007.html"/>
+        </attvalues>
+      </node>
+      <node id="6340" label="行政書士法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政手続"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03101000005.html"/>
+        </attvalues>
+      </node>
+      <node id="6341" label="都市緑地法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49SE003.html"/>
+        </attvalues>
+      </node>
+      <node id="6342" label="金融業者の貸付業務のための社債の発行等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11SE156.html"/>
+        </attvalues>
+      </node>
+      <node id="6343" label="地方団体に対して交付すべき平成二十四年度分の震災復興特別交付税の額の算定方法、決定時期及び決定額並びに交付時期及び交付額等の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F11001000036.html"/>
+        </attvalues>
+      </node>
+      <node id="6344" label="自衛隊法">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO165.html"/>
+        </attvalues>
+      </node>
+      <node id="6345" label="中小企業の新たな事業活動の促進に関する法律第十七条第一項に規定する経営革新等支援業務を行う者の認定等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6346" label="指掌紋取扱規則">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09F30301000013.html"/>
+        </attvalues>
+      </node>
+      <node id="6347" label="猟銃及び空気銃の取扱いに関する講習会及び年少射撃資格の認定のための講習会の開催に関する事務の一部を行わせることができる者の指定に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F30301000011.html"/>
+        </attvalues>
+      </node>
+      <node id="6348" label="鳥獣による農林水産業等に係る被害の防止のための特別措置に関する法律附則第三条第一項に規定する特定鳥獣被害対策実施隊員等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F10003042001.html"/>
+        </attvalues>
+      </node>
+      <node id="6349" label="暴対法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03HO077.html"/>
+        </attvalues>
+      </node>
+      <node id="6350" label="国立大学法人法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15SE478.html"/>
+        </attvalues>
+      </node>
+      <node id="6351" label="リゾート法地方公共団体省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62F04301000033.html"/>
+        </attvalues>
+      </node>
+      <node id="6352" label="内閣府設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO089.html"/>
+        </attvalues>
+      </node>
+      <node id="6353" label="風営法施行令型式指定基準規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F30301000006.html"/>
+        </attvalues>
+      </node>
+      <node id="6354" label="道路構造令">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45SE320.html"/>
+        </attvalues>
+      </node>
+      <node id="6355" label="都市の低炭素化の促進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24HO084.html"/>
+        </attvalues>
+      </node>
+      <node id="6356" label="交通安全施設等整備事業の推進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41HO045.html"/>
+        </attvalues>
+      </node>
+      <node id="6357" label="地方自治法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22SE016.html"/>
+        </attvalues>
+      </node>
+      <node id="6358" label="水産業協同組合法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO242.html"/>
+        </attvalues>
+      </node>
+      <node id="6359" label="被留置者の留置に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F30301000011.html"/>
+        </attvalues>
+      </node>
+      <node id="6360" label="消防法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="消防"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36F04301000006.html"/>
+        </attvalues>
+      </node>
+      <node id="6361" label="風営法認可申請書添付書類内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F03101000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6362" label="工事担任者規則">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F04001000028.html"/>
+        </attvalues>
+      </node>
+      <node id="6363" label="宅建業法">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO176.html"/>
+        </attvalues>
+      </node>
+      <node id="6364" label="所得税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40F03401000011.html"/>
+        </attvalues>
+      </node>
+      <node id="6365" label="警備業の要件に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6366" label="行方不明者発見活動に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F30301000013.html"/>
+        </attvalues>
+      </node>
+      <node id="6367" label="災害対策基本法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE288.html"/>
+        </attvalues>
+      </node>
+      <node id="6368" label="不正アクセス禁止法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO128.html"/>
+        </attvalues>
+      </node>
+      <node id="6369" label="経済センサス活動調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F11002007001.html"/>
+        </attvalues>
+      </node>
+      <node id="6370" label="小規模企業者等設備導入資金助成法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6371" label="組織的犯罪処罰法">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO136.html"/>
+        </attvalues>
+      </node>
+      <node id="6372" label="確認事務の委託の手続等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F30301000023.html"/>
+        </attvalues>
+      </node>
+      <node id="6373" label="酒税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO006.html"/>
+        </attvalues>
+      </node>
+      <node id="6374" label="出会い系サイト規制法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F30301000015.html"/>
+        </attvalues>
+      </node>
+      <node id="6375" label="ピッキング防止法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15HO065.html"/>
+        </attvalues>
+      </node>
+      <node id="6376" label="労働安全衛生規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F04101000032.html"/>
+        </attvalues>
+      </node>
+      <node id="6377" label="労働力調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58F03101000023.html"/>
+        </attvalues>
+      </node>
+      <node id="6378" label="児童扶養手当法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36SE405.html"/>
+        </attvalues>
+      </node>
+      <node id="6379" label="配偶者からの暴力の防止及び被害者の保護に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6380" label="資金決済法">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21HO059.html"/>
+        </attvalues>
+      </node>
+      <node id="6381" label="大阪湾臨海地域開発整備法第十四条の地方税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000033.html"/>
+        </attvalues>
+      </node>
+      <node id="6382" label="港湾運送事業法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO161.html"/>
+        </attvalues>
+      </node>
+      <node id="6383" label="道交法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35HO105.html"/>
+        </attvalues>
+      </node>
+      <node id="6384" label="警護要則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40F30301000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6385" label="海上保安庁組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F16001000004.html"/>
+        </attvalues>
+      </node>
+      <node id="6386" label="ノンバンク規制法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58F03401000040.html"/>
+        </attvalues>
+      </node>
+      <node id="6387" label="大気汚染防止法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43HO097.html"/>
+        </attvalues>
+      </node>
+      <node id="6388" label="振動規制法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51HO064.html"/>
+        </attvalues>
+      </node>
+      <node id="6389" label="公害健康被害の補償等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49SE295.html"/>
+        </attvalues>
+      </node>
+      <node id="6390" label="高齢者の医療の確保に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE318.html"/>
+        </attvalues>
+      </node>
+      <node id="6391" label="市場化テスト法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO051.html"/>
+        </attvalues>
+      </node>
+      <node id="6392" label="漁業センサス規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38F00601000039.html"/>
+        </attvalues>
+      </node>
+      <node id="6393" label="都道府県警察に無償使用させる警察用の国有財産及び国有物品の取扱いに関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39F03101000014.html"/>
+        </attvalues>
+      </node>
+      <node id="6394" label="労働安全衛生法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE318.html"/>
+        </attvalues>
+      </node>
+      <node id="6395" label="建設労働者の雇用の改善等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51HO033.html"/>
+        </attvalues>
+      </node>
+      <node id="6396" label="犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55SE287.html"/>
+        </attvalues>
+      </node>
+      <node id="6397" label="災害救助法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22SE225.html"/>
+        </attvalues>
+      </node>
+      <node id="6398" label="国土交通省関係運転代行業適正化法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F16001000062.html"/>
+        </attvalues>
+      </node>
+      <node id="6399" label="自動車事故報告規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000104.html"/>
+        </attvalues>
+      </node>
+      <node id="6400" label="行政機関個人情報保護法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政手続"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15SE548.html"/>
+        </attvalues>
+      </node>
+      <node id="6401" label="犯罪収益移転防止法">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO022.html"/>
+        </attvalues>
+      </node>
+      <node id="6402" label="総務省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO091.html"/>
+        </attvalues>
+      </node>
+      <node id="6403" label="警備業法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47HO117.html"/>
+        </attvalues>
+      </node>
+      <node id="6404" label="スパイクタイヤ粉じんの発生の防止に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F03101000006.html"/>
+        </attvalues>
+      </node>
+      <node id="6405" label="投資信託及び投資法人に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO198.html"/>
+        </attvalues>
+      </node>
+      <node id="6406" label="警察庁組織令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE180.html"/>
+        </attvalues>
+      </node>
+      <node id="6407" label="警察表彰規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F30301000014.html"/>
+        </attvalues>
+      </node>
+      <node id="6408" label="地方税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03101000023.html"/>
+        </attvalues>
+      </node>
+      <node id="6409" label="行政機関情報公開法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政手続"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE041.html"/>
+        </attvalues>
+      </node>
+      <node id="6410" label="租税特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03401000015.html"/>
+        </attvalues>
+      </node>
+      <node id="6411" label="建設業法">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24HO100.html"/>
+        </attvalues>
+      </node>
+      <node id="6412" label="地方団体に対して交付すべき平成二十五年度分の震災復興特別交付税の額の算定方法、決定時期及び決定額並びに交付時期及び交付額等の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F11001000061.html"/>
+        </attvalues>
+      </node>
+      <node id="6413" label="電子記録債権法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO102.html"/>
+        </attvalues>
+      </node>
+      <node id="6414" label="火取法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F03801000088.html"/>
+        </attvalues>
+      </node>
+      <node id="6415" label="麻薬及び向精神薬取締法">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO014.html"/>
+        </attvalues>
+      </node>
+      <node id="6416" label="地方税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO226.html"/>
+        </attvalues>
+      </node>
+      <node id="6417" label="外来生物法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F17002003002.html"/>
+        </attvalues>
+      </node>
+      <node id="6418" label="猟銃の口径の長さの特例に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46F30301000005.html"/>
+        </attvalues>
+      </node>
+      <node id="6419" label="経済センサス基礎調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F11001000125.html"/>
+        </attvalues>
+      </node>
+      <node id="6420" label="車庫法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37HO145.html"/>
+        </attvalues>
+      </node>
+      <node id="6421" label="死体解剖保存法">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24HO204.html"/>
+        </attvalues>
+      </node>
+      <node id="6422" label="簡素で効率的な政府を実現するための行政改革の推進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO047.html"/>
+        </attvalues>
+      </node>
+      <node id="6423" label="駐車場法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO106.html"/>
+        </attvalues>
+      </node>
+      <node id="6424" label="地方公務員等共済組合法の長期給付等に関する施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37HO153.html"/>
+        </attvalues>
+      </node>
+      <node id="6425" label="標準的な官職を定める政令に規定する内閣府令で定める標準的な官職等を定める内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6426" label="運転代行業適正化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14SE026.html"/>
+        </attvalues>
+      </node>
+      <node id="6427" label="被疑者取調べ適正化のための監督に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F30301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="6428" label="警察教養規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F30301000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6429" label="銃刀法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33SE033.html"/>
+        </attvalues>
+      </node>
+      <node id="6430" label="阪神・淡路大震災に対処するための特別の財政援助及び助成に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07HO016.html"/>
+        </attvalues>
+      </node>
+      <node id="6431" label="関税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE150.html"/>
+        </attvalues>
+      </node>
+      <node id="6432" label="地域公共交通の活性化及び再生に関する法律に基づく道路運送高度化実施計画、乗継円滑化実施計画及び新地域旅客運送事業計画の認定に係る都道府県公安委員会の意見の聴取に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6433" label="地方公共団体の手数料の標準に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE016.html"/>
+        </attvalues>
+      </node>
+      <node id="6434" label="貨物自動車運送事業輸送安全規則">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F03901000022.html"/>
+        </attvalues>
+      </node>
+      <node id="6435" label="建築基準法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25SE338.html"/>
+        </attvalues>
+      </node>
+      <node id="6436" label="指定射撃場の指定に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F03101000046.html"/>
+        </attvalues>
+      </node>
+      <node id="6437" label="警察手帳規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F30301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="6438" label="旅館業法">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO138.html"/>
+        </attvalues>
+      </node>
+      <node id="6439" label="家電リサイクル法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10SE378.html"/>
+        </attvalues>
+      </node>
+      <node id="6440" label="スパイクタイヤ粉じんの発生の防止に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02SE371.html"/>
+        </attvalues>
+      </node>
+      <node id="6441" label="電気事業者による再生可能エネルギー電気の調達に関する特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F15001000046.html"/>
+        </attvalues>
+      </node>
+      <node id="6442" label="家電リサイクル法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F03602003001.html"/>
+        </attvalues>
+      </node>
+      <node id="6443" label="従前の国家公安委員会のした定の効力の経過措置に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F30301000002.html"/>
+        </attvalues>
+      </node>
+      <node id="6444" label="消防法">
+        <attvalues>
+          <attvalue for="modularity" value="消防"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO186.html"/>
+        </attvalues>
+      </node>
+      <node id="6445" label="ストーカー法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12HO081.html"/>
+        </attvalues>
+      </node>
+      <node id="6446" label="インターネット異性紹介事業を利用して児童を誘引する行為の規制等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE346.html"/>
+        </attvalues>
+      </node>
+      <node id="6447" label="警察礼式">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F30301000013.html"/>
+        </attvalues>
+      </node>
+      <node id="6448" label="電気通信主任技術者規則">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F04001000027.html"/>
+        </attvalues>
+      </node>
+      <node id="6449" label="故障車両の整備確認の手続等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35F03102007001.html"/>
+        </attvalues>
+      </node>
+      <node id="6450" label="警察通信指令に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F30301000009.html"/>
+        </attvalues>
+      </node>
+      <node id="6451" label="自動車リサイクル法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO087.html"/>
+        </attvalues>
+      </node>
+      <node id="6452" label="交通公害に係る大気の汚染、騒音及び振動を定める命令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46F03102004001.html"/>
+        </attvalues>
+      </node>
+      <node id="6453" label="地方公務員等共済組合法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37HO152.html"/>
+        </attvalues>
+      </node>
+      <node id="6454" label="市警察の廃止に伴う経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30SE079.html"/>
+        </attvalues>
+      </node>
+      <node id="6455" label="交通安全対策基本法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45HO110.html"/>
+        </attvalues>
+      </node>
+      <node id="6456" label="ピッキング防止法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F30301000012.html"/>
+        </attvalues>
+      </node>
+      <node id="6457" label="放射性同位元素等の運搬の届出等に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S56/S56F03101000030.html"/>
+        </attvalues>
+      </node>
+      <node id="6458" label="法科大学院への裁判官及び検察官その他の一般職の国家公務員の派遣に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="司法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15SE546.html"/>
+        </attvalues>
+      </node>
+      <node id="6459" label="警察用航空機の運用等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F30301000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6460" label="家計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50F03101000071.html"/>
+        </attvalues>
+      </node>
+      <node id="6461" label="バリアフリー法">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO091.html"/>
+        </attvalues>
+      </node>
+      <node id="6462" label="環境省関係石綿による健康被害の救済に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F18001000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6463" label="自衛隊法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03101000040.html"/>
+        </attvalues>
+      </node>
+      <node id="6464" label="技能検定員審査等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F30301000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6465" label="風営法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59SE319.html"/>
+        </attvalues>
+      </node>
+      <node id="6466" label="割賦販売法">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36HO159.html"/>
+        </attvalues>
+      </node>
+      <node id="6467" label="動力車操縦者運転免許に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F03901000043.html"/>
+        </attvalues>
+      </node>
+      <node id="6468" label="車庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6469" label="警察法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE151.html"/>
+        </attvalues>
+      </node>
+      <node id="6470" label="雇用保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50SE025.html"/>
+        </attvalues>
+      </node>
+      <node id="6471" label="ＰＦＩ法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO117.html"/>
+        </attvalues>
+      </node>
+      <node id="6472" label="暴対法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F30301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="6473" label="競馬法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F00601000055.html"/>
+        </attvalues>
+      </node>
+      <node id="6474" label="著作権等管理事業法">
+        <attvalues>
+          <attvalue for="modularity" value="文化"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12HO131.html"/>
+        </attvalues>
+      </node>
+      <node id="6475" label="鳥獣の保護及び狩猟の適正化に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6476" label="警察官の職務に協力援助した者の災害給付に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO245.html"/>
+        </attvalues>
+      </node>
+      <node id="6477" label="毒劇物取締法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30SE261.html"/>
+        </attvalues>
+      </node>
+      <node id="6478" label="公益社団法人及び公益財団法人の認定等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE276.html"/>
+        </attvalues>
+      </node>
+      <node id="6479" label="サービサー法警察庁長官意見陳述等規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11F30301000002.html"/>
+        </attvalues>
+      </node>
+      <node id="6480" label="犯罪収益移転防止法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F10008046001.html"/>
+        </attvalues>
+      </node>
+      <node id="6481" label="トラ退治法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36HO103.html"/>
+        </attvalues>
+      </node>
+      <node id="6482" label="疑わしい取引の届出における情報通信の技術の利用に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政手続"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F10008046002.html"/>
+        </attvalues>
+      </node>
+      <node id="6483" label="ＤＮＡ型記録取扱規則">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F30301000015.html"/>
+        </attvalues>
+      </node>
+      <node id="6484" label="消費税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63SE360.html"/>
+        </attvalues>
+      </node>
+      <node id="6485" label="警察法第五十六条の二第一項の特定地方警務官で国家公安委員会規則で定める者を定める規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F30301000027.html"/>
+        </attvalues>
+      </node>
+      <node id="6486" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO160.html"/>
+        </attvalues>
+      </node>
+      <node id="6487" label="警備業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58F03101000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6488" label="中小企業の新たな事業活動の促進に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6489" label="交通安全活動推進センターに関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F30301000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6490" label="不動産特定共同事業法">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06HO077.html"/>
+        </attvalues>
+      </node>
+      <node id="6491" label="道路法">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO180.html"/>
+        </attvalues>
+      </node>
+      <node id="6492" label="児童福祉法">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22HO164.html"/>
+        </attvalues>
+      </node>
+      <node id="6493" label="移動警察規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F30301000017.html"/>
+        </attvalues>
+      </node>
+      <node id="6494" label="地価税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F03401000031.html"/>
+        </attvalues>
+      </node>
+      <node id="6495" label="海上保安官に協力援助した者等の災害給付に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO033.html"/>
+        </attvalues>
+      </node>
+      <node id="6496" label="株式会社日本政策金融公庫が行う恩給担保金融に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO091.html"/>
+        </attvalues>
+      </node>
+      <node id="6497" label="盲導犬の訓練を目的とする法人の指定に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F30301000017.html"/>
+        </attvalues>
+      </node>
+      <node id="6498" label="標準的な官職を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21SE030.html"/>
+        </attvalues>
+      </node>
+      <node id="6499" label="国会議事堂等周辺地域及び外国公館等周辺地域の静穏の保持に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63HO090.html"/>
+        </attvalues>
+      </node>
+      <node id="6500" label="高齢者の居住の安定確保に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO026.html"/>
+        </attvalues>
+      </node>
+      <node id="6501" label="探偵業の業務の適正化に関する法律に規定する道公安委員会の権限の方面公安委員会への委任に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18SE367.html"/>
+        </attvalues>
+      </node>
+      <node id="6502" label="クレーン等安全規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F04101000034.html"/>
+        </attvalues>
+      </node>
+      <node id="6503" label="車両制限令">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36SE265.html"/>
+        </attvalues>
+      </node>
+      <node id="6504" label="管区海上保安本部の所掌事務の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36F03901000063.html"/>
+        </attvalues>
+      </node>
+      <node id="6505" label="職業訓練の実施等による特定求職者の就職の支援に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F19001000093.html"/>
+        </attvalues>
+      </node>
+      <node id="6506" label="死体取扱規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F30301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="6507" label="消費者契約法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE107.html"/>
+        </attvalues>
+      </node>
+      <node id="6508" label="核燃料物質等車両運搬規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53F03901000072.html"/>
+        </attvalues>
+      </node>
+      <node id="6509" label="沖縄振興特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14SE102.html"/>
+        </attvalues>
+      </node>
+      <node id="6510" label="風俗環境浄化協会に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6511" label="自転車の安全利用の促進及び自転車等の駐車対策の総合的推進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55HO087.html"/>
+        </attvalues>
+      </node>
+      <node id="6512" label="電子公告規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F12001000014.html"/>
+        </attvalues>
+      </node>
+      <node id="6513" label="暴力追放運動推進センターに関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F30301000007.html"/>
+        </attvalues>
+      </node>
+      <node id="6514" label="指定講習機関に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6515" label="道路整備特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31HO007.html"/>
+        </attvalues>
+      </node>
+      <node id="6516" label="警察官の職務に協力援助した者の災害給付に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F30301000023.html"/>
+        </attvalues>
+      </node>
+      <node id="6517" label="猟銃安全指導委員規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F30301000012.html"/>
+        </attvalues>
+      </node>
+      <node id="6518" label="探偵業の業務の適正化に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO060.html"/>
+        </attvalues>
+      </node>
+      <node id="6519" label="座席ベルトの装着義務の免除に係る業務を定める規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F30301000012.html"/>
+        </attvalues>
+      </node>
+      <node id="6520" label="自動車安全運転センター法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50F03101000053.html"/>
+        </attvalues>
+      </node>
+      <node id="6521" label="車庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE329.html"/>
+        </attvalues>
+      </node>
+      <node id="6522" label="自動車ターミナル法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34F03901000047.html"/>
+        </attvalues>
+      </node>
+      <node id="6523" label="移動等円滑化のために必要な道路の構造に関する基準を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F16001000116.html"/>
+        </attvalues>
+      </node>
+      <node id="6524" label="船舶消防設備規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40F03901000037.html"/>
+        </attvalues>
+      </node>
+      <node id="6525" label="運転免許取得者教育の認定に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F30301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="6526" label="水源地域対策特別措置法第十三条の固定資産税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000013.html"/>
+        </attvalues>
+      </node>
+      <node id="6527" label="工業統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03801000081.html"/>
+        </attvalues>
+      </node>
+      <node id="6528" label="自転車の防犯登録を行う者の指定に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F30301000012.html"/>
+        </attvalues>
+      </node>
+      <node id="6529" label="国家公務員倫理規程">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE101.html"/>
+        </attvalues>
+      </node>
+      <node id="6530" label="武力攻撃事態における外国軍用品等の海上輸送の規制に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6531" label="暴力的不法行為その他の罪に当たる違法な行為を定める規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F30301000008.html"/>
+        </attvalues>
+      </node>
+      <node id="6532" label="自転車競技法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F15001000097.html"/>
+        </attvalues>
+      </node>
+      <node id="6533" label="旅客自動車運送事業用自動車の運転者の要件に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31SE256.html"/>
+        </attvalues>
+      </node>
+      <node id="6534" label="沖縄の復帰に伴う警察庁関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE099.html"/>
+        </attvalues>
+      </node>
+      <node id="6535" label="交通安全対策基本法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45SE175.html"/>
+        </attvalues>
+      </node>
+      <node id="6536" label="研究開発段階発電用原子炉及びその附属施設の技術基準に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F31901000010.html"/>
+        </attvalues>
+      </node>
+      <node id="6537" label="関税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO061.html"/>
+        </attvalues>
+      </node>
+      <node id="6538" label="電波法">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO131.html"/>
+        </attvalues>
+      </node>
+      <node id="6539" label="指定自動車教習所等の教習の基準の細目に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F30301000013.html"/>
+        </attvalues>
+      </node>
+      <node id="6540" label="自賠法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30SE286.html"/>
+        </attvalues>
+      </node>
+      <node id="6541" label="不正競争防止法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05HO047.html"/>
+        </attvalues>
+      </node>
+      <node id="6542" label="不正アクセス行為の再発を防止するための都道府県公安委員会による援助に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11F30301000012.html"/>
+        </attvalues>
+      </node>
+      <node id="6543" label="警察庁旅費取扱規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39F03101000011.html"/>
+        </attvalues>
+      </node>
+      <node id="6544" label="信書便法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="郵務"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F11001000027.html"/>
+        </attvalues>
+      </node>
+      <node id="6545" label="警察官職務執行法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO136.html"/>
+        </attvalues>
+      </node>
+      <node id="6546" label="人材派遣法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60HO088.html"/>
+        </attvalues>
+      </node>
+      <node id="6547" label="東日本大震災復興特別区域法第十八条第一項の認定の申請に係る都道府県公安委員会の意見の聴取に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F10002009005.html"/>
+        </attvalues>
+      </node>
+      <node id="6548" label="預保法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO034.html"/>
+        </attvalues>
+      </node>
+      <node id="6549" label="地方警務官の利害関係者に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F30301000007.html"/>
+        </attvalues>
+      </node>
+      <node id="6550" label="皇宮護衛官の服制に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F30301000005.html"/>
+        </attvalues>
+      </node>
+      <node id="6551" label="警察官の服制に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F30301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="6552" label="ADR法">
+        <attvalues>
+          <attvalue for="modularity" value="司法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO151.html"/>
+        </attvalues>
+      </node>
+      <node id="6553" label="交通安全対策特別交付金等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58SE104.html"/>
+        </attvalues>
+      </node>
+      <node id="6554" label="全国消費実態調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59F03101000023.html"/>
+        </attvalues>
+      </node>
+      <node id="6555" label="幹線道路の沿道の整備に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55HO034.html"/>
+        </attvalues>
+      </node>
+      <node id="6556" label="法人税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE097.html"/>
+        </attvalues>
+      </node>
+      <node id="6557" label="交通事件即決裁判手続法">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO113.html"/>
+        </attvalues>
+      </node>
+      <node id="6558" label="古物営業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F30301000010.html"/>
+        </attvalues>
+      </node>
+      <node id="6559" label="高速道路における交通警察の運営に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46F30301000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6560" label="商業動態統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28F03801000017.html"/>
+        </attvalues>
+      </node>
+      <node id="6561" label="国土交通省関係警察等が取り扱う死体の死因又は身元の調査等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F16001000009.html"/>
+        </attvalues>
+      </node>
+      <node id="6562" label="裁判所法">
+        <attvalues>
+          <attvalue for="modularity" value="司法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22HO059.html"/>
+        </attvalues>
+      </node>
+      <node id="6563" label="高齢者、障害者等の移動等の円滑化の促進に係る信号機等に関する基準を定める規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F30301000028.html"/>
+        </attvalues>
+      </node>
+      <node id="6564" label="犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55HO036.html"/>
+        </attvalues>
+      </node>
+      <node id="6565" label="国家公務員宿舎法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33SE341.html"/>
+        </attvalues>
+      </node>
+      <node id="6566" label="独立行政法人国立高等専門学校機構法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15SE479.html"/>
+        </attvalues>
+      </node>
+      <node id="6567" label="入管法">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26SE319.html"/>
+        </attvalues>
+      </node>
+      <node id="6568" label="外国等の行政庁等の免許に係る運転免許証の日本語による翻訳文を作成する能力を有する法人の指定に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F30301000005.html"/>
+        </attvalues>
+      </node>
+      <node id="6569" label="廃掃法">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45HO137.html"/>
+        </attvalues>
+      </node>
+      <node id="6570" label="国土交通省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE255.html"/>
+        </attvalues>
+      </node>
+      <node id="6571" label="審査専門委員に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F30301000006.html"/>
+        </attvalues>
+      </node>
+      <node id="6572" label="内国税の適正な課税の確保を図るための国外送金等に係る調書の提出等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09F03401000096.html"/>
+        </attvalues>
+      </node>
+      <node id="6573" label="港湾労働法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63HO040.html"/>
+        </attvalues>
+      </node>
+      <node id="6574" label="ネズミ講防止法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53HO101.html"/>
+        </attvalues>
+      </node>
+      <node id="6575" label="動物の愛護及び管理に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F18001000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6576" label="指定自動車教習所の指定に係る別段の申出に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6577" label="運転免許に係る講習等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F30301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="6578" label="総務省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE246.html"/>
+        </attvalues>
+      </node>
+      <node id="6579" label="警察官等特殊銃使用及び取扱い規範">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F30301000016.html"/>
+        </attvalues>
+      </node>
+      <node id="6580" label="警衛要則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S54/S54F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6581" label="租税特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO026.html"/>
+        </attvalues>
+      </node>
+      <node id="6582" label="銀行法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S56/S56HO059.html"/>
+        </attvalues>
+      </node>
+      <node id="6583" label="火取法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO149.html"/>
+        </attvalues>
+      </node>
+      <node id="6584" label="暴対法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03SE335.html"/>
+        </attvalues>
+      </node>
+      <node id="6585" label="東日本大震災復興特別区域法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F10001000069.html"/>
+        </attvalues>
+      </node>
+      <node id="6586" label="警察官等警棒等使用及び取扱い規範">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F30301000014.html"/>
+        </attvalues>
+      </node>
+      <node id="6587" label="ピッキング防止法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15SE355.html"/>
+        </attvalues>
+      </node>
+      <node id="6588" label="古物営業法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24HO108.html"/>
+        </attvalues>
+      </node>
+      <node id="6589" label="公益通報者保護法別表第八号の法律を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE146.html"/>
+        </attvalues>
+      </node>
+      <node id="6590" label="一般高圧ガス保安規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F03801000053.html"/>
+        </attvalues>
+      </node>
+      <node id="6591" label="質屋営業法に規定する道公安委員会の権限の方面公安委員会への委任に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE385.html"/>
+        </attvalues>
+      </node>
+      <node id="6592" label="聴聞等の秩序維持に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6593" label="沖縄の復帰に伴う特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO129.html"/>
+        </attvalues>
+      </node>
+      <node id="6594" label="危険物船舶運送及び貯蔵規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03901000030.html"/>
+        </attvalues>
+      </node>
+      <node id="6595" label="児童虐待防止法">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12HO082.html"/>
+        </attvalues>
+      </node>
+      <node id="6596" label="タクシー業務適正化特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45F03901000066.html"/>
+        </attvalues>
+      </node>
+      <node id="6597" label="探偵業の業務の適正化に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F10001000019.html"/>
+        </attvalues>
+      </node>
+      <node id="6598" label="少年指導委員規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F30301000002.html"/>
+        </attvalues>
+      </node>
+      <node id="6599" label="交通安全対策特別交付金の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62F04301000013.html"/>
+        </attvalues>
+      </node>
+      <node id="6600" label="容器包装リサイクル法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07SE411.html"/>
+        </attvalues>
+      </node>
+      <node id="6601" label="地方拠点法地方公共団体等省令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F04301000020.html"/>
+        </attvalues>
+      </node>
+      <node id="6602" label="障害者虐待の防止、障害者の養護者に対する支援等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO079.html"/>
+        </attvalues>
+      </node>
+      <node id="6603" label="犯罪捜査共助規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F30301000003.html"/>
+        </attvalues>
+      </node>
+      <node id="6604" label="風営法に規定する指定試験機関を指定する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F30301000002.html"/>
+        </attvalues>
+      </node>
+      <node id="6605" label="自賠法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30F03901000066.html"/>
+        </attvalues>
+      </node>
+      <node id="6606" label="実用発電用原子炉及びその附属施設の位置、構造及び設備の基準に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F31901000005.html"/>
+        </attvalues>
+      </node>
+      <node id="6607" label="種の保存法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F03101000009.html"/>
+        </attvalues>
+      </node>
+      <node id="6608" label="道路法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE479.html"/>
+        </attvalues>
+      </node>
+      <node id="6609" label="遺失物法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F30301000006.html"/>
+        </attvalues>
+      </node>
+      <node id="6610" label="災害対策基本法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36HO223.html"/>
+        </attvalues>
+      </node>
+      <node id="6611" label="国民生活基礎調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S61/S61F03601000039.html"/>
+        </attvalues>
+      </node>
+      <node id="6612" label="遺失物法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE021.html"/>
+        </attvalues>
+      </node>
+      <node id="6613" label="都市計画法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44F04201000049.html"/>
+        </attvalues>
+      </node>
+      <node id="6614" label="消費者契約法">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12HO061.html"/>
+        </attvalues>
+      </node>
+      <node id="6615" label="届出自動車教習所が行う教習の課程の指定に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6616" label="交通事故調査分析センターに関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F30301000009.html"/>
+        </attvalues>
+      </node>
+      <node id="6617" label="統計法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE334.html"/>
+        </attvalues>
+      </node>
+      <node id="6618" label="少年警察活動規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F30301000020.html"/>
+        </attvalues>
+      </node>
+      <node id="6619" label="沖縄振興開発特別措置法第十五条等の地方税の課税免除又は不均一課税に伴う措置が適用される場合を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F04301000008.html"/>
+        </attvalues>
+      </node>
+      <node id="6620" label="予決令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22CO165.html"/>
+        </attvalues>
+      </node>
+      <node id="6621" label="職員の退職管理に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE389.html"/>
+        </attvalues>
+      </node>
+      <node id="6622" label="自動車安全運転センター法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50HO057.html"/>
+        </attvalues>
+      </node>
+      <node id="6623" label="警察法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO162.html"/>
+        </attvalues>
+      </node>
+      <node id="6624" label="犯罪被害者等早期援助団体に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6625" label="モーターボート競走法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000059.html"/>
+        </attvalues>
+      </node>
+      <node id="6626" label="国家公安委員会運営規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6627" label="風営法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="6628" label="中小企業における経営の承継の円滑化に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F15001000022.html"/>
+        </attvalues>
+      </node>
+      <node id="6629" label="有線電気通信法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28F04001000036.html"/>
+        </attvalues>
+      </node>
+      <node id="6630" label="景観法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16SE398.html"/>
+        </attvalues>
+      </node>
+      <node id="6631" label="ノンバンク規制法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58HO032.html"/>
+        </attvalues>
+      </node>
+      <node id="6632" label="独立行政法人国立文化財機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO178.html"/>
+        </attvalues>
+      </node>
+      <node id="6633" label="出会い系サイト規制法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15HO083.html"/>
+        </attvalues>
+      </node>
+      <node id="6634" label="道路運送法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000075.html"/>
+        </attvalues>
+      </node>
+      <node id="6635" label="警察等が取り扱う死体の死因又は身元の調査等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25SE049.html"/>
+        </attvalues>
+      </node>
+      <node id="6636" label="国土交通省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO100.html"/>
+        </attvalues>
+      </node>
+      <node id="6637" label="臓器移植法附則法律を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09SE311.html"/>
+        </attvalues>
+      </node>
+      <node id="6638" label="遊技機の認定及び型式の検定等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F30301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="6639" label="戸籍法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22F00501000094.html"/>
+        </attvalues>
+      </node>
+      <node id="6640" label="道路運送車両の保安基準">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000067.html"/>
+        </attvalues>
+      </node>
+      <node id="6641" label="船舶防火構造規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55F03901000011.html"/>
+        </attvalues>
+      </node>
+      <node id="6642" label="実用発電用原子炉及びその附属施設の技術基準に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F31901000006.html"/>
+        </attvalues>
+      </node>
+      <node id="6643" label="運転代行業適正化法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO057.html"/>
+        </attvalues>
+      </node>
+      <node id="6644" label="犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55F30301000006.html"/>
+        </attvalues>
+      </node>
+      <node id="6645" label="液化石油ガス保安規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F03801000052.html"/>
+        </attvalues>
+      </node>
+      <node id="6646" label="供託規則">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34F03201000002.html"/>
+        </attvalues>
+      </node>
+      <node id="6647" label="ストーカー法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F30301000018.html"/>
+        </attvalues>
+      </node>
+      <node id="6648" label="租税特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE043.html"/>
+        </attvalues>
+      </node>
+      <node id="6649" label="武力攻撃事態等におけるアメリカ合衆国の軍隊の行動に伴い我が国が実施する措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="6650" label="核燃料物質等の運搬の届出等に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53F03101000048.html"/>
+        </attvalues>
+      </node>
+      <node id="6651" label="ストーカー法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE467.html"/>
+        </attvalues>
+      </node>
+      <node id="6652" label="古物営業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07SE326.html"/>
+        </attvalues>
+      </node>
+      <node id="6653" label="住宅・土地統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03101000041.html"/>
+        </attvalues>
+      </node>
+      <node id="6654" label="経済産業省生産動態統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28F03801000010.html"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="13853" source="6545" target="6618"/>
+      <edge id="13854" source="6545" target="6481"/>
+      <edge id="13855" source="6545" target="6298"/>
+      <edge id="13856" source="6545" target="6602"/>
+      <edge id="13857" source="6545" target="6327"/>
+      <edge id="13858" source="6545" target="6311"/>
+      <edge id="13859" source="6545" target="6415"/>
+      <edge id="13860" source="6545" target="6231"/>
+      <edge id="13861" source="6545" target="6530"/>
+      <edge id="13862" source="6545" target="6315"/>
+      <edge id="13863" source="6545" target="6344"/>
+      <edge id="13864" source="6545" target="6379"/>
+      <edge id="13865" source="6545" target="6595"/>
+      <edge id="13866" source="6545" target="6534"/>
+      <edge id="13867" source="6545" target="6623"/>
+      <edge id="13868" source="6545" target="6586"/>
+      <edge id="13869" source="6518" target="6406"/>
+      <edge id="13870" source="6518" target="6501"/>
+      <edge id="13871" source="6518" target="6627"/>
+      <edge id="13872" source="6518" target="6433"/>
+      <edge id="13873" source="6518" target="6365"/>
+      <edge id="13874" source="6518" target="6372"/>
+      <edge id="13875" source="6518" target="6589"/>
+      <edge id="13876" source="6518" target="6597"/>
+      <edge id="13877" source="6518" target="6472"/>
+      <edge id="13878" source="6518" target="6531"/>
+      <edge id="13879" source="6633" target="6406"/>
+      <edge id="13880" source="6633" target="6374"/>
+      <edge id="13881" source="6633" target="6589"/>
+      <edge id="13882" source="6633" target="6627"/>
+      <edge id="13883" source="6633" target="6365"/>
+      <edge id="13884" source="6633" target="6446"/>
+      <edge id="13885" source="6633" target="6372"/>
+      <edge id="13886" source="6633" target="6472"/>
+      <edge id="13887" source="6633" target="6531"/>
+      <edge id="13888" source="6476" target="6637"/>
+      <edge id="13889" source="6476" target="6470"/>
+      <edge id="13890" source="6476" target="6364"/>
+      <edge id="13891" source="6476" target="6238"/>
+      <edge id="13892" source="6476" target="6230"/>
+      <edge id="13893" source="6476" target="6484"/>
+      <edge id="13894" source="6476" target="6291"/>
+      <edge id="13895" source="6476" target="6644"/>
+      <edge id="13896" source="6476" target="6396"/>
+      <edge id="13897" source="6476" target="6495"/>
+      <edge id="13898" source="6476" target="6378"/>
+      <edge id="13899" source="6476" target="6540"/>
+      <edge id="13900" source="6476" target="6390"/>
+      <edge id="13901" source="6476" target="6462"/>
+      <edge id="13902" source="6476" target="6534"/>
+      <edge id="13903" source="6476" target="6389"/>
+      <edge id="13904" source="6476" target="6496"/>
+      <edge id="13905" source="6623" target="6308"/>
+      <edge id="13906" source="6623" target="6545"/>
+      <edge id="13907" source="6623" target="6607"/>
+      <edge id="13908" source="6623" target="6458"/>
+      <edge id="13909" source="6623" target="6653"/>
+      <edge id="13910" source="6623" target="6476"/>
+      <edge id="13911" source="6623" target="6369"/>
+      <edge id="13912" source="6623" target="6311"/>
+      <edge id="13913" source="6623" target="6333"/>
+      <edge id="13914" source="6623" target="6527"/>
+      <edge id="13915" source="6623" target="6393"/>
+      <edge id="13916" source="6623" target="6575"/>
+      <edge id="13917" source="6623" target="6232"/>
+      <edge id="13918" source="6623" target="6611"/>
+      <edge id="13919" source="6623" target="6404"/>
+      <edge id="13920" source="6623" target="6419"/>
+      <edge id="13921" source="6623" target="6453"/>
+      <edge id="13922" source="6623" target="6454"/>
+      <edge id="13923" source="6623" target="6377"/>
+      <edge id="13924" source="6623" target="6322"/>
+      <edge id="13925" source="6623" target="6424"/>
+      <edge id="13926" source="6623" target="6459"/>
+      <edge id="13927" source="6623" target="6368"/>
+      <edge id="13928" source="6623" target="6409"/>
+      <edge id="13929" source="6623" target="6493"/>
+      <edge id="13930" source="6623" target="6554"/>
+      <edge id="13931" source="6623" target="6276"/>
+      <edge id="13932" source="6623" target="6425"/>
+      <edge id="13933" source="6623" target="6579"/>
+      <edge id="13934" source="6623" target="6580"/>
+      <edge id="13935" source="6623" target="6236"/>
+      <edge id="13936" source="6623" target="6485"/>
+      <edge id="13937" source="6623" target="6460"/>
+      <edge id="13938" source="6623" target="6422"/>
+      <edge id="13939" source="6623" target="6486"/>
+      <edge id="13940" source="6623" target="6237"/>
+      <edge id="13941" source="6623" target="6437"/>
+      <edge id="13942" source="6623" target="6269"/>
+      <edge id="13943" source="6623" target="6559"/>
+      <edge id="13944" source="6623" target="6617"/>
+      <edge id="13945" source="6623" target="6618"/>
+      <edge id="13946" source="6623" target="6332"/>
+      <edge id="13947" source="6623" target="6430"/>
+      <edge id="13948" source="6623" target="6319"/>
+      <edge id="13949" source="6623" target="6621"/>
+      <edge id="13950" source="6623" target="6529"/>
+      <edge id="13951" source="6623" target="6560"/>
+      <edge id="13952" source="6623" target="6498"/>
+      <edge id="13953" source="6623" target="6352"/>
+      <edge id="13954" source="6623" target="6252"/>
+      <edge id="13955" source="6623" target="6245"/>
+      <edge id="13956" source="6623" target="6379"/>
+      <edge id="13957" source="6623" target="6392"/>
+      <edge id="13958" source="6623" target="6243"/>
+      <edge id="13959" source="6623" target="6534"/>
+      <edge id="13960" source="6623" target="6406"/>
+      <edge id="13961" source="6623" target="6294"/>
+      <edge id="13962" source="6623" target="6407"/>
+      <edge id="13963" source="6623" target="6626"/>
+      <edge id="13964" source="6623" target="6417"/>
+      <edge id="13965" source="6623" target="6469"/>
+      <edge id="13966" source="6623" target="6297"/>
+      <edge id="13967" source="6623" target="6428"/>
+      <edge id="13968" source="6623" target="6357"/>
+      <edge id="13969" source="6623" target="6603"/>
+      <edge id="13970" source="6623" target="6443"/>
+      <edge id="13971" source="6623" target="6538"/>
+      <edge id="13972" source="6623" target="6383"/>
+      <edge id="13973" source="6623" target="6629"/>
+      <edge id="13974" source="6623" target="6400"/>
+      <edge id="13975" source="6623" target="6384"/>
+      <edge id="13976" source="6623" target="6447"/>
+      <edge id="13977" source="6623" target="6238"/>
+      <edge id="13978" source="6623" target="6331"/>
+      <edge id="13979" source="6623" target="6543"/>
+      <edge id="13980" source="6623" target="6654"/>
+      <edge id="13981" source="6346" target="6506"/>
+      <edge id="13982" source="6574" target="6507"/>
+      <edge id="13983" source="6574" target="6589"/>
+      <edge id="13984" source="6521" target="6534"/>
+      <edge id="13985" source="6521" target="6468"/>
+      <edge id="13986" source="6285" target="6418"/>
+      <edge id="13987" source="6635" target="6338"/>
+      <edge id="13988" source="6635" target="6561"/>
+      <edge id="13989" source="6551" target="6550"/>
+      <edge id="13990" source="6420" target="6406"/>
+      <edge id="13991" source="6420" target="6589"/>
+      <edge id="13992" source="6420" target="6468"/>
+      <edge id="13993" source="6420" target="6383"/>
+      <edge id="13994" source="6420" target="6340"/>
+      <edge id="13995" source="6420" target="6292"/>
+      <edge id="13996" source="6420" target="6565"/>
+      <edge id="13997" source="6420" target="6304"/>
+      <edge id="13998" source="6420" target="6521"/>
+      <edge id="13999" source="6420" target="6534"/>
+      <edge id="14000" source="6455" target="6535"/>
+      <edge id="14001" source="6455" target="6636"/>
+      <edge id="14002" source="6455" target="6352"/>
+      <edge id="14003" source="6455" target="6293"/>
+      <edge id="14004" source="6455" target="6486"/>
+      <edge id="14005" source="6455" target="6570"/>
+      <edge id="14006" source="6368" target="6374"/>
+      <edge id="14007" source="6368" target="6362"/>
+      <edge id="14008" source="6368" target="6589"/>
+      <edge id="14009" source="6368" target="6642"/>
+      <edge id="14010" source="6368" target="6536"/>
+      <edge id="14011" source="6368" target="6482"/>
+      <edge id="14012" source="6368" target="6558"/>
+      <edge id="14013" source="6368" target="6309"/>
+      <edge id="14014" source="6368" target="6448"/>
+      <edge id="14015" source="6368" target="6512"/>
+      <edge id="14016" source="6368" target="6509"/>
+      <edge id="14017" source="6368" target="6334"/>
+      <edge id="14018" source="6368" target="6486"/>
+      <edge id="14019" source="6368" target="6541"/>
+      <edge id="14020" source="6368" target="6466"/>
+      <edge id="14021" source="6368" target="6606"/>
+      <edge id="14022" source="6368" target="6542"/>
+      <edge id="14023" source="6323" target="6517"/>
+      <edge id="14024" source="6323" target="6632"/>
+      <edge id="14025" source="6323" target="6475"/>
+      <edge id="14026" source="6323" target="6414"/>
+      <edge id="14027" source="6323" target="6365"/>
+      <edge id="14028" source="6323" target="6609"/>
+      <edge id="14029" source="6323" target="6285"/>
+      <edge id="14030" source="6323" target="6337"/>
+      <edge id="14031" source="6323" target="6234"/>
+      <edge id="14032" source="6323" target="6583"/>
+      <edge id="14033" source="6323" target="6371"/>
+      <edge id="14034" source="6323" target="6372"/>
+      <edge id="14035" source="6323" target="6531"/>
+      <edge id="14036" source="6323" target="6429"/>
+      <edge id="14037" source="6323" target="6589"/>
+      <edge id="14038" source="6323" target="6431"/>
+      <edge id="14039" source="6323" target="6486"/>
+      <edge id="14040" source="6323" target="6348"/>
+      <edge id="14041" source="6323" target="6350"/>
+      <edge id="14042" source="6323" target="6436"/>
+      <edge id="14043" source="6323" target="6612"/>
+      <edge id="14044" source="6323" target="6534"/>
+      <edge id="14045" source="6323" target="6406"/>
+      <edge id="14046" source="6323" target="6566"/>
+      <edge id="14047" source="6323" target="6627"/>
+      <edge id="14048" source="6323" target="6298"/>
+      <edge id="14049" source="6323" target="6248"/>
+      <edge id="14050" source="6323" target="6385"/>
+      <edge id="14051" source="6323" target="6537"/>
+      <edge id="14052" source="6323" target="6328"/>
+      <edge id="14053" source="6323" target="6344"/>
+      <edge id="14054" source="6323" target="6567"/>
+      <edge id="14055" source="6323" target="6251"/>
+      <edge id="14056" source="6323" target="6472"/>
+      <edge id="14057" source="6553" target="6599"/>
+      <edge id="14058" source="6481" target="6406"/>
+      <edge id="14059" source="6481" target="6534"/>
+      <edge id="14060" source="6426" target="6398"/>
+      <edge id="14061" source="6483" target="6506"/>
+      <edge id="14062" source="6311" target="6253"/>
+      <edge id="14063" source="6311" target="6406"/>
+      <edge id="14064" source="6311" target="6589"/>
+      <edge id="14065" source="6311" target="6603"/>
+      <edge id="14066" source="6311" target="6240"/>
+      <edge id="14067" source="6311" target="6371"/>
+      <edge id="14068" source="6311" target="6429"/>
+      <edge id="14069" source="6236" target="6618"/>
+      <edge id="14070" source="6236" target="6359"/>
+      <edge id="14071" source="6236" target="6427"/>
+      <edge id="14072" source="6236" target="6603"/>
+      <edge id="14073" source="6236" target="6450"/>
+      <edge id="14074" source="6396" target="6644"/>
+      <edge id="14075" source="6487" target="6255"/>
+      <edge id="14076" source="6487" target="6271"/>
+      <edge id="14077" source="6584" target="6472"/>
+      <edge id="14078" source="6375" target="6587"/>
+      <edge id="14079" source="6375" target="6406"/>
+      <edge id="14080" source="6375" target="6589"/>
+      <edge id="14081" source="6375" target="6567"/>
+      <edge id="14082" source="6375" target="6456"/>
+      <edge id="14083" source="6429" target="6285"/>
+      <edge id="14084" source="6429" target="6256"/>
+      <edge id="14085" source="6429" target="6347"/>
+      <edge id="14086" source="6429" target="6251"/>
+      <edge id="14087" source="6586" target="6551"/>
+      <edge id="14088" source="6618" target="6236"/>
+      <edge id="14089" source="6618" target="6281"/>
+      <edge id="14090" source="6588" target="6406"/>
+      <edge id="14091" source="6588" target="6589"/>
+      <edge id="14092" source="6588" target="6314"/>
+      <edge id="14093" source="6588" target="6562"/>
+      <edge id="14094" source="6588" target="6236"/>
+      <edge id="14095" source="6588" target="6652"/>
+      <edge id="14096" source="6588" target="6275"/>
+      <edge id="14097" source="6588" target="6401"/>
+      <edge id="14098" source="6588" target="6558"/>
+      <edge id="14099" source="6588" target="6534"/>
+      <edge id="14100" source="6588" target="6454"/>
+      <edge id="14101" source="6271" target="6255"/>
+      <edge id="14102" source="6643" target="6406"/>
+      <edge id="14103" source="6643" target="6589"/>
+      <edge id="14104" source="6643" target="6433"/>
+      <edge id="14105" source="6643" target="6426"/>
+      <edge id="14106" source="6643" target="6464"/>
+      <edge id="14107" source="6643" target="6383"/>
+      <edge id="14108" source="6643" target="6398"/>
+      <edge id="14109" source="6643" target="6273"/>
+      <edge id="14110" source="6349" target="6307"/>
+      <edge id="14111" source="6349" target="6363"/>
+      <edge id="14112" source="6349" target="6228"/>
+      <edge id="14113" source="6349" target="6631"/>
+      <edge id="14114" source="6349" target="6280"/>
+      <edge id="14115" source="6349" target="6413"/>
+      <edge id="14116" source="6349" target="6518"/>
+      <edge id="14117" source="6349" target="6546"/>
+      <edge id="14118" source="6349" target="6633"/>
+      <edge id="14119" source="6349" target="6310"/>
+      <edge id="14120" source="6349" target="6571"/>
+      <edge id="14121" source="6349" target="6391"/>
+      <edge id="14122" source="6349" target="6548"/>
+      <edge id="14123" source="6349" target="6294"/>
+      <edge id="14124" source="6349" target="6451"/>
+      <edge id="14125" source="6349" target="6284"/>
+      <edge id="14126" source="6349" target="6613"/>
+      <edge id="14127" source="6349" target="6313"/>
+      <edge id="14128" source="6349" target="6236"/>
+      <edge id="14129" source="6349" target="6625"/>
+      <edge id="14130" source="6349" target="6552"/>
+      <edge id="14131" source="6349" target="6479"/>
+      <edge id="14132" source="6349" target="6614"/>
+      <edge id="14133" source="6349" target="6259"/>
+      <edge id="14134" source="6349" target="6395"/>
+      <edge id="14135" source="6349" target="6260"/>
+      <edge id="14136" source="6349" target="6405"/>
+      <edge id="14137" source="6349" target="6283"/>
+      <edge id="14138" source="6349" target="6262"/>
+      <edge id="14139" source="6349" target="6339"/>
+      <edge id="14140" source="6349" target="6620"/>
+      <edge id="14141" source="6349" target="6264"/>
+      <edge id="14142" source="6349" target="6582"/>
+      <edge id="14143" source="6349" target="6286"/>
+      <edge id="14144" source="6349" target="6265"/>
+      <edge id="14145" source="6349" target="6584"/>
+      <edge id="14146" source="6349" target="6267"/>
+      <edge id="14147" source="6349" target="6500"/>
+      <edge id="14148" source="6349" target="6505"/>
+      <edge id="14149" source="6349" target="6373"/>
+      <edge id="14150" source="6349" target="6345"/>
+      <edge id="14151" source="6349" target="6374"/>
+      <edge id="14152" source="6349" target="6532"/>
+      <edge id="14153" source="6349" target="6589"/>
+      <edge id="14154" source="6349" target="6592"/>
+      <edge id="14155" source="6349" target="6490"/>
+      <edge id="14156" source="6349" target="6320"/>
+      <edge id="14157" source="6349" target="6403"/>
+      <edge id="14158" source="6349" target="6383"/>
+      <edge id="14159" source="6349" target="6439"/>
+      <edge id="14160" source="6349" target="6624"/>
+      <edge id="14161" source="6349" target="6573"/>
+      <edge id="14162" source="6349" target="6295"/>
+      <edge id="14163" source="6349" target="6406"/>
+      <edge id="14164" source="6349" target="6380"/>
+      <edge id="14165" source="6349" target="6600"/>
+      <edge id="14166" source="6349" target="6474"/>
+      <edge id="14167" source="6349" target="6247"/>
+      <edge id="14168" source="6349" target="6301"/>
+      <edge id="14169" source="6349" target="6466"/>
+      <edge id="14170" source="6349" target="6299"/>
+      <edge id="14171" source="6349" target="6442"/>
+      <edge id="14172" source="6349" target="6537"/>
+      <edge id="14173" source="6349" target="6382"/>
+      <edge id="14174" source="6349" target="6300"/>
+      <edge id="14175" source="6349" target="6358"/>
+      <edge id="14176" source="6349" target="6244"/>
+      <edge id="14177" source="6349" target="6303"/>
+      <edge id="14178" source="6349" target="6513"/>
+      <edge id="14179" source="6349" target="6429"/>
+      <edge id="14180" source="6349" target="6386"/>
+      <edge id="14181" source="6349" target="6569"/>
+      <edge id="14182" source="6349" target="6471"/>
+      <edge id="14183" source="6349" target="6472"/>
+      <edge id="14184" source="6349" target="6411"/>
+      <edge id="14185" source="6349" target="6441"/>
+      <edge id="14186" source="6273" target="6258"/>
+      <edge id="14187" source="6273" target="6497"/>
+      <edge id="14188" source="6273" target="6290"/>
+      <edge id="14189" source="6273" target="6615"/>
+      <edge id="14190" source="6273" target="6426"/>
+      <edge id="14191" source="6273" target="6568"/>
+      <edge id="14192" source="6273" target="6533"/>
+      <edge id="14193" source="6273" target="6520"/>
+      <edge id="14194" source="6273" target="6304"/>
+      <edge id="14195" source="6273" target="6576"/>
+      <edge id="14196" source="6273" target="6563"/>
+      <edge id="14197" source="6273" target="6577"/>
+      <edge id="14198" source="6273" target="6534"/>
+      <edge id="14199" source="6273" target="6519"/>
+      <edge id="14200" source="6273" target="6440"/>
+      <edge id="14201" source="6622" target="6520"/>
+      <edge id="14202" source="6622" target="6239"/>
+      <edge id="14203" source="6622" target="6486"/>
+      <edge id="14204" source="6241" target="6487"/>
+      <edge id="14205" source="6241" target="6271"/>
+      <edge id="14206" source="6275" target="6406"/>
+      <edge id="14207" source="6275" target="6556"/>
+      <edge id="14208" source="6275" target="6589"/>
+      <edge id="14209" source="6275" target="6342"/>
+      <edge id="14210" source="6275" target="6314"/>
+      <edge id="14211" source="6275" target="6562"/>
+      <edge id="14212" source="6275" target="6236"/>
+      <edge id="14213" source="6275" target="6507"/>
+      <edge id="14214" source="6275" target="6401"/>
+      <edge id="14215" source="6275" target="6591"/>
+      <edge id="14216" source="6275" target="6558"/>
+      <edge id="14217" source="6275" target="6335"/>
+      <edge id="14218" source="6275" target="6534"/>
+      <edge id="14219" source="6275" target="6454"/>
+      <edge id="14220" source="6275" target="6486"/>
+      <edge id="14221" source="6403" target="6406"/>
+      <edge id="14222" source="6403" target="6589"/>
+      <edge id="14223" source="6403" target="6546"/>
+      <edge id="14224" source="6403" target="6241"/>
+      <edge id="14225" source="6403" target="6433"/>
+      <edge id="14226" source="6403" target="6365"/>
+      <edge id="14227" source="6403" target="6255"/>
+      <edge id="14228" source="6403" target="6271"/>
+      <edge id="14229" source="6403" target="6486"/>
+      <edge id="14230" source="6403" target="6487"/>
+      <edge id="14231" source="6403" target="6252"/>
+      <edge id="14232" source="6436" target="6251"/>
+      <edge id="14233" source="6465" target="6353"/>
+      <edge id="14234" source="6465" target="6627"/>
+      <edge id="14235" source="6465" target="6360"/>
+      <edge id="14236" source="6465" target="6361"/>
+      <edge id="14237" source="6465" target="6638"/>
+      <edge id="14238" source="6406" target="6294"/>
+      <edge id="14239" source="6564" target="6396"/>
+      <edge id="14240" source="6564" target="6623"/>
+      <edge id="14241" source="6564" target="6624"/>
+      <edge id="14242" source="6564" target="6389"/>
+      <edge id="14243" source="6564" target="6644"/>
+      <edge id="14244" source="6468" target="6340"/>
+      <edge id="14245" source="6469" target="6412"/>
+      <edge id="14246" source="6469" target="6343"/>
+      <edge id="14247" source="6469" target="6454"/>
+      <edge id="14248" source="6469" target="6235"/>
+      <edge id="14249" source="6627" target="6410"/>
+      <edge id="14250" source="6627" target="6353"/>
+      <edge id="14251" source="6627" target="6638"/>
+      <edge id="14252" source="6383" target="6544"/>
+      <edge id="14253" source="6383" target="6229"/>
+      <edge id="14254" source="6383" target="6547"/>
+      <edge id="14255" source="6383" target="6549"/>
+      <edge id="14256" source="6383" target="6452"/>
+      <edge id="14257" source="6383" target="6336"/>
+      <edge id="14258" source="6383" target="6455"/>
+      <edge id="14259" source="6383" target="6233"/>
+      <edge id="14260" source="6383" target="6553"/>
+      <edge id="14261" source="6383" target="6555"/>
+      <edge id="14262" source="6383" target="6236"/>
+      <edge id="14263" source="6383" target="6341"/>
+      <edge id="14264" source="6383" target="6461"/>
+      <edge id="14265" source="6383" target="6344"/>
+      <edge id="14266" source="6383" target="6486"/>
+      <edge id="14267" source="6383" target="6577"/>
+      <edge id="14268" source="6383" target="6449"/>
+      <edge id="14269" source="6383" target="6464"/>
+      <edge id="14270" source="6383" target="6324"/>
+      <edge id="14271" source="6383" target="6465"/>
+      <edge id="14272" source="6383" target="6467"/>
+      <edge id="14273" source="6383" target="6355"/>
+      <edge id="14274" source="6383" target="6356"/>
+      <edge id="14275" source="6383" target="6469"/>
+      <edge id="14276" source="6383" target="6357"/>
+      <edge id="14277" source="6383" target="6367"/>
+      <edge id="14278" source="6383" target="6360"/>
+      <edge id="14279" source="6383" target="6250"/>
+      <edge id="14280" source="6383" target="6463"/>
+      <edge id="14281" source="6383" target="6640"/>
+      <edge id="14282" source="6383" target="6361"/>
+      <edge id="14283" source="6383" target="6615"/>
+      <edge id="14284" source="6383" target="6616"/>
+      <edge id="14285" source="6383" target="6572"/>
+      <edge id="14286" source="6383" target="6249"/>
+      <edge id="14287" source="6383" target="6576"/>
+      <edge id="14288" source="6383" target="6477"/>
+      <edge id="14289" source="6383" target="6376"/>
+      <edge id="14290" source="6383" target="6480"/>
+      <edge id="14291" source="6383" target="6444"/>
+      <edge id="14292" source="6383" target="6457"/>
+      <edge id="14293" source="6383" target="6240"/>
+      <edge id="14294" source="6383" target="6266"/>
+      <edge id="14295" source="6383" target="6372"/>
+      <edge id="14296" source="6383" target="6268"/>
+      <edge id="14297" source="6383" target="6489"/>
+      <edge id="14298" source="6383" target="6589"/>
+      <edge id="14299" source="6383" target="6590"/>
+      <edge id="14300" source="6383" target="6630"/>
+      <edge id="14301" source="6383" target="6592"/>
+      <edge id="14302" source="6383" target="6273"/>
+      <edge id="14303" source="6383" target="6593"/>
+      <edge id="14304" source="6383" target="6594"/>
+      <edge id="14305" source="6383" target="6491"/>
+      <edge id="14306" source="6383" target="6511"/>
+      <edge id="14307" source="6383" target="6278"/>
+      <edge id="14308" source="6383" target="6386"/>
+      <edge id="14309" source="6383" target="6387"/>
+      <edge id="14310" source="6383" target="6646"/>
+      <edge id="14311" source="6383" target="6605"/>
+      <edge id="14312" source="6383" target="6329"/>
+      <edge id="14313" source="6383" target="6282"/>
+      <edge id="14314" source="6383" target="6354"/>
+      <edge id="14315" source="6383" target="6610"/>
+      <edge id="14316" source="6383" target="6285"/>
+      <edge id="14317" source="6383" target="6394"/>
+      <edge id="14318" source="6383" target="6502"/>
+      <edge id="14319" source="6383" target="6503"/>
+      <edge id="14320" source="6383" target="6287"/>
+      <edge id="14321" source="6383" target="6364"/>
+      <edge id="14322" source="6383" target="6557"/>
+      <edge id="14323" source="6383" target="6288"/>
+      <edge id="14324" source="6383" target="6399"/>
+      <edge id="14325" source="6383" target="6289"/>
+      <edge id="14326" source="6383" target="6290"/>
+      <edge id="14327" source="6383" target="6622"/>
+      <edge id="14328" source="6383" target="6292"/>
+      <edge id="14329" source="6383" target="6508"/>
+      <edge id="14330" source="6383" target="6294"/>
+      <edge id="14331" source="6383" target="6406"/>
+      <edge id="14332" source="6383" target="6274"/>
+      <edge id="14333" source="6383" target="6302"/>
+      <edge id="14334" source="6383" target="6304"/>
+      <edge id="14335" source="6383" target="6514"/>
+      <edge id="14336" source="6383" target="6515"/>
+      <edge id="14337" source="6383" target="6410"/>
+      <edge id="14338" source="6383" target="6305"/>
+      <edge id="14339" source="6383" target="6559"/>
+      <edge id="14340" source="6383" target="6306"/>
+      <edge id="14341" source="6383" target="6279"/>
+      <edge id="14342" source="6383" target="6634"/>
+      <edge id="14343" source="6383" target="6311"/>
+      <edge id="14344" source="6383" target="6416"/>
+      <edge id="14345" source="6383" target="6312"/>
+      <edge id="14346" source="6383" target="6420"/>
+      <edge id="14347" source="6383" target="6522"/>
+      <edge id="14348" source="6383" target="6423"/>
+      <edge id="14349" source="6383" target="6523"/>
+      <edge id="14350" source="6383" target="6524"/>
+      <edge id="14351" source="6383" target="6525"/>
+      <edge id="14352" source="6383" target="6426"/>
+      <edge id="14353" source="6383" target="6639"/>
+      <edge id="14354" source="6383" target="6316"/>
+      <edge id="14355" source="6383" target="6317"/>
+      <edge id="14356" source="6383" target="6641"/>
+      <edge id="14357" source="6383" target="6318"/>
+      <edge id="14358" source="6383" target="6532"/>
+      <edge id="14359" source="6383" target="6432"/>
+      <edge id="14360" source="6383" target="6643"/>
+      <edge id="14361" source="6383" target="6434"/>
+      <edge id="14362" source="6383" target="6533"/>
+      <edge id="14363" source="6383" target="6596"/>
+      <edge id="14364" source="6383" target="6645"/>
+      <edge id="14365" source="6383" target="6321"/>
+      <edge id="14366" source="6383" target="6436"/>
+      <edge id="14367" source="6383" target="6388"/>
+      <edge id="14368" source="6383" target="6437"/>
+      <edge id="14369" source="6383" target="6534"/>
+      <edge id="14370" source="6383" target="6440"/>
+      <edge id="14371" source="6383" target="6649"/>
+      <edge id="14372" source="6383" target="6326"/>
+      <edge id="14373" source="6383" target="6539"/>
+      <edge id="14374" source="6383" target="6330"/>
+      <edge id="14375" source="6383" target="6650"/>
+      <edge id="14376" source="6407" target="6412"/>
+      <edge id="14377" source="6407" target="6343"/>
+      <edge id="14378" source="6407" target="6235"/>
+      <edge id="14379" source="6511" target="6435"/>
+      <edge id="14380" source="6511" target="6528"/>
+      <edge id="14381" source="6511" target="6608"/>
+      <edge id="14382" source="6499" target="6402"/>
+      <edge id="14383" source="6499" target="6578"/>
+      <edge id="14384" source="6499" target="6486"/>
+      <edge id="14385" source="6652" target="6558"/>
+      <edge id="14386" source="6325" target="6406"/>
+      <edge id="14387" source="6325" target="6506"/>
+      <edge id="14388" source="6325" target="6561"/>
+      <edge id="14389" source="6325" target="6385"/>
+      <edge id="14390" source="6325" target="6366"/>
+      <edge id="14391" source="6325" target="6504"/>
+      <edge id="14392" source="6325" target="6635"/>
+      <edge id="14393" source="6325" target="6421"/>
+      <edge id="14394" source="6325" target="6570"/>
+      <edge id="14395" source="6359" target="6236"/>
+      <edge id="14396" source="6445" target="6406"/>
+      <edge id="14397" source="6445" target="6270"/>
+      <edge id="14398" source="6445" target="6323"/>
+      <edge id="14399" source="6445" target="6592"/>
+      <edge id="14400" source="6445" target="6651"/>
+      <edge id="14401" source="6445" target="6366"/>
+      <edge id="14402" source="6445" target="6647"/>
+      <edge id="14403" source="6304" target="6634"/>
+      <edge id="14404" source="6304" target="6525"/>
+      <edge id="14405" source="6304" target="6364"/>
+      <edge id="14406" source="6304" target="6263"/>
+      <edge id="14407" source="6304" target="6572"/>
+      <edge id="14408" source="6304" target="6539"/>
+      <edge id="14409" source="6304" target="6514"/>
+      <edge id="14410" source="6304" target="6615"/>
+      <edge id="14411" source="6304" target="6410"/>
+      <edge id="14412" source="6304" target="6577"/>
+      <edge id="14413" source="6298" target="6579"/>
+      <edge id="14414" source="6298" target="6551"/>
+      <edge id="14415" source="6305" target="6280"/>
+      <edge id="14416" source="6305" target="6365"/>
+      <edge id="14417" source="6305" target="6408"/>
+      <edge id="14418" source="6305" target="6257"/>
+      <edge id="14419" source="6305" target="6438"/>
+      <edge id="14420" source="6305" target="6254"/>
+      <edge id="14421" source="6305" target="6272"/>
+      <edge id="14422" source="6305" target="6478"/>
+      <edge id="14423" source="6305" target="6261"/>
+      <edge id="14424" source="6305" target="6488"/>
+      <edge id="14425" source="6305" target="6494"/>
+      <edge id="14426" source="6305" target="6526"/>
+      <edge id="14427" source="6305" target="6638"/>
+      <edge id="14428" source="6305" target="6581"/>
+      <edge id="14429" source="6305" target="6486"/>
+      <edge id="14430" source="6305" target="6370"/>
+      <edge id="14431" source="6305" target="6242"/>
+      <edge id="14432" source="6305" target="6585"/>
+      <edge id="14433" source="6305" target="6505"/>
+      <edge id="14434" source="6305" target="6531"/>
+      <edge id="14435" source="6305" target="6373"/>
+      <edge id="14436" source="6305" target="6619"/>
+      <edge id="14437" source="6305" target="6589"/>
+      <edge id="14438" source="6305" target="6433"/>
+      <edge id="14439" source="6305" target="6349"/>
+      <edge id="14440" source="6305" target="6351"/>
+      <edge id="14441" source="6305" target="6410"/>
+      <edge id="14442" source="6305" target="6465"/>
+      <edge id="14443" source="6305" target="6246"/>
+      <edge id="14444" source="6305" target="6492"/>
+      <edge id="14445" source="6305" target="6648"/>
+      <edge id="14446" source="6305" target="6598"/>
+      <edge id="14447" source="6305" target="6406"/>
+      <edge id="14448" source="6305" target="6296"/>
+      <edge id="14449" source="6305" target="6510"/>
+      <edge id="14450" source="6305" target="6381"/>
+      <edge id="14451" source="6305" target="6627"/>
+      <edge id="14452" source="6305" target="6601"/>
+      <edge id="14453" source="6305" target="6372"/>
+      <edge id="14454" source="6305" target="6628"/>
+      <edge id="14455" source="6305" target="6277"/>
+      <edge id="14456" source="6305" target="6513"/>
+      <edge id="14457" source="6305" target="6360"/>
+      <edge id="14458" source="6305" target="6604"/>
+      <edge id="14459" source="6305" target="6446"/>
+      <edge id="14460" source="6305" target="6472"/>
+      <edge id="14461" source="6305" target="6361"/>
+      <edge id="14462" source="6238" target="6397"/>
+      <edge id="14463" source="6238" target="6364"/>
+      <edge id="14464" source="6238" target="6516"/>
+      <edge id="14465" source="6472" target="6473"/>
+      <edge id="14466" source="6472" target="6284"/>
+      <edge id="14467" source="6361" target="6627"/>
+    </edges>
+  </graph>
+</gexf>

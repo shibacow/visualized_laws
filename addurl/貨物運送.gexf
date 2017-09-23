@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2017-09-24">
+    <creator>Gephi 0.9</creator>
+    <description/>
+  </meta>
+  <graph defaultedgetype="directed" label="" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="URI" title="URI" type="string"/>
+      <attribute id="modularity" title="Modularity" type="string"/>
+      <attribute id="source" title="source" type="string"/>
+      <attribute id="target" title="target" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="611" label="外国等による本邦外航船舶運航事業者に対する不利益な取扱いに対する特別措置に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52F03901000022.html"/>
+        </attvalues>
+      </node>
+      <node id="612" label="登録免許税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42F03401000037.html"/>
+        </attvalues>
+      </node>
+      <node id="613" label="集落地域整備法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="614" label="倉庫業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F03901000059.html"/>
+        </attvalues>
+      </node>
+      <node id="615" label="座席ベルトの装着義務の免除に係る業務を定める規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F30301000012.html"/>
+        </attvalues>
+      </node>
+      <node id="616" label="道路運送法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000075.html"/>
+        </attvalues>
+      </node>
+      <node id="617" label="空港管理規則">
+        <attvalues>
+          <attvalue for="modularity" value="航空"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03901000044.html"/>
+        </attvalues>
+      </node>
+      <node id="618" label="地方税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO226.html"/>
+        </attvalues>
+      </node>
+      <node id="619" label="排ガス抑制法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04SE365.html"/>
+        </attvalues>
+      </node>
+      <node id="620" label="貨物流通事業者の氏名の変更の届出等の一本化した提出の手続を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F03901000037.html"/>
+        </attvalues>
+      </node>
+      <node id="621" label="道路運送車両法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000074.html"/>
+        </attvalues>
+      </node>
+      <node id="622" label="内航海運組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03901000039.html"/>
+        </attvalues>
+      </node>
+      <node id="623" label="銃刀法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33F03101000016.html"/>
+        </attvalues>
+      </node>
+      <node id="624" label="関税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE150.html"/>
+        </attvalues>
+      </node>
+      <node id="625" label="車庫法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37HO145.html"/>
+        </attvalues>
+      </node>
+      <node id="626" label="郵便物運送委託法">
+        <attvalues>
+          <attvalue for="modularity" value="郵務"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24HO284.html"/>
+        </attvalues>
+      </node>
+      <node id="627" label="道路運送法">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO183.html"/>
+        </attvalues>
+      </node>
+      <node id="628" label="独立行政法人自動車事故対策機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO183.html"/>
+        </attvalues>
+      </node>
+      <node id="629" label="内航海運業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03901000042.html"/>
+        </attvalues>
+      </node>
+      <node id="630" label="密集市街地における防災街区の整備の促進に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09F04201000015.html"/>
+        </attvalues>
+      </node>
+      <node id="631" label="地価税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F03401000031.html"/>
+        </attvalues>
+      </node>
+      <node id="632" label="国土交通省関係地域における歴史的風致の維持及び向上に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F16001000091.html"/>
+        </attvalues>
+      </node>
+      <node id="633" label="貨物自動車運送事業法の施行に伴う経過措置に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02SE213.html"/>
+        </attvalues>
+      </node>
+      <node id="634" label="土地収用法">
+        <attvalues>
+          <attvalue for="modularity" value="土地"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO219.html"/>
+        </attvalues>
+      </node>
+      <node id="635" label="貨物自動車運送事業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F03901000021.html"/>
+        </attvalues>
+      </node>
+      <node id="636" label="租税特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO026.html"/>
+        </attvalues>
+      </node>
+      <node id="637" label="道路運送法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26SE250.html"/>
+        </attvalues>
+      </node>
+      <node id="638" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO160.html"/>
+        </attvalues>
+      </node>
+      <node id="639" label="古物営業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F30301000010.html"/>
+        </attvalues>
+      </node>
+      <node id="640" label="産業活力の再生及び産業活動の革新に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="641" label="物流総合効率化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE298.html"/>
+        </attvalues>
+      </node>
+      <node id="642" label="貨物自動車運送事業報告規則">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F03901000033.html"/>
+        </attvalues>
+      </node>
+      <node id="643" label="中小企業の事業活動の機会の確保のための大企業者の事業活動の調整に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52SE272.html"/>
+        </attvalues>
+      </node>
+      <node id="644" label="公益通報者保護法別表第八号の法律を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE146.html"/>
+        </attvalues>
+      </node>
+      <node id="645" label="海上運送法第三十五条の規定に基づく日本船舶・船員確保計画の認定等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F16001000067.html"/>
+        </attvalues>
+      </node>
+      <node id="646" label="都市計画法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44SE158.html"/>
+        </attvalues>
+      </node>
+      <node id="647" label="貨物利用運送事業法">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H01/H01HO082.html"/>
+        </attvalues>
+      </node>
+      <node id="648" label="貨物自動車運送事業輸送安全規則">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F03901000022.html"/>
+        </attvalues>
+      </node>
+      <node id="649" label="国土交通省関係中心市街地の活性化に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F16001000082.html"/>
+        </attvalues>
+      </node>
+      <node id="650" label="土地区画整理法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30SE047.html"/>
+        </attvalues>
+      </node>
+      <node id="651" label="道路交通事業抵当法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE261.html"/>
+        </attvalues>
+      </node>
+      <node id="652" label="武力攻撃事態等における我が国の平和と独立並びに国及び国民の安全の確保に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="653" label="自動車ターミナル法">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34HO136.html"/>
+        </attvalues>
+      </node>
+      <node id="654" label="国土交通省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO100.html"/>
+        </attvalues>
+      </node>
+      <node id="655" label="中心市街地の活性化に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10SE263.html"/>
+        </attvalues>
+      </node>
+      <node id="656" label="港湾運送事業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34F03901000046.html"/>
+        </attvalues>
+      </node>
+      <node id="657" label="物流総合効率化法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17HO085.html"/>
+        </attvalues>
+      </node>
+      <node id="658" label="東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23SE112.html"/>
+        </attvalues>
+      </node>
+      <node id="659" label="貨物利用運送事業報告規則">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F03901000032.html"/>
+        </attvalues>
+      </node>
+      <node id="660" label="内航海運組合法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO162.html"/>
+        </attvalues>
+      </node>
+      <node id="661" label="都市計画法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44F04201000049.html"/>
+        </attvalues>
+      </node>
+      <node id="662" label="都市の低炭素化の促進に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24HO084.html"/>
+        </attvalues>
+      </node>
+      <node id="663" label="道路交通事業抵当法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO204.html"/>
+        </attvalues>
+      </node>
+      <node id="664" label="自動車登録規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45F03901000007.html"/>
+        </attvalues>
+      </node>
+      <node id="665" label="港湾運送事業法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO161.html"/>
+        </attvalues>
+      </node>
+      <node id="666" label="道交法">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35HO105.html"/>
+        </attvalues>
+      </node>
+      <node id="667" label="電波法施行規則　抄">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F30901000014.html"/>
+        </attvalues>
+      </node>
+      <node id="668" label="貨物自動車運送事業法">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H01/H01HO083.html"/>
+        </attvalues>
+      </node>
+      <node id="669" label="自動車運送事業等監査規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30F03901000070.html"/>
+        </attvalues>
+      </node>
+      <node id="670" label="道路交通事業抵当法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03902005005.html"/>
+        </attvalues>
+      </node>
+      <node id="671" label="排ガス抑制法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04HO070.html"/>
+        </attvalues>
+      </node>
+      <node id="672" label="森林法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="林業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F00601000054.html"/>
+        </attvalues>
+      </node>
+      <node id="673" label="廃掃法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46F03601000035.html"/>
+        </attvalues>
+      </node>
+      <node id="674" label="中心市街地の活性化に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO092.html"/>
+        </attvalues>
+      </node>
+      <node id="675" label="旅客自動車運送事業運輸規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F03901000044.html"/>
+        </attvalues>
+      </node>
+      <node id="676" label="貨物利用運送事業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="貨物運送"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F03901000020.html"/>
+        </attvalues>
+      </node>
+      <node id="677" label="登録免許税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42HO035.html"/>
+        </attvalues>
+      </node>
+      <node id="678" label="産業活力の再生及び産業活動の革新に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="679" label="福島復興再生特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24HO025.html"/>
+        </attvalues>
+      </node>
+      <node id="680" label="新型インフルエンザ等対策特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25SE122.html"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="228" source="648" target="635"/>
+      <edge id="229" source="647" target="611"/>
+      <edge id="230" source="647" target="612"/>
+      <edge id="231" source="647" target="615"/>
+      <edge id="232" source="647" target="616"/>
+      <edge id="233" source="647" target="617"/>
+      <edge id="234" source="647" target="618"/>
+      <edge id="235" source="647" target="619"/>
+      <edge id="236" source="647" target="621"/>
+      <edge id="237" source="647" target="624"/>
+      <edge id="238" source="647" target="625"/>
+      <edge id="239" source="647" target="641"/>
+      <edge id="240" source="647" target="631"/>
+      <edge id="241" source="647" target="622"/>
+      <edge id="242" source="647" target="636"/>
+      <edge id="243" source="647" target="628"/>
+      <edge id="244" source="647" target="644"/>
+      <edge id="245" source="647" target="645"/>
+      <edge id="246" source="647" target="648"/>
+      <edge id="247" source="647" target="649"/>
+      <edge id="248" source="647" target="651"/>
+      <edge id="249" source="647" target="655"/>
+      <edge id="250" source="647" target="657"/>
+      <edge id="251" source="647" target="658"/>
+      <edge id="252" source="647" target="659"/>
+      <edge id="253" source="647" target="660"/>
+      <edge id="254" source="647" target="662"/>
+      <edge id="255" source="647" target="663"/>
+      <edge id="256" source="647" target="665"/>
+      <edge id="257" source="647" target="666"/>
+      <edge id="258" source="647" target="667"/>
+      <edge id="259" source="647" target="668"/>
+      <edge id="260" source="647" target="670"/>
+      <edge id="261" source="647" target="671"/>
+      <edge id="262" source="647" target="674"/>
+      <edge id="263" source="647" target="676"/>
+      <edge id="264" source="647" target="677"/>
+      <edge id="265" source="647" target="678"/>
+      <edge id="266" source="647" target="679"/>
+      <edge id="267" source="668" target="613"/>
+      <edge id="268" source="668" target="672"/>
+      <edge id="269" source="668" target="615"/>
+      <edge id="270" source="668" target="616"/>
+      <edge id="271" source="668" target="618"/>
+      <edge id="272" source="668" target="673"/>
+      <edge id="273" source="668" target="621"/>
+      <edge id="274" source="668" target="623"/>
+      <edge id="275" source="668" target="625"/>
+      <edge id="276" source="668" target="626"/>
+      <edge id="277" source="668" target="627"/>
+      <edge id="278" source="668" target="661"/>
+      <edge id="279" source="668" target="650"/>
+      <edge id="280" source="668" target="630"/>
+      <edge id="281" source="668" target="670"/>
+      <edge id="282" source="668" target="632"/>
+      <edge id="283" source="668" target="633"/>
+      <edge id="284" source="668" target="635"/>
+      <edge id="285" source="668" target="664"/>
+      <edge id="286" source="668" target="637"/>
+      <edge id="287" source="668" target="638"/>
+      <edge id="288" source="668" target="639"/>
+      <edge id="289" source="668" target="640"/>
+      <edge id="290" source="668" target="642"/>
+      <edge id="291" source="668" target="643"/>
+      <edge id="292" source="668" target="644"/>
+      <edge id="293" source="668" target="624"/>
+      <edge id="294" source="668" target="646"/>
+      <edge id="295" source="668" target="647"/>
+      <edge id="296" source="668" target="648"/>
+      <edge id="297" source="668" target="634"/>
+      <edge id="298" source="668" target="651"/>
+      <edge id="299" source="668" target="652"/>
+      <edge id="300" source="668" target="677"/>
+      <edge id="301" source="668" target="654"/>
+      <edge id="302" source="668" target="655"/>
+      <edge id="303" source="668" target="680"/>
+      <edge id="304" source="668" target="657"/>
+      <edge id="305" source="668" target="662"/>
+      <edge id="306" source="668" target="663"/>
+      <edge id="307" source="668" target="666"/>
+      <edge id="308" source="668" target="667"/>
+      <edge id="309" source="668" target="631"/>
+      <edge id="310" source="668" target="669"/>
+      <edge id="311" source="668" target="671"/>
+      <edge id="312" source="668" target="674"/>
+      <edge id="313" source="668" target="675"/>
+      <edge id="314" source="668" target="676"/>
+      <edge id="315" source="668" target="653"/>
+      <edge id="316" source="668" target="678"/>
+      <edge id="317" source="668" target="679"/>
+      <edge id="318" source="635" target="670"/>
+      <edge id="319" source="635" target="648"/>
+      <edge id="320" source="635" target="620"/>
+      <edge id="321" source="635" target="631"/>
+      <edge id="322" source="620" target="629"/>
+      <edge id="323" source="620" target="614"/>
+      <edge id="324" source="620" target="635"/>
+      <edge id="325" source="620" target="656"/>
+      <edge id="326" source="620" target="676"/>
+      <edge id="327" source="676" target="670"/>
+      <edge id="328" source="676" target="620"/>
+      <edge id="329" source="676" target="612"/>
+      <edge id="330" source="676" target="635"/>
+      <edge id="331" source="676" target="631"/>
+    </edges>
+  </graph>
+</gexf>

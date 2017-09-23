@@ -1,0 +1,2974 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2017-09-24">
+    <creator>Gephi 0.9</creator>
+    <description/>
+  </meta>
+  <graph defaultedgetype="directed" label="" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="URI" title="URI" type="string"/>
+      <attribute id="modularity" title="Modularity" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="23012" label="北方地域旧漁業権者等に対する特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36HO162.html"/>
+        </attvalues>
+      </node>
+      <node id="23013" label="独立行政法人農林漁業信用基金の農業災害補償関係業務及び漁業災害補償関係業務に関する業務方法書の記載事項を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F17001000106.html"/>
+        </attvalues>
+      </node>
+      <node id="23014" label="森林法施行令別表第三林道の開設に要する費用の項第六号等に規定する林道網の枢要部分となるべき林道の開設又は拡張の事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="林業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F17001000024.html"/>
+        </attvalues>
+      </node>
+      <node id="23015" label="地震防災対策特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07HO111.html"/>
+        </attvalues>
+      </node>
+      <node id="23016" label="中央省庁等改革のための農林水産省関係省令の整備に関する省令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F17001000082.html"/>
+        </attvalues>
+      </node>
+      <node id="23017" label="地価税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03SE174.html"/>
+        </attvalues>
+      </node>
+      <node id="23018" label="漁業法第五十二条第一項の指定漁業を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38SE006.html"/>
+        </attvalues>
+      </node>
+      <node id="23019" label="漁業手数料規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F00601000020.html"/>
+        </attvalues>
+      </node>
+      <node id="23020" label="国民年金法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35F03601000012.html"/>
+        </attvalues>
+      </node>
+      <node id="23021" label="資金決済法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22SE019.html"/>
+        </attvalues>
+      </node>
+      <node id="23022" label="独立行政法人水産総合研究センター法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23023" label="農業協同組合及び農業協同組合連合会の信用事業に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F03402005001.html"/>
+        </attvalues>
+      </node>
+      <node id="23024" label="金融庁設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO130.html"/>
+        </attvalues>
+      </node>
+      <node id="23025" label="ノンバンク規制法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58SE181.html"/>
+        </attvalues>
+      </node>
+      <node id="23026" label="犯罪収益移転防止法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE020.html"/>
+        </attvalues>
+      </node>
+      <node id="23027" label="輸出水産業の振興に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO154.html"/>
+        </attvalues>
+      </node>
+      <node id="23028" label="証取法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE321.html"/>
+        </attvalues>
+      </node>
+      <node id="23029" label="漁業登録令施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F00601000064.html"/>
+        </attvalues>
+      </node>
+      <node id="23030" label="補助金適正化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30SE255.html"/>
+        </attvalues>
+      </node>
+      <node id="23031" label="消費者安全法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F10001000048.html"/>
+        </attvalues>
+      </node>
+      <node id="23032" label="漁船法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO178.html"/>
+        </attvalues>
+      </node>
+      <node id="23033" label="北方地域旧漁業権者等に対する特別措置に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36F03102001001.html"/>
+        </attvalues>
+      </node>
+      <node id="23034" label="河川法">
+        <attvalues>
+          <attvalue for="modularity" value="河川"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39HO167.html"/>
+        </attvalues>
+      </node>
+      <node id="23035" label="金融商品取引業等に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F10001000052.html"/>
+        </attvalues>
+      </node>
+      <node id="23036" label="漁業災害補償法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39HO158.html"/>
+        </attvalues>
+      </node>
+      <node id="23037" label="公正取引委員会の審判に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23038" label="独立行政法人勤労者退職金共済機構の業務運営並びに財務及び会計に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23039" label="水産業協同組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F17001000010.html"/>
+        </attvalues>
+      </node>
+      <node id="23040" label="海岸法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F00603003001.html"/>
+        </attvalues>
+      </node>
+      <node id="23041" label="災害対策基本法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE288.html"/>
+        </attvalues>
+      </node>
+      <node id="23042" label="海面漁業生産統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F00601000065.html"/>
+        </attvalues>
+      </node>
+      <node id="23043" label="金融庁設置法第四条第三号クに規定する指定紛争解決機関を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23044" label="漁船損害等補償法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F00601000018.html"/>
+        </attvalues>
+      </node>
+      <node id="23045" label="農林中央金庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F10002007016.html"/>
+        </attvalues>
+      </node>
+      <node id="23046" label="漁業災害補償法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39SE293.html"/>
+        </attvalues>
+      </node>
+      <node id="23047" label="宅建業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39SE383.html"/>
+        </attvalues>
+      </node>
+      <node id="23048" label="中小企業金融円滑化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21SE276.html"/>
+        </attvalues>
+      </node>
+      <node id="23049" label="協同組合による金融事業に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F03401000010.html"/>
+        </attvalues>
+      </node>
+      <node id="23050" label="金融機関の信託業務の兼営等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05SE031.html"/>
+        </attvalues>
+      </node>
+      <node id="23051" label="サービサー法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO126.html"/>
+        </attvalues>
+      </node>
+      <node id="23052" label="農水産業協同組合の再生手続の特例等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12HO095.html"/>
+        </attvalues>
+      </node>
+      <node id="23053" label="東日本大震災による被害を受けた公共土木施設の災害復旧事業等に係る工事の国等による代行に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23SE114.html"/>
+        </attvalues>
+      </node>
+      <node id="23054" label="証取法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO025.html"/>
+        </attvalues>
+      </node>
+      <node id="23055" label="金融早期健全化法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F30601000003.html"/>
+        </attvalues>
+      </node>
+      <node id="23056" label="商品先物取引法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F17002001003.html"/>
+        </attvalues>
+      </node>
+      <node id="23057" label="水産業協同組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05SE328.html"/>
+        </attvalues>
+      </node>
+      <node id="23058" label="沖縄の復帰に伴う農林水産省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE158.html"/>
+        </attvalues>
+      </node>
+      <node id="23059" label="特別交付税に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51F04301000035.html"/>
+        </attvalues>
+      </node>
+      <node id="23060" label="資金移動業者に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22F10001000004.html"/>
+        </attvalues>
+      </node>
+      <node id="23061" label="小笠原諸島における土地に関する権利の調整等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43SE198.html"/>
+        </attvalues>
+      </node>
+      <node id="23062" label="総合特別区域法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F10001000039.html"/>
+        </attvalues>
+      </node>
+      <node id="23063" label="預保法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46SE111.html"/>
+        </attvalues>
+      </node>
+      <node id="23064" label="東日本大震災復興特別区域法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO122.html"/>
+        </attvalues>
+      </node>
+      <node id="23065" label="資産再評価法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25SE095.html"/>
+        </attvalues>
+      </node>
+      <node id="23066" label="農水産業協同組合貯金保険法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48F03402002001.html"/>
+        </attvalues>
+      </node>
+      <node id="23067" label="奄美群島の復帰に伴う自治省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE402.html"/>
+        </attvalues>
+      </node>
+      <node id="23068" label="信用金庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43SE142.html"/>
+        </attvalues>
+      </node>
+      <node id="23069" label="消費生活協同組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23F03404001001.html"/>
+        </attvalues>
+      </node>
+      <node id="23070" label="瀬戸内海漁業取締規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F00601000062.html"/>
+        </attvalues>
+      </node>
+      <node id="23071" label="国有財産法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国有財産"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23SE246.html"/>
+        </attvalues>
+      </node>
+      <node id="23072" label="湖沼水質保全特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60SE037.html"/>
+        </attvalues>
+      </node>
+      <node id="23073" label="土地再評価法">
+        <attvalues>
+          <attvalue for="modularity" value="土地"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO034.html"/>
+        </attvalues>
+      </node>
+      <node id="23074" label="小型漁船の総トン数の測度に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28F03901000046.html"/>
+        </attvalues>
+      </node>
+      <node id="23075" label="公選法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国会"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F03101000013.html"/>
+        </attvalues>
+      </node>
+      <node id="23076" label="輸出水産業の振興に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F00601000072.html"/>
+        </attvalues>
+      </node>
+      <node id="23077" label="金融機能の強化のための特別措置に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F10001000067.html"/>
+        </attvalues>
+      </node>
+      <node id="23078" label="地震防災対策強化地域における地震対策緊急整備事業に係る国の財政上の特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55HO063.html"/>
+        </attvalues>
+      </node>
+      <node id="23079" label="南極地域の環境の保護に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09F03101000053.html"/>
+        </attvalues>
+      </node>
+      <node id="23080" label="金融早期健全化法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO143.html"/>
+        </attvalues>
+      </node>
+      <node id="23081" label="東日本大震災復興特別区域法第四十九条第二項及び第五十五条第二項に規定する農林水産大臣に対する協議に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F10002007009.html"/>
+        </attvalues>
+      </node>
+      <node id="23082" label="地すべり等防止法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO030.html"/>
+        </attvalues>
+      </node>
+      <node id="23083" label="中小企業等協同組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F10007209001.html"/>
+        </attvalues>
+      </node>
+      <node id="23084" label="海上交通安全法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47HO115.html"/>
+        </attvalues>
+      </node>
+      <node id="23085" label="法人税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40F03401000012.html"/>
+        </attvalues>
+      </node>
+      <node id="23086" label="漁業法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24HO267.html"/>
+        </attvalues>
+      </node>
+      <node id="23087" label="沖縄振興特別措置法第九条等の地方税の課税免除又は不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F11001000042.html"/>
+        </attvalues>
+      </node>
+      <node id="23088" label="指定漁船に乗り組む船員の有給休暇に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F03901000004.html"/>
+        </attvalues>
+      </node>
+      <node id="23089" label="社振法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO075.html"/>
+        </attvalues>
+      </node>
+      <node id="23090" label="予算決算及び会計令臨時特例">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S21/S21CO558.html"/>
+        </attvalues>
+      </node>
+      <node id="23091" label="会社法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F12001000012.html"/>
+        </attvalues>
+      </node>
+      <node id="23092" label="国際船舶・港湾保安法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO031.html"/>
+        </attvalues>
+      </node>
+      <node id="23093" label="漁業信用基金協会の事業報告書、貸借対照表及び損益計算書並びに計算に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F10002007002.html"/>
+        </attvalues>
+      </node>
+      <node id="23094" label="信用金庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03401000015.html"/>
+        </attvalues>
+      </node>
+      <node id="23095" label="電子記録債権法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE325.html"/>
+        </attvalues>
+      </node>
+      <node id="23096" label="漁業災害補償法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39F00601000035.html"/>
+        </attvalues>
+      </node>
+      <node id="23097" label="船舶職員及び小型船舶操縦者法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000091.html"/>
+        </attvalues>
+      </node>
+      <node id="23098" label="日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE282.html"/>
+        </attvalues>
+      </node>
+      <node id="23099" label="特定大臣許可漁業等の取締りに関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F03701000054.html"/>
+        </attvalues>
+      </node>
+      <node id="23100" label="所得税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE096.html"/>
+        </attvalues>
+      </node>
+      <node id="23101" label="中小漁業融資保証法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO346.html"/>
+        </attvalues>
+      </node>
+      <node id="23102" label="指定漁業の許可及び取締り等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38F00601000005.html"/>
+        </attvalues>
+      </node>
+      <node id="23103" label="国民年金基金令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02SE304.html"/>
+        </attvalues>
+      </node>
+      <node id="23104" label="信用協同組合及び信用協同組合連合会の優先出資に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F03401000015.html"/>
+        </attvalues>
+      </node>
+      <node id="23105" label="労働金庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03402009001.html"/>
+        </attvalues>
+      </node>
+      <node id="23106" label="農林中央金庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13SE285.html"/>
+        </attvalues>
+      </node>
+      <node id="23107" label="資産流動化法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO105.html"/>
+        </attvalues>
+      </node>
+      <node id="23108" label="海岸法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31SE332.html"/>
+        </attvalues>
+      </node>
+      <node id="23109" label="公共土木施設災害復旧事業費国庫負担法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26SE107.html"/>
+        </attvalues>
+      </node>
+      <node id="23110" label="漁業センサス規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38F00601000039.html"/>
+        </attvalues>
+      </node>
+      <node id="23111" label="内閣府において経費の配分計画に関する事務を行う事業等を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE183.html"/>
+        </attvalues>
+      </node>
+      <node id="23112" label="沿岸漁業改善資金助成法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S54/S54HO025.html"/>
+        </attvalues>
+      </node>
+      <node id="23113" label="東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23SE112.html"/>
+        </attvalues>
+      </node>
+      <node id="23114" label="漁業経営の改善及び再建整備に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51HO043.html"/>
+        </attvalues>
+      </node>
+      <node id="23115" label="水産基本法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO089.html"/>
+        </attvalues>
+      </node>
+      <node id="23116" label="公正取引委員会の審査に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F30201000005.html"/>
+        </attvalues>
+      </node>
+      <node id="23117" label="船主相互保険組合法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO177.html"/>
+        </attvalues>
+      </node>
+      <node id="23118" label="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08HO076.html"/>
+        </attvalues>
+      </node>
+      <node id="23119" label="東日本大震災財特法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO040.html"/>
+        </attvalues>
+      </node>
+      <node id="23120" label="国民年金基金規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F03601000058.html"/>
+        </attvalues>
+      </node>
+      <node id="23121" label="振り込め詐欺救済法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE192.html"/>
+        </attvalues>
+      </node>
+      <node id="23122" label="内閣府において交付金の配分計画に関する事務を行う事業又は事務を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="国会"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23123" label="ＴＡＣ法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08F03701000031.html"/>
+        </attvalues>
+      </node>
+      <node id="23124" label="農水産業協同組合の金融機能の強化のための特別措置に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F10002007007.html"/>
+        </attvalues>
+      </node>
+      <node id="23125" label="南極地域の環境の保護に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09SE244.html"/>
+        </attvalues>
+      </node>
+      <node id="23126" label="漁港漁場整備法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F00601000047.html"/>
+        </attvalues>
+      </node>
+      <node id="23127" label="森林法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="林業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F00601000054.html"/>
+        </attvalues>
+      </node>
+      <node id="23128" label="外国人漁業の規制に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42SE325.html"/>
+        </attvalues>
+      </node>
+      <node id="23129" label="長期信用銀行法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57SE042.html"/>
+        </attvalues>
+      </node>
+      <node id="23130" label="農林水産省関係東日本大震災復興特別区域法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F17001000066.html"/>
+        </attvalues>
+      </node>
+      <node id="23131" label="都市緑地法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49SE003.html"/>
+        </attvalues>
+      </node>
+      <node id="23132" label="農業動産信用法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S08/S08CO307.html"/>
+        </attvalues>
+      </node>
+      <node id="23133" label="自衛隊法">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO165.html"/>
+        </attvalues>
+      </node>
+      <node id="23134" label="水産業協同組合法施行令第三十条第三項から第五項までの規定による主務大臣に対する報告等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F03103004006.html"/>
+        </attvalues>
+      </node>
+      <node id="23135" label="国立大学法人法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15SE478.html"/>
+        </attvalues>
+      </node>
+      <node id="23136" label="水産業協同組合法第百二十三条の二第三項に規定する区分等を定める命令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F03103004015.html"/>
+        </attvalues>
+      </node>
+      <node id="23137" label="東日本大震災に対処するための農林水産省関係政令の特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23SE136.html"/>
+        </attvalues>
+      </node>
+      <node id="23138" label="独立行政法人農林漁業信用基金の農業信用保険業務、林業信用保証業務及び漁業信用保険業務に係る財務及び会計に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F14002003005.html"/>
+        </attvalues>
+      </node>
+      <node id="23139" label="雇用保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50SE025.html"/>
+        </attvalues>
+      </node>
+      <node id="23140" label="地方自治法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22SE016.html"/>
+        </attvalues>
+      </node>
+      <node id="23141" label="水産業協同組合法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO242.html"/>
+        </attvalues>
+      </node>
+      <node id="23142" label="漁船法第三十三条第一項の期間等を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23143" label="漁業法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24HO268.html"/>
+        </attvalues>
+      </node>
+      <node id="23144" label="漁港漁場整備法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25SE239.html"/>
+        </attvalues>
+      </node>
+      <node id="23145" label="金融庁組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10SE392.html"/>
+        </attvalues>
+      </node>
+      <node id="23146" label="特定商品等の預託等取引契約に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S61/S61SE340.html"/>
+        </attvalues>
+      </node>
+      <node id="23147" label="防衛省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO164.html"/>
+        </attvalues>
+      </node>
+      <node id="23148" label="港湾法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000098.html"/>
+        </attvalues>
+      </node>
+      <node id="23149" label="職業安定法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22F04101000012.html"/>
+        </attvalues>
+      </node>
+      <node id="23150" label="海洋水産資源開発促進法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46F00601000048.html"/>
+        </attvalues>
+      </node>
+      <node id="23151" label="株式会社日本政策投資銀行法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE200.html"/>
+        </attvalues>
+      </node>
+      <node id="23152" label="土壌汚染対策法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14SE336.html"/>
+        </attvalues>
+      </node>
+      <node id="23153" label="中小企業等協同組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33SE043.html"/>
+        </attvalues>
+      </node>
+      <node id="23154" label="有明海及び八代海等を再生するための特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO120.html"/>
+        </attvalues>
+      </node>
+      <node id="23155" label="小型機船底びき網漁業取締規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F00601000006.html"/>
+        </attvalues>
+      </node>
+      <node id="23156" label="大規模災害からの復興に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25SE237.html"/>
+        </attvalues>
+      </node>
+      <node id="23157" label="沖縄振興特別措置法第六十六条第五項の規定により読み替えて適用される中小企業の新たな事業活動の促進に関する法律第十六条第一項に規定する内閣府令・経済産業省令で定める金融機関等を定める命令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23158" label="確定拠出年金法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13SE248.html"/>
+        </attvalues>
+      </node>
+      <node id="23159" label="小型船舶登録法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO102.html"/>
+        </attvalues>
+      </node>
+      <node id="23160" label="復興庁設置法第四条第二項第三号イ及びロの事業を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24SE025.html"/>
+        </attvalues>
+      </node>
+      <node id="23161" label="津波防災地域づくりに関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO123.html"/>
+        </attvalues>
+      </node>
+      <node id="23162" label="特殊海事損害の賠償の請求に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE062.html"/>
+        </attvalues>
+      </node>
+      <node id="23163" label="資金決済法">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21HO059.html"/>
+        </attvalues>
+      </node>
+      <node id="23164" label="株式会社日本政策金融公庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F14004011004.html"/>
+        </attvalues>
+      </node>
+      <node id="23165" label="原子炉等規制法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE324.html"/>
+        </attvalues>
+      </node>
+      <node id="23166" label="漁業協同組合等の信用事業等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F03402005002.html"/>
+        </attvalues>
+      </node>
+      <node id="23167" label="久六島周辺における漁業についての漁業法の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO253.html"/>
+        </attvalues>
+      </node>
+      <node id="23168" label="臘虎膃肭獣猟獲取締法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/M45/M45HO021.html"/>
+        </attvalues>
+      </node>
+      <node id="23169" label="会社法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17HO086.html"/>
+        </attvalues>
+      </node>
+      <node id="23170" label="金融庁組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F03101000081.html"/>
+        </attvalues>
+      </node>
+      <node id="23171" label="独立行政法人北方領土問題対策協会の業務運営並びに財務及び会計に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23172" label="漁業経営の改善及び再建整備に関する特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51F00601000024.html"/>
+        </attvalues>
+      </node>
+      <node id="23173" label="電気通信事業法">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59HO086.html"/>
+        </attvalues>
+      </node>
+      <node id="23174" label="地方防衛局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F23001000010.html"/>
+        </attvalues>
+      </node>
+      <node id="23175" label="水路業務法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO102.html"/>
+        </attvalues>
+      </node>
+      <node id="23176" label="まぐろ資源の保存及び管理の強化に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08HO101.html"/>
+        </attvalues>
+      </node>
+      <node id="23177" label="労働金庫及び労働金庫連合会の優先出資に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F03402009001.html"/>
+        </attvalues>
+      </node>
+      <node id="23178" label="振り込め詐欺救済法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO133.html"/>
+        </attvalues>
+      </node>
+      <node id="23179" label="独立行政法人農林漁業信用基金の農業災害補償関係業務及び漁業災害補償関係業務に係る財務及び会計に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F17001000107.html"/>
+        </attvalues>
+      </node>
+      <node id="23180" label="自然環境保全法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48F03101000062.html"/>
+        </attvalues>
+      </node>
+      <node id="23181" label="持続的養殖生産確保法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO051.html"/>
+        </attvalues>
+      </node>
+      <node id="23182" label="漁業登録令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26SE292.html"/>
+        </attvalues>
+      </node>
+      <node id="23183" label="大規模地震対策特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53SE385.html"/>
+        </attvalues>
+      </node>
+      <node id="23184" label="保険業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07SE425.html"/>
+        </attvalues>
+      </node>
+      <node id="23185" label="人事院規則九―三〇">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35F04509030.html"/>
+        </attvalues>
+      </node>
+      <node id="23186" label="企業合理化促進法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO005.html"/>
+        </attvalues>
+      </node>
+      <node id="23187" label="漁船損害等補償法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO028.html"/>
+        </attvalues>
+      </node>
+      <node id="23188" label="株式会社日本政策金融公庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE143.html"/>
+        </attvalues>
+      </node>
+      <node id="23189" label="漁業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F00601000016.html"/>
+        </attvalues>
+      </node>
+      <node id="23190" label="遊漁船業の適正化に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63HO099.html"/>
+        </attvalues>
+      </node>
+      <node id="23191" label="郵政民営化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="郵務"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE342.html"/>
+        </attvalues>
+      </node>
+      <node id="23192" label="日本国とアメリカ合衆国との間の相互協力及び安全保障条約に基づき日本国にあるアメリカ合衆国の軍隊の水面の使用に伴う漁船の操業制限等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO243.html"/>
+        </attvalues>
+      </node>
+      <node id="23193" label="農水産業協同組合に係る中小企業者等に対する金融の円滑化を図るための臨時措置に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F10002007012.html"/>
+        </attvalues>
+      </node>
+      <node id="23194" label="確定拠出年金運営管理機関に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F10002006006.html"/>
+        </attvalues>
+      </node>
+      <node id="23195" label="発電所の設置又は変更の工事の事業に係る計画段階配慮事項の選定並びに当該計画段階配慮事項に係る調査、予測及び評価の手法に関する指針、環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針並びに環境の保全のための措置に関する指針等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F03801000054.html"/>
+        </attvalues>
+      </node>
+      <node id="23196" label="沿岸漁場整備開発法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F00601000025.html"/>
+        </attvalues>
+      </node>
+      <node id="23197" label="租税特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03401000015.html"/>
+        </attvalues>
+      </node>
+      <node id="23198" label="無尽業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21SE307.html"/>
+        </attvalues>
+      </node>
+      <node id="23199" label="農林中央金庫及び特定農水産業協同組合等による信用事業の再編及び強化に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08HO118.html"/>
+        </attvalues>
+      </node>
+      <node id="23200" label="労働金庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57SE046.html"/>
+        </attvalues>
+      </node>
+      <node id="23201" label="地方税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO226.html"/>
+        </attvalues>
+      </node>
+      <node id="23202" label="外来生物法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F17002003002.html"/>
+        </attvalues>
+      </node>
+      <node id="23203" label="犯罪収益移転防止法">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO022.html"/>
+        </attvalues>
+      </node>
+      <node id="23204" label="漁船検査規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F00601000124.html"/>
+        </attvalues>
+      </node>
+      <node id="23205" label="勤労者財産形成促進法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO092.html"/>
+        </attvalues>
+      </node>
+      <node id="23206" label="土地区画整理法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30SE047.html"/>
+        </attvalues>
+      </node>
+      <node id="23207" label="産業活力の再生及び産業活動の革新に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23208" label="特定二酸化炭素ガスの海底下廃棄の許可等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F18001000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23209" label="漁船乗組員給与保険に係る再保険金額の保険金額に対する割合に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48SE258.html"/>
+        </attvalues>
+      </node>
+      <node id="23210" label="低炭素投資促進法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22SE183.html"/>
+        </attvalues>
+      </node>
+      <node id="23211" label="農林水産省組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F17001000001.html"/>
+        </attvalues>
+      </node>
+      <node id="23212" label="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08F03701000033.html"/>
+        </attvalues>
+      </node>
+      <node id="23213" label="関税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE150.html"/>
+        </attvalues>
+      </node>
+      <node id="23214" label="放射線障害防止法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35SE259.html"/>
+        </attvalues>
+      </node>
+      <node id="23215" label="前払式支払手段に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22F10001000003.html"/>
+        </attvalues>
+      </node>
+      <node id="23216" label="銀行等保有株式取得機構に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F10002004010.html"/>
+        </attvalues>
+      </node>
+      <node id="23217" label="不動産特定共同事業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06SE413.html"/>
+        </attvalues>
+      </node>
+      <node id="23218" label="東京湾横断道路の建設に関する特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62F04201000012.html"/>
+        </attvalues>
+      </node>
+      <node id="23219" label="信託業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F10001000107.html"/>
+        </attvalues>
+      </node>
+      <node id="23220" label="後進地域の開発に関する公共事業に係る国の負担割合の特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36SE258.html"/>
+        </attvalues>
+      </node>
+      <node id="23221" label="資産流動化法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F03101000128.html"/>
+        </attvalues>
+      </node>
+      <node id="23222" label="電子公告に関する登記事項を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F12001000050.html"/>
+        </attvalues>
+      </node>
+      <node id="23223" label="建築物の耐震改修の促進に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04201000028.html"/>
+        </attvalues>
+      </node>
+      <node id="23224" label="漁業協同組合合併促進法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42SE202.html"/>
+        </attvalues>
+      </node>
+      <node id="23225" label="指定漁船に乗り組む海員の労働時間及び休日に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43F03901000049.html"/>
+        </attvalues>
+      </node>
+      <node id="23226" label="水銀等による水産動植物の汚染に係る被害漁業者等に対する資金の融通に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48SE274.html"/>
+        </attvalues>
+      </node>
+      <node id="23227" label="沿岸漁業改善資金助成法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S54/S54F03701000022.html"/>
+        </attvalues>
+      </node>
+      <node id="23228" label="地域再生法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F10001000053.html"/>
+        </attvalues>
+      </node>
+      <node id="23229" label="東日本大震災に対処するための水産業協同組合の貸借対照表及び会計帳簿に計上する繰延資産の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F17001000034.html"/>
+        </attvalues>
+      </node>
+      <node id="23230" label="中小漁業融資保証法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F03402002001.html"/>
+        </attvalues>
+      </node>
+      <node id="23231" label="有明海及び八代海等を再生するための特別措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14SE354.html"/>
+        </attvalues>
+      </node>
+      <node id="23232" label="首都圏、近畿圏及び中部圏の近郊整備地帯等の整備のための国の財政上の特別措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41SE318.html"/>
+        </attvalues>
+      </node>
+      <node id="23233" label="土地収用法">
+        <attvalues>
+          <attvalue for="modularity" value="土地"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO219.html"/>
+        </attvalues>
+      </node>
+      <node id="23234" label="東日本大震災による被害を受けた公共土木施設の災害復旧事業等に係る工事の国等による代行に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO033.html"/>
+        </attvalues>
+      </node>
+      <node id="23235" label="信用金庫及び信用金庫連合会の優先出資に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F03401000016.html"/>
+        </attvalues>
+      </node>
+      <node id="23236" label="大規模災害からの復興に関する法律第十三条第二項及び第十九条第二項に規定する農林水産大臣に対する協議に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F10002007006.html"/>
+        </attvalues>
+      </node>
+      <node id="23237" label="金融機関等の組織再編成の促進のための特別措置に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F10001000088.html"/>
+        </attvalues>
+      </node>
+      <node id="23238" label="海区漁業調整委員会委員の選挙等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F00601000050.html"/>
+        </attvalues>
+      </node>
+      <node id="23239" label="外国人漁業の規制に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42F00601000050.html"/>
+        </attvalues>
+      </node>
+      <node id="23240" label="銀行法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57SE040.html"/>
+        </attvalues>
+      </node>
+      <node id="23241" label="農林中央金庫及び特定農水産業協同組合等による信用事業の再編及び強化に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09F03402005001.html"/>
+        </attvalues>
+      </node>
+      <node id="23242" label="水産業協同組合法及び森林組合法による倉荷証券発行の許可等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="林業"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23243" label="旧漁業法に基く省令の効力に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F00601000018.html"/>
+        </attvalues>
+      </node>
+      <node id="23244" label="経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F10003028001.html"/>
+        </attvalues>
+      </node>
+      <node id="23245" label="独立行政法人住宅金融支援機構の業務運営並びに財務及び会計に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23246" label="漁業財団抵当法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/T14/T14HO009.html"/>
+        </attvalues>
+      </node>
+      <node id="23247" label="金融機能強化法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO128.html"/>
+        </attvalues>
+      </node>
+      <node id="23248" label="独立行政法人北方領土問題対策協会法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO132.html"/>
+        </attvalues>
+      </node>
+      <node id="23249" label="遊漁船業の適正化に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H01/H01F03701000037.html"/>
+        </attvalues>
+      </node>
+      <node id="23250" label="中小漁業融資保証法第六十九条第三項の要件を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F14002003001.html"/>
+        </attvalues>
+      </node>
+      <node id="23251" label="臘虎膃肭獣猟獲取締法第四条ノ規定ニ依ル特ニ命令ヲ受ケタル官吏ノ携帯スベキ証票ニ関スル件">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S18/S18F00601000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23252" label="沖縄総合事務局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F10001000004.html"/>
+        </attvalues>
+      </node>
+      <node id="23253" label="地方税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03101000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23254" label="農林漁業バイオ燃料法">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20HO045.html"/>
+        </attvalues>
+      </node>
+      <node id="23255" label="水質汚濁防止法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46SE188.html"/>
+        </attvalues>
+      </node>
+      <node id="23256" label="独立行政法人農林漁業信用基金法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO128.html"/>
+        </attvalues>
+      </node>
+      <node id="23257" label="農水産業協同組合貯金保険法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48HO053.html"/>
+        </attvalues>
+      </node>
+      <node id="23258" label="奄美群島の復帰に伴う農林省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE411.html"/>
+        </attvalues>
+      </node>
+      <node id="23259" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO160.html"/>
+        </attvalues>
+      </node>
+      <node id="23260" label="介護保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10SE412.html"/>
+        </attvalues>
+      </node>
+      <node id="23261" label="自衛隊法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03101000040.html"/>
+        </attvalues>
+      </node>
+      <node id="23262" label="景観法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16SE398.html"/>
+        </attvalues>
+      </node>
+      <node id="23263" label="外国為替に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55F03401000044.html"/>
+        </attvalues>
+      </node>
+      <node id="23264" label="道路法">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO180.html"/>
+        </attvalues>
+      </node>
+      <node id="23265" label="漁業経営の改善及び再建整備に関する特別措置法第十三条第一項の職業転換給付金に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51SE166.html"/>
+        </attvalues>
+      </node>
+      <node id="23266" label="外国人漁業の規制に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42HO060.html"/>
+        </attvalues>
+      </node>
+      <node id="23267" label="福島復興再生特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24SE115.html"/>
+        </attvalues>
+      </node>
+      <node id="23268" label="近畿圏整備法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE159.html"/>
+        </attvalues>
+      </node>
+      <node id="23269" label="金融庁等の職員が検査の際に携帯すべき身分証明書等の様式を定める内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F03401000069.html"/>
+        </attvalues>
+      </node>
+      <node id="23270" label="農業協同組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE271.html"/>
+        </attvalues>
+      </node>
+      <node id="23271" label="東南海・南海地震に係る地震防災対策の推進に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23272" label="石油公団法及び金属鉱業事業団法の廃止等に関する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15SE553.html"/>
+        </attvalues>
+      </node>
+      <node id="23273" label="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律第二十四条第一項に規定する事件に関する拿捕に係る担保金の提供等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08F03103013001.html"/>
+        </attvalues>
+      </node>
+      <node id="23274" label="日本国と大韓民国との間の両国に隣接する大陸棚の南部の共同開発に関する協定の実施に伴う石油及び可燃性天然ガス資源の開発に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53SE248.html"/>
+        </attvalues>
+      </node>
+      <node id="23275" label="漁船乗組員給与保険法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F00601000087.html"/>
+        </attvalues>
+      </node>
+      <node id="23276" label="銀行法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03401000010.html"/>
+        </attvalues>
+      </node>
+      <node id="23277" label="協同組織金融機関の優先出資に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05SE398.html"/>
+        </attvalues>
+      </node>
+      <node id="23278" label="日本国とアメリカ合衆国との間の相互協力及び安全保障条約に基づき日本国にあるアメリカ合衆国の軍隊の水面の使用に伴う漁船の操業制限等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03101000041.html"/>
+        </attvalues>
+      </node>
+      <node id="23279" label="小型漁船の総トン数の測度に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE259.html"/>
+        </attvalues>
+      </node>
+      <node id="23280" label="金融機関組織再編特措法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO190.html"/>
+        </attvalues>
+      </node>
+      <node id="23281" label="弁護士となる資格に係る認定の手続等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="司法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F12001000013.html"/>
+        </attvalues>
+      </node>
+      <node id="23282" label="特定水道利水障害の防止のための水道水源水域の水質の保全に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06SE140.html"/>
+        </attvalues>
+      </node>
+      <node id="23283" label="沖縄振興開発金融公庫法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03102002001.html"/>
+        </attvalues>
+      </node>
+      <node id="23284" label="公認会計士試験規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F10001000018.html"/>
+        </attvalues>
+      </node>
+      <node id="23285" label="内航海運業法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO151.html"/>
+        </attvalues>
+      </node>
+      <node id="23286" label="持続的養殖生産確保法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11F03701000031.html"/>
+        </attvalues>
+      </node>
+      <node id="23287" label="漁港漁場整備法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO137.html"/>
+        </attvalues>
+      </node>
+      <node id="23288" label="地方独立行政法人法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15SE486.html"/>
+        </attvalues>
+      </node>
+      <node id="23289" label="農林水産省の職員が検査の際に携帯する身分証明書の様式を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F17001000083.html"/>
+        </attvalues>
+      </node>
+      <node id="23290" label="中部圏開発整備法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42SE020.html"/>
+        </attvalues>
+      </node>
+      <node id="23291" label="沿岸漁場整備開発法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49HO049.html"/>
+        </attvalues>
+      </node>
+      <node id="23292" label="協同組織金融機関の優先出資に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05HO044.html"/>
+        </attvalues>
+      </node>
+      <node id="23293" label="農商工等連携促進法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20HO038.html"/>
+        </attvalues>
+      </node>
+      <node id="23294" label="農林中央金庫法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO093.html"/>
+        </attvalues>
+      </node>
+      <node id="23295" label="海岸法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31HO101.html"/>
+        </attvalues>
+      </node>
+      <node id="23296" label="金融機関の信託業務の兼営等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03401000016.html"/>
+        </attvalues>
+      </node>
+      <node id="23297" label="漁業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25SE030.html"/>
+        </attvalues>
+      </node>
+      <node id="23298" label="電気通信事業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="電気通信"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60SE075.html"/>
+        </attvalues>
+      </node>
+      <node id="23299" label="漁業協同組合合併促進法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42HO078.html"/>
+        </attvalues>
+      </node>
+      <node id="23300" label="漁業経営の改善及び再建整備に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51SE132.html"/>
+        </attvalues>
+      </node>
+      <node id="23301" label="都市計画法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44SE158.html"/>
+        </attvalues>
+      </node>
+      <node id="23302" label="商法等の一部を改正する等の法律の施行に伴う関係法律の整備に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO080.html"/>
+        </attvalues>
+      </node>
+      <node id="23303" label="漁業近代化資金融通法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44SE209.html"/>
+        </attvalues>
+      </node>
+      <node id="23304" label="国勢調査の調査区の設定の基準等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59F03101000024.html"/>
+        </attvalues>
+      </node>
+      <node id="23305" label="住民基本台帳法別表第一から別表第五までの総務省令で定める事務を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23306" label="国際船舶・港湾保安法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F16001000059.html"/>
+        </attvalues>
+      </node>
+      <node id="23307" label="水産資源保護法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO313.html"/>
+        </attvalues>
+      </node>
+      <node id="23308" label="沿岸漁場整備開発法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51SE051.html"/>
+        </attvalues>
+      </node>
+      <node id="23309" label="リゾート法地方公共団体省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62F04301000033.html"/>
+        </attvalues>
+      </node>
+      <node id="23310" label="船主責任制限法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51SE248.html"/>
+        </attvalues>
+      </node>
+      <node id="23311" label="漁船損害等補償法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE068.html"/>
+        </attvalues>
+      </node>
+      <node id="23312" label="農林水産省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO098.html"/>
+        </attvalues>
+      </node>
+      <node id="23313" label="株式会社東日本大震災事業者再生支援機構法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24SE037.html"/>
+        </attvalues>
+      </node>
+      <node id="23314" label="協同組合による金融事業に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57SE044.html"/>
+        </attvalues>
+      </node>
+      <node id="23315" label="農業協同組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F17001000027.html"/>
+        </attvalues>
+      </node>
+      <node id="23316" label="自然公園法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03601000041.html"/>
+        </attvalues>
+      </node>
+      <node id="23317" label="排他的経済水域における漁業等に関する主権的権利の行使等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08SE212.html"/>
+        </attvalues>
+      </node>
+      <node id="23318" label="一般社団法人及び一般財団法人に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F12001000028.html"/>
+        </attvalues>
+      </node>
+      <node id="23319" label="中小企業の新たな事業活動の促進に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23320" label="資産再評価法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO110.html"/>
+        </attvalues>
+      </node>
+      <node id="23321" label="漁業協同組合合併促進法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F03701000025.html"/>
+        </attvalues>
+      </node>
+      <node id="23322" label="住宅融資保険法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30HO063.html"/>
+        </attvalues>
+      </node>
+      <node id="23323" label="法人税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE097.html"/>
+        </attvalues>
+      </node>
+      <node id="23324" label="農商工等連携促進法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE234.html"/>
+        </attvalues>
+      </node>
+      <node id="23325" label="激甚災害に対処するための特別の財政援助等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE403.html"/>
+        </attvalues>
+      </node>
+      <node id="23326" label="輸出水産業の振興に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE303.html"/>
+        </attvalues>
+      </node>
+      <node id="23327" label="漁獲金額等の認定基準等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39F00601000044.html"/>
+        </attvalues>
+      </node>
+      <node id="23328" label="水産資源保護法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F00601000044.html"/>
+        </attvalues>
+      </node>
+      <node id="23329" label="漁業経営の改善及び再建整備に関する特別措置法第十三条第一項の職業転換給付金の支給基準に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51F03901000025.html"/>
+        </attvalues>
+      </node>
+      <node id="23330" label="農林水産省関係大規模災害からの復興に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F17001000057.html"/>
+        </attvalues>
+      </node>
+      <node id="23331" label="保険業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08F03401000005.html"/>
+        </attvalues>
+      </node>
+      <node id="23332" label="防衛省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE178.html"/>
+        </attvalues>
+      </node>
+      <node id="23333" label="六次産業化法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F17001000007.html"/>
+        </attvalues>
+      </node>
+      <node id="23334" label="鹿児島県大島郡十島村の区域に関する法令の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE446.html"/>
+        </attvalues>
+      </node>
+      <node id="23335" label="昭和八年勅令第三百二十九号">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S08/S08CO329.html"/>
+        </attvalues>
+      </node>
+      <node id="23336" label="石油パイプライン事業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE437.html"/>
+        </attvalues>
+      </node>
+      <node id="23337" label="地域資源を活用した農林漁業者等による新事業の創出等及び地域の農林水産物の利用促進に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23SE015.html"/>
+        </attvalues>
+      </node>
+      <node id="23338" label="租税特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO026.html"/>
+        </attvalues>
+      </node>
+      <node id="23339" label="船舶油濁損害賠償保障法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51SE011.html"/>
+        </attvalues>
+      </node>
+      <node id="23340" label="東日本大震災により被害を受けた漁業者等に係る漁業手数料の納付に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F17001000040.html"/>
+        </attvalues>
+      </node>
+      <node id="23341" label="東日本大震災復興特別区域法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F10001000069.html"/>
+        </attvalues>
+      </node>
+      <node id="23342" label="公益通報者保護法別表第八号の法律を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE146.html"/>
+        </attvalues>
+      </node>
+      <node id="23343" label="金融再生法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO132.html"/>
+        </attvalues>
+      </node>
+      <node id="23344" label="海洋水産資源開発促進法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO060.html"/>
+        </attvalues>
+      </node>
+      <node id="23345" label="沖縄の復帰に伴う特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO129.html"/>
+        </attvalues>
+      </node>
+      <node id="23346" label="漁業近代化資金融通法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44HO052.html"/>
+        </attvalues>
+      </node>
+      <node id="23347" label="農山漁村滞在型余暇活動のための基盤整備の促進に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F03701000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23348" label="農水産業協同組合の優先出資に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F03402005001.html"/>
+        </attvalues>
+      </node>
+      <node id="23349" label="中小企業者と農林漁業者との連携による事業活動の促進に関する法律第十五条第一項の経済産業省令で定める金融機関等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23350" label="海洋水産資源開発促進法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46SE205.html"/>
+        </attvalues>
+      </node>
+      <node id="23351" label="農災法">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22HO185.html"/>
+        </attvalues>
+      </node>
+      <node id="23352" label="長期信用銀行法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03401000013.html"/>
+        </attvalues>
+      </node>
+      <node id="23353" label="種の保存法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F03101000009.html"/>
+        </attvalues>
+      </node>
+      <node id="23354" label="日本国憲法の改正手続に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22F11001000061.html"/>
+        </attvalues>
+      </node>
+      <node id="23355" label="沖縄の復帰に伴う農林水産省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F00601000030.html"/>
+        </attvalues>
+      </node>
+      <node id="23356" label="漁業用海岸局を開設運用する漁業協同組合及び漁業協同組合連合会に対する水産業協同組合法の適用の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO253.html"/>
+        </attvalues>
+      </node>
+      <node id="23357" label="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE151.html"/>
+        </attvalues>
+      </node>
+      <node id="23358" label="沿岸漁業改善資金助成法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S54/S54SE124.html"/>
+        </attvalues>
+      </node>
+      <node id="23359" label="財務省組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F14001000001.html"/>
+        </attvalues>
+      </node>
+      <node id="23360" label="経済産業省関係中小企業による地域産業資源を活用した事業活動の促進に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F15001000059.html"/>
+        </attvalues>
+      </node>
+      <node id="23361" label="資産流動化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE479.html"/>
+        </attvalues>
+      </node>
+      <node id="23362" label="出入国管理及び難民認定法別表第一の二の表の技能実習の項の下欄に規定する団体の要件を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F12001000053.html"/>
+        </attvalues>
+      </node>
+      <node id="23363" label="がけ崩れ防止法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44HO057.html"/>
+        </attvalues>
+      </node>
+      <node id="23364" label="金融サービス法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE484.html"/>
+        </attvalues>
+      </node>
+      <node id="23365" label="相続税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25SE071.html"/>
+        </attvalues>
+      </node>
+      <node id="23366" label="沖縄振興開発特別措置法第十五条等の地方税の課税免除又は不均一課税に伴う措置が適用される場合を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F04301000008.html"/>
+        </attvalues>
+      </node>
+      <node id="23367" label="エコツーリズム推進法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F20004009001.html"/>
+        </attvalues>
+      </node>
+      <node id="23368" label="内航海運組合法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO162.html"/>
+        </attvalues>
+      </node>
+      <node id="23369" label="保険契約者等の保護のための特別の措置等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F03401000124.html"/>
+        </attvalues>
+      </node>
+      <node id="23370" label="漁船法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F00601000095.html"/>
+        </attvalues>
+      </node>
+      <node id="23371" label="特別会計に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO023.html"/>
+        </attvalues>
+      </node>
+      <node id="23372" label="雇用対策法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F04101000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23373" label="船員法第一条第二項第三号の漁船の範囲を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38SE054.html"/>
+        </attvalues>
+      </node>
+      <node id="23374" label="認可特定保険業者等に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F10009028001.html"/>
+        </attvalues>
+      </node>
+      <node id="23375" label="消費税の円滑かつ適正な転嫁の確保のための消費税の転嫁を阻害する行為の是正等に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25SE269.html"/>
+        </attvalues>
+      </node>
+      <node id="23376" label="特別会計に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE124.html"/>
+        </attvalues>
+      </node>
+      <node id="23377" label="農林中央金庫及び特定農水産業協同組合等による信用事業の再編及び強化に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09SE008.html"/>
+        </attvalues>
+      </node>
+      <node id="23378" label="特区法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO189.html"/>
+        </attvalues>
+      </node>
+      <node id="23379" label="特定輸入承認の表示に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43F00602003003.html"/>
+        </attvalues>
+      </node>
+      <node id="23380" label="昭和二十二年法律第五十四号">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22HO054.html"/>
+        </attvalues>
+      </node>
+      <node id="23381" label="投資信託及び投資法人に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F03101000129.html"/>
+        </attvalues>
+      </node>
+      <node id="23382" label="水産資源保護法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE194.html"/>
+        </attvalues>
+      </node>
+      <node id="23383" label="中小漁業融資保証法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE016.html"/>
+        </attvalues>
+      </node>
+      <node id="23384" label="信託業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16SE427.html"/>
+        </attvalues>
+      </node>
+      <node id="23385" label="東日本大震災に対処するための特別の財政援助及び助成に関する法律の農林水産省関係規定の施行等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23SE132.html"/>
+        </attvalues>
+      </node>
+      <node id="23386" label="東日本大震災に伴う海区漁業調整委員会及び農業委員会の委員の選挙の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO044.html"/>
+        </attvalues>
+      </node>
+      <node id="23387" label="農水産業協同組合の組織再編成の促進のための特別措置に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F10002007014.html"/>
+        </attvalues>
+      </node>
+      <node id="23388" label="株式会社国際協力銀行法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F14001000014.html"/>
+        </attvalues>
+      </node>
+      <node id="23389" label="租税特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE043.html"/>
+        </attvalues>
+      </node>
+      <node id="23390" label="漁船乗組員給与保険法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO212.html"/>
+        </attvalues>
+      </node>
+      <node id="23391" label="消費者契約法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE107.html"/>
+        </attvalues>
+      </node>
+      <node id="23392" label="ＴＡＣ法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08HO077.html"/>
+        </attvalues>
+      </node>
+      <node id="23393" label="がけ崩れ防止法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44SE206.html"/>
+        </attvalues>
+      </node>
+      <node id="23394" label="景観法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO110.html"/>
+        </attvalues>
+      </node>
+      <node id="23395" label="水産業協同組合法の施行等に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24SE047.html"/>
+        </attvalues>
+      </node>
+      <node id="23396" label="水産業協同組合法及び森林組合法による倉荷証券発行の許可の取消しに係る聴聞手続規則">
+        <attvalues>
+          <attvalue for="modularity" value="林業"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23397" label="国際協定の締結等に伴う漁業離職者に関する臨時措置法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52HO094.html"/>
+        </attvalues>
+      </node>
+      <node id="23398" label="ＴＡＣ法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08SE213.html"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="46639" source="23012" target="23033"/>
+      <edge id="46640" source="23012" target="23171"/>
+      <edge id="46641" source="23012" target="23259"/>
+      <edge id="46642" source="23012" target="23248"/>
+      <edge id="46643" source="23144" target="23126"/>
+      <edge id="46644" source="23168" target="23317"/>
+      <edge id="46645" source="23168" target="23259"/>
+      <edge id="46646" source="23168" target="23102"/>
+      <edge id="46647" source="23168" target="23251"/>
+      <edge id="46648" source="23044" target="23275"/>
+      <edge id="46649" source="23044" target="23016"/>
+      <edge id="46650" source="23275" target="23016"/>
+      <edge id="46651" source="23303" target="23385"/>
+      <edge id="46652" source="23317" target="23273"/>
+      <edge id="46653" source="23046" target="23096"/>
+      <edge id="46654" source="23057" target="23134"/>
+      <edge id="46655" source="23057" target="23050"/>
+      <edge id="46656" source="23057" target="23083"/>
+      <edge id="46657" source="23057" target="23166"/>
+      <edge id="46658" source="23057" target="23039"/>
+      <edge id="46659" source="23057" target="23331"/>
+      <edge id="46660" source="23018" target="23373"/>
+      <edge id="46661" source="23018" target="23213"/>
+      <edge id="46662" source="23018" target="23311"/>
+      <edge id="46663" source="23018" target="23139"/>
+      <edge id="46664" source="23018" target="23099"/>
+      <edge id="46665" source="23018" target="23075"/>
+      <edge id="46666" source="23018" target="23102"/>
+      <edge id="46667" source="23018" target="23046"/>
+      <edge id="46668" source="23018" target="23265"/>
+      <edge id="46669" source="23018" target="23300"/>
+      <edge id="46670" source="23018" target="23383"/>
+      <edge id="46671" source="23018" target="23123"/>
+      <edge id="46672" source="23018" target="23389"/>
+      <edge id="46673" source="23358" target="23227"/>
+      <edge id="46674" source="23358" target="23385"/>
+      <edge id="46675" source="23126" target="23130"/>
+      <edge id="46676" source="23126" target="23236"/>
+      <edge id="46677" source="23126" target="23330"/>
+      <edge id="46678" source="23126" target="23081"/>
+      <edge id="46679" source="23297" target="23070"/>
+      <edge id="46680" source="23297" target="23058"/>
+      <edge id="46681" source="23297" target="23258"/>
+      <edge id="46682" source="23297" target="23238"/>
+      <edge id="46683" source="23099" target="23123"/>
+      <edge id="46684" source="23099" target="23075"/>
+      <edge id="46685" source="23099" target="23354"/>
+      <edge id="46686" source="23099" target="23253"/>
+      <edge id="46687" source="23128" target="23317"/>
+      <edge id="46688" source="23128" target="23379"/>
+      <edge id="46689" source="23128" target="23239"/>
+      <edge id="46690" source="23019" target="23340"/>
+      <edge id="46691" source="23299" target="23338"/>
+      <edge id="46692" source="23299" target="23321"/>
+      <edge id="46693" source="23299" target="23224"/>
+      <edge id="46694" source="23036" target="23289"/>
+      <edge id="46695" source="23036" target="23013"/>
+      <edge id="46696" source="23036" target="23342"/>
+      <edge id="46697" source="23036" target="23119"/>
+      <edge id="46698" source="23036" target="23201"/>
+      <edge id="46699" source="23036" target="23256"/>
+      <edge id="46700" source="23036" target="23376"/>
+      <edge id="46701" source="23036" target="23351"/>
+      <edge id="46702" source="23036" target="23327"/>
+      <edge id="46703" source="23036" target="23046"/>
+      <edge id="46704" source="23036" target="23179"/>
+      <edge id="46705" source="23036" target="23371"/>
+      <edge id="46706" source="23036" target="23259"/>
+      <edge id="46707" source="23036" target="23096"/>
+      <edge id="46708" source="23036" target="23138"/>
+      <edge id="46709" source="23101" target="23289"/>
+      <edge id="46710" source="23101" target="23342"/>
+      <edge id="46711" source="23101" target="23093"/>
+      <edge id="46712" source="23101" target="23169"/>
+      <edge id="46713" source="23101" target="23256"/>
+      <edge id="46714" source="23101" target="23364"/>
+      <edge id="46715" source="23101" target="23351"/>
+      <edge id="46716" source="23101" target="23138"/>
+      <edge id="46717" source="23101" target="23338"/>
+      <edge id="46718" source="23101" target="23385"/>
+      <edge id="46719" source="23101" target="23346"/>
+      <edge id="46720" source="23101" target="23259"/>
+      <edge id="46721" source="23101" target="23250"/>
+      <edge id="46722" source="23101" target="23383"/>
+      <edge id="46723" source="23101" target="23230"/>
+      <edge id="46724" source="23101" target="23085"/>
+      <edge id="46725" source="23101" target="23036"/>
+      <edge id="46726" source="23101" target="23162"/>
+      <edge id="46727" source="23101" target="23119"/>
+      <edge id="46728" source="23076" target="23016"/>
+      <edge id="46729" source="23300" target="23172"/>
+      <edge id="46730" source="23300" target="23137"/>
+      <edge id="46731" source="23300" target="23265"/>
+      <edge id="46732" source="23383" target="23230"/>
+      <edge id="46733" source="23383" target="23048"/>
+      <edge id="46734" source="23383" target="23313"/>
+      <edge id="46735" source="23032" target="23117"/>
+      <edge id="46736" source="23032" target="23044"/>
+      <edge id="46737" source="23032" target="23275"/>
+      <edge id="46738" source="23032" target="23226"/>
+      <edge id="46739" source="23032" target="23279"/>
+      <edge id="46740" source="23032" target="23370"/>
+      <edge id="46741" source="23032" target="23204"/>
+      <edge id="46742" source="23032" target="23074"/>
+      <edge id="46743" source="23032" target="23058"/>
+      <edge id="46744" source="23032" target="23099"/>
+      <edge id="46745" source="23032" target="23101"/>
+      <edge id="46746" source="23032" target="23258"/>
+      <edge id="46747" source="23032" target="23102"/>
+      <edge id="46748" source="23032" target="23285"/>
+      <edge id="46749" source="23032" target="23342"/>
+      <edge id="46750" source="23032" target="23259"/>
+      <edge id="46751" source="23032" target="23306"/>
+      <edge id="46752" source="23032" target="23187"/>
+      <edge id="46753" source="23032" target="23159"/>
+      <edge id="46754" source="23032" target="23266"/>
+      <edge id="46755" source="23032" target="23036"/>
+      <edge id="46756" source="23032" target="23368"/>
+      <edge id="46757" source="23032" target="23390"/>
+      <edge id="46758" source="23032" target="23115"/>
+      <edge id="46759" source="23032" target="23113"/>
+      <edge id="46760" source="23032" target="23311"/>
+      <edge id="46761" source="23032" target="23114"/>
+      <edge id="46762" source="23032" target="23092"/>
+      <edge id="46763" source="23032" target="23141"/>
+      <edge id="46764" source="23032" target="23346"/>
+      <edge id="46765" source="23032" target="23142"/>
+      <edge id="46766" source="23181" target="23286"/>
+      <edge id="46767" source="23181" target="23342"/>
+      <edge id="46768" source="23181" target="23307"/>
+      <edge id="46769" source="23181" target="23102"/>
+      <edge id="46770" source="23181" target="23059"/>
+      <edge id="46771" source="23181" target="23115"/>
+      <edge id="46772" source="23182" target="23361"/>
+      <edge id="46773" source="23182" target="23029"/>
+      <edge id="46774" source="23027" target="23222"/>
+      <edge id="46775" source="23027" target="23058"/>
+      <edge id="46776" source="23027" target="23169"/>
+      <edge id="46777" source="23027" target="23375"/>
+      <edge id="46778" source="23027" target="23076"/>
+      <edge id="46779" source="23027" target="23259"/>
+      <edge id="46780" source="23027" target="23326"/>
+      <edge id="46781" source="23102" target="23019"/>
+      <edge id="46782" source="23102" target="23253"/>
+      <edge id="46783" source="23102" target="23076"/>
+      <edge id="46784" source="23102" target="23355"/>
+      <edge id="46785" source="23102" target="23340"/>
+      <edge id="46786" source="23102" target="23079"/>
+      <edge id="46787" source="23344" target="23165"/>
+      <edge id="46788" source="23344" target="23180"/>
+      <edge id="46789" source="23344" target="23039"/>
+      <edge id="46790" source="23344" target="23353"/>
+      <edge id="46791" source="23344" target="23214"/>
+      <edge id="46792" source="23344" target="23350"/>
+      <edge id="46793" source="23344" target="23208"/>
+      <edge id="46794" source="23344" target="23150"/>
+      <edge id="46795" source="23344" target="23259"/>
+      <edge id="46796" source="23344" target="23141"/>
+      <edge id="46797" source="23344" target="23022"/>
+      <edge id="46798" source="23344" target="23115"/>
+      <edge id="46799" source="23328" target="23016"/>
+      <edge id="46800" source="23176" target="23259"/>
+      <edge id="46801" source="23192" target="23332"/>
+      <edge id="46802" source="23192" target="23147"/>
+      <edge id="46803" source="23192" target="23090"/>
+      <edge id="46804" source="23192" target="23278"/>
+      <edge id="46805" source="23192" target="23259"/>
+      <edge id="46806" source="23192" target="23174"/>
+      <edge id="46807" source="23136" target="23241"/>
+      <edge id="46808" source="23136" target="23055"/>
+      <edge id="46809" source="23136" target="23124"/>
+      <edge id="46810" source="23136" target="23166"/>
+      <edge id="46811" source="23136" target="23387"/>
+      <edge id="46812" source="23287" target="23144"/>
+      <edge id="46813" source="23287" target="23353"/>
+      <edge id="46814" source="23287" target="23231"/>
+      <edge id="46815" source="23287" target="23015"/>
+      <edge id="46816" source="23287" target="23148"/>
+      <edge id="46817" source="23287" target="23316"/>
+      <edge id="46818" source="23287" target="23122"/>
+      <edge id="46819" source="23287" target="23156"/>
+      <edge id="46820" source="23287" target="23017"/>
+      <edge id="46821" source="23287" target="23064"/>
+      <edge id="46822" source="23287" target="23309"/>
+      <edge id="46823" source="23287" target="23071"/>
+      <edge id="46824" source="23287" target="23072"/>
+      <edge id="46825" source="23287" target="23336"/>
+      <edge id="46826" source="23287" target="23206"/>
+      <edge id="46827" source="23287" target="23098"/>
+      <edge id="46828" source="23287" target="23255"/>
+      <edge id="46829" source="23287" target="23304"/>
+      <edge id="46830" source="23287" target="23268"/>
+      <edge id="46831" source="23287" target="23127"/>
+      <edge id="46832" source="23287" target="23298"/>
+      <edge id="46833" source="23287" target="23282"/>
+      <edge id="46834" source="23287" target="23208"/>
+      <edge id="46835" source="23287" target="23053"/>
+      <edge id="46836" source="23287" target="23131"/>
+      <edge id="46837" source="23287" target="23154"/>
+      <edge id="46838" source="23287" target="23301"/>
+      <edge id="46839" source="23287" target="23078"/>
+      <edge id="46840" source="23287" target="23363"/>
+      <edge id="46841" source="23287" target="23260"/>
+      <edge id="46842" source="23287" target="23133"/>
+      <edge id="46843" source="23287" target="23261"/>
+      <edge id="46844" source="23287" target="23295"/>
+      <edge id="46845" source="23287" target="23232"/>
+      <edge id="46846" source="23287" target="23344"/>
+      <edge id="46847" source="23287" target="23290"/>
+      <edge id="46848" source="23287" target="23233"/>
+      <edge id="46849" source="23287" target="23082"/>
+      <edge id="46850" source="23287" target="23034"/>
+      <edge id="46851" source="23287" target="23186"/>
+      <edge id="46852" source="23287" target="23234"/>
+      <edge id="46853" source="23287" target="23084"/>
+      <edge id="46854" source="23287" target="23220"/>
+      <edge id="46855" source="23287" target="23152"/>
+      <edge id="46856" source="23287" target="23264"/>
+      <edge id="46857" source="23287" target="23135"/>
+      <edge id="46858" source="23287" target="23160"/>
+      <edge id="46859" source="23287" target="23109"/>
+      <edge id="46860" source="23287" target="23291"/>
+      <edge id="46861" source="23287" target="23161"/>
+      <edge id="46862" source="23287" target="23288"/>
+      <edge id="46863" source="23287" target="23266"/>
+      <edge id="46864" source="23287" target="23137"/>
+      <edge id="46865" source="23287" target="23126"/>
+      <edge id="46866" source="23287" target="23087"/>
+      <edge id="46867" source="23287" target="23180"/>
+      <edge id="46868" source="23287" target="23267"/>
+      <edge id="46869" source="23287" target="23393"/>
+      <edge id="46870" source="23287" target="23040"/>
+      <edge id="46871" source="23287" target="23183"/>
+      <edge id="46872" source="23287" target="23394"/>
+      <edge id="46873" source="23287" target="23041"/>
+      <edge id="46874" source="23287" target="23253"/>
+      <edge id="46875" source="23287" target="23141"/>
+      <edge id="46876" source="23287" target="23111"/>
+      <edge id="46877" source="23287" target="23371"/>
+      <edge id="46878" source="23287" target="23262"/>
+      <edge id="46879" source="23287" target="23197"/>
+      <edge id="46880" source="23287" target="23271"/>
+      <edge id="46881" source="23287" target="23115"/>
+      <edge id="46882" source="23287" target="23108"/>
+      <edge id="46883" source="23187" target="23390"/>
+      <edge id="46884" source="23187" target="23289"/>
+      <edge id="46885" source="23187" target="23342"/>
+      <edge id="46886" source="23187" target="23044"/>
+      <edge id="46887" source="23187" target="23311"/>
+      <edge id="46888" source="23187" target="23275"/>
+      <edge id="46889" source="23187" target="23184"/>
+      <edge id="46890" source="23187" target="23030"/>
+      <edge id="46891" source="23187" target="23376"/>
+      <edge id="46892" source="23187" target="23351"/>
+      <edge id="46893" source="23187" target="23046"/>
+      <edge id="46894" source="23187" target="23209"/>
+      <edge id="46895" source="23187" target="23371"/>
+      <edge id="46896" source="23187" target="23259"/>
+      <edge id="46897" source="23187" target="23339"/>
+      <edge id="46898" source="23118" target="23273"/>
+      <edge id="46899" source="23118" target="23342"/>
+      <edge id="46900" source="23118" target="23317"/>
+      <edge id="46901" source="23118" target="23102"/>
+      <edge id="46902" source="23118" target="23398"/>
+      <edge id="46903" source="23118" target="23212"/>
+      <edge id="46904" source="23307" target="23353"/>
+      <edge id="46905" source="23307" target="23316"/>
+      <edge id="46906" source="23307" target="23317"/>
+      <edge id="46907" source="23307" target="23291"/>
+      <edge id="46908" source="23307" target="23070"/>
+      <edge id="46909" source="23307" target="23123"/>
+      <edge id="46910" source="23307" target="23072"/>
+      <edge id="46911" source="23307" target="23014"/>
+      <edge id="46912" source="23307" target="23058"/>
+      <edge id="46913" source="23307" target="23255"/>
+      <edge id="46914" source="23307" target="23099"/>
+      <edge id="46915" source="23307" target="23282"/>
+      <edge id="46916" source="23307" target="23382"/>
+      <edge id="46917" source="23307" target="23125"/>
+      <edge id="46918" source="23307" target="23258"/>
+      <edge id="46919" source="23307" target="23102"/>
+      <edge id="46920" source="23307" target="23032"/>
+      <edge id="46921" source="23307" target="23180"/>
+      <edge id="46922" source="23307" target="23211"/>
+      <edge id="46923" source="23307" target="23342"/>
+      <edge id="46924" source="23307" target="23259"/>
+      <edge id="46925" source="23307" target="23344"/>
+      <edge id="46926" source="23307" target="23367"/>
+      <edge id="46927" source="23307" target="23347"/>
+      <edge id="46928" source="23307" target="23392"/>
+      <edge id="46929" source="23307" target="23086"/>
+      <edge id="46930" source="23307" target="23328"/>
+      <edge id="46931" source="23307" target="23190"/>
+      <edge id="46932" source="23307" target="23350"/>
+      <edge id="46933" source="23307" target="23195"/>
+      <edge id="46934" source="23307" target="23042"/>
+      <edge id="46935" source="23307" target="23115"/>
+      <edge id="46936" source="23265" target="23329"/>
+      <edge id="46937" source="23291" target="23141"/>
+      <edge id="46938" source="23291" target="23308"/>
+      <edge id="46939" source="23291" target="23115"/>
+      <edge id="46940" source="23291" target="23196"/>
+      <edge id="46941" source="23291" target="23353"/>
+      <edge id="46942" source="23190" target="23087"/>
+      <edge id="46943" source="23190" target="23342"/>
+      <edge id="46944" source="23190" target="23353"/>
+      <edge id="46945" source="23190" target="23366"/>
+      <edge id="46946" source="23190" target="23180"/>
+      <edge id="46947" source="23190" target="23316"/>
+      <edge id="46948" source="23190" target="23141"/>
+      <edge id="46949" source="23190" target="23253"/>
+      <edge id="46950" source="23190" target="23249"/>
+      <edge id="46951" source="23190" target="23347"/>
+      <edge id="46952" source="23190" target="23309"/>
+      <edge id="46953" source="23190" target="23097"/>
+      <edge id="46954" source="23266" target="23342"/>
+      <edge id="46955" source="23266" target="23239"/>
+      <edge id="46956" source="23266" target="23128"/>
+      <edge id="46957" source="23266" target="23317"/>
+      <edge id="46958" source="23266" target="23102"/>
+      <edge id="46959" source="23266" target="23211"/>
+      <edge id="46960" source="23086" target="23012"/>
+      <edge id="46961" source="23086" target="23225"/>
+      <edge id="46962" source="23086" target="23168"/>
+      <edge id="46963" source="23086" target="23353"/>
+      <edge id="46964" source="23086" target="23354"/>
+      <edge id="46965" source="23086" target="23302"/>
+      <edge id="46966" source="23086" target="23350"/>
+      <edge id="46967" source="23086" target="23347"/>
+      <edge id="46968" source="23086" target="23373"/>
+      <edge id="46969" source="23086" target="23316"/>
+      <edge id="46970" source="23086" target="23317"/>
+      <edge id="46971" source="23086" target="23110"/>
+      <edge id="46972" source="23086" target="23334"/>
+      <edge id="46973" source="23086" target="23150"/>
+      <edge id="46974" source="23086" target="23143"/>
+      <edge id="46975" source="23086" target="23355"/>
+      <edge id="46976" source="23086" target="23070"/>
+      <edge id="46977" source="23086" target="23123"/>
+      <edge id="46978" source="23086" target="23096"/>
+      <edge id="46979" source="23086" target="23125"/>
+      <edge id="46980" source="23086" target="23175"/>
+      <edge id="46981" source="23086" target="23378"/>
+      <edge id="46982" source="23086" target="23018"/>
+      <edge id="46983" source="23086" target="23218"/>
+      <edge id="46984" source="23086" target="23297"/>
+      <edge id="46985" source="23086" target="23099"/>
+      <edge id="46986" source="23086" target="23127"/>
+      <edge id="46987" source="23086" target="23075"/>
+      <edge id="46988" source="23086" target="23019"/>
+      <edge id="46989" source="23086" target="23299"/>
+      <edge id="46990" source="23086" target="23338"/>
+      <edge id="46991" source="23086" target="23156"/>
+      <edge id="46992" source="23086" target="23053"/>
+      <edge id="46993" source="23086" target="23258"/>
+      <edge id="46994" source="23086" target="23300"/>
+      <edge id="46995" source="23086" target="23029"/>
+      <edge id="46996" source="23086" target="23340"/>
+      <edge id="46997" source="23086" target="23155"/>
+      <edge id="46998" source="23086" target="23079"/>
+      <edge id="46999" source="23086" target="23181"/>
+      <edge id="47000" source="23086" target="23212"/>
+      <edge id="47001" source="23086" target="23295"/>
+      <edge id="47002" source="23086" target="23182"/>
+      <edge id="47003" source="23086" target="23342"/>
+      <edge id="47004" source="23086" target="23102"/>
+      <edge id="47005" source="23086" target="23344"/>
+      <edge id="47006" source="23086" target="23325"/>
+      <edge id="47007" source="23086" target="23386"/>
+      <edge id="47008" source="23086" target="23345"/>
+      <edge id="47009" source="23086" target="23030"/>
+      <edge id="47010" source="23086" target="23058"/>
+      <edge id="47011" source="23086" target="23032"/>
+      <edge id="47012" source="23086" target="23064"/>
+      <edge id="47013" source="23086" target="23307"/>
+      <edge id="47014" source="23086" target="23108"/>
+      <edge id="47015" source="23086" target="23039"/>
+      <edge id="47016" source="23086" target="23291"/>
+      <edge id="47017" source="23086" target="23392"/>
+      <edge id="47018" source="23086" target="23202"/>
+      <edge id="47019" source="23086" target="23036"/>
+      <edge id="47020" source="23086" target="23263"/>
+      <edge id="47021" source="23086" target="23370"/>
+      <edge id="47022" source="23086" target="23189"/>
+      <edge id="47023" source="23086" target="23180"/>
+      <edge id="47024" source="23086" target="23190"/>
+      <edge id="47025" source="23086" target="23238"/>
+      <edge id="47026" source="23086" target="23267"/>
+      <edge id="47027" source="23086" target="23046"/>
+      <edge id="47028" source="23086" target="23114"/>
+      <edge id="47029" source="23086" target="23211"/>
+      <edge id="47030" source="23086" target="23140"/>
+      <edge id="47031" source="23086" target="23312"/>
+      <edge id="47032" source="23086" target="23246"/>
+      <edge id="47033" source="23086" target="23253"/>
+      <edge id="47034" source="23086" target="23042"/>
+      <edge id="47035" source="23086" target="23141"/>
+      <edge id="47036" source="23086" target="23185"/>
+      <edge id="47037" source="23086" target="23097"/>
+      <edge id="47038" source="23086" target="23259"/>
+      <edge id="47039" source="23086" target="23197"/>
+      <edge id="47040" source="23086" target="23167"/>
+      <edge id="47041" source="23086" target="23115"/>
+      <edge id="47042" source="23086" target="23243"/>
+      <edge id="47043" source="23086" target="23088"/>
+      <edge id="47044" source="23086" target="23173"/>
+      <edge id="47045" source="23327" target="23096"/>
+      <edge id="47046" source="23311" target="23184"/>
+      <edge id="47047" source="23311" target="23044"/>
+      <edge id="47048" source="23311" target="23249"/>
+      <edge id="47049" source="23390" target="23275"/>
+      <edge id="47050" source="23390" target="23209"/>
+      <edge id="47051" source="23390" target="23259"/>
+      <edge id="47052" source="23189" target="23016"/>
+      <edge id="47053" source="23189" target="23075"/>
+      <edge id="47054" source="23189" target="23355"/>
+      <edge id="47055" source="23112" target="23254"/>
+      <edge id="47056" source="23112" target="23333"/>
+      <edge id="47057" source="23112" target="23293"/>
+      <edge id="47058" source="23112" target="23353"/>
+      <edge id="47059" source="23112" target="23337"/>
+      <edge id="47060" source="23112" target="23180"/>
+      <edge id="47061" source="23112" target="23316"/>
+      <edge id="47062" source="23112" target="23385"/>
+      <edge id="47063" source="23112" target="23191"/>
+      <edge id="47064" source="23112" target="23259"/>
+      <edge id="47065" source="23112" target="23358"/>
+      <edge id="47066" source="23112" target="23227"/>
+      <edge id="47067" source="23112" target="23324"/>
+      <edge id="47068" source="23112" target="23119"/>
+      <edge id="47069" source="23039" target="23229"/>
+      <edge id="47070" source="23039" target="23066"/>
+      <edge id="47071" source="23039" target="23348"/>
+      <edge id="47072" source="23039" target="23166"/>
+      <edge id="47073" source="23370" target="23016"/>
+      <edge id="47074" source="23329" target="23372"/>
+      <edge id="47075" source="23114" target="23113"/>
+      <edge id="47076" source="23114" target="23172"/>
+      <edge id="47077" source="23114" target="23253"/>
+      <edge id="47078" source="23114" target="23090"/>
+      <edge id="47079" source="23114" target="23329"/>
+      <edge id="47080" source="23114" target="23101"/>
+      <edge id="47081" source="23114" target="23265"/>
+      <edge id="47082" source="23114" target="23300"/>
+      <edge id="47083" source="23114" target="23115"/>
+      <edge id="47084" source="23114" target="23137"/>
+      <edge id="47085" source="23114" target="23397"/>
+      <edge id="47086" source="23350" target="23274"/>
+      <edge id="47087" source="23350" target="23150"/>
+      <edge id="47088" source="23350" target="23272"/>
+      <edge id="47089" source="23141" target="23116"/>
+      <edge id="47090" source="23141" target="23223"/>
+      <edge id="47091" source="23141" target="23120"/>
+      <edge id="47092" source="23141" target="23315"/>
+      <edge id="47093" source="23141" target="23121"/>
+      <edge id="47094" source="23141" target="23045"/>
+      <edge id="47095" source="23141" target="23100"/>
+      <edge id="47096" source="23141" target="23136"/>
+      <edge id="47097" source="23141" target="23124"/>
+      <edge id="47098" source="23141" target="23228"/>
+      <edge id="47099" source="23141" target="23319"/>
+      <edge id="47100" source="23141" target="23058"/>
+      <edge id="47101" source="23141" target="23320"/>
+      <edge id="47102" source="23141" target="23219"/>
+      <edge id="47103" source="23141" target="23237"/>
+      <edge id="47104" source="23141" target="23020"/>
+      <edge id="47105" source="23141" target="23229"/>
+      <edge id="47106" source="23141" target="23021"/>
+      <edge id="47107" source="23141" target="23284"/>
+      <edge id="47108" source="23141" target="23177"/>
+      <edge id="47109" source="23141" target="23023"/>
+      <edge id="47110" source="23141" target="23132"/>
+      <edge id="47111" source="23141" target="23024"/>
+      <edge id="47112" source="23141" target="23025"/>
+      <edge id="47113" source="23141" target="23134"/>
+      <edge id="47114" source="23141" target="23026"/>
+      <edge id="47115" source="23141" target="23028"/>
+      <edge id="47116" source="23141" target="23106"/>
+      <edge id="47117" source="23141" target="23031"/>
+      <edge id="47118" source="23141" target="23235"/>
+      <edge id="47119" source="23141" target="23035"/>
+      <edge id="47120" source="23141" target="23322"/>
+      <edge id="47121" source="23141" target="23037"/>
+      <edge id="47122" source="23141" target="23038"/>
+      <edge id="47123" source="23141" target="23039"/>
+      <edge id="47124" source="23141" target="23068"/>
+      <edge id="47125" source="23141" target="23240"/>
+      <edge id="47126" source="23141" target="23242"/>
+      <edge id="47127" source="23141" target="23043"/>
+      <edge id="47128" source="23141" target="23331"/>
+      <edge id="47129" source="23141" target="23244"/>
+      <edge id="47130" source="23141" target="23245"/>
+      <edge id="47131" source="23141" target="23145"/>
+      <edge id="47132" source="23141" target="23146"/>
+      <edge id="47133" source="23141" target="23364"/>
+      <edge id="47134" source="23141" target="23247"/>
+      <edge id="47135" source="23141" target="23046"/>
+      <edge id="47136" source="23141" target="23149"/>
+      <edge id="47137" source="23141" target="23150"/>
+      <edge id="47138" source="23141" target="23047"/>
+      <edge id="47139" source="23141" target="23335"/>
+      <edge id="47140" source="23141" target="23252"/>
+      <edge id="47141" source="23141" target="23151"/>
+      <edge id="47142" source="23141" target="23049"/>
+      <edge id="47143" source="23141" target="23343"/>
+      <edge id="47144" source="23141" target="23384"/>
+      <edge id="47145" source="23141" target="23050"/>
+      <edge id="47146" source="23141" target="23051"/>
+      <edge id="47147" source="23141" target="23052"/>
+      <edge id="47148" source="23141" target="23257"/>
+      <edge id="47149" source="23141" target="23153"/>
+      <edge id="47150" source="23141" target="23338"/>
+      <edge id="47151" source="23141" target="23258"/>
+      <edge id="47152" source="23141" target="23259"/>
+      <edge id="47153" source="23141" target="23054"/>
+      <edge id="47154" source="23141" target="23341"/>
+      <edge id="47155" source="23141" target="23055"/>
+      <edge id="47156" source="23141" target="23342"/>
+      <edge id="47157" source="23141" target="23056"/>
+      <edge id="47158" source="23141" target="23057"/>
+      <edge id="47159" source="23141" target="23344"/>
+      <edge id="47160" source="23141" target="23357"/>
+      <edge id="47161" source="23141" target="23157"/>
+      <edge id="47162" source="23141" target="23158"/>
+      <edge id="47163" source="23141" target="23346"/>
+      <edge id="47164" source="23141" target="23065"/>
+      <edge id="47165" source="23141" target="23276"/>
+      <edge id="47166" source="23141" target="23060"/>
+      <edge id="47167" source="23141" target="23163"/>
+      <edge id="47168" source="23141" target="23061"/>
+      <edge id="47169" source="23141" target="23349"/>
+      <edge id="47170" source="23141" target="23164"/>
+      <edge id="47171" source="23141" target="23062"/>
+      <edge id="47172" source="23141" target="23063"/>
+      <edge id="47173" source="23141" target="23107"/>
+      <edge id="47174" source="23141" target="23269"/>
+      <edge id="47175" source="23141" target="23166"/>
+      <edge id="47176" source="23141" target="23270"/>
+      <edge id="47177" source="23141" target="23352"/>
+      <edge id="47178" source="23141" target="23169"/>
+      <edge id="47179" source="23141" target="23170"/>
+      <edge id="47180" source="23141" target="23277"/>
+      <edge id="47181" source="23141" target="23067"/>
+      <edge id="47182" source="23141" target="23291"/>
+      <edge id="47183" source="23141" target="23069"/>
+      <edge id="47184" source="23141" target="23073"/>
+      <edge id="47185" source="23141" target="23356"/>
+      <edge id="47186" source="23141" target="23323"/>
+      <edge id="47187" source="23141" target="23280"/>
+      <edge id="47188" source="23141" target="23359"/>
+      <edge id="47189" source="23141" target="23178"/>
+      <edge id="47190" source="23141" target="23360"/>
+      <edge id="47191" source="23141" target="23281"/>
+      <edge id="47192" source="23141" target="23217"/>
+      <edge id="47193" source="23141" target="23362"/>
+      <edge id="47194" source="23141" target="23365"/>
+      <edge id="47195" source="23141" target="23077"/>
+      <edge id="47196" source="23141" target="23181"/>
+      <edge id="47197" source="23141" target="23080"/>
+      <edge id="47198" source="23141" target="23199"/>
+      <edge id="47199" source="23141" target="23203"/>
+      <edge id="47200" source="23141" target="23381"/>
+      <edge id="47201" source="23141" target="23184"/>
+      <edge id="47202" source="23141" target="23391"/>
+      <edge id="47203" source="23141" target="23188"/>
+      <edge id="47204" source="23141" target="23348"/>
+      <edge id="47205" source="23141" target="23086"/>
+      <edge id="47206" source="23141" target="23289"/>
+      <edge id="47207" source="23141" target="23369"/>
+      <edge id="47208" source="23141" target="23292"/>
+      <edge id="47209" source="23141" target="23241"/>
+      <edge id="47210" source="23141" target="23193"/>
+      <edge id="47211" source="23141" target="23194"/>
+      <edge id="47212" source="23141" target="23036"/>
+      <edge id="47213" source="23141" target="23253"/>
+      <edge id="47214" source="23141" target="23198"/>
+      <edge id="47215" source="23141" target="23374"/>
+      <edge id="47216" source="23141" target="23294"/>
+      <edge id="47217" source="23141" target="23089"/>
+      <edge id="47218" source="23141" target="23200"/>
+      <edge id="47219" source="23141" target="23201"/>
+      <edge id="47220" source="23141" target="23094"/>
+      <edge id="47221" source="23141" target="23091"/>
+      <edge id="47222" source="23141" target="23296"/>
+      <edge id="47223" source="23141" target="23095"/>
+      <edge id="47224" source="23141" target="23205"/>
+      <edge id="47225" source="23141" target="23096"/>
+      <edge id="47226" source="23141" target="23318"/>
+      <edge id="47227" source="23141" target="23048"/>
+      <edge id="47228" source="23141" target="23380"/>
+      <edge id="47229" source="23141" target="23297"/>
+      <edge id="47230" source="23141" target="23207"/>
+      <edge id="47231" source="23141" target="23299"/>
+      <edge id="47232" source="23141" target="23101"/>
+      <edge id="47233" source="23141" target="23210"/>
+      <edge id="47234" source="23141" target="23358"/>
+      <edge id="47235" source="23141" target="23103"/>
+      <edge id="47236" source="23141" target="23104"/>
+      <edge id="47237" source="23141" target="23302"/>
+      <edge id="47238" source="23141" target="23083"/>
+      <edge id="47239" source="23141" target="23105"/>
+      <edge id="47240" source="23141" target="23305"/>
+      <edge id="47241" source="23141" target="23283"/>
+      <edge id="47242" source="23141" target="23215"/>
+      <edge id="47243" source="23141" target="23387"/>
+      <edge id="47244" source="23141" target="23216"/>
+      <edge id="47245" source="23141" target="23110"/>
+      <edge id="47246" source="23141" target="23388"/>
+      <edge id="47247" source="23141" target="23129"/>
+      <edge id="47248" source="23141" target="23396"/>
+      <edge id="47249" source="23141" target="23310"/>
+      <edge id="47250" source="23141" target="23112"/>
+      <edge id="47251" source="23141" target="23113"/>
+      <edge id="47252" source="23141" target="23114"/>
+      <edge id="47253" source="23141" target="23377"/>
+      <edge id="47254" source="23141" target="23221"/>
+      <edge id="47255" source="23141" target="23395"/>
+      <edge id="47256" source="23141" target="23314"/>
+      <edge id="47257" source="23166" target="23124"/>
+      <edge id="47258" source="23166" target="23039"/>
+      <edge id="47259" source="23346" target="23303"/>
+      <edge id="47260" source="23346" target="23385"/>
+      <edge id="47261" source="23346" target="23113"/>
+      <edge id="47262" source="23346" target="23101"/>
+      <edge id="47263" source="23346" target="23119"/>
+      <edge id="47264" source="23115" target="23312"/>
+      <edge id="47265" source="23392" target="23118"/>
+      <edge id="47266" source="23392" target="23342"/>
+      <edge id="47267" source="23392" target="23259"/>
+      <edge id="47268" source="23392" target="23287"/>
+      <edge id="47269" source="23392" target="23102"/>
+      <edge id="47270" source="23392" target="23123"/>
+      <edge id="47271" source="23392" target="23115"/>
+      <edge id="47272" source="23392" target="23398"/>
+      <edge id="47273" source="23398" target="23123"/>
+    </edges>
+  </graph>
+</gexf>

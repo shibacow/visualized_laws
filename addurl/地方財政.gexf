@@ -1,0 +1,3663 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2017-09-24">
+    <creator>Gephi 0.9</creator>
+    <description/>
+  </meta>
+  <graph defaultedgetype="directed" label="" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="URI" title="URI" type="string"/>
+      <attribute id="modularity" title="Modularity" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="23399" label="阪神・淡路大震災に対処するための私立学校教職員共済組合法の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F03501000002.html"/>
+        </attvalues>
+      </node>
+      <node id="23400" label="国税収納金整理資金に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO036.html"/>
+        </attvalues>
+      </node>
+      <node id="23401" label="日本国における国際連合の軍隊の地位に関する協定の実施に伴う所得税法等の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO149.html"/>
+        </attvalues>
+      </node>
+      <node id="23402" label="地震防災対策強化地域における地震対策緊急整備事業に係る国の財政上の特別措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55SE174.html"/>
+        </attvalues>
+      </node>
+      <node id="23403" label="奄美群島振興開発特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO189.html"/>
+        </attvalues>
+      </node>
+      <node id="23404" label="外国人等の国際運輸業に係る所得に対する相互主義による所得税等の非課税に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23405" label="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う国税犯則取締法等の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO113.html"/>
+        </attvalues>
+      </node>
+      <node id="23406" label="石油ガス譲与税法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40HO157.html"/>
+        </attvalues>
+      </node>
+      <node id="23407" label="化製場等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31SE285.html"/>
+        </attvalues>
+      </node>
+      <node id="23408" label="沖縄の復帰に伴う農林水産省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE158.html"/>
+        </attvalues>
+      </node>
+      <node id="23409" label="引揚者給付金等支給法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE112.html"/>
+        </attvalues>
+      </node>
+      <node id="23410" label="国民健康保険の事務費負担金等の交付額等の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03601000011.html"/>
+        </attvalues>
+      </node>
+      <node id="23411" label="一般電気事業託送供給約款料金算定規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23412" label="地方団体に対して交付すべき平成二十三年度分の震災復興特別交付税の額の算定方法、決定時期及び決定額並びに交付時期及び交付額の特例等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F11001000155.html"/>
+        </attvalues>
+      </node>
+      <node id="23413" label="犯罪捜査規範">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F30301000002.html"/>
+        </attvalues>
+      </node>
+      <node id="23414" label="離島振興法第二十条の地方税の課税免除又は不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F04301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="23415" label="昭和二十二年法律第百九号">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22HO109.html"/>
+        </attvalues>
+      </node>
+      <node id="23416" label="薬事工業生産動態統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03601000010.html"/>
+        </attvalues>
+      </node>
+      <node id="23417" label="農業協同組合及び農業協同組合連合会の信用事業に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F03402005001.html"/>
+        </attvalues>
+      </node>
+      <node id="23418" label="平成三年度歳入歳出の決算上の剰余金の処理の特例等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04HO102.html"/>
+        </attvalues>
+      </node>
+      <node id="23419" label="沖縄振興特別措置法第九条等の地方税の課税免除又は不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F11001000042.html"/>
+        </attvalues>
+      </node>
+      <node id="23420" label="農林中央金庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13SE285.html"/>
+        </attvalues>
+      </node>
+      <node id="23421" label="航空機燃料譲与税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE167.html"/>
+        </attvalues>
+      </node>
+      <node id="23422" label="平成二十二年四月以降において発生が確認された口蹄疫に起因して生じた事態に対処するための手当金等についての個人の道府県民税及び市町村民税の臨時特例に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22F11001000097.html"/>
+        </attvalues>
+      </node>
+      <node id="23423" label="健康保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/T15/T15CO243.html"/>
+        </attvalues>
+      </node>
+      <node id="23424" label="農林業センサス規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44F00601000039.html"/>
+        </attvalues>
+      </node>
+      <node id="23425" label="金融商品取引業等に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F10001000052.html"/>
+        </attvalues>
+      </node>
+      <node id="23426" label="個人企業経済調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50F03101000005.html"/>
+        </attvalues>
+      </node>
+      <node id="23427" label="多極分散型国土形成促進法第十四条の地方公共団体等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H01/H01F04301000019.html"/>
+        </attvalues>
+      </node>
+      <node id="23428" label="自動車重量譲与税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46F04301000013.html"/>
+        </attvalues>
+      </node>
+      <node id="23429" label="災害対策基本法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE288.html"/>
+        </attvalues>
+      </node>
+      <node id="23430" label="離島振興法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO072.html"/>
+        </attvalues>
+      </node>
+      <node id="23431" label="更生特例法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08HO095.html"/>
+        </attvalues>
+      </node>
+      <node id="23432" label="平成十六年度分として交付すべき地方交付税の総額の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17HO001.html"/>
+        </attvalues>
+      </node>
+      <node id="23433" label="平成二十二年四月以降において発生が確認された口蹄疫に起因して生じた事態に対処するための手当金等についての個人の道府県民税及び市町村民税の臨時特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22SE221.html"/>
+        </attvalues>
+      </node>
+      <node id="23434" label="特定農山村法地方税不均一課税適用省令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000012.html"/>
+        </attvalues>
+      </node>
+      <node id="23435" label="関税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F03401000055.html"/>
+        </attvalues>
+      </node>
+      <node id="23436" label="通関業法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42HO122.html"/>
+        </attvalues>
+      </node>
+      <node id="23437" label="地方団体に対して交付すべき平成二十三年度分の特別交付税の額の決定時期及び決定額並びに交付時期及び交付額の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23438" label="経済産業省関係特区法に規定する特例措置及び特定事業を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F15001000039.html"/>
+        </attvalues>
+      </node>
+      <node id="23439" label="平成五年度における一般会計承継債務等の償還の特例等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05HO009.html"/>
+        </attvalues>
+      </node>
+      <node id="23440" label="平成二十二年度分の地方交付税の交付額の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22F11001000105.html"/>
+        </attvalues>
+      </node>
+      <node id="23441" label="税理士法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26SE216.html"/>
+        </attvalues>
+      </node>
+      <node id="23442" label="船員保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE240.html"/>
+        </attvalues>
+      </node>
+      <node id="23443" label="商業統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03801000060.html"/>
+        </attvalues>
+      </node>
+      <node id="23444" label="災害弔慰金の支給等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48SE374.html"/>
+        </attvalues>
+      </node>
+      <node id="23445" label="たばこ事業法">
+        <attvalues>
+          <attvalue for="modularity" value="事業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59HO068.html"/>
+        </attvalues>
+      </node>
+      <node id="23446" label="当せん金付証票法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F04301000020.html"/>
+        </attvalues>
+      </node>
+      <node id="23447" label="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴う地方税法の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO119.html"/>
+        </attvalues>
+      </node>
+      <node id="23448" label="小笠原諸島の復帰に伴う村の設置及び現地における行政機関の設置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43SE212.html"/>
+        </attvalues>
+      </node>
+      <node id="23449" label="国民健康保険の調整交付金の交付額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38F03601000010.html"/>
+        </attvalues>
+      </node>
+      <node id="23450" label="日本銀行法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09HO089.html"/>
+        </attvalues>
+      </node>
+      <node id="23451" label="特別交付税に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51F04301000035.html"/>
+        </attvalues>
+      </node>
+      <node id="23452" label="労働力調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58F03101000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23453" label="被災者生活再建支援法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO066.html"/>
+        </attvalues>
+      </node>
+      <node id="23454" label="たばこ事業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="事業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60SE021.html"/>
+        </attvalues>
+      </node>
+      <node id="23455" label="児童扶養手当法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36SE405.html"/>
+        </attvalues>
+      </node>
+      <node id="23456" label="財務省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO095.html"/>
+        </attvalues>
+      </node>
+      <node id="23457" label="地方揮発油譲与税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F03101000007.html"/>
+        </attvalues>
+      </node>
+      <node id="23458" label="半島振興法第十七条の地方税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000016.html"/>
+        </attvalues>
+      </node>
+      <node id="23459" label="企業再建整備法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S21/S21HO040.html"/>
+        </attvalues>
+      </node>
+      <node id="23460" label="外航船舶建造融資利子補給臨時措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28F03901000051.html"/>
+        </attvalues>
+      </node>
+      <node id="23461" label="奄美群島の復帰に伴う自治省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE402.html"/>
+        </attvalues>
+      </node>
+      <node id="23462" label="人口が急増している地域の指定に関する細目を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="消防"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F04301000014.html"/>
+        </attvalues>
+      </node>
+      <node id="23463" label="消費生活協同組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23F03404001001.html"/>
+        </attvalues>
+      </node>
+      <node id="23464" label="石油ガス譲与税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F04301000002.html"/>
+        </attvalues>
+      </node>
+      <node id="23465" label="地方自治法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22F00201000029.html"/>
+        </attvalues>
+      </node>
+      <node id="23466" label="平成二十年度における四月交付分の地方特例交付金の額の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F11001000056.html"/>
+        </attvalues>
+      </node>
+      <node id="23467" label="ボート、モーター、選手、審判員及び検査員登録規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000077.html"/>
+        </attvalues>
+      </node>
+      <node id="23468" label="国民年金法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35F03601000012.html"/>
+        </attvalues>
+      </node>
+      <node id="23469" label="破産法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO075.html"/>
+        </attvalues>
+      </node>
+      <node id="23470" label="地方財政法第三十三条の五第二項第一号イ及びロ並びに第二号の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F04301000028.html"/>
+        </attvalues>
+      </node>
+      <node id="23471" label="国税通則法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F03401000028.html"/>
+        </attvalues>
+      </node>
+      <node id="23472" label="相続税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25SE071.html"/>
+        </attvalues>
+      </node>
+      <node id="23473" label="郵政民営化法">
+        <attvalues>
+          <attvalue for="modularity" value="郵務"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17HO097.html"/>
+        </attvalues>
+      </node>
+      <node id="23474" label="経済産業省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO099.html"/>
+        </attvalues>
+      </node>
+      <node id="23475" label="地震防災対策強化地域における地震対策緊急整備事業に係る国の財政上の特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55HO063.html"/>
+        </attvalues>
+      </node>
+      <node id="23476" label="競馬法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO158.html"/>
+        </attvalues>
+      </node>
+      <node id="23477" label="債権管理法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31SE337.html"/>
+        </attvalues>
+      </node>
+      <node id="23478" label="地方自治法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22HO067.html"/>
+        </attvalues>
+      </node>
+      <node id="23479" label="道路の修繕に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F16001000033.html"/>
+        </attvalues>
+      </node>
+      <node id="23480" label="国民健康保険法">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO192.html"/>
+        </attvalues>
+      </node>
+      <node id="23481" label="法人税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40HO034.html"/>
+        </attvalues>
+      </node>
+      <node id="23482" label="租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62SE335.html"/>
+        </attvalues>
+      </node>
+      <node id="23483" label="合衆国軍隊等の証明の様式に関する地方財政委員会規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F30801000006.html"/>
+        </attvalues>
+      </node>
+      <node id="23484" label="バリアフリー法">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO091.html"/>
+        </attvalues>
+      </node>
+      <node id="23485" label="独立行政法人水資源機構法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15SE329.html"/>
+        </attvalues>
+      </node>
+      <node id="23486" label="原子力発電施設等立地地域の振興に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12HO148.html"/>
+        </attvalues>
+      </node>
+      <node id="23487" label="小売物価統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03101000006.html"/>
+        </attvalues>
+      </node>
+      <node id="23488" label="ＪＲＡ法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F00601000056.html"/>
+        </attvalues>
+      </node>
+      <node id="23489" label="東日本大震災からの復興に関し地方公共団体が実施する防災のための施策に必要な財源の確保に係る地方税の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO118.html"/>
+        </attvalues>
+      </node>
+      <node id="23490" label="ＮＰＯ法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO007.html"/>
+        </attvalues>
+      </node>
+      <node id="23491" label="企業立地の促進等による地域における産業集積の形成及び活性化に関する法律第二十条の地方公共団体等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F11001000094.html"/>
+        </attvalues>
+      </node>
+      <node id="23492" label="地方税等減収補てん臨時交付金に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20HO084.html"/>
+        </attvalues>
+      </node>
+      <node id="23493" label="水防施設費国庫補助規則">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F04201000005.html"/>
+        </attvalues>
+      </node>
+      <node id="23494" label="地方公営企業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03101000073.html"/>
+        </attvalues>
+      </node>
+      <node id="23495" label="公選法">
+        <attvalues>
+          <attvalue for="modularity" value="国会"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO100.html"/>
+        </attvalues>
+      </node>
+      <node id="23496" label="防衛庁給与法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="防衛"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE368.html"/>
+        </attvalues>
+      </node>
+      <node id="23497" label="日本国有鉄道改革法等施行法の施行に伴う経過措置等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62F03901000028.html"/>
+        </attvalues>
+      </node>
+      <node id="23498" label="金融機関の信託業務の兼営等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03401000016.html"/>
+        </attvalues>
+      </node>
+      <node id="23499" label="東日本大震災に伴う国民年金法第三十条の四の規定による障害基礎年金の支給停止等に係る平成二十三年の所得の額の計算方法の特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24SE189.html"/>
+        </attvalues>
+      </node>
+      <node id="23500" label="所得税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE096.html"/>
+        </attvalues>
+      </node>
+      <node id="23501" label="地方財政法第三十三条の三第二項の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08F04301000027.html"/>
+        </attvalues>
+      </node>
+      <node id="23502" label="司法書士法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="司法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53F03201000055.html"/>
+        </attvalues>
+      </node>
+      <node id="23503" label="社会生活基本調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S56/S56F03101000038.html"/>
+        </attvalues>
+      </node>
+      <node id="23504" label="補助金適正化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30SE255.html"/>
+        </attvalues>
+      </node>
+      <node id="23505" label="マンションの建替えの円滑化等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23506" label="地方財政法第三十二条に規定する事業を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63F04301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="23507" label="地方特例交付金等の地方財政の特別措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11SE095.html"/>
+        </attvalues>
+      </node>
+      <node id="23508" label="台風常襲地帯における災害の防除に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO072.html"/>
+        </attvalues>
+      </node>
+      <node id="23509" label="国税徴収法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34SE329.html"/>
+        </attvalues>
+      </node>
+      <node id="23510" label="都市開発資金の貸付けに関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F04201000006.html"/>
+        </attvalues>
+      </node>
+      <node id="23511" label="東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23SE112.html"/>
+        </attvalues>
+      </node>
+      <node id="23512" label="介護保険法">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09HO123.html"/>
+        </attvalues>
+      </node>
+      <node id="23513" label="東日本大震災復興特別区域法第四十三条の地方税の課税免除又は不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F11001000168.html"/>
+        </attvalues>
+      </node>
+      <node id="23514" label="児童手当法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46SE281.html"/>
+        </attvalues>
+      </node>
+      <node id="23515" label="半島振興法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60HO063.html"/>
+        </attvalues>
+      </node>
+      <node id="23516" label="地方公営企業法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO292.html"/>
+        </attvalues>
+      </node>
+      <node id="23517" label="母子及び寡婦福祉法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23518" label="競輪審判員、選手および自転車登録規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03801000039.html"/>
+        </attvalues>
+      </node>
+      <node id="23519" label="東日本大震災財特法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO040.html"/>
+        </attvalues>
+      </node>
+      <node id="23520" label="石油コンビナート等災害防止法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50HO084.html"/>
+        </attvalues>
+      </node>
+      <node id="23521" label="特定サービス産業実態調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F03801000067.html"/>
+        </attvalues>
+      </node>
+      <node id="23522" label="国際観光ホテル整備法">
+        <attvalues>
+          <attvalue for="modularity" value="観光"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24HO279.html"/>
+        </attvalues>
+      </node>
+      <node id="23523" label="日本郵政公社法等の施行に伴う総務省関係省令の整備等に関する省令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="郵務"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F11001000017.html"/>
+        </attvalues>
+      </node>
+      <node id="23524" label="大都市地域における宅地開発及び鉄道整備の一体的推進に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H01/H01HO061.html"/>
+        </attvalues>
+      </node>
+      <node id="23525" label="児童生徒急増地域の指定に関する細目を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="教育"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48F03501000015.html"/>
+        </attvalues>
+      </node>
+      <node id="23526" label="熱供給事業会計規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03801000144.html"/>
+        </attvalues>
+      </node>
+      <node id="23527" label="株式会社以外の法人の再評価積立金の資本組入に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO110.html"/>
+        </attvalues>
+      </node>
+      <node id="23528" label="一般電気事業供給約款料金算定規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23529" label="小笠原諸島振興開発特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44HO079.html"/>
+        </attvalues>
+      </node>
+      <node id="23530" label="地方団体に対して交付すべき平成二十四年度分の震災復興特別交付税の額の算定方法、決定時期及び決定額並びに交付時期及び交付額等の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F11001000036.html"/>
+        </attvalues>
+      </node>
+      <node id="23531" label="リゾート法地方公共団体省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62F04301000033.html"/>
+        </attvalues>
+      </node>
+      <node id="23532" label="国際観光文化都市の整備のための財政上の措置等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52SE308.html"/>
+        </attvalues>
+      </node>
+      <node id="23533" label="国民生活基礎調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S61/S61F03601000039.html"/>
+        </attvalues>
+      </node>
+      <node id="23534" label="森林の間伐等の実施の促進に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="林業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20HO032.html"/>
+        </attvalues>
+      </node>
+      <node id="23535" label="激甚災害に対処するための特別の財政援助等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37HO150.html"/>
+        </attvalues>
+      </node>
+      <node id="23536" label="ポツダム宣言の受諾に伴い発する命令に関する件に基く大蔵省関係諸命令の措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO043.html"/>
+        </attvalues>
+      </node>
+      <node id="23537" label="引揚者給付金等支給法">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO109.html"/>
+        </attvalues>
+      </node>
+      <node id="23538" label="地方自治法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22SE016.html"/>
+        </attvalues>
+      </node>
+      <node id="23539" label="土地再評価法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="土地"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10SE119.html"/>
+        </attvalues>
+      </node>
+      <node id="23540" label="農村地域工業等導入促進法第十条の地区等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63F04301000026.html"/>
+        </attvalues>
+      </node>
+      <node id="23541" label="健康保険法">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/T11/T11HO070.html"/>
+        </attvalues>
+      </node>
+      <node id="23542" label="社会保険労務士法">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43HO089.html"/>
+        </attvalues>
+      </node>
+      <node id="23543" label="自賠法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30F03901000066.html"/>
+        </attvalues>
+      </node>
+      <node id="23544" label="特別調達資金会計官及び特別調達資金出納命令官支払事務規程">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03401000094.html"/>
+        </attvalues>
+      </node>
+      <node id="23545" label="行政機関政策評価法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13SE323.html"/>
+        </attvalues>
+      </node>
+      <node id="23546" label="日本道路公団等民営化関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO102.html"/>
+        </attvalues>
+      </node>
+      <node id="23547" label="警備業の要件に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="23548" label="平成二十二年四月以降において発生が確認された口蹄疫に起因して生じた事態に対処するための手当金等についての健康保険法施行令等の臨時特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23SE244.html"/>
+        </attvalues>
+      </node>
+      <node id="23549" label="企業立地促進法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO040.html"/>
+        </attvalues>
+      </node>
+      <node id="23550" label="筆界特定申請手数料規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F12001000105.html"/>
+        </attvalues>
+      </node>
+      <node id="23551" label="租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44HO046.html"/>
+        </attvalues>
+      </node>
+      <node id="23552" label="経済センサス活動調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F11002007001.html"/>
+        </attvalues>
+      </node>
+      <node id="23553" label="ハンセン病問題の解決の促進に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F19001000075.html"/>
+        </attvalues>
+      </node>
+      <node id="23554" label="中小企業等協同組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33SE043.html"/>
+        </attvalues>
+      </node>
+      <node id="23555" label="有明海及び八代海等を再生するための特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO120.html"/>
+        </attvalues>
+      </node>
+      <node id="23556" label="国民年金法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34SE184.html"/>
+        </attvalues>
+      </node>
+      <node id="23557" label="確認事務の委託の手続等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F30301000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23558" label="鉄道軌道整備法">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO169.html"/>
+        </attvalues>
+      </node>
+      <node id="23559" label="酒税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO006.html"/>
+        </attvalues>
+      </node>
+      <node id="23560" label="平成十四年ワールドカップサッカー大会特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO076.html"/>
+        </attvalues>
+      </node>
+      <node id="23561" label="財務省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE250.html"/>
+        </attvalues>
+      </node>
+      <node id="23562" label="一般社団法人及び一般財団法人に関する法律等の施行に伴う経済産業省関係省令の整備に関する省令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F15001000082.html"/>
+        </attvalues>
+      </node>
+      <node id="23563" label="東日本大震災復興特別区域法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO122.html"/>
+        </attvalues>
+      </node>
+      <node id="23564" label="辺地に係る公共的施設の総合整備のための財政上の特別措置等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE301.html"/>
+        </attvalues>
+      </node>
+      <node id="23565" label="都市再開発法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44SE232.html"/>
+        </attvalues>
+      </node>
+      <node id="23566" label="大阪湾臨海地域開発整備法第十四条の地方税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000033.html"/>
+        </attvalues>
+      </node>
+      <node id="23567" label="家畜伝染病予防法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F00601000035.html"/>
+        </attvalues>
+      </node>
+      <node id="23568" label="アメリカ合衆国軍隊等が行う免税軽油の引取りの手続に関する総理府令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F03101000047.html"/>
+        </attvalues>
+      </node>
+      <node id="23569" label="ノンバンク規制法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58F03401000040.html"/>
+        </attvalues>
+      </node>
+      <node id="23570" label="沖縄の復帰に伴う地方税関係以外の自治省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE160.html"/>
+        </attvalues>
+      </node>
+      <node id="23571" label="阪神・淡路大震災に対処するための地方公務員等共済組合法の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000003.html"/>
+        </attvalues>
+      </node>
+      <node id="23572" label="高齢者の医療の確保に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE318.html"/>
+        </attvalues>
+      </node>
+      <node id="23573" label="市場化テスト法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO051.html"/>
+        </attvalues>
+      </node>
+      <node id="23574" label="漁業センサス規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38F00601000039.html"/>
+        </attvalues>
+      </node>
+      <node id="23575" label="輸入の促進及び対内投資事業の円滑化に関する臨時措置法第十一条の地方税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000032.html"/>
+        </attvalues>
+      </node>
+      <node id="23576" label="道路整備事業に係る国の財政上の特別措置に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F04201000007.html"/>
+        </attvalues>
+      </node>
+      <node id="23577" label="過疎地域自立促進特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12HO015.html"/>
+        </attvalues>
+      </node>
+      <node id="23578" label="鳥獣被害防止特措法">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO134.html"/>
+        </attvalues>
+      </node>
+      <node id="23579" label="低開発地域工業開発促進法施行令第三条第一号の額の計算に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F04301000012.html"/>
+        </attvalues>
+      </node>
+      <node id="23580" label="平成六年度における財政運営のための国債整理基金に充てるべき資金の繰入れの特例等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06HO043.html"/>
+        </attvalues>
+      </node>
+      <node id="23581" label="防災のための集団移転促進事業に係る国の財政上の特別措置等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47HO132.html"/>
+        </attvalues>
+      </node>
+      <node id="23582" label="租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律の施行に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44F03402011001.html"/>
+        </attvalues>
+      </node>
+      <node id="23583" label="保険業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07SE425.html"/>
+        </attvalues>
+      </node>
+      <node id="23584" label="平成二十二年四月以降において発生が確認された口蹄疫に起因して生じた事態に対処するための手当金等についての児童手当法施行令の臨時特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24SE149.html"/>
+        </attvalues>
+      </node>
+      <node id="23585" label="後進地域の開発に関する公共事業に係る国の負担割合の特例に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36SE258.html"/>
+        </attvalues>
+      </node>
+      <node id="23586" label="総務省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO091.html"/>
+        </attvalues>
+      </node>
+      <node id="23587" label="モーターボート競走法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE256.html"/>
+        </attvalues>
+      </node>
+      <node id="23588" label="ＪＲＡ法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO205.html"/>
+        </attvalues>
+      </node>
+      <node id="23589" label="投資信託及び投資法人に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO198.html"/>
+        </attvalues>
+      </node>
+      <node id="23590" label="災害対策基本法第百二条第一項の徴収金等の範囲を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F04301000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23591" label="小笠原諸島の復帰に伴う自治省関係法令の適用の暫定措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43SE211.html"/>
+        </attvalues>
+      </node>
+      <node id="23592" label="原子力発電施設等立地地域の振興に関する特別措置法第十条の地方税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F11001000054.html"/>
+        </attvalues>
+      </node>
+      <node id="23593" label="郵政民営化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="郵務"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE342.html"/>
+        </attvalues>
+      </node>
+      <node id="23594" label="特別とん譲与税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03101000021.html"/>
+        </attvalues>
+      </node>
+      <node id="23595" label="地方税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03101000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23596" label="阪神・淡路大震災に対処するための特別の財政援助及び助成に関する法律第七十九条の消防施設等を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07SE048.html"/>
+        </attvalues>
+      </node>
+      <node id="23597" label="確定給付企業年金法">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO050.html"/>
+        </attvalues>
+      </node>
+      <node id="23598" label="租税特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03401000015.html"/>
+        </attvalues>
+      </node>
+      <node id="23599" label="地方団体に対して交付すべき平成二十五年度分の震災復興特別交付税の額の算定方法、決定時期及び決定額並びに交付時期及び交付額等の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F11001000061.html"/>
+        </attvalues>
+      </node>
+      <node id="23600" label="特別とん譲与税法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO077.html"/>
+        </attvalues>
+      </node>
+      <node id="23601" label="中小企業信用保険法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F03801000014.html"/>
+        </attvalues>
+      </node>
+      <node id="23602" label="労働金庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57SE046.html"/>
+        </attvalues>
+      </node>
+      <node id="23603" label="地方税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO226.html"/>
+        </attvalues>
+      </node>
+      <node id="23604" label="自転車競技法第三十九条第一項の期間を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE288.html"/>
+        </attvalues>
+      </node>
+      <node id="23605" label="日本銀行の公庫預託金取扱規程">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F03401000031.html"/>
+        </attvalues>
+      </node>
+      <node id="23606" label="経済センサス基礎調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F11001000125.html"/>
+        </attvalues>
+      </node>
+      <node id="23607" label="勤労者財産形成促進法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO092.html"/>
+        </attvalues>
+      </node>
+      <node id="23608" label="オートレース法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO208.html"/>
+        </attvalues>
+      </node>
+      <node id="23609" label="運転代行業適正化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14SE026.html"/>
+        </attvalues>
+      </node>
+      <node id="23610" label="地方拠点法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04HO076.html"/>
+        </attvalues>
+      </node>
+      <node id="23611" label="地方財政法施行令附則第六条第一項に規定する総務省令・財務省令で定める数値及び事項を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F11002003002.html"/>
+        </attvalues>
+      </node>
+      <node id="23612" label="奄美群島振興開発特別措置法第六条の十三の地方税の課税免除又は不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23613" label="出納官吏事務規程">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22F03401000095.html"/>
+        </attvalues>
+      </node>
+      <node id="23614" label="銃刀法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33SE033.html"/>
+        </attvalues>
+      </node>
+      <node id="23615" label="日本国における国際連合の軍隊の地位に関する協定の実施に伴う地方税法の臨時特例に関する法律第四条の規定に基く国際連合の軍隊等の証明の様式に関する総理府令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03101000053.html"/>
+        </attvalues>
+      </node>
+      <node id="23616" label="阪神・淡路大震災に対処するための特別の財政援助及び助成に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07HO016.html"/>
+        </attvalues>
+      </node>
+      <node id="23617" label="競馬法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23SE242.html"/>
+        </attvalues>
+      </node>
+      <node id="23618" label="児童福祉法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23SE074.html"/>
+        </attvalues>
+      </node>
+      <node id="23619" label="地方公共団体の手数料の標準に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE016.html"/>
+        </attvalues>
+      </node>
+      <node id="23620" label="会社更生法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO154.html"/>
+        </attvalues>
+      </node>
+      <node id="23621" label="沖縄の復帰に伴う建設省関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="土地"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE115.html"/>
+        </attvalues>
+      </node>
+      <node id="23622" label="北方領土問題等の解決の促進のための特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57HO085.html"/>
+        </attvalues>
+      </node>
+      <node id="23623" label="財政健全化法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO094.html"/>
+        </attvalues>
+      </node>
+      <node id="23624" label="特別児童扶養手当等の支給に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50SE207.html"/>
+        </attvalues>
+      </node>
+      <node id="23625" label="国土利用計画法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49SE387.html"/>
+        </attvalues>
+      </node>
+      <node id="23626" label="特定多目的ダム法">
+        <attvalues>
+          <attvalue for="modularity" value="河川"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO035.html"/>
+        </attvalues>
+      </node>
+      <node id="23627" label="道州制特別区域における広域行政の推進に関する法律第十九条第一項第一号の特定砂防工事交付金等の交付に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22F16001000016.html"/>
+        </attvalues>
+      </node>
+      <node id="23628" label="平成二十五年度分の地方特例交付金の交付額の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H25/H25F11001000040.html"/>
+        </attvalues>
+      </node>
+      <node id="23629" label="国有提供施設等所在市町村助成交付金に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03101000080.html"/>
+        </attvalues>
+      </node>
+      <node id="23630" label="平成二十三年度分の地方特例交付金の交付時期及び交付額の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F11001000145.html"/>
+        </attvalues>
+      </node>
+      <node id="23631" label="ガス事業会計規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03801000015.html"/>
+        </attvalues>
+      </node>
+      <node id="23632" label="インターネット異性紹介事業を利用して児童を誘引する行為の規制等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE346.html"/>
+        </attvalues>
+      </node>
+      <node id="23633" label="石綿による健康被害の救済に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO004.html"/>
+        </attvalues>
+      </node>
+      <node id="23634" label="公共土木施設災害復旧事業費国庫負担法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO097.html"/>
+        </attvalues>
+      </node>
+      <node id="23635" label="地方揮発油譲与税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30HO113.html"/>
+        </attvalues>
+      </node>
+      <node id="23636" label="カネミ油症事件関係仮払金返還債権の免除についての特例に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F17001000060.html"/>
+        </attvalues>
+      </node>
+      <node id="23637" label="農林水産省関係特区法に規定する特例措置及び特定事業を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F17001000082.html"/>
+        </attvalues>
+      </node>
+      <node id="23638" label="地域再生法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F10001000053.html"/>
+        </attvalues>
+      </node>
+      <node id="23639" label="自動車重量譲与税法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO090.html"/>
+        </attvalues>
+      </node>
+      <node id="23640" label="中心市街地の活性化に関する法律第四十八条の地方税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23641" label="就業構造基本調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03101000025.html"/>
+        </attvalues>
+      </node>
+      <node id="23642" label="災害救助法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22HO118.html"/>
+        </attvalues>
+      </node>
+      <node id="23643" label="家計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50F03101000071.html"/>
+        </attvalues>
+      </node>
+      <node id="23644" label="関西文化学術研究都市建設促進法第十一条の地方公共団体等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62F04301000024.html"/>
+        </attvalues>
+      </node>
+      <node id="23645" label="公営競技に係る納付金の納付に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23646" label="平成二十二年四月以降において発生が確認された口蹄疫に起因して生じた事態に対処するための手当金等についての個人の道府県民税及び市町村民税の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22HO049.html"/>
+        </attvalues>
+      </node>
+      <node id="23647" label="モーターボート競走法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03901000059.html"/>
+        </attvalues>
+      </node>
+      <node id="23648" label="社債、株式等の振替に関する命令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F10002002005.html"/>
+        </attvalues>
+      </node>
+      <node id="23649" label="過疎地域自立促進特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE175.html"/>
+        </attvalues>
+      </node>
+      <node id="23650" label="首都圏、近畿圏及び中部圏の近郊整備地帯等の整備のための国の財政上の特別措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41SE318.html"/>
+        </attvalues>
+      </node>
+      <node id="23651" label="民間都市開発の推進に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62HO062.html"/>
+        </attvalues>
+      </node>
+      <node id="23652" label="地方公共団体の特定の事務の郵便局における取扱いに関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO120.html"/>
+        </attvalues>
+      </node>
+      <node id="23653" label="辺地に係る公共的施設の総合整備のための財政上の特別措置等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37HO088.html"/>
+        </attvalues>
+      </node>
+      <node id="23654" label="風営法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59SE319.html"/>
+        </attvalues>
+      </node>
+      <node id="23655" label="沖縄の復帰に伴う地方税法の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE161.html"/>
+        </attvalues>
+      </node>
+      <node id="23656" label="大阪湾臨海地域開発整備法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04HO110.html"/>
+        </attvalues>
+      </node>
+      <node id="23657" label="地方特例交付金に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11F04301000015.html"/>
+        </attvalues>
+      </node>
+      <node id="23658" label="日本中央競馬会の平成二十五事業年度における日本中央競馬会法第二十九条の二第三項の割合を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23659" label="地方拠点法地方公共団体等省令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F04301000020.html"/>
+        </attvalues>
+      </node>
+      <node id="23660" label="介護保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10SE412.html"/>
+        </attvalues>
+      </node>
+      <node id="23661" label="平成二十年度分の地方交付税の交付時期及び交付額の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F11001000058.html"/>
+        </attvalues>
+      </node>
+      <node id="23662" label="暴対法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F30301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="23663" label="地方交付税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33SE117.html"/>
+        </attvalues>
+      </node>
+      <node id="23664" label="競馬法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F00601000055.html"/>
+        </attvalues>
+      </node>
+      <node id="23665" label="国土交通省組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F16001000001.html"/>
+        </attvalues>
+      </node>
+      <node id="23666" label="介護保険法施行令第三十七条第一項第三十四号に掲げる規定として総務大臣が定めるものを定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F04301000027.html"/>
+        </attvalues>
+      </node>
+      <node id="23667" label="住基法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42SE292.html"/>
+        </attvalues>
+      </node>
+      <node id="23668" label="児童福祉法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23F03601000011.html"/>
+        </attvalues>
+      </node>
+      <node id="23669" label="犯罪収益移転防止法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="刑事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F10008046001.html"/>
+        </attvalues>
+      </node>
+      <node id="23670" label="平成十六年度における地方財政法第三十三条の五の四の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F11001000076.html"/>
+        </attvalues>
+      </node>
+      <node id="23671" label="消費税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63SE360.html"/>
+        </attvalues>
+      </node>
+      <node id="23672" label="特定障害者に対する特別障害給付金の支給に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE056.html"/>
+        </attvalues>
+      </node>
+      <node id="23673" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO160.html"/>
+        </attvalues>
+      </node>
+      <node id="23674" label="運輸事業の振興の助成に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO101.html"/>
+        </attvalues>
+      </node>
+      <node id="23675" label="水源地域対策特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48HO118.html"/>
+        </attvalues>
+      </node>
+      <node id="23676" label="中心市街地の活性化に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10HO092.html"/>
+        </attvalues>
+      </node>
+      <node id="23677" label="地域公共交通の活性化及び再生に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO059.html"/>
+        </attvalues>
+      </node>
+      <node id="23678" label="リゾート法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62HO071.html"/>
+        </attvalues>
+      </node>
+      <node id="23679" label="沖縄振興特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO014.html"/>
+        </attvalues>
+      </node>
+      <node id="23680" label="道路法">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO180.html"/>
+        </attvalues>
+      </node>
+      <node id="23681" label="有限責任事業組合契約に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE269.html"/>
+        </attvalues>
+      </node>
+      <node id="23682" label="平成十五年度における地方財政法第三十三条の五の四の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F11001000067.html"/>
+        </attvalues>
+      </node>
+      <node id="23683" label="銀行等株式保有制限法">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO131.html"/>
+        </attvalues>
+      </node>
+      <node id="23684" label="企業再建整備法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S21/S21CO501.html"/>
+        </attvalues>
+      </node>
+      <node id="23685" label="平成十四年度における財政運営のための公債の発行の特例等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国債"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO020.html"/>
+        </attvalues>
+      </node>
+      <node id="23686" label="首都圏整備法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31HO083.html"/>
+        </attvalues>
+      </node>
+      <node id="23687" label="財政運営に必要な財源の確保を図るための特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国債"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S56/S56HO039.html"/>
+        </attvalues>
+      </node>
+      <node id="23688" label="地方財政法第三十三条の四第二項の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09F04301000015.html"/>
+        </attvalues>
+      </node>
+      <node id="23689" label="農業協同組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE271.html"/>
+        </attvalues>
+      </node>
+      <node id="23690" label="首都圏、近畿圏及び中部圏の近郊整備地帯等の整備のための国の財政上の特別措置に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F04301000028.html"/>
+        </attvalues>
+      </node>
+      <node id="23691" label="農村地域工業等導入促進法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO112.html"/>
+        </attvalues>
+      </node>
+      <node id="23692" label="平成六年度における地方財政法第三十三条の二第二項の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F04301000048.html"/>
+        </attvalues>
+      </node>
+      <node id="23693" label="国民健康保険法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO193.html"/>
+        </attvalues>
+      </node>
+      <node id="23694" label="信託業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F10001000107.html"/>
+        </attvalues>
+      </node>
+      <node id="23695" label="地価税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03HO069.html"/>
+        </attvalues>
+      </node>
+      <node id="23696" label="銀行法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03401000010.html"/>
+        </attvalues>
+      </node>
+      <node id="23697" label="国家公務員宿舎法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34F03401000010.html"/>
+        </attvalues>
+      </node>
+      <node id="23698" label="自賠法">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30HO097.html"/>
+        </attvalues>
+      </node>
+      <node id="23699" label="地方公務員等共済組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F04301000020.html"/>
+        </attvalues>
+      </node>
+      <node id="23700" label="沖縄の復帰に伴う通商産業省関係法令の適用の特別措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE110.html"/>
+        </attvalues>
+      </node>
+      <node id="23701" label="地域公共交通の活性化及び再生に関する法律第十二条及び第十七条に規定する軌道運送高度化事業及び道路運送高度化事業を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F11001000119.html"/>
+        </attvalues>
+      </node>
+      <node id="23702" label="モーターボート競走法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO242.html"/>
+        </attvalues>
+      </node>
+      <node id="23703" label="平成二十五年度分の地方交付税の交付額の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23704" label="国有資産等所在市町村交付金法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F03101000031.html"/>
+        </attvalues>
+      </node>
+      <node id="23705" label="平成八年度における地方財政法第三十三条の二第二項の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08F04301000026.html"/>
+        </attvalues>
+      </node>
+      <node id="23706" label="総務省関係特区法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F11001000036.html"/>
+        </attvalues>
+      </node>
+      <node id="23707" label="阪神・淡路大震災に対処するための厚生省関係の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F03601000007.html"/>
+        </attvalues>
+      </node>
+      <node id="23708" label="介護保険法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11F03601000036.html"/>
+        </attvalues>
+      </node>
+      <node id="23709" label="土地収用法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="土地"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26SE342.html"/>
+        </attvalues>
+      </node>
+      <node id="23710" label="阪神・淡路大震災に伴う国民年金法第三十条の四の規定による障害基礎年金の支給停止等に係る平成七年の所得の額の計算方法の特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08SE227.html"/>
+        </attvalues>
+      </node>
+      <node id="23711" label="航空機燃料譲与税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F04301000026.html"/>
+        </attvalues>
+      </node>
+      <node id="23712" label="地方財政法第三十三条の五の二第一項の額の算定方法を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F11001000109.html"/>
+        </attvalues>
+      </node>
+      <node id="23713" label="昭和五十八年度の財政運営に必要な財源の確保を図るための特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国債"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58HO045.html"/>
+        </attvalues>
+      </node>
+      <node id="23714" label="地方法人特別税等に関する暫定措置法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20HO025.html"/>
+        </attvalues>
+      </node>
+      <node id="23715" label="電気事業会計規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40F03801000057.html"/>
+        </attvalues>
+      </node>
+      <node id="23716" label="過疎地域自立促進特別措置法第三十一条の地方税の課税免除又は不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F04301000020.html"/>
+        </attvalues>
+      </node>
+      <node id="23717" label="首都圏、近畿圏及び中部圏の近郊整備地帯等の整備のための国の財政上の特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41HO114.html"/>
+        </attvalues>
+      </node>
+      <node id="23718" label="母子及び寡婦福祉法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23719" label="後進地域の開発に関する公共事業に係る国の負担割合の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36HO112.html"/>
+        </attvalues>
+      </node>
+      <node id="23720" label="高齢者、障害者等の移動等の円滑化の促進に関する法律第三十条に規定する公共交通特定事業を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F11001000142.html"/>
+        </attvalues>
+      </node>
+      <node id="23721" label="中国残留邦人等の円滑な帰国の促進及び永住帰国後の自立の支援に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23722" label="自転車競技法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO209.html"/>
+        </attvalues>
+      </node>
+      <node id="23723" label="地方公共団体金融機構法">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO064.html"/>
+        </attvalues>
+      </node>
+      <node id="23724" label="地方税等減収補てん臨時交付金に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F11001000116.html"/>
+        </attvalues>
+      </node>
+      <node id="23725" label="土地収用法第八十八条の二の細目等を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="土地"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14SE248.html"/>
+        </attvalues>
+      </node>
+      <node id="23726" label="国税徴収法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34HO147.html"/>
+        </attvalues>
+      </node>
+      <node id="23727" label="北方領土問題等の解決の促進のための特別措置に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F16001000047.html"/>
+        </attvalues>
+      </node>
+      <node id="23728" label="オートレース登録規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03801000041.html"/>
+        </attvalues>
+      </node>
+      <node id="23729" label="地方財政審議会令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE268.html"/>
+        </attvalues>
+      </node>
+      <node id="23730" label="工業統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03801000081.html"/>
+        </attvalues>
+      </node>
+      <node id="23731" label="生活衛生関係営業の運営の適正化及び振興に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO164.html"/>
+        </attvalues>
+      </node>
+      <node id="23732" label="低開発地域工業開発促進法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36HO216.html"/>
+        </attvalues>
+      </node>
+      <node id="23733" label="関西文化学術研究都市建設促進法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S62/S62HO072.html"/>
+        </attvalues>
+      </node>
+      <node id="23734" label="障害者の日常生活及び社会生活を総合的に支援するための法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18SE010.html"/>
+        </attvalues>
+      </node>
+      <node id="23735" label="中小企業団体の組織に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO185.html"/>
+        </attvalues>
+      </node>
+      <node id="23736" label="暴力的不法行為その他の罪に当たる違法な行為を定める規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F30301000008.html"/>
+        </attvalues>
+      </node>
+      <node id="23737" label="商法等の一部を改正する等の法律の施行に伴う関係法律の整備に関する法律　抄">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO080.html"/>
+        </attvalues>
+      </node>
+      <node id="23738" label="自転車競技法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F15001000097.html"/>
+        </attvalues>
+      </node>
+      <node id="23739" label="当せん金付証票法第六条第一項の金融機関を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11SE065.html"/>
+        </attvalues>
+      </node>
+      <node id="23740" label="高齢者の医療の確保に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57HO080.html"/>
+        </attvalues>
+      </node>
+      <node id="23741" label="地方財政法施行令第二条第四項、第十七条第四項、第二十一条第四項及び第二十八条第三項並びに地方公共団体の財政の健全化に関する法律施行令第十四条第二項に規定する総務省令・財務省令で定める要件を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F11002003001.html"/>
+        </attvalues>
+      </node>
+      <node id="23742" label="特定市街化区域農地の固定資産税の課税の適正化に伴う宅地化促進臨時措置法">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48HO102.html"/>
+        </attvalues>
+      </node>
+      <node id="23743" label="金融機関再建整備法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S21/S21HO039.html"/>
+        </attvalues>
+      </node>
+      <node id="23744" label="国等の債権債務等の金額の端数計算に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25SE077.html"/>
+        </attvalues>
+      </node>
+      <node id="23745" label="国家公務員退職手当法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE215.html"/>
+        </attvalues>
+      </node>
+      <node id="23746" label="豪雪地帯対策特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37HO073.html"/>
+        </attvalues>
+      </node>
+      <node id="23747" label="都市開発資金の貸付けに関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41SE122.html"/>
+        </attvalues>
+      </node>
+      <node id="23748" label="福島復興再生特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24HO025.html"/>
+        </attvalues>
+      </node>
+      <node id="23749" label="国税収納金整理資金に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE051.html"/>
+        </attvalues>
+      </node>
+      <node id="23750" label="関税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO061.html"/>
+        </attvalues>
+      </node>
+      <node id="23751" label="自賠法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30SE286.html"/>
+        </attvalues>
+      </node>
+      <node id="23752" label="福島復興再生特別措置法第二十五条及び第二十八条の地方税の課税免除又は不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23753" label="地方特例交付金等の地方財政の特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO017.html"/>
+        </attvalues>
+      </node>
+      <node id="23754" label="東日本大震災に対処する等のための平成二十三年度分の地方交付税の総額の特例等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO041.html"/>
+        </attvalues>
+      </node>
+      <node id="23755" label="地方交付税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO211.html"/>
+        </attvalues>
+      </node>
+      <node id="23756" label="航空機燃料譲与税法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47HO013.html"/>
+        </attvalues>
+      </node>
+      <node id="23757" label="国有提供施設等所在市町村助成交付金に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE321.html"/>
+        </attvalues>
+      </node>
+      <node id="23758" label="相続税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F03401000017.html"/>
+        </attvalues>
+      </node>
+      <node id="23759" label="全国消費実態調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59F03101000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23760" label="元南西諸島官公署職員等の身分、恩給等の特別措置に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE322.html"/>
+        </attvalues>
+      </node>
+      <node id="23761" label="地籍調査作業規程準則">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03101000071.html"/>
+        </attvalues>
+      </node>
+      <node id="23762" label="法人税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE097.html"/>
+        </attvalues>
+      </node>
+      <node id="23763" label="日本国と大韓民国との間の両国に隣接する大陸棚の南部の共同開発に関する協定の実施に伴う石油及び可燃性天然ガス資源の開発に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53HO081.html"/>
+        </attvalues>
+      </node>
+      <node id="23764" label="活火山法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48HO061.html"/>
+        </attvalues>
+      </node>
+      <node id="23765" label="滞納処分と強制執行等との手続の調整に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO094.html"/>
+        </attvalues>
+      </node>
+      <node id="23766" label="地方法人特別税等に関する暫定措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20SE154.html"/>
+        </attvalues>
+      </node>
+      <node id="23767" label="地方公共団体の手数料の標準に関する政令に規定する総務省令で定める金額等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F04301000005.html"/>
+        </attvalues>
+      </node>
+      <node id="23768" label="日本赤十字社法">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO305.html"/>
+        </attvalues>
+      </node>
+      <node id="23769" label="激甚災害に対処するための特別の財政援助等に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE403.html"/>
+        </attvalues>
+      </node>
+      <node id="23770" label="近畿圏の近郊整備区域及び都市開発区域の整備及び開発に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39HO145.html"/>
+        </attvalues>
+      </node>
+      <node id="23771" label="商業動態統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28F03801000017.html"/>
+        </attvalues>
+      </node>
+      <node id="23772" label="財政構造改革の推進に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09HO109.html"/>
+        </attvalues>
+      </node>
+      <node id="23773" label="日本国における国際連合の軍隊の地位に関する協定の実施に伴う地方税法の臨時特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO188.html"/>
+        </attvalues>
+      </node>
+      <node id="23774" label="地方法人特別税等に関する暫定措置法に基づく地方法人特別税の納付手続の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F14001000051.html"/>
+        </attvalues>
+      </node>
+      <node id="23775" label="公害の防止に関する事業に係る国の財政上の特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO070.html"/>
+        </attvalues>
+      </node>
+      <node id="23776" label="特定有価証券の内容等の開示に関する内閣府令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F03401000022.html"/>
+        </attvalues>
+      </node>
+      <node id="23777" label="信用金庫法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43SE142.html"/>
+        </attvalues>
+      </node>
+      <node id="23778" label="都市開発資金の貸付けに関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41HO020.html"/>
+        </attvalues>
+      </node>
+      <node id="23779" label="日本年金機構の設立に伴う関係政令の整備等及び経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21SE310.html"/>
+        </attvalues>
+      </node>
+      <node id="23780" label="平成十七年度分として交付すべき地方交付税の総額の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO003.html"/>
+        </attvalues>
+      </node>
+      <node id="23781" label="保険業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08F03401000005.html"/>
+        </attvalues>
+      </node>
+      <node id="23782" label="国土交通省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE255.html"/>
+        </attvalues>
+      </node>
+      <node id="23783" label="へき地教育振興法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="教育"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34F03501000021.html"/>
+        </attvalues>
+      </node>
+      <node id="23784" label="連合国財産である株式の回復に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24SE310.html"/>
+        </attvalues>
+      </node>
+      <node id="23785" label="阪神・淡路大震災に対処するための国家公務員等共済組合法の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F03401000004.html"/>
+        </attvalues>
+      </node>
+      <node id="23786" label="国有資産等所在市町村交付金法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31SE107.html"/>
+        </attvalues>
+      </node>
+      <node id="23787" label="鹿児島県大島郡十島村の区域に関する法令の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE446.html"/>
+        </attvalues>
+      </node>
+      <node id="23788" label="特定多目的ダム法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="河川"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE188.html"/>
+        </attvalues>
+      </node>
+      <node id="23789" label="開発道路に関する占用料等徴収規則">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42F04201000029.html"/>
+        </attvalues>
+      </node>
+      <node id="23790" label="地方法人特別税等に関する暫定措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F11001000086.html"/>
+        </attvalues>
+      </node>
+      <node id="23791" label="水源地域対策特別措置法第十三条の固定資産税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000013.html"/>
+        </attvalues>
+      </node>
+      <node id="23792" label="普通交付税に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F04301000017.html"/>
+        </attvalues>
+      </node>
+      <node id="23793" label="地方競馬全国協会の財務及び会計に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F00601000039.html"/>
+        </attvalues>
+      </node>
+      <node id="23794" label="総務省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE246.html"/>
+        </attvalues>
+      </node>
+      <node id="23795" label="地方公務員等共済組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37SE352.html"/>
+        </attvalues>
+      </node>
+      <node id="23796" label="租税特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO026.html"/>
+        </attvalues>
+      </node>
+      <node id="23797" label="特殊土壌地帯災害防除及び振興臨時措置法">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO096.html"/>
+        </attvalues>
+      </node>
+      <node id="23798" label="平成七年度における財政運営のための国債整理基金に充てるべき資金の繰入れの特例等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07HO060.html"/>
+        </attvalues>
+      </node>
+      <node id="23799" label="国民保護法">
+        <attvalues>
+          <attvalue for="modularity" value="外事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO112.html"/>
+        </attvalues>
+      </node>
+      <node id="23800" label="沖縄の復帰に伴う地方税法等の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F04301000013.html"/>
+        </attvalues>
+      </node>
+      <node id="23801" label="平成十七年度における地方財政法第三十三条の五の四の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F11001000049.html"/>
+        </attvalues>
+      </node>
+      <node id="23802" label="地方財政法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO109.html"/>
+        </attvalues>
+      </node>
+      <node id="23803" label="都及び特別区の標準税収入額の算定方法に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51F04301000011.html"/>
+        </attvalues>
+      </node>
+      <node id="23804" label="山村振興法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40HO064.html"/>
+        </attvalues>
+      </node>
+      <node id="23805" label="沖縄の復帰に伴う特別措置に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO129.html"/>
+        </attvalues>
+      </node>
+      <node id="23806" label="国有資産等所在市町村交付金法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31HO082.html"/>
+        </attvalues>
+      </node>
+      <node id="23807" label="オートレース法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F15001000098.html"/>
+        </attvalues>
+      </node>
+      <node id="23808" label="阪神・淡路大震災に対処するための特別の財政援助及び助成に関する法律第八十条第一項の徴収金等の範囲を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000004.html"/>
+        </attvalues>
+      </node>
+      <node id="23809" label="地方財政法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23SE267.html"/>
+        </attvalues>
+      </node>
+      <node id="23810" label="所得税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40HO033.html"/>
+        </attvalues>
+      </node>
+      <node id="23811" label="老人福祉法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38SE247.html"/>
+        </attvalues>
+      </node>
+      <node id="23812" label="財政健全化法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F11001000008.html"/>
+        </attvalues>
+      </node>
+      <node id="23813" label="長期信用銀行法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03401000013.html"/>
+        </attvalues>
+      </node>
+      <node id="23814" label="国民健康保険法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33F03601000053.html"/>
+        </attvalues>
+      </node>
+      <node id="23815" label="平成二十二年四月以降において発生が確認された口蹄疫に起因して生じた事態に対処するための手当金等についての母子及び寡婦福祉法施行令の臨時特例に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23816" label="地方税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25SE245.html"/>
+        </attvalues>
+      </node>
+      <node id="23817" label="道路法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE479.html"/>
+        </attvalues>
+      </node>
+      <node id="23818" label="港湾法">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO218.html"/>
+        </attvalues>
+      </node>
+      <node id="23819" label="地方揮発油譲与税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44SE088.html"/>
+        </attvalues>
+      </node>
+      <node id="23820" label="災害対策基本法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36HO223.html"/>
+        </attvalues>
+      </node>
+      <node id="23821" label="近畿圏の近郊整備区域及び都市開発区域の整備及び開発に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE157.html"/>
+        </attvalues>
+      </node>
+      <node id="23822" label="沖縄の復帰に伴う農林水産省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F00601000030.html"/>
+        </attvalues>
+      </node>
+      <node id="23823" label="国民健康保険法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33SE362.html"/>
+        </attvalues>
+      </node>
+      <node id="23824" label="農地法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE445.html"/>
+        </attvalues>
+      </node>
+      <node id="23825" label="国有提供施設等所在市町村助成交付金に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO104.html"/>
+        </attvalues>
+      </node>
+      <node id="23826" label="沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE151.html"/>
+        </attvalues>
+      </node>
+      <node id="23827" label="国家公務員共済組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国家公務員"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33SE207.html"/>
+        </attvalues>
+      </node>
+      <node id="23828" label="財務省組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F14001000001.html"/>
+        </attvalues>
+      </node>
+      <node id="23829" label="公立高等学校に係る授業料の不徴収及び高等学校等就学支援金の支給に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="教育"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23830" label="特定農山村法">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05HO072.html"/>
+        </attvalues>
+      </node>
+      <node id="23831" label="沖縄振興開発特別措置法第十五条等の地方税の課税免除又は不均一課税に伴う措置が適用される場合を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F04301000008.html"/>
+        </attvalues>
+      </node>
+      <node id="23832" label="介護保険法施行法">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09HO124.html"/>
+        </attvalues>
+      </node>
+      <node id="23833" label="多極分散型国土形成促進法">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63HO083.html"/>
+        </attvalues>
+      </node>
+      <node id="23834" label="国民年金法">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34HO141.html"/>
+        </attvalues>
+      </node>
+      <node id="23835" label="税理士法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO237.html"/>
+        </attvalues>
+      </node>
+      <node id="23836" label="地方財政法第三十三条第二項第一号及び第二号の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06F04301000017.html"/>
+        </attvalues>
+      </node>
+      <node id="23837" label="当せん金付証票法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO144.html"/>
+        </attvalues>
+      </node>
+      <node id="23838" label="卸供給料金算定規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23839" label="豪雪に際して地方公共団体が行なう公共の施設の除雪事業に要する費用の補助に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE382.html"/>
+        </attvalues>
+      </node>
+      <node id="23840" label="確定拠出年金法">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13HO088.html"/>
+        </attvalues>
+      </node>
+      <node id="23841" label="都市再開発法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44HO038.html"/>
+        </attvalues>
+      </node>
+      <node id="23842" label="特別会計に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO023.html"/>
+        </attvalues>
+      </node>
+      <node id="23843" label="山村振興法第十四条の地方税の不均一課税に伴う措置が適用される場合等を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F04301000008.html"/>
+        </attvalues>
+      </node>
+      <node id="23844" label="外航船舶建造融資利子補給臨時措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="海運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44SE195.html"/>
+        </attvalues>
+      </node>
+      <node id="23845" label="北海道防寒住宅建設等促進法">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO064.html"/>
+        </attvalues>
+      </node>
+      <node id="23846" label="産廃特措法">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15HO098.html"/>
+        </attvalues>
+      </node>
+      <node id="23847" label="特別会計に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE124.html"/>
+        </attvalues>
+      </node>
+      <node id="23848" label="国民健康保険の国庫負担金等の算定に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34SE041.html"/>
+        </attvalues>
+      </node>
+      <node id="23849" label="特別調達資金出納官吏事務規程">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03401000095.html"/>
+        </attvalues>
+      </node>
+      <node id="23850" label="支出官事務規程">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22F03401000094.html"/>
+        </attvalues>
+      </node>
+      <node id="23851" label="厚生労働省関係東日本大震災復興特別区域法第二条第四項に規定する省令の特例に関する措置及びその適用を受ける復興推進事業を定める命令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F10002006009.html"/>
+        </attvalues>
+      </node>
+      <node id="23852" label="国土交通省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO100.html"/>
+        </attvalues>
+      </node>
+      <node id="23853" label="地方債に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F11001000054.html"/>
+        </attvalues>
+      </node>
+      <node id="23854" label="日本国有鉄道改革法等施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S61/S61HO093.html"/>
+        </attvalues>
+      </node>
+      <node id="23855" label="都市計画法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43HO100.html"/>
+        </attvalues>
+      </node>
+      <node id="23856" label="ＪＲＡ法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE258.html"/>
+        </attvalues>
+      </node>
+      <node id="23857" label="外国人等の国際運輸業に係る所得に対する相互主義による所得税等の非課税に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="23858" label="市町村の合併の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO059.html"/>
+        </attvalues>
+      </node>
+      <node id="23859" label="平成二十四年度分の地方交付税の交付時期及び交付額の特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F11001000084.html"/>
+        </attvalues>
+      </node>
+      <node id="23860" label="障害者の日常生活及び社会生活を総合的に支援するための法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="社会福祉"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F19001000019.html"/>
+        </attvalues>
+      </node>
+      <node id="23861" label="近畿圏整備法">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38HO129.html"/>
+        </attvalues>
+      </node>
+      <node id="23862" label="大規模な公有水面の埋立てに伴う村の設置に係る地方自治法等の特例に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39HO106.html"/>
+        </attvalues>
+      </node>
+      <node id="23863" label="中央省庁等改革のための関係建設省令の整備に関する省令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F04201000041.html"/>
+        </attvalues>
+      </node>
+      <node id="23864" label="過疎地域自立促進特別措置法第十二条第二項に規定する総務省令で定めるところにより算定した額を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="国土開発"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H22/H22F11001000049.html"/>
+        </attvalues>
+      </node>
+      <node id="23865" label="地方公共団体金融機構の財務及び会計に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方自治"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F11001000087.html"/>
+        </attvalues>
+      </node>
+      <node id="23866" label="平成七年度における地方財政法第三十三条の二第二項の額の算定に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F04301000023.html"/>
+        </attvalues>
+      </node>
+      <node id="23867" label="オートレース法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE255.html"/>
+        </attvalues>
+      </node>
+      <node id="23868" label="輸出入取引法">
+        <attvalues>
+          <attvalue for="modularity" value="外国為替・貿易"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO299.html"/>
+        </attvalues>
+      </node>
+      <node id="23869" label="奄美群島の復帰に伴う法令の適用の暫定措置等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO267.html"/>
+        </attvalues>
+      </node>
+      <node id="23870" label="租税特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE043.html"/>
+        </attvalues>
+      </node>
+      <node id="23871" label="平成二十二年四月以降において発生が確認された口蹄疫に起因して生じた事態に対処するための手当金等についての健康保険法施行規則等の臨時特例に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F19001000098.html"/>
+        </attvalues>
+      </node>
+      <node id="23872" label="風営法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F30301000001.html"/>
+        </attvalues>
+      </node>
+      <node id="23873" label="辺地に係る公共的施設の総合整備のための財政上の特別措置等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37F04301000014.html"/>
+        </attvalues>
+      </node>
+      <node id="23874" label="財政健全化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE397.html"/>
+        </attvalues>
+      </node>
+      <node id="23875" label="自賠事業業務委託契約準則">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31F03901000003.html"/>
+        </attvalues>
+      </node>
+      <node id="23876" label="国税収納金整理資金事務取扱規則">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03401000039.html"/>
+        </attvalues>
+      </node>
+      <node id="23877" label="住宅・土地統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03101000041.html"/>
+        </attvalues>
+      </node>
+      <node id="23878" label="経済産業省生産動態統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28F03801000010.html"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="47274" source="23635" target="23819"/>
+      <edge id="47275" source="23635" target="23538"/>
+      <edge id="47276" source="23635" target="23586"/>
+      <edge id="47277" source="23635" target="23457"/>
+      <edge id="47278" source="23635" target="23842"/>
+      <edge id="47279" source="23664" target="23567"/>
+      <edge id="47280" source="23664" target="23822"/>
+      <edge id="47281" source="23664" target="23637"/>
+      <edge id="47282" source="23600" target="23594"/>
+      <edge id="47283" source="23600" target="23586"/>
+      <edge id="47284" source="23600" target="23842"/>
+      <edge id="47285" source="23600" target="23673"/>
+      <edge id="47286" source="23600" target="23595"/>
+      <edge id="47287" source="23437" target="23412"/>
+      <edge id="47288" source="23588" target="23664"/>
+      <edge id="47289" source="23588" target="23408"/>
+      <edge id="47290" source="23588" target="23685"/>
+      <edge id="47291" source="23588" target="23658"/>
+      <edge id="47292" source="23588" target="23488"/>
+      <edge id="47293" source="23588" target="23856"/>
+      <edge id="47294" source="23588" target="23504"/>
+      <edge id="47295" source="23588" target="23713"/>
+      <edge id="47296" source="23588" target="23687"/>
+      <edge id="47297" source="23588" target="23476"/>
+      <edge id="47298" source="23786" target="23408"/>
+      <edge id="47299" source="23786" target="23704"/>
+      <edge id="47300" source="23754" target="23599"/>
+      <edge id="47301" source="23754" target="23530"/>
+      <edge id="47302" source="23754" target="23859"/>
+      <edge id="47303" source="23603" target="23399"/>
+      <edge id="47304" source="23603" target="23400"/>
+      <edge id="47305" source="23603" target="23401"/>
+      <edge id="47306" source="23603" target="23519"/>
+      <edge id="47307" source="23603" target="23458"/>
+      <edge id="47308" source="23603" target="23403"/>
+      <edge id="47309" source="23603" target="23521"/>
+      <edge id="47310" source="23603" target="23795"/>
+      <edge id="47311" source="23603" target="23755"/>
+      <edge id="47312" source="23603" target="23660"/>
+      <edge id="47313" source="23603" target="23404"/>
+      <edge id="47314" source="23603" target="23636"/>
+      <edge id="47315" source="23603" target="23405"/>
+      <edge id="47316" source="23603" target="23710"/>
+      <edge id="47317" source="23603" target="23758"/>
+      <edge id="47318" source="23603" target="23522"/>
+      <edge id="47319" source="23603" target="23759"/>
+      <edge id="47320" source="23603" target="23641"/>
+      <edge id="47321" source="23603" target="23410"/>
+      <edge id="47322" source="23603" target="23642"/>
+      <edge id="47323" source="23603" target="23526"/>
+      <edge id="47324" source="23603" target="23528"/>
+      <edge id="47325" source="23603" target="23412"/>
+      <edge id="47326" source="23603" target="23527"/>
+      <edge id="47327" source="23603" target="23414"/>
+      <edge id="47328" source="23603" target="23620"/>
+      <edge id="47329" source="23603" target="23763"/>
+      <edge id="47330" source="23603" target="23643"/>
+      <edge id="47331" source="23603" target="23415"/>
+      <edge id="47332" source="23603" target="23529"/>
+      <edge id="47333" source="23603" target="23416"/>
+      <edge id="47334" source="23603" target="23773"/>
+      <edge id="47335" source="23603" target="23541"/>
+      <edge id="47336" source="23603" target="23770"/>
+      <edge id="47337" source="23603" target="23771"/>
+      <edge id="47338" source="23603" target="23652"/>
+      <edge id="47339" source="23603" target="23743"/>
+      <edge id="47340" source="23603" target="23752"/>
+      <edge id="47341" source="23603" target="23591"/>
+      <edge id="47342" source="23603" target="23423"/>
+      <edge id="47343" source="23603" target="23698"/>
+      <edge id="47344" source="23603" target="23612"/>
+      <edge id="47345" source="23603" target="23424"/>
+      <edge id="47346" source="23603" target="23655"/>
+      <edge id="47347" source="23603" target="23536"/>
+      <edge id="47348" source="23603" target="23537"/>
+      <edge id="47349" source="23603" target="23734"/>
+      <edge id="47350" source="23603" target="23426"/>
+      <edge id="47351" source="23603" target="23657"/>
+      <edge id="47352" source="23603" target="23538"/>
+      <edge id="47353" source="23603" target="23539"/>
+      <edge id="47354" source="23603" target="23413"/>
+      <edge id="47355" source="23603" target="23540"/>
+      <edge id="47356" source="23603" target="23430"/>
+      <edge id="47357" source="23603" target="23431"/>
+      <edge id="47358" source="23603" target="23592"/>
+      <edge id="47359" source="23603" target="23433"/>
+      <edge id="47360" source="23603" target="23781"/>
+      <edge id="47361" source="23603" target="23435"/>
+      <edge id="47362" source="23603" target="23542"/>
+      <edge id="47363" source="23603" target="23543"/>
+      <edge id="47364" source="23603" target="23726"/>
+      <edge id="47365" source="23603" target="23784"/>
+      <edge id="47366" source="23603" target="23545"/>
+      <edge id="47367" source="23603" target="23546"/>
+      <edge id="47368" source="23603" target="23785"/>
+      <edge id="47369" source="23603" target="23832"/>
+      <edge id="47370" source="23603" target="23548"/>
+      <edge id="47371" source="23603" target="23787"/>
+      <edge id="47372" source="23603" target="23549"/>
+      <edge id="47373" source="23603" target="23517"/>
+      <edge id="47374" source="23603" target="23595"/>
+      <edge id="47375" source="23603" target="23441"/>
+      <edge id="47376" source="23603" target="23790"/>
+      <edge id="47377" source="23603" target="23667"/>
+      <edge id="47378" source="23603" target="23668"/>
+      <edge id="47379" source="23603" target="23550"/>
+      <edge id="47380" source="23603" target="23503"/>
+      <edge id="47381" source="23603" target="23551"/>
+      <edge id="47382" source="23603" target="23552"/>
+      <edge id="47383" source="23603" target="23715"/>
+      <edge id="47384" source="23603" target="23553"/>
+      <edge id="47385" source="23603" target="23796"/>
+      <edge id="47386" source="23603" target="23672"/>
+      <edge id="47387" source="23603" target="23673"/>
+      <edge id="47388" source="23603" target="23556"/>
+      <edge id="47389" source="23603" target="23442"/>
+      <edge id="47390" source="23603" target="23656"/>
+      <edge id="47391" source="23603" target="23443"/>
+      <edge id="47392" source="23603" target="23558"/>
+      <edge id="47393" source="23603" target="23559"/>
+      <edge id="47394" source="23603" target="23444"/>
+      <edge id="47395" source="23603" target="23560"/>
+      <edge id="47396" source="23603" target="23803"/>
+      <edge id="47397" source="23603" target="23678"/>
+      <edge id="47398" source="23603" target="23876"/>
+      <edge id="47399" source="23603" target="23804"/>
+      <edge id="47400" source="23603" target="23445"/>
+      <edge id="47401" source="23603" target="23447"/>
+      <edge id="47402" source="23603" target="23452"/>
+      <edge id="47403" source="23603" target="23675"/>
+      <edge id="47404" source="23603" target="23563"/>
+      <edge id="47405" source="23603" target="23449"/>
+      <edge id="47406" source="23603" target="23450"/>
+      <edge id="47407" source="23603" target="23806"/>
+      <edge id="47408" source="23603" target="23682"/>
+      <edge id="47409" source="23603" target="23561"/>
+      <edge id="47410" source="23603" target="23683"/>
+      <edge id="47411" source="23603" target="23684"/>
+      <edge id="47412" source="23603" target="23409"/>
+      <edge id="47413" source="23603" target="23808"/>
+      <edge id="47414" source="23603" target="23454"/>
+      <edge id="47415" source="23603" target="23568"/>
+      <edge id="47416" source="23603" target="23809"/>
+      <edge id="47417" source="23603" target="23810"/>
+      <edge id="47418" source="23603" target="23688"/>
+      <edge id="47419" source="23603" target="23448"/>
+      <edge id="47420" source="23603" target="23812"/>
+      <edge id="47421" source="23603" target="23569"/>
+      <edge id="47422" source="23603" target="23456"/>
+      <edge id="47423" source="23603" target="23814"/>
+      <edge id="47424" source="23603" target="23748"/>
+      <edge id="47425" source="23603" target="23411"/>
+      <edge id="47426" source="23603" target="23623"/>
+      <edge id="47427" source="23603" target="23693"/>
+      <edge id="47428" source="23603" target="23815"/>
+      <edge id="47429" source="23603" target="23694"/>
+      <edge id="47430" source="23603" target="23459"/>
+      <edge id="47431" source="23603" target="23695"/>
+      <edge id="47432" source="23603" target="23544"/>
+      <edge id="47433" source="23603" target="23572"/>
+      <edge id="47434" source="23603" target="23460"/>
+      <edge id="47435" source="23603" target="23573"/>
+      <edge id="47436" source="23603" target="23818"/>
+      <edge id="47437" source="23603" target="23461"/>
+      <edge id="47438" source="23603" target="23624"/>
+      <edge id="47439" source="23603" target="23463"/>
+      <edge id="47440" source="23603" target="23465"/>
+      <edge id="47441" source="23603" target="23533"/>
+      <edge id="47442" source="23603" target="23823"/>
+      <edge id="47443" source="23603" target="23824"/>
+      <edge id="47444" source="23603" target="23577"/>
+      <edge id="47445" source="23603" target="23468"/>
+      <edge id="47446" source="23603" target="23827"/>
+      <edge id="47447" source="23603" target="23828"/>
+      <edge id="47448" source="23603" target="23578"/>
+      <edge id="47449" source="23603" target="23469"/>
+      <edge id="47450" source="23603" target="23470"/>
+      <edge id="47451" source="23603" target="23601"/>
+      <edge id="47452" source="23603" target="23829"/>
+      <edge id="47453" source="23603" target="23471"/>
+      <edge id="47454" source="23603" target="23844"/>
+      <edge id="47455" source="23603" target="23579"/>
+      <edge id="47456" source="23603" target="23704"/>
+      <edge id="47457" source="23603" target="23830"/>
+      <edge id="47458" source="23603" target="23574"/>
+      <edge id="47459" source="23603" target="23878"/>
+      <edge id="47460" source="23603" target="23472"/>
+      <edge id="47461" source="23603" target="23565"/>
+      <edge id="47462" source="23603" target="23831"/>
+      <edge id="47463" source="23603" target="23478"/>
+      <edge id="47464" source="23603" target="23786"/>
+      <edge id="47465" source="23603" target="23613"/>
+      <edge id="47466" source="23603" target="23583"/>
+      <edge id="47467" source="23603" target="23833"/>
+      <edge id="47468" source="23603" target="23481"/>
+      <edge id="47469" source="23603" target="23586"/>
+      <edge id="47470" source="23603" target="23708"/>
+      <edge id="47471" source="23603" target="23455"/>
+      <edge id="47472" source="23603" target="23709"/>
+      <edge id="47473" source="23603" target="23482"/>
+      <edge id="47474" source="23603" target="23834"/>
+      <edge id="47475" source="23603" target="23589"/>
+      <edge id="47476" source="23603" target="23835"/>
+      <edge id="47477" source="23603" target="23530"/>
+      <edge id="47478" source="23603" target="23836"/>
+      <edge id="47479" source="23603" target="23590"/>
+      <edge id="47480" source="23603" target="23419"/>
+      <edge id="47481" source="23603" target="23762"/>
+      <edge id="47482" source="23603" target="23766"/>
+      <edge id="47483" source="23603" target="23486"/>
+      <edge id="47484" source="23603" target="23487"/>
+      <edge id="47485" source="23603" target="23436"/>
+      <edge id="47486" source="23603" target="23489"/>
+      <edge id="47487" source="23603" target="23838"/>
+      <edge id="47488" source="23603" target="23714"/>
+      <edge id="47489" source="23603" target="23490"/>
+      <edge id="47490" source="23603" target="23492"/>
+      <edge id="47491" source="23603" target="23840"/>
+      <edge id="47492" source="23603" target="23841"/>
+      <edge id="47493" source="23603" target="23676"/>
+      <edge id="47494" source="23603" target="23597"/>
+      <edge id="47495" source="23603" target="23598"/>
+      <edge id="47496" source="23603" target="23716"/>
+      <edge id="47497" source="23603" target="23599"/>
+      <edge id="47498" source="23603" target="23697"/>
+      <edge id="47499" source="23603" target="23480"/>
+      <edge id="47500" source="23603" target="23718"/>
+      <edge id="47501" source="23603" target="23496"/>
+      <edge id="47502" source="23603" target="23848"/>
+      <edge id="47503" source="23603" target="23849"/>
+      <edge id="47504" source="23603" target="23850"/>
+      <edge id="47505" source="23603" target="23605"/>
+      <edge id="47506" source="23603" target="23606"/>
+      <edge id="47507" source="23603" target="23497"/>
+      <edge id="47508" source="23603" target="23607"/>
+      <edge id="47509" source="23603" target="23724"/>
+      <edge id="47510" source="23603" target="23826"/>
+      <edge id="47511" source="23603" target="23498"/>
+      <edge id="47512" source="23603" target="23725"/>
+      <edge id="47513" source="23603" target="23853"/>
+      <edge id="47514" source="23603" target="23854"/>
+      <edge id="47515" source="23603" target="23609"/>
+      <edge id="47516" source="23603" target="23610"/>
+      <edge id="47517" source="23603" target="23730"/>
+      <edge id="47518" source="23603" target="23500"/>
+      <edge id="47519" source="23603" target="23857"/>
+      <edge id="47520" source="23603" target="23501"/>
+      <edge id="47521" source="23603" target="23858"/>
+      <edge id="47522" source="23603" target="23811"/>
+      <edge id="47523" source="23603" target="23765"/>
+      <edge id="47524" source="23603" target="23732"/>
+      <edge id="47525" source="23603" target="23733"/>
+      <edge id="47526" source="23603" target="23502"/>
+      <edge id="47527" source="23603" target="23761"/>
+      <edge id="47528" source="23603" target="23735"/>
+      <edge id="47529" source="23603" target="23582"/>
+      <edge id="47530" source="23603" target="23614"/>
+      <edge id="47531" source="23603" target="23514"/>
+      <edge id="47532" source="23603" target="23860"/>
+      <edge id="47533" source="23603" target="23737"/>
+      <edge id="47534" source="23603" target="23862"/>
+      <edge id="47535" source="23603" target="23805"/>
+      <edge id="47536" source="23603" target="23618"/>
+      <edge id="47537" source="23603" target="23800"/>
+      <edge id="47538" source="23603" target="23505"/>
+      <edge id="47539" source="23603" target="23875"/>
+      <edge id="47540" source="23603" target="23621"/>
+      <edge id="47541" source="23603" target="23866"/>
+      <edge id="47542" source="23603" target="23740"/>
+      <edge id="47543" source="23603" target="23802"/>
+      <edge id="47544" source="23603" target="23731"/>
+      <edge id="47545" source="23603" target="23742"/>
+      <edge id="47546" source="23603" target="23509"/>
+      <edge id="47547" source="23603" target="23707"/>
+      <edge id="47548" source="23603" target="23868"/>
+      <edge id="47549" source="23603" target="23869"/>
+      <edge id="47550" source="23603" target="23705"/>
+      <edge id="47551" source="23603" target="23625"/>
+      <edge id="47552" source="23603" target="23871"/>
+      <edge id="47553" source="23603" target="23513"/>
+      <edge id="47554" source="23603" target="23511"/>
+      <edge id="47555" source="23603" target="23512"/>
+      <edge id="47556" source="23603" target="23584"/>
+      <edge id="47557" source="23603" target="23691"/>
+      <edge id="47558" source="23603" target="23571"/>
+      <edge id="47559" source="23603" target="23499"/>
+      <edge id="47560" source="23603" target="23749"/>
+      <edge id="47561" source="23603" target="23750"/>
+      <edge id="47562" source="23603" target="23873"/>
+      <edge id="47563" source="23603" target="23751"/>
+      <edge id="47564" source="23603" target="23631"/>
+      <edge id="47565" source="23603" target="23679"/>
+      <edge id="47566" source="23603" target="23515"/>
+      <edge id="47567" source="23603" target="23692"/>
+      <edge id="47568" source="23603" target="23753"/>
+      <edge id="47569" source="23603" target="23877"/>
+      <edge id="47570" source="23603" target="23634"/>
+      <edge id="47571" source="23755" target="23635"/>
+      <edge id="47572" source="23755" target="23754"/>
+      <edge id="47573" source="23755" target="23519"/>
+      <edge id="47574" source="23755" target="23402"/>
+      <edge id="47575" source="23755" target="23403"/>
+      <edge id="47576" source="23755" target="23757"/>
+      <edge id="47577" source="23755" target="23640"/>
+      <edge id="47578" source="23755" target="23525"/>
+      <edge id="47579" source="23755" target="23642"/>
+      <edge id="47580" source="23755" target="23644"/>
+      <edge id="47581" source="23755" target="23530"/>
+      <edge id="47582" source="23755" target="23649"/>
+      <edge id="47583" source="23755" target="23650"/>
+      <edge id="47584" source="23755" target="23418"/>
+      <edge id="47585" source="23755" target="23770"/>
+      <edge id="47586" source="23755" target="23653"/>
+      <edge id="47587" source="23755" target="23772"/>
+      <edge id="47588" source="23755" target="23532"/>
+      <edge id="47589" source="23755" target="23427"/>
+      <edge id="47590" source="23755" target="23535"/>
+      <edge id="47591" source="23755" target="23674"/>
+      <edge id="47592" source="23755" target="23775"/>
+      <edge id="47593" source="23755" target="23538"/>
+      <edge id="47594" source="23755" target="23540"/>
+      <edge id="47595" source="23755" target="23429"/>
+      <edge id="47596" source="23755" target="23430"/>
+      <edge id="47597" source="23755" target="23661"/>
+      <edge id="47598" source="23755" target="23780"/>
+      <edge id="47599" source="23755" target="23432"/>
+      <edge id="47600" source="23755" target="23434"/>
+      <edge id="47601" source="23755" target="23744"/>
+      <edge id="47602" source="23755" target="23663"/>
+      <edge id="47603" source="23755" target="23575"/>
+      <edge id="47604" source="23755" target="23549"/>
+      <edge id="47605" source="23755" target="23439"/>
+      <edge id="47606" source="23755" target="23440"/>
+      <edge id="47607" source="23755" target="23595"/>
+      <edge id="47608" source="23755" target="23790"/>
+      <edge id="47609" source="23755" target="23791"/>
+      <edge id="47610" source="23755" target="23794"/>
+      <edge id="47611" source="23755" target="23670"/>
+      <edge id="47612" source="23755" target="23795"/>
+      <edge id="47613" source="23755" target="23555"/>
+      <edge id="47614" source="23755" target="23673"/>
+      <edge id="47615" source="23755" target="23801"/>
+      <edge id="47616" source="23755" target="23656"/>
+      <edge id="47617" source="23755" target="23675"/>
+      <edge id="47618" source="23755" target="23676"/>
+      <edge id="47619" source="23755" target="23802"/>
+      <edge id="47620" source="23755" target="23803"/>
+      <edge id="47621" source="23755" target="23678"/>
+      <edge id="47622" source="23755" target="23804"/>
+      <edge id="47623" source="23755" target="23679"/>
+      <edge id="47624" source="23755" target="23563"/>
+      <edge id="47625" source="23755" target="23806"/>
+      <edge id="47626" source="23755" target="23451"/>
+      <edge id="47627" source="23755" target="23682"/>
+      <edge id="47628" source="23755" target="23566"/>
+      <edge id="47629" source="23755" target="23685"/>
+      <edge id="47630" source="23755" target="23659"/>
+      <edge id="47631" source="23755" target="23809"/>
+      <edge id="47632" source="23755" target="23812"/>
+      <edge id="47633" source="23755" target="23690"/>
+      <edge id="47634" source="23755" target="23748"/>
+      <edge id="47635" source="23755" target="23570"/>
+      <edge id="47636" source="23755" target="23520"/>
+      <edge id="47637" source="23755" target="23462"/>
+      <edge id="47638" source="23755" target="23464"/>
+      <edge id="47639" source="23755" target="23821"/>
+      <edge id="47640" source="23755" target="23798"/>
+      <edge id="47641" source="23755" target="23577"/>
+      <edge id="47642" source="23755" target="23827"/>
+      <edge id="47643" source="23755" target="23703"/>
+      <edge id="47644" source="23755" target="23704"/>
+      <edge id="47645" source="23755" target="23580"/>
+      <edge id="47646" source="23755" target="23830"/>
+      <edge id="47647" source="23755" target="23475"/>
+      <edge id="47648" source="23755" target="23477"/>
+      <edge id="47649" source="23755" target="23833"/>
+      <edge id="47650" source="23755" target="23585"/>
+      <edge id="47651" source="23755" target="23586"/>
+      <edge id="47652" source="23755" target="23705"/>
+      <edge id="47653" source="23755" target="23591"/>
+      <edge id="47654" source="23755" target="23486"/>
+      <edge id="47655" source="23755" target="23712"/>
+      <edge id="47656" source="23755" target="23839"/>
+      <edge id="47657" source="23755" target="23714"/>
+      <edge id="47658" source="23755" target="23491"/>
+      <edge id="47659" source="23755" target="23492"/>
+      <edge id="47660" source="23755" target="23842"/>
+      <edge id="47661" source="23755" target="23843"/>
+      <edge id="47662" source="23755" target="23599"/>
+      <edge id="47663" source="23755" target="23866"/>
+      <edge id="47664" source="23755" target="23717"/>
+      <edge id="47665" source="23755" target="23603"/>
+      <edge id="47666" source="23755" target="23719"/>
+      <edge id="47667" source="23755" target="23853"/>
+      <edge id="47668" source="23755" target="23727"/>
+      <edge id="47669" source="23755" target="23610"/>
+      <edge id="47670" source="23755" target="23858"/>
+      <edge id="47671" source="23755" target="23611"/>
+      <edge id="47672" source="23755" target="23859"/>
+      <edge id="47673" source="23755" target="23732"/>
+      <edge id="47674" source="23755" target="23733"/>
+      <edge id="47675" source="23755" target="23864"/>
+      <edge id="47676" source="23755" target="23507"/>
+      <edge id="47677" source="23755" target="23622"/>
+      <edge id="47678" source="23755" target="23623"/>
+      <edge id="47679" source="23755" target="23531"/>
+      <edge id="47680" source="23755" target="23745"/>
+      <edge id="47681" source="23755" target="23691"/>
+      <edge id="47682" source="23755" target="23873"/>
+      <edge id="47683" source="23755" target="23515"/>
+      <edge id="47684" source="23755" target="23753"/>
+      <edge id="47685" source="23755" target="23634"/>
+      <edge id="47686" source="23756" target="23711"/>
+      <edge id="47687" source="23756" target="23538"/>
+      <edge id="47688" source="23756" target="23421"/>
+      <edge id="47689" source="23756" target="23586"/>
+      <edge id="47690" source="23756" target="23842"/>
+      <edge id="47691" source="23756" target="23673"/>
+      <edge id="47692" source="23702" target="23664"/>
+      <edge id="47693" source="23702" target="23738"/>
+      <edge id="47694" source="23702" target="23807"/>
+      <edge id="47695" source="23702" target="23647"/>
+      <edge id="47696" source="23702" target="23872"/>
+      <edge id="47697" source="23702" target="23547"/>
+      <edge id="47698" source="23702" target="23595"/>
+      <edge id="47699" source="23702" target="23671"/>
+      <edge id="47700" source="23702" target="23586"/>
+      <edge id="47701" source="23702" target="23587"/>
+      <edge id="47702" source="23702" target="23681"/>
+      <edge id="47703" source="23702" target="23654"/>
+      <edge id="47704" source="23702" target="23632"/>
+      <edge id="47705" source="23702" target="23557"/>
+      <edge id="47706" source="23702" target="23467"/>
+      <edge id="47707" source="23702" target="23662"/>
+      <edge id="47708" source="23702" target="23736"/>
+      <edge id="47709" source="23702" target="23614"/>
+      <edge id="47710" source="23702" target="23673"/>
+      <edge id="47711" source="23757" target="23629"/>
+      <edge id="47712" source="23406" target="23464"/>
+      <edge id="47713" source="23406" target="23586"/>
+      <edge id="47714" source="23406" target="23570"/>
+      <edge id="47715" source="23406" target="23673"/>
+      <edge id="47716" source="23406" target="23842"/>
+      <edge id="47717" source="23595" target="23800"/>
+      <edge id="47718" source="23595" target="23523"/>
+      <edge id="47719" source="23595" target="23629"/>
+      <edge id="47720" source="23595" target="23704"/>
+      <edge id="47721" source="23483" target="23615"/>
+      <edge id="47722" source="23722" target="23664"/>
+      <edge id="47723" source="23722" target="23518"/>
+      <edge id="47724" source="23722" target="23547"/>
+      <edge id="47725" source="23722" target="23438"/>
+      <edge id="47726" source="23722" target="23604"/>
+      <edge id="47727" source="23722" target="23700"/>
+      <edge id="47728" source="23722" target="23827"/>
+      <edge id="47729" source="23722" target="23795"/>
+      <edge id="47730" source="23722" target="23671"/>
+      <edge id="47731" source="23722" target="23673"/>
+      <edge id="47732" source="23722" target="23474"/>
+      <edge id="47733" source="23722" target="23557"/>
+      <edge id="47734" source="23722" target="23736"/>
+      <edge id="47735" source="23722" target="23614"/>
+      <edge id="47736" source="23722" target="23738"/>
+      <edge id="47737" source="23722" target="23586"/>
+      <edge id="47738" source="23722" target="23681"/>
+      <edge id="47739" source="23722" target="23654"/>
+      <edge id="47740" source="23722" target="23647"/>
+      <edge id="47741" source="23722" target="23745"/>
+      <edge id="47742" source="23722" target="23807"/>
+      <edge id="47743" source="23722" target="23872"/>
+      <edge id="47744" source="23722" target="23632"/>
+      <edge id="47745" source="23722" target="23662"/>
+      <edge id="47746" source="23825" target="23586"/>
+      <edge id="47747" source="23825" target="23673"/>
+      <edge id="47748" source="23825" target="23757"/>
+      <edge id="47749" source="23792" target="23783"/>
+      <edge id="47750" source="23792" target="23599"/>
+      <edge id="47751" source="23792" target="23712"/>
+      <edge id="47752" source="23792" target="23853"/>
+      <edge id="47753" source="23792" target="23704"/>
+      <edge id="47754" source="23792" target="23864"/>
+      <edge id="47755" source="23792" target="23595"/>
+      <edge id="47756" source="23792" target="23812"/>
+      <edge id="47757" source="23792" target="23451"/>
+      <edge id="47758" source="23792" target="23530"/>
+      <edge id="47759" source="23792" target="23706"/>
+      <edge id="47760" source="23837" target="23446"/>
+      <edge id="47761" source="23837" target="23593"/>
+      <edge id="47762" source="23837" target="23669"/>
+      <edge id="47763" source="23837" target="23739"/>
+      <edge id="47764" source="23837" target="23813"/>
+      <edge id="47765" source="23837" target="23681"/>
+      <edge id="47766" source="23837" target="23696"/>
+      <edge id="47767" source="23837" target="23473"/>
+      <edge id="47768" source="23837" target="23417"/>
+      <edge id="47769" source="23837" target="23673"/>
+      <edge id="47770" source="23608" target="23664"/>
+      <edge id="47771" source="23608" target="23547"/>
+      <edge id="47772" source="23608" target="23438"/>
+      <edge id="47773" source="23608" target="23700"/>
+      <edge id="47774" source="23608" target="23827"/>
+      <edge id="47775" source="23608" target="23728"/>
+      <edge id="47776" source="23608" target="23795"/>
+      <edge id="47777" source="23608" target="23671"/>
+      <edge id="47778" source="23608" target="23673"/>
+      <edge id="47779" source="23608" target="23474"/>
+      <edge id="47780" source="23608" target="23557"/>
+      <edge id="47781" source="23608" target="23736"/>
+      <edge id="47782" source="23608" target="23614"/>
+      <edge id="47783" source="23608" target="23738"/>
+      <edge id="47784" source="23608" target="23681"/>
+      <edge id="47785" source="23608" target="23654"/>
+      <edge id="47786" source="23608" target="23867"/>
+      <edge id="47787" source="23608" target="23745"/>
+      <edge id="47788" source="23608" target="23807"/>
+      <edge id="47789" source="23608" target="23872"/>
+      <edge id="47790" source="23608" target="23632"/>
+      <edge id="47791" source="23608" target="23662"/>
+      <edge id="47792" source="23853" target="23494"/>
+      <edge id="47793" source="23853" target="23812"/>
+      <edge id="47794" source="23856" target="23617"/>
+      <edge id="47795" source="23412" target="23599"/>
+      <edge id="47796" source="23412" target="23530"/>
+      <edge id="47797" source="23639" target="23538"/>
+      <edge id="47798" source="23639" target="23428"/>
+      <edge id="47799" source="23639" target="23586"/>
+      <edge id="47800" source="23639" target="23842"/>
+      <edge id="47801" source="23639" target="23673"/>
+      <edge id="47802" source="23639" target="23570"/>
+      <edge id="47803" source="23704" target="23629"/>
+      <edge id="47804" source="23530" target="23599"/>
+      <edge id="47805" source="23773" target="23673"/>
+      <edge id="47806" source="23773" target="23568"/>
+      <edge id="47807" source="23773" target="23615"/>
+      <edge id="47808" source="23476" target="23664"/>
+      <edge id="47809" source="23476" target="23547"/>
+      <edge id="47810" source="23476" target="23822"/>
+      <edge id="47811" source="23476" target="23637"/>
+      <edge id="47812" source="23476" target="23407"/>
+      <edge id="47813" source="23476" target="23793"/>
+      <edge id="47814" source="23476" target="23856"/>
+      <edge id="47815" source="23476" target="23671"/>
+      <edge id="47816" source="23476" target="23673"/>
+      <edge id="47817" source="23476" target="23557"/>
+      <edge id="47818" source="23476" target="23647"/>
+      <edge id="47819" source="23476" target="23736"/>
+      <edge id="47820" source="23476" target="23614"/>
+      <edge id="47821" source="23476" target="23738"/>
+      <edge id="47822" source="23476" target="23617"/>
+      <edge id="47823" source="23476" target="23586"/>
+      <edge id="47824" source="23476" target="23681"/>
+      <edge id="47825" source="23476" target="23588"/>
+      <edge id="47826" source="23476" target="23654"/>
+      <edge id="47827" source="23476" target="23425"/>
+      <edge id="47828" source="23476" target="23776"/>
+      <edge id="47829" source="23476" target="23807"/>
+      <edge id="47830" source="23476" target="23872"/>
+      <edge id="47831" source="23476" target="23488"/>
+      <edge id="47832" source="23476" target="23567"/>
+      <edge id="47833" source="23476" target="23632"/>
+      <edge id="47834" source="23476" target="23662"/>
+      <edge id="47835" source="23738" target="23562"/>
+      <edge id="47836" source="23738" target="23438"/>
+      <edge id="47837" source="23802" target="23693"/>
+      <edge id="47838" source="23802" target="23599"/>
+      <edge id="47839" source="23802" target="23768"/>
+      <edge id="47840" source="23802" target="23470"/>
+      <edge id="47841" source="23802" target="23741"/>
+      <edge id="47842" source="23802" target="23832"/>
+      <edge id="47843" source="23802" target="23581"/>
+      <edge id="47844" source="23802" target="23534"/>
+      <edge id="47845" source="23802" target="23818"/>
+      <edge id="47846" source="23802" target="23477"/>
+      <edge id="47847" source="23802" target="23720"/>
+      <edge id="47848" source="23802" target="23820"/>
+      <edge id="47849" source="23802" target="23429"/>
+      <edge id="47850" source="23802" target="23809"/>
+      <edge id="47851" source="23802" target="23789"/>
+      <edge id="47852" source="23802" target="23723"/>
+      <edge id="47853" source="23802" target="23577"/>
+      <edge id="47854" source="23802" target="23721"/>
+      <edge id="47855" source="23802" target="23524"/>
+      <edge id="47856" source="23802" target="23794"/>
+      <edge id="47857" source="23802" target="23516"/>
+      <edge id="47858" source="23802" target="23853"/>
+      <edge id="47859" source="23802" target="23638"/>
+      <edge id="47860" source="23802" target="23670"/>
+      <edge id="47861" source="23802" target="23610"/>
+      <edge id="47862" source="23802" target="23412"/>
+      <edge id="47863" source="23802" target="23701"/>
+      <edge id="47864" source="23802" target="23611"/>
+      <edge id="47865" source="23802" target="23764"/>
+      <edge id="47866" source="23802" target="23799"/>
+      <edge id="47867" source="23802" target="23801"/>
+      <edge id="47868" source="23802" target="23830"/>
+      <edge id="47869" source="23802" target="23530"/>
+      <edge id="47870" source="23802" target="23475"/>
+      <edge id="47871" source="23802" target="23501"/>
+      <edge id="47872" source="23802" target="23648"/>
+      <edge id="47873" source="23802" target="23514"/>
+      <edge id="47874" source="23802" target="23845"/>
+      <edge id="47875" source="23802" target="23861"/>
+      <edge id="47876" source="23802" target="23616"/>
+      <edge id="47877" source="23802" target="23846"/>
+      <edge id="47878" source="23802" target="23677"/>
+      <edge id="47879" source="23802" target="23673"/>
+      <edge id="47880" source="23802" target="23678"/>
+      <edge id="47881" source="23802" target="23769"/>
+      <edge id="47882" source="23802" target="23484"/>
+      <edge id="47883" source="23802" target="23506"/>
+      <edge id="47884" source="23802" target="23653"/>
+      <edge id="47885" source="23802" target="23865"/>
+      <edge id="47886" source="23802" target="23561"/>
+      <edge id="47887" source="23802" target="23833"/>
+      <edge id="47888" source="23802" target="23586"/>
+      <edge id="47889" source="23802" target="23596"/>
+      <edge id="47890" source="23802" target="23623"/>
+      <edge id="47891" source="23802" target="23451"/>
+      <edge id="47892" source="23802" target="23508"/>
+      <edge id="47893" source="23802" target="23682"/>
+      <edge id="47894" source="23802" target="23535"/>
+      <edge id="47895" source="23802" target="23712"/>
+      <edge id="47896" source="23802" target="23836"/>
+      <edge id="47897" source="23802" target="23837"/>
+      <edge id="47898" source="23802" target="23590"/>
+      <edge id="47899" source="23802" target="23755"/>
+      <edge id="47900" source="23802" target="23817"/>
+      <edge id="47901" source="23802" target="23775"/>
+      <edge id="47902" source="23802" target="23807"/>
+      <edge id="47903" source="23802" target="23866"/>
+      <edge id="47904" source="23802" target="23808"/>
+      <edge id="47905" source="23802" target="23453"/>
+      <edge id="47906" source="23802" target="23686"/>
+      <edge id="47907" source="23802" target="23570"/>
+      <edge id="47908" source="23802" target="23738"/>
+      <edge id="47909" source="23802" target="23874"/>
+      <edge id="47910" source="23802" target="23688"/>
+      <edge id="47911" source="23802" target="23714"/>
+      <edge id="47912" source="23802" target="23812"/>
+      <edge id="47913" source="23802" target="23797"/>
+      <edge id="47914" source="23802" target="23680"/>
+      <edge id="47915" source="23802" target="23705"/>
+      <edge id="47916" source="23802" target="23633"/>
+      <edge id="47917" source="23802" target="23753"/>
+      <edge id="47918" source="23802" target="23495"/>
+      <edge id="47919" source="23802" target="23692"/>
+      <edge id="47920" source="23617" target="23664"/>
+      <edge id="47921" source="23617" target="23856"/>
+      <edge id="47922" source="23619" target="23767"/>
+      <edge id="47923" source="23816" target="23762"/>
+      <edge id="47924" source="23816" target="23591"/>
+      <edge id="47925" source="23816" target="23779"/>
+      <edge id="47926" source="23816" target="23800"/>
+      <edge id="47927" source="23816" target="23582"/>
+      <edge id="47928" source="23816" target="23500"/>
+      <edge id="47929" source="23816" target="23870"/>
+      <edge id="47930" source="23816" target="23699"/>
+      <edge id="47931" source="23816" target="23433"/>
+      <edge id="47932" source="23816" target="23595"/>
+      <edge id="47933" source="23816" target="23465"/>
+      <edge id="47934" source="23816" target="23704"/>
+      <edge id="47935" source="23816" target="23482"/>
+      <edge id="47936" source="23816" target="23655"/>
+      <edge id="47937" source="23816" target="23710"/>
+      <edge id="47938" source="23816" target="23663"/>
+      <edge id="47939" source="23432" target="23780"/>
+      <edge id="47940" source="23653" target="23564"/>
+      <edge id="47941" source="23653" target="23851"/>
+      <edge id="47942" source="23653" target="23673"/>
+      <edge id="47943" source="23447" target="23483"/>
+      <edge id="47944" source="23447" target="23615"/>
+      <edge id="47945" source="23447" target="23673"/>
+      <edge id="47946" source="23447" target="23568"/>
+      <edge id="47947" source="23447" target="23773"/>
+      <edge id="47948" source="23507" target="23657"/>
+      <edge id="47949" source="23587" target="23647"/>
+      <edge id="47950" source="23564" target="23873"/>
+      <edge id="47951" source="23806" target="23599"/>
+      <edge id="47952" source="23806" target="23626"/>
+      <edge id="47953" source="23806" target="23704"/>
+      <edge id="47954" source="23806" target="23786"/>
+      <edge id="47955" source="23806" target="23847"/>
+      <edge id="47956" source="23806" target="23755"/>
+      <edge id="47957" source="23806" target="23673"/>
+      <edge id="47958" source="23806" target="23757"/>
+      <edge id="47959" source="23806" target="23530"/>
+      <edge id="47960" source="23806" target="23788"/>
+      <edge id="47961" source="23451" target="23412"/>
+      <edge id="47962" source="23451" target="23666"/>
+      <edge id="47963" source="23867" target="23807"/>
+      <edge id="47964" source="23655" target="23800"/>
+      <edge id="47965" source="23646" target="23815"/>
+      <edge id="47966" source="23646" target="23871"/>
+      <edge id="47967" source="23646" target="23548"/>
+      <edge id="47968" source="23646" target="23584"/>
+      <edge id="47969" source="23646" target="23422"/>
+      <edge id="47970" source="23646" target="23433"/>
+      <edge id="47971" source="23647" target="23467"/>
+      <edge id="47972" source="23719" target="23577"/>
+      <edge id="47973" source="23719" target="23746"/>
+      <edge id="47974" source="23719" target="23485"/>
+      <edge id="47975" source="23719" target="23804"/>
+      <edge id="47976" source="23719" target="23479"/>
+      <edge id="47977" source="23719" target="23679"/>
+      <edge id="47978" source="23719" target="23403"/>
+      <edge id="47979" source="23719" target="23585"/>
+      <edge id="47980" source="23719" target="23627"/>
+      <edge id="47981" source="23719" target="23673"/>
+      <edge id="47982" source="23719" target="23515"/>
+      <edge id="47983" source="23719" target="23576"/>
+      <edge id="47984" source="23510" target="23863"/>
+      <edge id="47985" source="23807" target="23562"/>
+      <edge id="47986" source="23807" target="23438"/>
+      <edge id="47987" source="23778" target="23510"/>
+      <edge id="47988" source="23778" target="23651"/>
+      <edge id="47989" source="23778" target="23747"/>
+      <edge id="47990" source="23778" target="23855"/>
+      <edge id="47991" source="23778" target="23852"/>
+      <edge id="47992" source="23778" target="23665"/>
+      <edge id="47993" source="23778" target="23842"/>
+      <edge id="47994" source="23778" target="23673"/>
+      <edge id="47995" source="23778" target="23782"/>
+      <edge id="47996" source="23809" target="23649"/>
+      <edge id="47997" source="23809" target="23583"/>
+      <edge id="47998" source="23809" target="23741"/>
+      <edge id="47999" source="23809" target="23853"/>
+      <edge id="48000" source="23809" target="23420"/>
+      <edge id="48001" source="23809" target="23602"/>
+      <edge id="48002" source="23809" target="23729"/>
+      <edge id="48003" source="23809" target="23554"/>
+      <edge id="48004" source="23809" target="23874"/>
+      <edge id="48005" source="23809" target="23671"/>
+      <edge id="48006" source="23809" target="23611"/>
+      <edge id="48007" source="23809" target="23812"/>
+      <edge id="48008" source="23809" target="23777"/>
+      <edge id="48009" source="23809" target="23689"/>
+      <edge id="48010" source="23809" target="23645"/>
+      <edge id="48011" source="23809" target="23451"/>
+      <edge id="48012" source="23809" target="23760"/>
+      <edge id="48013" source="23873" target="23666"/>
+      <edge id="48014" source="23874" target="23812"/>
+      <edge id="48015" source="23874" target="23741"/>
+      <edge id="48016" source="23492" target="23724"/>
+      <edge id="48017" source="23714" target="23774"/>
+      <edge id="48018" source="23714" target="23766"/>
+      <edge id="48019" source="23714" target="23790"/>
+      <edge id="48020" source="23714" target="23853"/>
+      <edge id="48021" source="23493" target="23863"/>
+      <edge id="48022" source="23433" target="23422"/>
+      <edge id="48023" source="23753" target="23650"/>
+      <edge id="48024" source="23753" target="23630"/>
+      <edge id="48025" source="23753" target="23628"/>
+      <edge id="48026" source="23753" target="23657"/>
+      <edge id="48027" source="23753" target="23507"/>
+      <edge id="48028" source="23753" target="23673"/>
+      <edge id="48029" source="23753" target="23466"/>
+      <edge id="48030" source="23753" target="23690"/>
+      <edge id="48031" source="23623" target="23723"/>
+      <edge id="48032" source="23623" target="23802"/>
+      <edge id="48033" source="23623" target="23853"/>
+      <edge id="48034" source="23623" target="23741"/>
+      <edge id="48035" source="23623" target="23874"/>
+      <edge id="48036" source="23623" target="23586"/>
+      <edge id="48037" source="23623" target="23812"/>
+      <edge id="48038" source="23623" target="23451"/>
+      <edge id="48039" source="23623" target="23508"/>
+    </edges>
+  </graph>
+</gexf>

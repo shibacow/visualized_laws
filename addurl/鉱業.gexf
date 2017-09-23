@@ -1,0 +1,1433 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
+  <meta lastmodified="2017-09-24">
+    <creator>Gephi 0.9</creator>
+    <description/>
+  </meta>
+  <graph defaultedgetype="directed" label="" mode="static" timeformat="double">
+    <attributes class="node" mode="static">
+      <attribute id="URI" title="URI" type="string"/>
+      <attribute id="modularity" title="Modularity" type="string"/>
+    </attributes>
+    <nodes>
+      <node id="15601" label="電子公告に関する登記事項を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F12001000050.html"/>
+        </attvalues>
+      </node>
+      <node id="15602" label="石油パイプライン事業の事業用施設の保安に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03803003001.html"/>
+        </attvalues>
+      </node>
+      <node id="15603" label="湖沼水質保全特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59HO061.html"/>
+        </attvalues>
+      </node>
+      <node id="15604" label="日本国と大韓民国との間の両国に隣接する大陸棚の南部の共同開発に関する協定の実施に伴う石油及び可燃性天然ガス資源の開発に関する特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53F03801000029.html"/>
+        </attvalues>
+      </node>
+      <node id="15605" label="独立行政法人石油天然ガス・金属鉱物資源機構法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO094.html"/>
+        </attvalues>
+      </node>
+      <node id="15606" label="労働災害防止団体法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39HO118.html"/>
+        </attvalues>
+      </node>
+      <node id="15607" label="水洗炭業者保証金規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33F03202006001.html"/>
+        </attvalues>
+      </node>
+      <node id="15608" label="砂利採取業者の登録等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43F03801000080.html"/>
+        </attvalues>
+      </node>
+      <node id="15609" label="首都圏近郊緑地保全法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42SE013.html"/>
+        </attvalues>
+      </node>
+      <node id="15610" label="会社法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17HO086.html"/>
+        </attvalues>
+      </node>
+      <node id="15611" label="地価税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F03401000031.html"/>
+        </attvalues>
+      </node>
+      <node id="15612" label="東南海・南海地震に係る地震防災対策の推進に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="15613" label="法人税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE097.html"/>
+        </attvalues>
+      </node>
+      <node id="15614" label="日本国と大韓民国との間の両国に隣接する大陸棚の南部の共同開発に関する協定の実施に伴う石油及び可燃性天然ガス資源の開発に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53HO081.html"/>
+        </attvalues>
+      </node>
+      <node id="15615" label="石油パイプライン事業の事業用施設の工事の計画、検査等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03804001001.html"/>
+        </attvalues>
+      </node>
+      <node id="15616" label="公害等調整委員会設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47HO052.html"/>
+        </attvalues>
+      </node>
+      <node id="15617" label="電気工事士法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35SE260.html"/>
+        </attvalues>
+      </node>
+      <node id="15618" label="鹿児島県大島郡十島村に関する鉱業法等の適用及びこれに伴う経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE105.html"/>
+        </attvalues>
+      </node>
+      <node id="15619" label="火取法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO149.html"/>
+        </attvalues>
+      </node>
+      <node id="15620" label="奄美群島の復帰に伴う通商産業省関係の法律の適用の暫定措置等に関する政令の施行に伴う鉱業権の設定の出願の手続等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28F03801000061.html"/>
+        </attvalues>
+      </node>
+      <node id="15621" label="鉱業法第六条の二の鉱物を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23SE413.html"/>
+        </attvalues>
+      </node>
+      <node id="15622" label="独立行政法人石油天然ガス・金属鉱物資源機構の業務運営並びに財務及び会計に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="15623" label="土地収用法">
+        <attvalues>
+          <attvalue for="modularity" value="土地"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO219.html"/>
+        </attvalues>
+      </node>
+      <node id="15624" label="鉱害賠償供託金配当令施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03202006001.html"/>
+        </attvalues>
+      </node>
+      <node id="15625" label="日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO027.html"/>
+        </attvalues>
+      </node>
+      <node id="15626" label="危険物の規制に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="消防"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34F03101000055.html"/>
+        </attvalues>
+      </node>
+      <node id="15627" label="化管法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE138.html"/>
+        </attvalues>
+      </node>
+      <node id="15628" label="鉱業等に係る土地利用の調整手続等に関する法律の施行等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F30501000002.html"/>
+        </attvalues>
+      </node>
+      <node id="15629" label="ダイオキシン類対策特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO105.html"/>
+        </attvalues>
+      </node>
+      <node id="15630" label="農地法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F00601000079.html"/>
+        </attvalues>
+      </node>
+      <node id="15631" label="石油石炭税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53SE132.html"/>
+        </attvalues>
+      </node>
+      <node id="15632" label="自然環境保全法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48F03101000062.html"/>
+        </attvalues>
+      </node>
+      <node id="15633" label="深海底鉱業暫定措置法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57HO064.html"/>
+        </attvalues>
+      </node>
+      <node id="15634" label="商品先物取引法">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO239.html"/>
+        </attvalues>
+      </node>
+      <node id="15635" label="鉱害賠償供託金配当令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE012.html"/>
+        </attvalues>
+      </node>
+      <node id="15636" label="消防法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="消防"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36F04301000006.html"/>
+        </attvalues>
+      </node>
+      <node id="15637" label="一般社団法人及び一般財団法人に関する法律等の施行に伴う経済産業省関係省令の整備に関する省令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F15001000082.html"/>
+        </attvalues>
+      </node>
+      <node id="15638" label="国土交通省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE255.html"/>
+        </attvalues>
+      </node>
+      <node id="15639" label="中央省庁等改革関係法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO160.html"/>
+        </attvalues>
+      </node>
+      <node id="15640" label="温泉法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23HO125.html"/>
+        </attvalues>
+      </node>
+      <node id="15641" label="特定水道利水障害の防止のための水道水源水域の水質の保全に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06HO009.html"/>
+        </attvalues>
+      </node>
+      <node id="15642" label="特定鉱業権関係登録令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53SE382.html"/>
+        </attvalues>
+      </node>
+      <node id="15643" label="土壌汚染防止法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45HO139.html"/>
+        </attvalues>
+      </node>
+      <node id="15644" label="技術研究組合法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21SE158.html"/>
+        </attvalues>
+      </node>
+      <node id="15645" label="採石法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46SE279.html"/>
+        </attvalues>
+      </node>
+      <node id="15646" label="じん肺法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35HO030.html"/>
+        </attvalues>
+      </node>
+      <node id="15647" label="鉱業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03801000002.html"/>
+        </attvalues>
+      </node>
+      <node id="15648" label="鹿児島県大島郡十島村の区域に関する法令の適用の経過措置に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE446.html"/>
+        </attvalues>
+      </node>
+      <node id="15649" label="土壌汚染対策法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F18001000029.html"/>
+        </attvalues>
+      </node>
+      <node id="15650" label="金属鉱業等鉱害対策特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48F03801000060.html"/>
+        </attvalues>
+      </node>
+      <node id="15651" label="小規模企業者等設備導入資金助成法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="15652" label="沖縄総合事務局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F10001000004.html"/>
+        </attvalues>
+      </node>
+      <node id="15653" label="奄美群島の復帰に伴う通商産業省関係の法律の適用の暫定措置等に関する政令の施行に伴う金属鉱山等保安規則等の特別措置に関する省令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28F03801000062.html"/>
+        </attvalues>
+      </node>
+      <node id="15654" label="水洗炭業に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33F03801000086.html"/>
+        </attvalues>
+      </node>
+      <node id="15655" label="石油パイプライン事業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE437.html"/>
+        </attvalues>
+      </node>
+      <node id="15656" label="沖縄の復帰に伴う公害保安関係法令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03801000050.html"/>
+        </attvalues>
+      </node>
+      <node id="15657" label="土壌汚染対策法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14SE336.html"/>
+        </attvalues>
+      </node>
+      <node id="15658" label="登録免許税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42SE146.html"/>
+        </attvalues>
+      </node>
+      <node id="15659" label="大規模地震対策特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53HO073.html"/>
+        </attvalues>
+      </node>
+      <node id="15660" label="鉱業抵当法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/M38/M38HO055.html"/>
+        </attvalues>
+      </node>
+      <node id="15661" label="鉱業法関係手数料令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26SE016.html"/>
+        </attvalues>
+      </node>
+      <node id="15662" label="住民基本台帳法別表第一から別表第五までの総務省令で定める事務を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="15663" label="水洗炭業に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO134.html"/>
+        </attvalues>
+      </node>
+      <node id="15664" label="労働安全衛生法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47HO057.html"/>
+        </attvalues>
+      </node>
+      <node id="15665" label="日本国と大韓民国との間の両国に隣接する大陸棚の南部の共同開発に関する協定の実施に伴う石油及び可燃性天然ガス資源の開発に関する特別措置法の施行に伴う鉱山保安法に基づく省令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53F03801000070.html"/>
+        </attvalues>
+      </node>
+      <node id="15666" label="深海底鉱業暫定措置法関係手数料令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57SE199.html"/>
+        </attvalues>
+      </node>
+      <node id="15667" label="石油コンビナート等災害防止法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51SE129.html"/>
+        </attvalues>
+      </node>
+      <node id="15668" label="公益通報者保護法別表第八号の法律を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE146.html"/>
+        </attvalues>
+      </node>
+      <node id="15669" label="一般高圧ガス保安規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F03801000053.html"/>
+        </attvalues>
+      </node>
+      <node id="15670" label="独立行政法人農業者年金基金法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F17001000095.html"/>
+        </attvalues>
+      </node>
+      <node id="15671" label="労働安全衛生規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F04101000032.html"/>
+        </attvalues>
+      </node>
+      <node id="15672" label="石油パイプライン事業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03803002001.html"/>
+        </attvalues>
+      </node>
+      <node id="15673" label="会社計算規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F12001000013.html"/>
+        </attvalues>
+      </node>
+      <node id="15674" label="奄美群島の復帰に伴う通商産業省関係の法律の適用の暫定措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE412.html"/>
+        </attvalues>
+      </node>
+      <node id="15675" label="国有資産等所在市町村交付金法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31HO082.html"/>
+        </attvalues>
+      </node>
+      <node id="15676" label="ガス事業法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO051.html"/>
+        </attvalues>
+      </node>
+      <node id="15677" label="鉱業上使用する工作物等の技術基準を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F15001000097.html"/>
+        </attvalues>
+      </node>
+      <node id="15678" label="砂利採取法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43HO074.html"/>
+        </attvalues>
+      </node>
+      <node id="15679" label="河川法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="河川"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE014.html"/>
+        </attvalues>
+      </node>
+      <node id="15680" label="炭鉱災害による一酸化炭素中毒症に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42HO092.html"/>
+        </attvalues>
+      </node>
+      <node id="15681" label="海洋水産資源開発促進法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46SE205.html"/>
+        </attvalues>
+      </node>
+      <node id="15682" label="所得税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40HO033.html"/>
+        </attvalues>
+      </node>
+      <node id="15683" label="森林法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="林業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F00601000054.html"/>
+        </attvalues>
+      </node>
+      <node id="15684" label="石油パイプライン事業の業務の監督に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03802001005.html"/>
+        </attvalues>
+      </node>
+      <node id="15685" label="液化石油ガス保安規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F03801000052.html"/>
+        </attvalues>
+      </node>
+      <node id="15686" label="深海底鉱業暫定措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03801000034.html"/>
+        </attvalues>
+      </node>
+      <node id="15687" label="大気汚染防止法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43HO097.html"/>
+        </attvalues>
+      </node>
+      <node id="15688" label="登録免許税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42HO035.html"/>
+        </attvalues>
+      </node>
+      <node id="15689" label="水質汚濁防止法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45HO138.html"/>
+        </attvalues>
+      </node>
+      <node id="15690" label="東南海・南海地震に係る地震防災対策の推進に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="15691" label="沖縄の復帰に伴う鉱業関係法令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03801000054.html"/>
+        </attvalues>
+      </node>
+      <node id="15692" label="海岸法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31SE332.html"/>
+        </attvalues>
+      </node>
+      <node id="15693" label="原子力基本法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30HO186.html"/>
+        </attvalues>
+      </node>
+      <node id="15694" label="日本国と大韓民国との間の両国に隣接する大陸棚の南部の共同開発に関する協定の実施に伴う石油及び可燃性天然ガス資源の開発に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53SE248.html"/>
+        </attvalues>
+      </node>
+      <node id="15695" label="種の保存法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H05/H05F03101000009.html"/>
+        </attvalues>
+      </node>
+      <node id="15696" label="北海道開発局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F16001000022.html"/>
+        </attvalues>
+      </node>
+      <node id="15697" label="鉱業登録令施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03801000004.html"/>
+        </attvalues>
+      </node>
+      <node id="15698" label="高年齢者雇用安定法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46F04101000024.html"/>
+        </attvalues>
+      </node>
+      <node id="15699" label="公害等調整委員会事務局組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE236.html"/>
+        </attvalues>
+      </node>
+      <node id="15700" label="鉱業等に係る土地利用の調整手続等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO292.html"/>
+        </attvalues>
+      </node>
+      <node id="15701" label="道路法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="道路"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27SE479.html"/>
+        </attvalues>
+      </node>
+      <node id="15702" label="新不動産登記法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO123.html"/>
+        </attvalues>
+      </node>
+      <node id="15703" label="下水道法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="厚生"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34SE147.html"/>
+        </attvalues>
+      </node>
+      <node id="15704" label="振動規制法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51HO064.html"/>
+        </attvalues>
+      </node>
+      <node id="15705" label="砂利の採取計画等に関する規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43F03802004001.html"/>
+        </attvalues>
+      </node>
+      <node id="15706" label="沖縄の復帰に伴う通商産業省関係法令の適用の特別措置等に関する政令　抄">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE110.html"/>
+        </attvalues>
+      </node>
+      <node id="15707" label="都市計画法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44F04201000049.html"/>
+        </attvalues>
+      </node>
+      <node id="15708" label="石炭鉱業年金基金法">
+        <attvalues>
+          <attvalue for="modularity" value="社会保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42HO135.html"/>
+        </attvalues>
+      </node>
+      <node id="15709" label="労働安全衛生法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE318.html"/>
+        </attvalues>
+      </node>
+      <node id="15710" label="採石法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO291.html"/>
+        </attvalues>
+      </node>
+      <node id="15711" label="国土交通省関係地域における歴史的風致の維持及び向上に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F16001000091.html"/>
+        </attvalues>
+      </node>
+      <node id="15712" label="小笠原諸島の復帰に伴う法令の適用の暫定措置等に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="憲法"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43HO083.html"/>
+        </attvalues>
+      </node>
+      <node id="15713" label="技術研究組合法に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政手続"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F11008036001.html"/>
+        </attvalues>
+      </node>
+      <node id="15714" label="鉱業法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO289.html"/>
+        </attvalues>
+      </node>
+      <node id="15715" label="資産流動化法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="金融・保険"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE479.html"/>
+        </attvalues>
+      </node>
+      <node id="15716" label="金属鉱業等鉱害対策特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48HO026.html"/>
+        </attvalues>
+      </node>
+      <node id="15717" label="瀬戸内海環境保全特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48HO110.html"/>
+        </attvalues>
+      </node>
+      <node id="15718" label="経済産業省組織令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE254.html"/>
+        </attvalues>
+      </node>
+      <node id="15719" label="都市緑地法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49SE003.html"/>
+        </attvalues>
+      </node>
+      <node id="15720" label="文化財保護法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="文化"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50SE267.html"/>
+        </attvalues>
+      </node>
+      <node id="15721" label="大規模地震対策特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53SE385.html"/>
+        </attvalues>
+      </node>
+      <node id="15722" label="地すべり等防止法">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO030.html"/>
+        </attvalues>
+      </node>
+      <node id="15723" label="電気事業及び石炭鉱業における争議行為の方法の規制に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO171.html"/>
+        </attvalues>
+      </node>
+      <node id="15724" label="特定放射性廃棄物の最終処分に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12HO117.html"/>
+        </attvalues>
+      </node>
+      <node id="15725" label="法人税法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40HO034.html"/>
+        </attvalues>
+      </node>
+      <node id="15726" label="特定鉱業権関係登録令施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53F03801000069.html"/>
+        </attvalues>
+      </node>
+      <node id="15727" label="経済産業省設置法">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO099.html"/>
+        </attvalues>
+      </node>
+      <node id="15728" label="民事調停法">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO222.html"/>
+        </attvalues>
+      </node>
+      <node id="15729" label="鉱業等に係る土地利用の調整手続等に関する法律第四十七条の規定により鑑定人が受ける鑑定料の額を定める政令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26SE196.html"/>
+        </attvalues>
+      </node>
+      <node id="15730" label="鉱害賠償登録令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30SE027.html"/>
+        </attvalues>
+      </node>
+      <node id="15731" label="鉱山保安法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F15001000096.html"/>
+        </attvalues>
+      </node>
+      <node id="15732" label="登記事項証明書等の交付及び登記簿等の閲覧に係る業務の公共サービス実施民間事業者における実施等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19F12001000051.html"/>
+        </attvalues>
+      </node>
+      <node id="15733" label="石油パイプライン事業法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47HO105.html"/>
+        </attvalues>
+      </node>
+      <node id="15734" label="地方税法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03101000023.html"/>
+        </attvalues>
+      </node>
+      <node id="15735" label="騒音規制法">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43HO098.html"/>
+        </attvalues>
+      </node>
+      <node id="15736" label="海洋汚染等及び海上災害の防止に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46SE201.html"/>
+        </attvalues>
+      </node>
+      <node id="15737" label="特別会計に関する法律">
+        <attvalues>
+          <attvalue for="modularity" value="財務通則"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO023.html"/>
+        </attvalues>
+      </node>
+      <node id="15738" label="電気事業法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07F03801000077.html"/>
+        </attvalues>
+      </node>
+      <node id="15739" label="租税特別措置法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03401000015.html"/>
+        </attvalues>
+      </node>
+      <node id="15740" label="沖縄の復帰に伴う公益事業関係法令の適用の特別措置等に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03801000055.html"/>
+        </attvalues>
+      </node>
+      <node id="15741" label="砂利採取法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S43/S43SE241.html"/>
+        </attvalues>
+      </node>
+      <node id="15742" label="集落地域整備法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="農業"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="15743" label="火取法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F03801000088.html"/>
+        </attvalues>
+      </node>
+      <node id="15744" label="発電用火力設備に関する技術基準を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09F03801000051.html"/>
+        </attvalues>
+      </node>
+      <node id="15745" label="揮発油等の品質の確保等に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="商業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52F03801000024.html"/>
+        </attvalues>
+      </node>
+      <node id="15746" label="地方税法">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO226.html"/>
+        </attvalues>
+      </node>
+      <node id="15747" label="石油需給適正化法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F03801000001.html"/>
+        </attvalues>
+      </node>
+      <node id="15748" label="深海底鉱山保安規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F15001000022.html"/>
+        </attvalues>
+      </node>
+      <node id="15749" label="石油備蓄法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50HO096.html"/>
+        </attvalues>
+      </node>
+      <node id="15750" label="鉱害賠償登録規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30F03201000047.html"/>
+        </attvalues>
+      </node>
+      <node id="15751" label="採石法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26F03801000006.html"/>
+        </attvalues>
+      </node>
+      <node id="15752" label="日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE282.html"/>
+        </attvalues>
+      </node>
+      <node id="15753" label="地方整備局組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F16001000021.html"/>
+        </attvalues>
+      </node>
+      <node id="15754" label="日本国有鉄道改革法等施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="陸運"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S61/S61HO093.html"/>
+        </attvalues>
+      </node>
+      <node id="15755" label="鉱業登録令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26SE015.html"/>
+        </attvalues>
+      </node>
+      <node id="15756" label="所得税法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE096.html"/>
+        </attvalues>
+      </node>
+      <node id="15757" label="鉱業法施行法　抄">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO290.html"/>
+        </attvalues>
+      </node>
+      <node id="15758" label="経済産業省組織規則">
+        <attvalues>
+          <attvalue for="modularity" value="行政組織"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F15001000001.html"/>
+        </attvalues>
+      </node>
+      <node id="15759" label="技術研究組合法">
+        <attvalues>
+          <attvalue for="modularity" value="cat"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S36/S36HO081.html"/>
+        </attvalues>
+      </node>
+      <node id="15760" label="水質汚濁防止法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46F03102006002.html"/>
+        </attvalues>
+      </node>
+      <node id="15761" label="石油需給適正化法に基づく石油の使用の制限に関する省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F03407010001.html"/>
+        </attvalues>
+      </node>
+      <node id="15762" label="都市計画法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44SE158.html"/>
+        </attvalues>
+      </node>
+      <node id="15763" label="租税特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO026.html"/>
+        </attvalues>
+      </node>
+      <node id="15764" label="石油需給適正化法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48HO122.html"/>
+        </attvalues>
+      </node>
+      <node id="15765" label="石油備蓄法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51F03801000026.html"/>
+        </attvalues>
+      </node>
+      <node id="15766" label="高圧ガス保安法">
+        <attvalues>
+          <attvalue for="modularity" value="工業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO204.html"/>
+        </attvalues>
+      </node>
+      <node id="15767" label="地方公共団体の手数料の標準に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="地方財政"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE016.html"/>
+        </attvalues>
+      </node>
+      <node id="15768" label="建設業法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="建築・住宅"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S31/S31SE273.html"/>
+        </attvalues>
+      </node>
+      <node id="15769" label="公有地の拡大の推進に関する法律施行令">
+        <attvalues>
+          <attvalue for="modularity" value="土地"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE284.html"/>
+        </attvalues>
+      </node>
+      <node id="15770" label="石油製品需給動態統計調査規則">
+        <attvalues>
+          <attvalue for="modularity" value="統計"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H20/H20F15001000007.html"/>
+        </attvalues>
+      </node>
+      <node id="15771" label="密集市街地における防災街区の整備の促進に関する法律施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="都市計画"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H09/H09F04201000015.html"/>
+        </attvalues>
+      </node>
+      <node id="15772" label="水産資源保護法">
+        <attvalues>
+          <attvalue for="modularity" value="水産業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S26/S26HO313.html"/>
+        </attvalues>
+      </node>
+      <node id="15773" label="沖縄の復帰に伴う鉱業等に係る土地利用の調整手続等に関する法律の適用の特別措置に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE093.html"/>
+        </attvalues>
+      </node>
+      <node id="15774" label="産業活力の再生及び産業活動の革新に関する特別措置法">
+        <attvalues>
+          <attvalue for="modularity" value="産業通則"/>
+          <attvalue for="URI" value=""/>
+        </attvalues>
+      </node>
+      <node id="15775" label="沖縄の復帰に伴う警察庁関係法令の適用の特別措置等に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="警察"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE099.html"/>
+        </attvalues>
+      </node>
+      <node id="15776" label="租税特別措置法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="国税"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE043.html"/>
+        </attvalues>
+      </node>
+      <node id="15777" label="粉じん障害防止規則">
+        <attvalues>
+          <attvalue for="modularity" value="労働"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S54/S54F04101000018.html"/>
+        </attvalues>
+      </node>
+      <node id="15778" label="危険物の規制に関する政令">
+        <attvalues>
+          <attvalue for="modularity" value="消防"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34SE306.html"/>
+        </attvalues>
+      </node>
+      <node id="15779" label="化管法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="環境保全"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F10008120001.html"/>
+        </attvalues>
+      </node>
+      <node id="15780" label="がけ崩れ防止法施行令">
+        <attvalues>
+          <attvalue for="modularity" value="災害対策"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S44/S44SE206.html"/>
+        </attvalues>
+      </node>
+      <node id="15781" label="石油パイプライン事業の事業用施設の技術上の基準を定める省令">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47F03804001002.html"/>
+        </attvalues>
+      </node>
+      <node id="15782" label="技術研究組合法施行規則">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F11008036002.html"/>
+        </attvalues>
+      </node>
+      <node id="15783" label="鉱山保安法">
+        <attvalues>
+          <attvalue for="modularity" value="鉱業"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24HO070.html"/>
+        </attvalues>
+      </node>
+      <node id="15784" label="不動産登記規則">
+        <attvalues>
+          <attvalue for="modularity" value="民事"/>
+          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F12001000018.html"/>
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="27853" source="15642" target="15726"/>
+      <edge id="27854" source="15642" target="15715"/>
+      <edge id="27855" source="15757" target="15618"/>
+      <edge id="27856" source="15757" target="15674"/>
+      <edge id="27857" source="15757" target="15639"/>
+      <edge id="27858" source="15697" target="15691"/>
+      <edge id="27859" source="15697" target="15726"/>
+      <edge id="27860" source="15644" target="15782"/>
+      <edge id="27861" source="15700" target="15616"/>
+      <edge id="27862" source="15700" target="15628"/>
+      <edge id="27863" source="15700" target="15773"/>
+      <edge id="27864" source="15700" target="15729"/>
+      <edge id="27865" source="15700" target="15639"/>
+      <edge id="27866" source="15647" target="15731"/>
+      <edge id="27867" source="15647" target="15620"/>
+      <edge id="27868" source="15647" target="15697"/>
+      <edge id="27869" source="15647" target="15628"/>
+      <edge id="27870" source="15647" target="15650"/>
+      <edge id="27871" source="15647" target="15691"/>
+      <edge id="27872" source="15647" target="15608"/>
+      <edge id="27873" source="15733" target="15602"/>
+      <edge id="27874" source="15733" target="15742"/>
+      <edge id="27875" source="15733" target="15683"/>
+      <edge id="27876" source="15733" target="15701"/>
+      <edge id="27877" source="15733" target="15721"/>
+      <edge id="27878" source="15733" target="15707"/>
+      <edge id="27879" source="15733" target="15655"/>
+      <edge id="27880" source="15733" target="15771"/>
+      <edge id="27881" source="15733" target="15609"/>
+      <edge id="27882" source="15733" target="15658"/>
+      <edge id="27883" source="15733" target="15659"/>
+      <edge id="27884" source="15733" target="15612"/>
+      <edge id="27885" source="15733" target="15754"/>
+      <edge id="27886" source="15733" target="15719"/>
+      <edge id="27887" source="15733" target="15639"/>
+      <edge id="27888" source="15733" target="15623"/>
+      <edge id="27889" source="15733" target="15762"/>
+      <edge id="27890" source="15733" target="15615"/>
+      <edge id="27891" source="15733" target="15765"/>
+      <edge id="27892" source="15733" target="15668"/>
+      <edge id="27893" source="15733" target="15672"/>
+      <edge id="27894" source="15733" target="15768"/>
+      <edge id="27895" source="15733" target="15625"/>
+      <edge id="27896" source="15733" target="15752"/>
+      <edge id="27897" source="15733" target="15778"/>
+      <edge id="27898" source="15733" target="15781"/>
+      <edge id="27899" source="15733" target="15711"/>
+      <edge id="27900" source="15733" target="15684"/>
+      <edge id="27901" source="15733" target="15690"/>
+      <edge id="27902" source="15650" target="15637"/>
+      <edge id="27903" source="15650" target="15731"/>
+      <edge id="27904" source="15706" target="15656"/>
+      <edge id="27905" source="15706" target="15775"/>
+      <edge id="27906" source="15706" target="15740"/>
+      <edge id="27907" source="15706" target="15691"/>
+      <edge id="27908" source="15749" target="15668"/>
+      <edge id="27909" source="15749" target="15611"/>
+      <edge id="27910" source="15749" target="15662"/>
+      <edge id="27911" source="15749" target="15718"/>
+      <edge id="27912" source="15749" target="15631"/>
+      <edge id="27913" source="15749" target="15770"/>
+      <edge id="27914" source="15749" target="15737"/>
+      <edge id="27915" source="15749" target="15675"/>
+      <edge id="27916" source="15749" target="15605"/>
+      <edge id="27917" source="15749" target="15727"/>
+      <edge id="27918" source="15749" target="15734"/>
+      <edge id="27919" source="15749" target="15764"/>
+      <edge id="27920" source="15749" target="15765"/>
+      <edge id="27921" source="15655" target="15615"/>
+      <edge id="27922" source="15750" target="15784"/>
+      <edge id="27923" source="15751" target="15628"/>
+      <edge id="27924" source="15751" target="15608"/>
+      <edge id="27925" source="15710" target="15695"/>
+      <edge id="27926" source="15710" target="15645"/>
+      <edge id="27927" source="15710" target="15700"/>
+      <edge id="27928" source="15710" target="15702"/>
+      <edge id="27929" source="15710" target="15706"/>
+      <edge id="27930" source="15710" target="15608"/>
+      <edge id="27931" source="15710" target="15751"/>
+      <edge id="27932" source="15710" target="15709"/>
+      <edge id="27933" source="15710" target="15756"/>
+      <edge id="27934" source="15710" target="15613"/>
+      <edge id="27935" source="15710" target="15758"/>
+      <edge id="27936" source="15710" target="15639"/>
+      <edge id="27937" source="15710" target="15720"/>
+      <edge id="27938" source="15710" target="15668"/>
+      <edge id="27939" source="15710" target="15671"/>
+      <edge id="27940" source="15710" target="15699"/>
+      <edge id="27941" source="15710" target="15725"/>
+      <edge id="27942" source="15710" target="15628"/>
+      <edge id="27943" source="15710" target="15776"/>
+      <edge id="27944" source="15710" target="15777"/>
+      <edge id="27945" source="15710" target="15678"/>
+      <edge id="27946" source="15710" target="15780"/>
+      <edge id="27947" source="15710" target="15682"/>
+      <edge id="27948" source="15710" target="15739"/>
+      <edge id="27949" source="15714" target="15693"/>
+      <edge id="27950" source="15714" target="15694"/>
+      <edge id="27951" source="15714" target="15757"/>
+      <edge id="27952" source="15714" target="15697"/>
+      <edge id="27953" source="15714" target="15681"/>
+      <edge id="27954" source="15714" target="15604"/>
+      <edge id="27955" source="15714" target="15699"/>
+      <edge id="27956" source="15714" target="15700"/>
+      <edge id="27957" source="15714" target="15746"/>
+      <edge id="27958" source="15714" target="15647"/>
+      <edge id="27959" source="15714" target="15642"/>
+      <edge id="27960" source="15714" target="15650"/>
+      <edge id="27961" source="15714" target="15632"/>
+      <edge id="27962" source="15714" target="15652"/>
+      <edge id="27963" source="15714" target="15706"/>
+      <edge id="27964" source="15714" target="15608"/>
+      <edge id="27965" source="15714" target="15708"/>
+      <edge id="27966" source="15714" target="15613"/>
+      <edge id="27967" source="15714" target="15751"/>
+      <edge id="27968" source="15714" target="15710"/>
+      <edge id="27969" source="15714" target="15763"/>
+      <edge id="27970" source="15714" target="15712"/>
+      <edge id="27971" source="15714" target="15660"/>
+      <edge id="27972" source="15714" target="15698"/>
+      <edge id="27973" source="15714" target="15606"/>
+      <edge id="27974" source="15714" target="15756"/>
+      <edge id="27975" source="15714" target="15661"/>
+      <edge id="27976" source="15714" target="15716"/>
+      <edge id="27977" source="15714" target="15758"/>
+      <edge id="27978" source="15714" target="15614"/>
+      <edge id="27979" source="15714" target="15663"/>
+      <edge id="27980" source="15714" target="15619"/>
+      <edge id="27981" source="15714" target="15727"/>
+      <edge id="27982" source="15714" target="15616"/>
+      <edge id="27983" source="15714" target="15674"/>
+      <edge id="27984" source="15714" target="15668"/>
+      <edge id="27985" source="15714" target="15618"/>
+      <edge id="27986" source="15714" target="15665"/>
+      <edge id="27987" source="15714" target="15620"/>
+      <edge id="27988" source="15714" target="15621"/>
+      <edge id="27989" source="15714" target="15662"/>
+      <edge id="27990" source="15714" target="15769"/>
+      <edge id="27991" source="15714" target="15624"/>
+      <edge id="27992" source="15714" target="15724"/>
+      <edge id="27993" source="15714" target="15688"/>
+      <edge id="27994" source="15714" target="15725"/>
+      <edge id="27995" source="15714" target="15730"/>
+      <edge id="27996" source="15714" target="15628"/>
+      <edge id="27997" source="15714" target="15692"/>
+      <edge id="27998" source="15714" target="15726"/>
+      <edge id="27999" source="15714" target="15630"/>
+      <edge id="28000" source="15714" target="15728"/>
+      <edge id="28001" source="15714" target="15776"/>
+      <edge id="28002" source="15714" target="15731"/>
+      <edge id="28003" source="15714" target="15739"/>
+      <edge id="28004" source="15714" target="15633"/>
+      <edge id="28005" source="15714" target="15780"/>
+      <edge id="28006" source="15714" target="15678"/>
+      <edge id="28007" source="15714" target="15695"/>
+      <edge id="28008" source="15714" target="15635"/>
+      <edge id="28009" source="15714" target="15634"/>
+      <edge id="28010" source="15714" target="15682"/>
+      <edge id="28011" source="15714" target="15755"/>
+      <edge id="28012" source="15714" target="15686"/>
+      <edge id="28013" source="15714" target="15687"/>
+      <edge id="28014" source="15714" target="15783"/>
+      <edge id="28015" source="15714" target="15689"/>
+      <edge id="28016" source="15714" target="15639"/>
+      <edge id="28017" source="15661" target="15647"/>
+      <edge id="28018" source="15716" target="15668"/>
+      <edge id="28019" source="15716" target="15731"/>
+      <edge id="28020" source="15716" target="15622"/>
+      <edge id="28021" source="15716" target="15763"/>
+      <edge id="28022" source="15716" target="15755"/>
+      <edge id="28023" source="15716" target="15650"/>
+      <edge id="28024" source="15716" target="15639"/>
+      <edge id="28025" source="15716" target="15605"/>
+      <edge id="28026" source="15716" target="15783"/>
+      <edge id="28027" source="15716" target="15776"/>
+      <edge id="28028" source="15614" target="15694"/>
+      <edge id="28029" source="15614" target="15665"/>
+      <edge id="28030" source="15614" target="15604"/>
+      <edge id="28031" source="15614" target="15642"/>
+      <edge id="28032" source="15614" target="15726"/>
+      <edge id="28033" source="15614" target="15639"/>
+      <edge id="28034" source="15663" target="15689"/>
+      <edge id="28035" source="15663" target="15668"/>
+      <edge id="28036" source="15663" target="15654"/>
+      <edge id="28037" source="15663" target="15607"/>
+      <edge id="28038" source="15663" target="15639"/>
+      <edge id="28039" source="15759" target="15601"/>
+      <edge id="28040" source="15759" target="15668"/>
+      <edge id="28041" source="15759" target="15610"/>
+      <edge id="28042" source="15759" target="15713"/>
+      <edge id="28043" source="15759" target="15644"/>
+      <edge id="28044" source="15759" target="15718"/>
+      <edge id="28045" source="15759" target="15763"/>
+      <edge id="28046" source="15759" target="15782"/>
+      <edge id="28047" source="15759" target="15639"/>
+      <edge id="28048" source="15759" target="15673"/>
+      <edge id="28049" source="15759" target="15774"/>
+      <edge id="28050" source="15759" target="15776"/>
+      <edge id="28051" source="15764" target="15668"/>
+      <edge id="28052" source="15764" target="15761"/>
+      <edge id="28053" source="15764" target="15639"/>
+      <edge id="28054" source="15764" target="15747"/>
+      <edge id="28055" source="15764" target="15727"/>
+      <edge id="28056" source="15764" target="15749"/>
+      <edge id="28057" source="15618" target="15648"/>
+      <edge id="28058" source="15674" target="15653"/>
+      <edge id="28059" source="15674" target="15620"/>
+      <edge id="28060" source="15633" target="15686"/>
+      <edge id="28061" source="15633" target="15662"/>
+      <edge id="28062" source="15633" target="15748"/>
+      <edge id="28063" source="15633" target="15639"/>
+      <edge id="28064" source="15633" target="15783"/>
+      <edge id="28065" source="15633" target="15666"/>
+      <edge id="28066" source="15677" target="15748"/>
+      <edge id="28067" source="15677" target="15650"/>
+      <edge id="28068" source="15677" target="15611"/>
+      <edge id="28069" source="15730" target="15784"/>
+      <edge id="28070" source="15730" target="15750"/>
+      <edge id="28071" source="15730" target="15732"/>
+      <edge id="28072" source="15731" target="15677"/>
+      <edge id="28073" source="15731" target="15751"/>
+      <edge id="28074" source="15731" target="15779"/>
+      <edge id="28075" source="15731" target="15611"/>
+      <edge id="28076" source="15731" target="15743"/>
+      <edge id="28077" source="15731" target="15745"/>
+      <edge id="28078" source="15731" target="15748"/>
+      <edge id="28079" source="15731" target="15650"/>
+      <edge id="28080" source="15731" target="15665"/>
+      <edge id="28081" source="15731" target="15738"/>
+      <edge id="28082" source="15678" target="15780"/>
+      <edge id="28083" source="15678" target="15710"/>
+      <edge id="28084" source="15678" target="15753"/>
+      <edge id="28085" source="15678" target="15679"/>
+      <edge id="28086" source="15678" target="15696"/>
+      <edge id="28087" source="15678" target="15695"/>
+      <edge id="28088" source="15678" target="15700"/>
+      <edge id="28089" source="15678" target="15767"/>
+      <edge id="28090" source="15678" target="15670"/>
+      <edge id="28091" source="15678" target="15772"/>
+      <edge id="28092" source="15678" target="15639"/>
+      <edge id="28093" source="15678" target="15652"/>
+      <edge id="28094" source="15678" target="15705"/>
+      <edge id="28095" source="15678" target="15720"/>
+      <edge id="28096" source="15678" target="15741"/>
+      <edge id="28097" source="15678" target="15638"/>
+      <edge id="28098" source="15678" target="15706"/>
+      <edge id="28099" source="15678" target="15608"/>
+      <edge id="28100" source="15635" target="15624"/>
+      <edge id="28101" source="15755" target="15642"/>
+      <edge id="28102" source="15755" target="15697"/>
+      <edge id="28103" source="15755" target="15715"/>
+      <edge id="28104" source="15755" target="15661"/>
+      <edge id="28105" source="15755" target="15726"/>
+      <edge id="28106" source="15755" target="15706"/>
+      <edge id="28107" source="15783" target="15640"/>
+      <edge id="28108" source="15783" target="15641"/>
+      <edge id="28109" source="15783" target="15643"/>
+      <edge id="28110" source="15783" target="15757"/>
+      <edge id="28111" source="15783" target="15685"/>
+      <edge id="28112" source="15783" target="15603"/>
+      <edge id="28113" source="15783" target="15629"/>
+      <edge id="28114" source="15783" target="15646"/>
+      <edge id="28115" source="15783" target="15703"/>
+      <edge id="28116" source="15783" target="15748"/>
+      <edge id="28117" source="15783" target="15649"/>
+      <edge id="28118" source="15783" target="15650"/>
+      <edge id="28119" source="15783" target="15651"/>
+      <edge id="28120" source="15783" target="15653"/>
+      <edge id="28121" source="15783" target="15706"/>
+      <edge id="28122" source="15783" target="15656"/>
+      <edge id="28123" source="15783" target="15752"/>
+      <edge id="28124" source="15783" target="15779"/>
+      <edge id="28125" source="15783" target="15611"/>
+      <edge id="28126" source="15783" target="15714"/>
+      <edge id="28127" source="15783" target="15606"/>
+      <edge id="28128" source="15783" target="15716"/>
+      <edge id="28129" source="15783" target="15717"/>
+      <edge id="28130" source="15783" target="15614"/>
+      <edge id="28131" source="15783" target="15664"/>
+      <edge id="28132" source="15783" target="15619"/>
+      <edge id="28133" source="15783" target="15744"/>
+      <edge id="28134" source="15783" target="15721"/>
+      <edge id="28135" source="15783" target="15617"/>
+      <edge id="28136" source="15783" target="15667"/>
+      <edge id="28137" source="15783" target="15766"/>
+      <edge id="28138" source="15783" target="15668"/>
+      <edge id="28139" source="15783" target="15669"/>
+      <edge id="28140" source="15783" target="15665"/>
+      <edge id="28141" source="15783" target="15722"/>
+      <edge id="28142" source="15783" target="15723"/>
+      <edge id="28143" source="15783" target="15674"/>
+      <edge id="28144" source="15783" target="15626"/>
+      <edge id="28145" source="15783" target="15627"/>
+      <edge id="28146" source="15783" target="15692"/>
+      <edge id="28147" source="15783" target="15704"/>
+      <edge id="28148" source="15783" target="15657"/>
+      <edge id="28149" source="15783" target="15676"/>
+      <edge id="28150" source="15783" target="15760"/>
+      <edge id="28151" source="15783" target="15677"/>
+      <edge id="28152" source="15783" target="15633"/>
+      <edge id="28153" source="15783" target="15731"/>
+      <edge id="28154" source="15783" target="15780"/>
+      <edge id="28155" source="15783" target="15680"/>
+      <edge id="28156" source="15783" target="15736"/>
+      <edge id="28157" source="15783" target="15746"/>
+      <edge id="28158" source="15783" target="15735"/>
+      <edge id="28159" source="15783" target="15738"/>
+      <edge id="28160" source="15783" target="15636"/>
+      <edge id="28161" source="15783" target="15687"/>
+      <edge id="28162" source="15783" target="15689"/>
+      <edge id="28163" source="15783" target="15690"/>
+      <edge id="28164" source="15783" target="15639"/>
+    </edges>
+  </graph>
+</gexf>
