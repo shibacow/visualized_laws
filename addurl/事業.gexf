@@ -1,400 +1,503 @@
-<?xml version='1.0' encoding='utf-8'?>
-<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
-  <meta lastmodified="2017-09-24">
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://www.gexf.net/1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.3" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-05-08">
     <creator>Gephi 0.9</creator>
-    <description/>
+    <description />
   </meta>
-  <graph defaultedgetype="directed" label="" mode="static" timeformat="double">
+  <graph defaultedgetype="directed" idtype="integer" mode="static">
     <attributes class="node" mode="static">
-      <attribute id="URI" title="URI" type="string"/>
-      <attribute id="modularity" title="Modularity" type="string"/>
+      <attribute id="modularity" title="Modularity" type="string" />
     </attributes>
     <nodes>
-      <node id="20452" label="日本国における国際連合の軍隊の地位に関する協定の実施に伴う所得税法等の臨時特例に関する法律">
+      <node id="20452" label="日本国における国際連合の軍隊の地位に関する協定の実施に伴う所得税法等の臨時特例に関する法律" url="http://law.e-gov.go.jp/htmldata/S29/S29HO149.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO149.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="12.0" />
+        <viz:position x="68.49023" y="-27.053457" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20453" label="ＪＴ法">
+      <node id="20453" label="ＪＴ法" url="http://law.e-gov.go.jp/htmldata/S59/S59HO069.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59HO069.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="26.0" />
+        <viz:position x="196.49376" y="219.92186" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20454" label="塩事業法施行規則">
+      <node id="20454" label="塩事業法施行規則" url="http://law.e-gov.go.jp/htmldata/H08/H08F03401000045.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08F03401000045.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="65.254875" y="158.37823" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20455" label="たばこ耕作組合法">
+      <node id="20455" label="たばこ耕作組合法" url="http://law.e-gov.go.jp/htmldata/S33/S33HO135.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO135.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="18.0" />
+        <viz:position x="276.3066" y="99.818214" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20456" label="昭和天皇の崩御に伴う予算執行職員等の弁償責任に基づく債務の免除に関する政令">
+      <node id="20456" label="昭和天皇の崩御に伴う予算執行職員等の弁償責任に基づく債務の免除に関する政令" url="http://law.e-gov.go.jp/htmldata/H01/H01SE030.html">
         <attvalues>
-          <attvalue for="modularity" value="国家公務員"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H01/H01SE030.html"/>
+          <attvalue for="modularity" value="国家公務員" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="317.51505" y="-31.824736" />
+        <viz:color b="83" g="219" r="180" />
       </node>
-      <node id="20457" label="地方税法">
+      <node id="20457" label="地方税法" url="http://law.e-gov.go.jp/htmldata/S25/S25HO226.html">
         <attvalues>
-          <attvalue for="modularity" value="地方財政"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25HO226.html"/>
+          <attvalue for="modularity" value="地方財政" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="147.95695" y="-140.64159" />
+        <viz:color b="83" g="83" r="219" />
       </node>
-      <node id="20458" label="昭和四十二年度以後における国家公務員等共済組合等からの年金の額の改定に関する法律">
+      <node id="20458" label="昭和四十二年度以後における国家公務員等共済組合等からの年金の額の改定に関する法律" url="http://law.e-gov.go.jp/htmldata/S42/S42HO104.html">
         <attvalues>
-          <attvalue for="modularity" value="国家公務員"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S42/S42HO104.html"/>
+          <attvalue for="modularity" value="国家公務員" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="172.73412" y="371.10724" />
+        <viz:color b="83" g="219" r="180" />
       </node>
-      <node id="20459" label="身障者福祉法">
+      <node id="20459" label="身障者福祉法" url="http://law.e-gov.go.jp/htmldata/S24/S24HO283.html">
         <attvalues>
-          <attvalue for="modularity" value="社会福祉"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S24/S24HO283.html"/>
+          <attvalue for="modularity" value="社会福祉" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="183.27997" y="-175.16817" />
+        <viz:color b="219" g="161" r="83" />
       </node>
-      <node id="20460" label="ＪＴ法施行令">
+      <node id="20460" label="ＪＴ法施行令" url="http://law.e-gov.go.jp/htmldata/S60/S60SE022.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60SE022.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="278.61752" y="355.58926" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20461" label="消費生活協同組合法施行規則">
+      <node id="20461" label="消費生活協同組合法施行規則" url="http://law.e-gov.go.jp/htmldata/S23/S23F03404001001.html">
         <attvalues>
-          <attvalue for="modularity" value="商業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S23/S23F03404001001.html"/>
+          <attvalue for="modularity" value="商業" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="225.26294" y="-109.17287" />
+        <viz:color b="102" g="219" r="83" />
       </node>
-      <node id="20462" label="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴うたばこ事業法等の臨時特例に関する法律">
+      <node id="20462" label="日本国とアメリカ合衆国との間の相互協力及び安全保障条約第六条に基づく施設及び区域並びに日本国における合衆国軍隊の地位に関する協定の実施に伴うたばこ事業法等の臨時特例に関する法律" url="http://law.e-gov.go.jp/htmldata/S27/S27HO114.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27HO114.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="12.0" />
+        <viz:position x="74.85523" y="8.539918" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20463" label="たばこ事業法施行規則">
+      <node id="20463" label="たばこ事業法施行規則" url="http://law.e-gov.go.jp/htmldata/S60/S60F03401000005.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F03401000005.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="14.0" />
+        <viz:position x="315.5609" y="95.699715" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20464" label="沖縄総合事務局組織規則">
+      <node id="20464" label="沖縄総合事務局組織規則" url="http://law.e-gov.go.jp/htmldata/H13/H13F10001000004.html">
         <attvalues>
-          <attvalue for="modularity" value="行政組織"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F10001000004.html"/>
+          <attvalue for="modularity" value="行政組織" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-302.40604" y="-337.56668" />
+        <viz:color b="219" g="102" r="83" />
       </node>
-      <node id="20465" label="日本アルコール産業株式会社法">
+      <node id="20465" label="日本アルコール産業株式会社法" url="http://law.e-gov.go.jp/htmldata/H17/H17HO032.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17HO032.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="-438.85428" y="-292.47787" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20466" label="特区法">
+      <node id="20466" label="特区法" url="http://law.e-gov.go.jp/htmldata/H14/H14HO189.html">
         <attvalues>
-          <attvalue for="modularity" value="地方自治"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14HO189.html"/>
+          <attvalue for="modularity" value="地方自治" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-305.05435" y="-281.2947" />
+        <viz:color b="83" g="200" r="219" />
       </node>
-      <node id="20467" label="塩事業法">
+      <node id="20467" label="塩事業法" url="http://law.e-gov.go.jp/htmldata/H08/H08HO039.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08HO039.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="24.0" />
+        <viz:position x="-32.25727" y="24.10427" />
+        <viz:color b="219" g="219" r="83" />
       </node>
-      <node id="20468" label="租税特別措置法">
+      <node id="20468" label="租税特別措置法" url="http://law.e-gov.go.jp/htmldata/S32/S32HO026.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO026.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="-173.04143" y="-81.99536" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20469" label="日本国有鉄道改革法等施行法　抄">
+      <node id="20469" label="日本国有鉄道改革法等施行法　抄" url="http://law.e-gov.go.jp/htmldata/S61/S61HO093.html">
         <attvalues>
-          <attvalue for="modularity" value="陸運"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S61/S61HO093.html"/>
+          <attvalue for="modularity" value="陸運" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="136.66447" y="-90.64237" />
+        <viz:color b="83" g="141" r="219" />
       </node>
-      <node id="20470" label="国税通則法">
+      <node id="20470" label="国税通則法" url="http://law.e-gov.go.jp/htmldata/S37/S37HO066.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S37/S37HO066.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="292.85516" y="-95.70989" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20471" label="所得税法施行令">
+      <node id="20471" label="所得税法施行令" url="http://law.e-gov.go.jp/htmldata/S40/S40SE096.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE096.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="202.3877" y="100.39992" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20472" label="法人税法施行令">
+      <node id="20472" label="法人税法施行令" url="http://law.e-gov.go.jp/htmldata/S40/S40SE097.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40SE097.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="232.18654" y="122.792725" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20473" label="住民基本台帳法別表第一から別表第五までの総務省令で定める事務を定める省令">
+      <node id="20473" label="住民基本台帳法別表第一から別表第五までの総務省令で定める事務を定める省令" url="">
         <attvalues>
-          <attvalue for="modularity" value="民事"/>
-          <attvalue for="URI" value=""/>
+          <attvalue for="modularity" value="民事" />
         </attvalues>
+        <viz:size value="12.0" />
+        <viz:position x="-39.068577" y="-86.89326" />
+        <viz:color b="161" g="219" r="83" />
       </node>
-      <node id="20474" label="経済産業省組織規則">
+      <node id="20474" label="経済産業省組織規則" url="http://law.e-gov.go.jp/htmldata/H13/H13F15001000001.html">
         <attvalues>
-          <attvalue for="modularity" value="行政組織"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F15001000001.html"/>
+          <attvalue for="modularity" value="行政組織" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-244.97586" y="-331.23077" />
+        <viz:color b="219" g="102" r="83" />
       </node>
-      <node id="20475" label="中央省庁等改革関係法施行法　抄">
+      <node id="20475" label="中央省庁等改革関係法施行法　抄" url="http://law.e-gov.go.jp/htmldata/H11/H11HO160.html">
         <attvalues>
-          <attvalue for="modularity" value="行政組織"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO160.html"/>
+          <attvalue for="modularity" value="行政組織" />
         </attvalues>
+        <viz:size value="14.0" />
+        <viz:position x="133.1811" y="86.55274" />
+        <viz:color b="219" g="102" r="83" />
       </node>
-      <node id="20476" label="経済産業省組織令">
+      <node id="20476" label="経済産業省組織令" url="http://law.e-gov.go.jp/htmldata/H12/H12SE254.html">
         <attvalues>
-          <attvalue for="modularity" value="行政組織"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE254.html"/>
+          <attvalue for="modularity" value="行政組織" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-356.4723" y="-307.0709" />
+        <viz:color b="219" g="102" r="83" />
       </node>
-      <node id="20477" label="母子及び寡婦福祉法">
+      <node id="20477" label="母子及び寡婦福祉法" url="">
         <attvalues>
-          <attvalue for="modularity" value="社会福祉"/>
-          <attvalue for="URI" value=""/>
+          <attvalue for="modularity" value="社会福祉" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="300.6897" y="-164.07123" />
+        <viz:color b="219" g="161" r="83" />
       </node>
-      <node id="20478" label="アルコール事業法施行令">
+      <node id="20478" label="アルコール事業法施行令" url="http://law.e-gov.go.jp/htmldata/H12/H12SE415.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE415.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="-400.3389" y="-217.63095" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20479" label="酒税法">
+      <node id="20479" label="酒税法" url="http://law.e-gov.go.jp/htmldata/S28/S28HO006.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28HO006.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-356.3103" y="-245.72823" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20480" label="日本アルコール産業株式会社法施行規則">
+      <node id="20480" label="日本アルコール産業株式会社法施行規則" url="http://law.e-gov.go.jp/htmldata/H18/H18F15001000012.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18F15001000012.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-559.9979" y="-348.93875" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20481" label="公益通報者保護法別表第八号の法律を定める政令">
+      <node id="20481" label="公益通報者保護法別表第八号の法律を定める政令" url="http://law.e-gov.go.jp/htmldata/H17/H17SE146.html">
         <attvalues>
-          <attvalue for="modularity" value="労働"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE146.html"/>
+          <attvalue for="modularity" value="労働" />
         </attvalues>
+        <viz:size value="12.0" />
+        <viz:position x="-28.801811" y="-108.82451" />
+        <viz:color b="200" g="83" r="219" />
       </node>
-      <node id="20482" label="アルコール事業法">
+      <node id="20482" label="アルコール事業法" url="http://law.e-gov.go.jp/htmldata/H12/H12HO036.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12HO036.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="30.0" />
+        <viz:position x="-258.57452" y="-203.97565" />
+        <viz:color b="219" g="219" r="83" />
       </node>
-      <node id="20483" label="アルコール事業法施行規則">
+      <node id="20483" label="アルコール事業法施行規則" url="http://law.e-gov.go.jp/htmldata/H12/H12F03801000209.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F03801000209.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="-385.68512" y="-180.51974" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20484" label="たばこ税法">
+      <node id="20484" label="たばこ税法" url="http://law.e-gov.go.jp/htmldata/S59/S59HO072.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59HO072.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="376.43246" y="-28.327179" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20485" label="ＪＴ法施行規則">
+      <node id="20485" label="ＪＴ法施行規則" url="http://law.e-gov.go.jp/htmldata/S60/S60F03401000018.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60F03401000018.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="248.94243" y="302.6415" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20486" label="沖縄の復帰に伴う特別措置に関する法律">
+      <node id="20486" label="沖縄の復帰に伴う特別措置に関する法律" url="http://law.e-gov.go.jp/htmldata/S46/S46HO129.html">
         <attvalues>
-          <attvalue for="modularity" value="憲法"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S46/S46HO129.html"/>
+          <attvalue for="modularity" value="憲法" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="223.90276" y="-183.79143" />
+        <viz:color b="83" g="219" r="122" />
       </node>
-      <node id="20487" label="たばこ事業法">
+      <node id="20487" label="たばこ事業法" url="http://law.e-gov.go.jp/htmldata/S59/S59HO068.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59HO068.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="60.0" />
+        <viz:position x="217.38701" y="-25.367111" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20488" label="中央省庁等改革のための財務省関係大蔵省令の整備等に関する省令">
+      <node id="20488" label="中央省庁等改革のための財務省関係大蔵省令の整備等に関する省令" url="http://law.e-gov.go.jp/htmldata/H12/H12F03401000069.html">
         <attvalues>
-          <attvalue for="modularity" value="行政組織"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F03401000069.html"/>
+          <attvalue for="modularity" value="行政組織" />
         </attvalues>
+        <viz:size value="14.0" />
+        <viz:position x="235.24632" y="210.55806" />
+        <viz:color b="219" g="102" r="83" />
       </node>
-      <node id="20489" label="財政制度等審議会令">
+      <node id="20489" label="財政制度等審議会令" url="http://law.e-gov.go.jp/htmldata/H12/H12SE275.html">
         <attvalues>
-          <attvalue for="modularity" value="行政組織"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12SE275.html"/>
+          <attvalue for="modularity" value="行政組織" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="557.3357" y="55.237976" />
+        <viz:color b="219" g="102" r="83" />
       </node>
-      <node id="20490" label="税関職員の身分を示す証票等の書式に関する省令">
+      <node id="20490" label="税関職員の身分を示す証票等の書式に関する省令" url="http://law.e-gov.go.jp/htmldata/S29/S29F03401000064.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03401000064.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="338.83203" y="-146.97978" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20491" label="租税特別措置法施行令">
+      <node id="20491" label="租税特別措置法施行令" url="http://law.e-gov.go.jp/htmldata/S32/S32SE043.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32SE043.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-368.67087" y="-133.37074" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20492" label="沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する政令">
+      <node id="20492" label="沖縄の復帰に伴う国税関係以外の大蔵省関係法令の適用の特別措置等に関する政令" url="http://law.e-gov.go.jp/htmldata/S47/S47SE150.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE150.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="173.87694" y="124.568924" />
+        <viz:color b="141" g="83" r="219" />
       </node>
-      <node id="20493" label="国家公務員退職手当法施行令">
+      <node id="20493" label="国家公務員退職手当法施行令" url="http://law.e-gov.go.jp/htmldata/S28/S28SE215.html">
         <attvalues>
-          <attvalue for="modularity" value="国家公務員"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S28/S28SE215.html"/>
+          <attvalue for="modularity" value="国家公務員" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="266.00153" y="-177.80797" />
+        <viz:color b="83" g="219" r="180" />
       </node>
-      <node id="20494" label="地価税法施行規則">
+      <node id="20494" label="地価税法施行規則" url="http://law.e-gov.go.jp/htmldata/H03/H03F03401000031.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F03401000031.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-129.83916" y="118.95624" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20495" label="たばこ事業法施行令">
+      <node id="20495" label="たばこ事業法施行令" url="http://law.e-gov.go.jp/htmldata/S60/S60SE021.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S60/S60SE021.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="12.0" />
+        <viz:position x="408.44806" y="39.853054" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20496" label="国家公務員及び公共企業体職員に係る共済組合制度の統合に伴う国家公務員共済組合法の長期給付の特例に関する政令">
+      <node id="20496" label="国家公務員及び公共企業体職員に係る共済組合制度の統合に伴う国家公務員共済組合法の長期給付の特例に関する政令" url="http://law.e-gov.go.jp/htmldata/S59/S59SE036.html">
         <attvalues>
-          <attvalue for="modularity" value="国家公務員"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59SE036.html"/>
+          <attvalue for="modularity" value="国家公務員" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="223.45818" y="373.67975" />
+        <viz:color b="83" g="219" r="180" />
       </node>
-      <node id="20497" label="関税法">
+      <node id="20497" label="関税法" url="http://law.e-gov.go.jp/htmldata/S29/S29HO061.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29HO061.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="371.85266" y="-72.652214" />
+        <viz:color b="219" g="83" r="180" />
       </node>
-      <node id="20498" label="たばこ耕作組合法施行令">
+      <node id="20498" label="たばこ耕作組合法施行令" url="http://law.e-gov.go.jp/htmldata/S47/S47SE232.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE232.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="10.0" />
+        <viz:position x="396.57822" y="192.62215" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20499" label="塩事業法施行令">
+      <node id="20499" label="塩事業法施行令" url="http://law.e-gov.go.jp/htmldata/H08/H08SE216.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08SE216.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-156.9145" y="64.26619" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20500" label="沖縄の復帰に伴う国家公務員退職手当法の適用の特別措置等に関する政令">
+      <node id="20500" label="沖縄の復帰に伴う国家公務員退職手当法の適用の特別措置等に関する政令" url="http://law.e-gov.go.jp/htmldata/S47/S47SE176.html">
         <attvalues>
-          <attvalue for="modularity" value="国家公務員"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S47/S47SE176.html"/>
+          <attvalue for="modularity" value="国家公務員" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="364.64197" y="-115.1125" />
+        <viz:color b="83" g="219" r="180" />
       </node>
-      <node id="20501" label="財務省設置法">
+      <node id="20501" label="財務省設置法" url="http://law.e-gov.go.jp/htmldata/H11/H11HO095.html">
         <attvalues>
-          <attvalue for="modularity" value="行政組織"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO095.html"/>
+          <attvalue for="modularity" value="行政組織" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="330.44315" y="23.413548" />
+        <viz:color b="219" g="102" r="83" />
       </node>
-      <node id="20502" label="たばこ耕作組合法施行規則">
+      <node id="20502" label="たばこ耕作組合法施行規則" url="http://law.e-gov.go.jp/htmldata/S33/S33F03401000022.html">
         <attvalues>
-          <attvalue for="modularity" value="事業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33F03401000022.html"/>
+          <attvalue for="modularity" value="事業" />
         </attvalues>
+        <viz:size value="12.0" />
+        <viz:position x="339.0642" y="215.28268" />
+        <viz:color b="219" g="83" r="122" />
       </node>
-      <node id="20503" label="ＪＴ株処分政令">
+      <node id="20503" label="ＪＴ株処分政令" url="http://law.e-gov.go.jp/htmldata/H06/H06SE248.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06SE248.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="124.482475" y="346.78134" />
+        <viz:color b="141" g="83" r="219" />
       </node>
     </nodes>
     <edges>
-      <edge id="42049" source="20487" target="20452"/>
-      <edge id="42050" source="20487" target="20453"/>
-      <edge id="42051" source="20487" target="20455"/>
-      <edge id="42052" source="20487" target="20457"/>
-      <edge id="42053" source="20487" target="20461"/>
-      <edge id="42054" source="20487" target="20462"/>
-      <edge id="42055" source="20487" target="20463"/>
-      <edge id="42056" source="20487" target="20456"/>
-      <edge id="42057" source="20487" target="20469"/>
-      <edge id="42058" source="20487" target="20470"/>
-      <edge id="42059" source="20487" target="20471"/>
-      <edge id="42060" source="20487" target="20472"/>
-      <edge id="42061" source="20487" target="20475"/>
-      <edge id="42062" source="20487" target="20477"/>
-      <edge id="42063" source="20487" target="20486"/>
-      <edge id="42064" source="20487" target="20481"/>
-      <edge id="42065" source="20487" target="20484"/>
-      <edge id="42066" source="20487" target="20473"/>
-      <edge id="42067" source="20487" target="20459"/>
-      <edge id="42068" source="20487" target="20490"/>
-      <edge id="42069" source="20487" target="20492"/>
-      <edge id="42070" source="20487" target="20493"/>
-      <edge id="42071" source="20487" target="20495"/>
-      <edge id="42072" source="20487" target="20497"/>
-      <edge id="42073" source="20487" target="20500"/>
-      <edge id="42074" source="20487" target="20501"/>
-      <edge id="42075" source="20482" target="20466"/>
-      <edge id="42076" source="20482" target="20481"/>
-      <edge id="42077" source="20482" target="20483"/>
-      <edge id="42078" source="20482" target="20473"/>
-      <edge id="42079" source="20482" target="20468"/>
-      <edge id="42080" source="20482" target="20474"/>
-      <edge id="42081" source="20482" target="20479"/>
-      <edge id="42082" source="20482" target="20476"/>
-      <edge id="42083" source="20482" target="20464"/>
-      <edge id="42084" source="20482" target="20478"/>
-      <edge id="42085" source="20482" target="20491"/>
-      <edge id="42086" source="20482" target="20465"/>
-      <edge id="42087" source="20453" target="20485"/>
-      <edge id="42088" source="20453" target="20496"/>
-      <edge id="42089" source="20453" target="20471"/>
-      <edge id="42090" source="20453" target="20458"/>
-      <edge id="42091" source="20453" target="20472"/>
-      <edge id="42092" source="20453" target="20460"/>
-      <edge id="42093" source="20453" target="20503"/>
-      <edge id="42094" source="20453" target="20475"/>
-      <edge id="42095" source="20453" target="20492"/>
-      <edge id="42096" source="20467" target="20462"/>
-      <edge id="42097" source="20467" target="20475"/>
-      <edge id="42098" source="20467" target="20494"/>
-      <edge id="42099" source="20467" target="20473"/>
-      <edge id="42100" source="20467" target="20454"/>
-      <edge id="42101" source="20467" target="20468"/>
-      <edge id="42102" source="20467" target="20452"/>
-      <edge id="42103" source="20467" target="20499"/>
-      <edge id="42104" source="20467" target="20481"/>
-      <edge id="42105" source="20454" target="20488"/>
-      <edge id="42106" source="20485" target="20488"/>
-      <edge id="42107" source="20495" target="20489"/>
-      <edge id="42108" source="20495" target="20463"/>
-      <edge id="42109" source="20455" target="20498"/>
-      <edge id="42110" source="20455" target="20487"/>
-      <edge id="42111" source="20455" target="20502"/>
-      <edge id="42112" source="20455" target="20463"/>
-      <edge id="42113" source="20455" target="20475"/>
-      <edge id="42114" source="20498" target="20502"/>
-      <edge id="42115" source="20462" target="20452"/>
-      <edge id="42116" source="20463" target="20488"/>
-      <edge id="42117" source="20478" target="20483"/>
-      <edge id="42118" source="20502" target="20488"/>
-      <edge id="42119" source="20465" target="20480"/>
+      <edge id="42090" source="20453" target="20458" />
+      <edge id="42092" source="20453" target="20460" />
+      <edge id="42089" source="20453" target="20471" />
+      <edge id="42091" source="20453" target="20472" />
+      <edge id="42094" source="20453" target="20475" />
+      <edge id="42087" source="20453" target="20485" />
+      <edge id="42095" source="20453" target="20492" />
+      <edge id="42088" source="20453" target="20496" />
+      <edge id="42093" source="20453" target="20503" />
+      <edge id="42105" source="20454" target="20488" />
+      <edge id="42112" source="20455" target="20463" />
+      <edge id="42113" source="20455" target="20475" />
+      <edge id="42110" source="20455" target="20487" />
+      <edge id="42109" source="20455" target="20498" />
+      <edge id="42111" source="20455" target="20502" />
+      <edge id="42115" source="20462" target="20452" />
+      <edge id="42116" source="20463" target="20488" />
+      <edge id="42119" source="20465" target="20480" />
+      <edge id="42102" source="20467" target="20452" />
+      <edge id="42100" source="20467" target="20454" />
+      <edge id="42096" source="20467" target="20462" />
+      <edge id="42101" source="20467" target="20468" />
+      <edge id="42099" source="20467" target="20473" />
+      <edge id="42097" source="20467" target="20475" />
+      <edge id="42104" source="20467" target="20481" />
+      <edge id="42098" source="20467" target="20494" />
+      <edge id="42103" source="20467" target="20499" />
+      <edge id="42117" source="20478" target="20483" />
+      <edge id="42083" source="20482" target="20464" />
+      <edge id="42086" source="20482" target="20465" />
+      <edge id="42075" source="20482" target="20466" />
+      <edge id="42079" source="20482" target="20468" />
+      <edge id="42078" source="20482" target="20473" />
+      <edge id="42080" source="20482" target="20474" />
+      <edge id="42082" source="20482" target="20476" />
+      <edge id="42084" source="20482" target="20478" />
+      <edge id="42081" source="20482" target="20479" />
+      <edge id="42076" source="20482" target="20481" />
+      <edge id="42077" source="20482" target="20483" />
+      <edge id="42085" source="20482" target="20491" />
+      <edge id="42106" source="20485" target="20488" />
+      <edge id="42049" source="20487" target="20452" />
+      <edge id="42050" source="20487" target="20453" />
+      <edge id="42051" source="20487" target="20455" />
+      <edge id="42056" source="20487" target="20456" />
+      <edge id="42052" source="20487" target="20457" />
+      <edge id="42067" source="20487" target="20459" />
+      <edge id="42053" source="20487" target="20461" />
+      <edge id="42054" source="20487" target="20462" />
+      <edge id="42055" source="20487" target="20463" />
+      <edge id="42057" source="20487" target="20469" />
+      <edge id="42058" source="20487" target="20470" />
+      <edge id="42059" source="20487" target="20471" />
+      <edge id="42060" source="20487" target="20472" />
+      <edge id="42066" source="20487" target="20473" />
+      <edge id="42061" source="20487" target="20475" />
+      <edge id="42062" source="20487" target="20477" />
+      <edge id="42064" source="20487" target="20481" />
+      <edge id="42065" source="20487" target="20484" />
+      <edge id="42063" source="20487" target="20486" />
+      <edge id="42068" source="20487" target="20490" />
+      <edge id="42069" source="20487" target="20492" />
+      <edge id="42070" source="20487" target="20493" />
+      <edge id="42071" source="20487" target="20495" />
+      <edge id="42072" source="20487" target="20497" />
+      <edge id="42073" source="20487" target="20500" />
+      <edge id="42074" source="20487" target="20501" />
+      <edge id="42108" source="20495" target="20463" />
+      <edge id="42107" source="20495" target="20489" />
+      <edge id="42114" source="20498" target="20502" />
+      <edge id="42118" source="20502" target="20488" />
     </edges>
   </graph>
 </gexf>

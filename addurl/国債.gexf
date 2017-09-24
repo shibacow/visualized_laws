@@ -1,857 +1,1088 @@
-<?xml version='1.0' encoding='utf-8'?>
-<gexf xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.2draft" xmlns:ns0="xsi" version="1.2" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.2draft.xsd">
-  <meta lastmodified="2017-09-24">
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://www.gexf.net/1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.3" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2016-05-08">
     <creator>Gephi 0.9</creator>
-    <description/>
+    <description />
   </meta>
-  <graph defaultedgetype="directed" label="" mode="static" timeformat="double">
+  <graph defaultedgetype="directed" idtype="integer" mode="static">
     <attributes class="node" mode="static">
-      <attribute id="URI" title="URI" type="string"/>
-      <attribute id="modularity" title="Modularity" type="string"/>
+      <attribute id="modularity" title="Modularity" type="string" />
     </attributes>
     <nodes>
-      <node id="16637" label="国際通貨基金への加盟に伴う国際通貨基金通貨代用証券の発行等に関する省令">
+      <node id="16637" label="国際通貨基金への加盟に伴う国際通貨基金通貨代用証券の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S45/S45F03401000022.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45F03401000022.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="73.55387" y="-439.94394" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16638" label="平成十六年度における財政運営のための公債の発行の特例等に関する法律第五条の規定による国家公務員共済組合の事務に要する費用の負担の特例に関する政令">
+      <node id="16638" label="平成十六年度における財政運営のための公債の発行の特例等に関する法律第五条の規定による国家公務員共済組合の事務に要する費用の負担の特例に関する政令" url="http://law.e-gov.go.jp/htmldata/H16/H16SE112.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16SE112.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-4461.7065" y="1563.3312" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16639" label="個人向け国債の発行等に関する省令第七条第三項の臨時特例に関する省令">
+      <node id="16639" label="個人向け国債の発行等に関する省令第七条第三項の臨時特例に関する省令" url="http://law.e-gov.go.jp/htmldata/H23/H23F14001000003.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23F14001000003.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-315.82562" y="78.837395" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16640" label="国債規則">
+      <node id="16640" label="国債規則" url="http://law.e-gov.go.jp/htmldata/T11/T11F03401000031.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/T11/T11F03401000031.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="60.0" />
+        <viz:position x="74.656" y="-265.81485" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16641" label="石油臨時特別税に関する政令">
+      <node id="16641" label="石油臨時特別税に関する政令" url="http://law.e-gov.go.jp/htmldata/H03/H03SE036.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03SE036.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="320.39932" y="954.48126" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16642" label="特定弔慰金等国庫債券の発行交付等に関する省令">
+      <node id="16642" label="特定弔慰金等国庫債券の発行交付等に関する省令" url="http://law.e-gov.go.jp/htmldata/S63/S63F03401000028.html">
         <attvalues>
-          <attvalue for="modularity" value="社会福祉"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63F03401000028.html"/>
+          <attvalue for="modularity" value="社会福祉" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="114.67376" y="-397.07123" />
+        <viz:color b="196" g="237" r="89" />
       </node>
-      <node id="16643" label="日本銀行の国債元利金の支払等の特別取扱手続に関する省令">
+      <node id="16643" label="日本銀行の国債元利金の支払等の特別取扱手続に関する省令" url="http://law.e-gov.go.jp/htmldata/S41/S41F03401000044.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F03401000044.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-79.22105" y="315.85876" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16644" label="日本銀行国庫金取扱規程">
+      <node id="16644" label="日本銀行国庫金取扱規程" url="http://law.e-gov.go.jp/htmldata/S22/S22F03401000093.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22F03401000093.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="65.69146" y="117.73617" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16645" label="外貨公債の発行に関する法律に基づく外貨債の利子の非課税等に関する規定の適用を受けない者の範囲を定める政令">
+      <node id="16645" label="外貨公債の発行に関する法律に基づく外貨債の利子の非課税等に関する規定の適用を受けない者の範囲を定める政令" url="http://law.e-gov.go.jp/htmldata/S38/S38SE122.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38SE122.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-73.4702" y="771.085" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16646" label="政府資金調達事務取扱規則">
+      <node id="16646" label="政府資金調達事務取扱規則" url="http://law.e-gov.go.jp/htmldata/H11/H11F03401000006.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11F03401000006.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="22.18182" />
+        <viz:position x="-34.963947" y="68.79003" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16647" label="明治三十二年発行の英貨公債を償還する等のため発行する英貨公債の発行等に関する省令">
+      <node id="16647" label="明治三十二年発行の英貨公債を償還する等のため発行する英貨公債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S38/S38F03401000045.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38F03401000045.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="-57.736004" y="485.0025" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16648" label="復興特別法人税に関する省令">
+      <node id="16648" label="復興特別法人税に関する省令" url="http://law.e-gov.go.jp/htmldata/H24/H24F14001000007.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F14001000007.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-256.4628" y="1364.0989" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16649" label="国際農業開発基金への加盟に伴う国債の発行等に関する省令">
+      <node id="16649" label="国際農業開発基金への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S52/S52F03401000051.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52F03401000051.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="235.24039" y="-310.12982" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16650" label="国債の発行等に関する省令">
+      <node id="16650" label="国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S57/S57F03401000030.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57F03401000030.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="34.78788" />
+        <viz:position x="-64.55061" y="2.8842754" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16651" label="昭和五十一年度の公債の発行の特例に関する法律第二条の規定により発行する国債の発行等に関する省令">
+      <node id="16651" label="昭和五十一年度の公債の発行の特例に関する法律第二条の規定により発行する国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S51/S51F03401000026.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51F03401000026.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="-110.96678" y="-317.08755" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16652" label="中央省庁等改革のための財務省関係大蔵省令の整備等に関する省令">
+      <node id="16652" label="中央省庁等改革のための財務省関係大蔵省令の整備等に関する省令" url="http://law.e-gov.go.jp/htmldata/H12/H12F03401000069.html">
         <attvalues>
-          <attvalue for="modularity" value="行政組織"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H12/H12F03401000069.html"/>
+          <attvalue for="modularity" value="行政組織" />
         </attvalues>
+        <viz:size value="31.636364" />
+        <viz:position x="-23.74178" y="228.32722" />
+        <viz:color b="89" g="169" r="237" />
       </node>
-      <node id="16653" label="農林水産省関係福島復興再生特別措置法施行規則">
+      <node id="16653" label="農林水産省関係福島復興再生特別措置法施行規則" url="http://law.e-gov.go.jp/htmldata/H24/H24F17001000033.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F17001000033.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="4942.149" y="-278.08987" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16654" label="昭和五十二年度の公債の発行の特例に関する法律第二条の規定により発行する国債の発行等に関する省令">
+      <node id="16654" label="昭和五十二年度の公債の発行の特例に関する法律第二条の規定により発行する国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S52/S52F03401000022.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52F03401000022.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="-128.52406" y="-277.94565" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16655" label="国が承継した石油公団債務に係る国債の取扱い等に関する省令">
+      <node id="16655" label="国が承継した石油公団債務に係る国債の取扱い等に関する省令" url="http://law.e-gov.go.jp/htmldata/H15/H15F14001000022.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F14001000022.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="198.56815" y="-377.51862" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16656" label="寄託又ハ供託セル国債証券附属利札尽了ノモノノ特別取扱規程">
+      <node id="16656" label="寄託又ハ供託セル国債証券附属利札尽了ノモノノ特別取扱規程" url="http://law.e-gov.go.jp/htmldata/T11/T11F03401000058.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/T11/T11F03401000058.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="150.1442" y="-225.26418" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16657" label="国債の元利金の支払の特例に関する政令">
+      <node id="16657" label="国債の元利金の支払の特例に関する政令" url="http://law.e-gov.go.jp/htmldata/S29/S29SE198.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE198.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-281.6421" y="405.75098" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16658" label="明治三十二年発行の英貨公債を償還する等のため発行する外貨公債に関する特別措置法に基づく外貨債の利子の非課税等に関する規定の適用を受けない者の範囲を定める政令">
+      <node id="16658" label="明治三十二年発行の英貨公債を償還する等のため発行する外貨公債に関する特別措置法に基づく外貨債の利子の非課税等に関する規定の適用を受けない者の範囲を定める政令" url="http://law.e-gov.go.jp/htmldata/S38/S38SE275.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38SE275.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-107.12253" y="708.3786" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16659" label="原子力損害賠償支援機構の業務運営に関する命令">
+      <node id="16659" label="原子力損害賠償支援機構の業務運営に関する命令" url="">
         <attvalues>
-          <attvalue for="modularity" value="工業"/>
-          <attvalue for="URI" value=""/>
+          <attvalue for="modularity" value="工業" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-8.655128" y="-313.98956" />
+        <viz:color b="237" g="116" r="89" />
       </node>
-      <node id="16660" label="法人臨時特別税に関する政令">
+      <node id="16660" label="法人臨時特別税に関する政令" url="http://law.e-gov.go.jp/htmldata/H03/H03SE035.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03SE035.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="365.31955" y="955.9444" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16661" label="道路整備事業に係る国の財政上の特別措置に関する法律">
+      <node id="16661" label="道路整備事業に係る国の財政上の特別措置に関する法律" url="http://law.e-gov.go.jp/htmldata/S33/S33HO034.html">
         <attvalues>
-          <attvalue for="modularity" value="道路"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO034.html"/>
+          <attvalue for="modularity" value="道路" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-4843.4863" y="-939.7498" />
+        <viz:color b="89" g="237" r="223" />
       </node>
-      <node id="16662" label="所得税法施行規則">
+      <node id="16662" label="所得税法施行規則" url="http://law.e-gov.go.jp/htmldata/S40/S40F03401000011.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S40/S40F03401000011.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-429.9668" y="-8.181874" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16663" label="信託会社が信託財産として所有する登録国債の登録方法等に関する命令">
+      <node id="16663" label="信託会社が信託財産として所有する登録国債の登録方法等に関する命令" url="http://law.e-gov.go.jp/htmldata/H13/H13F10002004002.html">
         <attvalues>
-          <attvalue for="modularity" value="金融・保険"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H13/H13F10002004002.html"/>
+          <attvalue for="modularity" value="金融・保険" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="0.43968382" y="-400.86652" />
+        <viz:color b="89" g="237" r="143" />
       </node>
-      <node id="16664" label="一次産品のための共通基金への加盟に伴う国債の発行等に関する省令">
+      <node id="16664" label="一次産品のための共通基金への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/H02/H02F03401000025.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F03401000025.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="68.137764" y="-388.66763" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16665" label="湾岸地域における平和回復活動を支援するため平成二年度において緊急に講ずべき財政上の措置に必要な財源の確保に係る臨時措置に関する法律">
+      <node id="16665" label="湾岸地域における平和回復活動を支援するため平成二年度において緊急に講ずべき財政上の措置に必要な財源の確保に係る臨時措置に関する法律" url="http://law.e-gov.go.jp/htmldata/H03/H03HO002.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03HO002.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="14.30303" />
+        <viz:position x="310.2312" y="844.33936" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16666" label="昭和五十一年分所得税の特別減税の実施のための財政処理の特別措置に関する法律">
+      <node id="16666" label="昭和五十一年分所得税の特別減税の実施のための財政処理の特別措置に関する法律" url="http://law.e-gov.go.jp/htmldata/S52/S52HO035.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52HO035.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-276.74652" y="-635.9449" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16667" label="国債証券買入銷却法">
+      <node id="16667" label="国債証券買入銷却法" url="http://law.e-gov.go.jp/htmldata/M29/M29HO005.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/M29/M29HO005.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="154.8681" y="432.1013" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16668" label="東日本大震災に対処するために必要な財源の確保を図るための特別措置に関する法律">
+      <node id="16668" label="東日本大震災に対処するために必要な財源の確保を図るための特別措置に関する法律" url="http://law.e-gov.go.jp/htmldata/H23/H23HO042.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO042.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-4851.4185" y="-941.22327" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16669" label="ドイツ貨公債の発行等に関する省令">
+      <node id="16669" label="ドイツ貨公債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S39/S39F03401000032.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39F03401000032.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-30.843847" y="450.78766" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16670" label="平成十七年度における財政運営のための公債の発行の特例等に関する法律の規定による国家公務員共済組合の事務に要する費用の負担の特例に関する政令">
+      <node id="16670" label="平成十七年度における財政運営のための公債の発行の特例等に関する法律の規定による国家公務員共済組合の事務に要する費用の負担の特例に関する政令" url="http://law.e-gov.go.jp/htmldata/H17/H17SE147.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17SE147.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-2286.5352" y="-4652.2534" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16671" label="租税特別措置法">
+      <node id="16671" label="租税特別措置法" url="http://law.e-gov.go.jp/htmldata/S32/S32HO026.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32HO026.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-17.692574" y="771.09265" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16672" label="中央省庁等改革関係法施行法　抄">
+      <node id="16672" label="中央省庁等改革関係法施行法　抄" url="http://law.e-gov.go.jp/htmldata/H11/H11HO160.html">
         <attvalues>
-          <attvalue for="modularity" value="行政組織"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H11/H11HO160.html"/>
+          <attvalue for="modularity" value="行政組織" />
         </attvalues>
+        <viz:size value="12.727273" />
+        <viz:position x="163.43265" y="644.44305" />
+        <viz:color b="89" g="169" r="237" />
       </node>
-      <node id="16673" label="昭和五十九年度の財政運営に必要な財源の確保を図るための特別措置等に関する法律">
+      <node id="16673" label="昭和五十九年度の財政運営に必要な財源の確保を図るための特別措置等に関する法律" url="http://law.e-gov.go.jp/htmldata/S59/S59HO052.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S59/S59HO052.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="20.60606" />
+        <viz:position x="-377.37756" y="-624.5067" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16674" label="政府が承継した日本国有鉄道清算事業団債務に係る国債の取扱い等に関する省令">
+      <node id="16674" label="政府が承継した日本国有鉄道清算事業団債務に係る国債の取扱い等に関する省令" url="http://law.e-gov.go.jp/htmldata/H10/H10F03401000035.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F03401000035.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="47.970795" y="-13.343888" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16675" label="米貨公債の発行に関する省令">
+      <node id="16675" label="米貨公債の発行に関する省令" url="http://law.e-gov.go.jp/htmldata/S34/S34F03401000009.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34F03401000009.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="92.47198" y="369.7901" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16676" label="国税収納金整理資金事務取扱規則">
+      <node id="16676" label="国税収納金整理資金事務取扱規則" url="http://law.e-gov.go.jp/htmldata/S29/S29F03401000039.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03401000039.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-96.55637" y="1333.9215" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16677" label="アジア開発銀行への加盟に伴う国債の発行等に関する省令">
+      <node id="16677" label="アジア開発銀行への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S41/S41F03401000052.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S41/S41F03401000052.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="29.349316" y="-358.42545" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16678" label="阪神・淡路大震災に対処するための平成六年度における公債の発行の特例等に関する法律">
+      <node id="16678" label="阪神・淡路大震災に対処するための平成六年度における公債の発行の特例等に関する法律" url="http://law.e-gov.go.jp/htmldata/H07/H07HO017.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07HO017.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="2661.905" y="3986.762" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16679" label="昭和五十三年度における財政処理のための公債の発行及び専売納付金の納付の特例に関する法律">
+      <node id="16679" label="昭和五十三年度における財政処理のための公債の発行及び専売納付金の納付の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/S53/S53HO043.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S53/S53HO043.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-496.0469" y="-649.9392" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16680" label="歳入歳出外の国庫内移換に関する規則">
+      <node id="16680" label="歳入歳出外の国庫内移換に関する規則" url="http://law.e-gov.go.jp/htmldata/S30/S30F03401000014.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S30/S30F03401000014.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="-118.93613" y="40.643215" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16681" label="供託又ハ寄託セル国債ノ償還金ヲ以テ為ス代リ国債ノ買入ニ関スル特別取扱規程">
+      <node id="16681" label="供託又ハ寄託セル国債ノ償還金ヲ以テ為ス代リ国債ノ買入ニ関スル特別取扱規程" url="http://law.e-gov.go.jp/htmldata/S11/S11F03401000012.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S11/S11F03401000012.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="74.941376" y="273.63483" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16682" label="電子情報処理組織を使用して処理する場合における国債の登録手続の特例に関する省令">
+      <node id="16682" label="電子情報処理組織を使用して処理する場合における国債の登録手続の特例に関する省令" url="http://law.e-gov.go.jp/htmldata/H02/H02F03401000020.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H02/H02F03401000020.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="14.30303" />
+        <viz:position x="19.694624" y="-59.796516" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16683" label="財政運営に必要な財源の確保を図るための特別措置に関する法律">
+      <node id="16683" label="財政運営に必要な財源の確保を図るための特別措置に関する法律" url="http://law.e-gov.go.jp/htmldata/S56/S56HO039.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S56/S56HO039.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-430.25656" y="-720.6632" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16684" label="財政融資資金出納及び計算整理規則">
+      <node id="16684" label="財政融資資金出納及び計算整理規則" url="http://law.e-gov.go.jp/htmldata/S49/S49F03401000022.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F03401000022.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="470.62955" y="-674.6241" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16685" label="平成七年度における公債の発行の特例に関する法律">
+      <node id="16685" label="平成七年度における公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/H07/H07HO100.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H07/H07HO100.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="1295.7946" y="-4657.2896" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16686" label="昭和十年大蔵省令第二号">
+      <node id="16686" label="昭和十年大蔵省令第二号" url="http://law.e-gov.go.jp/htmldata/S10/S10F03401000002.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S10/S10F03401000002.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-116.744835" y="277.15308" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16687" label="明治四十二年法律第九号">
+      <node id="16687" label="明治四十二年法律第九号" url="http://law.e-gov.go.jp/htmldata/M42/M42HO009.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/M42/M42HO009.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="268.77747" y="486.20285" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16688" label="産業投資特別会計の貸付の財源に充てるための外貨債の発行に関する法律に基く外貨債の利子の非課税等に関する規定の適用を受けない者の範囲を定める政令">
+      <node id="16688" label="産業投資特別会計の貸付の財源に充てるための外貨債の発行に関する法律に基く外貨債の利子の非課税等に関する規定の適用を受けない者の範囲を定める政令" url="http://law.e-gov.go.jp/htmldata/S33/S33SE337.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33SE337.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="242.31895" y="593.6962" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16689" label="相続税法施行規則">
+      <node id="16689" label="相続税法施行規則" url="http://law.e-gov.go.jp/htmldata/S25/S25F03401000017.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S25/S25F03401000017.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="221.95573" y="-347.9908" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16690" label="国際開発協会への加盟に伴う国債の発行等に関する省令">
+      <node id="16690" label="国際開発協会への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S35/S35F03401000063.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S35/S35F03401000063.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="166.93625" y="-415.6885" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16691" label="昭和五十七年度の公債の発行の特例に関する法律">
+      <node id="16691" label="昭和五十七年度の公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/S57/S57HO041.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S57/S57HO041.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-478.7567" y="-730.33685" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16692" label="アフリカ開発銀行への加盟に伴う国債の発行等に関する省令">
+      <node id="16692" label="アフリカ開発銀行への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S58/S58F03401000003.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58F03401000003.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="122.33948" y="-437.35052" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16693" label="昭和五十二年度の公債の発行の特例に関する法律">
+      <node id="16693" label="昭和五十二年度の公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/S52/S52HO050.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S52/S52HO050.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-277.87335" y="-452.5708" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16694" label="平成十七年度における財政運営のための公債の発行の特例等に関する法律">
+      <node id="16694" label="平成十七年度における財政運営のための公債の発行の特例等に関する法律" url="http://law.e-gov.go.jp/htmldata/H17/H17HO019.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17HO019.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-2284.3044" y="-4647.8784" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16695" label="原子力損害賠償支援機構に交付される国債の発行等に関する省令">
+      <node id="16695" label="原子力損害賠償支援機構に交付される国債の発行等に関する省令" url="">
         <attvalues>
-          <attvalue for="modularity" value="工業"/>
-          <attvalue for="URI" value=""/>
+          <attvalue for="modularity" value="工業" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-25.488438" y="-363.39557" />
+        <viz:color b="237" g="116" r="89" />
       </node>
-      <node id="16696" label="種苗法施行規則">
+      <node id="16696" label="種苗法施行規則" url="http://law.e-gov.go.jp/htmldata/H10/H10F03701000083.html">
         <attvalues>
-          <attvalue for="modularity" value="農業"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F03701000083.html"/>
+          <attvalue for="modularity" value="農業" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="4981.6675" y="-281.83936" />
+        <viz:color b="237" g="196" r="89" />
       </node>
-      <node id="16697" label="平成七年度における租税収入の減少を補うための公債の発行の特例に関する法律">
+      <node id="16697" label="平成七年度における租税収入の減少を補うための公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/H08/H08HO002.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H08/H08HO002.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="1243.0593" y="-4657.5806" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16698" label="国債の元利金の支払の特例等に関する省令">
+      <node id="16698" label="国債の元利金の支払の特例等に関する省令" url="http://law.e-gov.go.jp/htmldata/S29/S29F03401000084.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29F03401000084.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-172.96275" y="333.01495" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16699" label="平成十九年度における財政運営のための公債の発行の特例等に関する法律の規定による国家公務員共済組合の事務に要する費用の負担の特例に関する政令">
+      <node id="16699" label="平成十九年度における財政運営のための公債の発行の特例等に関する法律の規定による国家公務員共済組合の事務に要する費用の負担の特例に関する政令" url="http://law.e-gov.go.jp/htmldata/H19/H19SE127.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE127.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="4269.5693" y="-2714.1785" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16700" label="国債の買入消却に関する省令">
+      <node id="16700" label="国債の買入消却に関する省令" url="http://law.e-gov.go.jp/htmldata/H15/H15F14001000002.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F14001000002.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="44.875202" y="200.34706" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16701" label="昭和五十年度の公債の発行の特例に関する法律第一条の規定により発行する国債の発行等に関する省令">
+      <node id="16701" label="昭和五十年度の公債の発行の特例に関する法律第一条の規定により発行する国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S50/S50F03401000051.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50F03401000051.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="-104.94949" y="-288.74402" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16702" label="復興特別法人税に関する政令">
+      <node id="16702" label="復興特別法人税に関する政令" url="http://law.e-gov.go.jp/htmldata/H24/H24SE017.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24SE017.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-235.42729" y="1328.6582" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16703" label="明治三十九年法律第三十四号">
+      <node id="16703" label="明治三十九年法律第三十四号" url="http://law.e-gov.go.jp/htmldata/M39/M39HO034.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/M39/M39HO034.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="379.7479" y="-580.3768" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16704" label="法人臨時特別税に関する省令">
+      <node id="16704" label="法人臨時特別税に関する省令" url="http://law.e-gov.go.jp/htmldata/H03/H03F03401000006.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F03401000006.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="401.11026" y="931.5371" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16705" label="スイス貨公債の発行等に関する省令">
+      <node id="16705" label="スイス貨公債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S39/S39F03401000003.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S39/S39F03401000003.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-56.871548" y="448.4788" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16706" label="特別会計に関する法律施行令">
+      <node id="16706" label="特別会計に関する法律施行令" url="http://law.e-gov.go.jp/htmldata/H19/H19SE124.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19SE124.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-161.99716" y="1403.8438" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16707" label="米州開発銀行への加盟に伴う国債の発行等に関する省令">
+      <node id="16707" label="米州開発銀行への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S51/S51F03401000017.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51F03401000017.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="35.75722" y="-424.4924" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16708" label="政府が承継した本州四国連絡橋公団債務に係る国債の取扱い等に関する省令">
+      <node id="16708" label="政府が承継した本州四国連絡橋公団債務に係る国債の取扱い等に関する省令" url="http://law.e-gov.go.jp/htmldata/H15/H15F14001000057.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H15/H15F14001000057.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="237.56496" y="-269.68988" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16709" label="日本銀行の本邦外における外貨債の特別取扱に関する省令">
+      <node id="16709" label="日本銀行の本邦外における外貨債の特別取扱に関する省令" url="http://law.e-gov.go.jp/htmldata/S27/S27F03401000131.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03401000131.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-5.325016" y="312.85812" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16710" label="昭和五十年度の公債の発行の特例に関する法律">
+      <node id="16710" label="昭和五十年度の公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/S50/S50HO089.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S50/S50HO089.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-246.45926" y="-471.25278" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16711" label="昭和五十一年度の公債の発行の特例に関する法律">
+      <node id="16711" label="昭和五十一年度の公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/S51/S51HO073.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S51/S51HO073.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="-247.51678" y="-516.96075" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16712" label="欧州復興開発銀行への加盟に伴う国債の発行等に関する省令">
+      <node id="16712" label="欧州復興開発銀行への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/H03/H03F03401000025.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H03/H03F03401000025.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="134.27205" y="-182.18962" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16713" label="個人向け国債の発行等に関する省令">
+      <node id="16713" label="個人向け国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/H14/H14F14001000068.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F14001000068.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="-191.4878" y="30.109644" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16714" label="アフリカ開発基金への参加に伴う国債の発行等に関する省令">
+      <node id="16714" label="アフリカ開発基金への参加に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S48/S48F03401000039.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S48/S48F03401000039.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="189.03354" y="-321.01395" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16715" label="平成十九年度における財政運営のための公債の発行の特例等に関する法律">
+      <node id="16715" label="平成十九年度における財政運営のための公債の発行の特例等に関する法律" url="http://law.e-gov.go.jp/htmldata/H19/H19HO025.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO025.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="4221.4165" y="-2735.6394" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16716" label="昭和五十八年度の財政運営に必要な財源の確保を図るための特別措置に関する法律">
+      <node id="16716" label="昭和五十八年度の財政運営に必要な財源の確保を図るための特別措置に関する法律" url="http://law.e-gov.go.jp/htmldata/S58/S58HO045.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S58/S58HO045.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-435.7071" y="-757.4752" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16717" label="預金保険機構に交付される国債の発行等に関する省令">
+      <node id="16717" label="預金保険機構に交付される国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/H10/H10F03401000006.html">
         <attvalues>
-          <attvalue for="modularity" value="金融・保険"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H10/H10F03401000006.html"/>
+          <attvalue for="modularity" value="金融・保険" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="195.60115" y="-257.53152" />
+        <viz:color b="89" g="237" r="143" />
       </node>
-      <node id="16718" label="特別会計に関する法律">
+      <node id="16718" label="特別会計に関する法律" url="http://law.e-gov.go.jp/htmldata/H19/H19HO023.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H19/H19HO023.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-104.197815" y="967.03" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16719" label="租税特別措置法施行規則">
+      <node id="16719" label="租税特別措置法施行規則" url="http://law.e-gov.go.jp/htmldata/S32/S32F03401000015.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S32/S32F03401000015.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-428.36996" y="43.105" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16720" label="復興特別所得税に関する省令">
+      <node id="16720" label="復興特別所得税に関する省令" url="http://law.e-gov.go.jp/htmldata/H24/H24F14001000006.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24F14001000006.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-115.11574" y="1377.4603" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16721" label="財政融資資金の管理及び運用の手続に関する規則">
+      <node id="16721" label="財政融資資金の管理及び運用の手続に関する規則" url="http://law.e-gov.go.jp/htmldata/S49/S49F03401000042.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F03401000042.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="248.7917" y="-445.3395" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16722" label="昭和五十五年度の公債の発行の特例に関する法律">
+      <node id="16722" label="昭和五十五年度の公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/S55/S55HO037.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S55/S55HO037.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-383.0596" y="-755.6853" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16723" label="復興特別所得税に関する政令">
+      <node id="16723" label="復興特別所得税に関する政令" url="http://law.e-gov.go.jp/htmldata/H24/H24SE016.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H24/H24SE016.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-174.20677" y="1354.8749" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16724" label="国際金融公社への加盟に伴う国債の発行等に関する省令">
+      <node id="16724" label="国際金融公社への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/H04/H04F03401000039.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04F03401000039.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="196.75252" y="-189.60396" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16725" label="東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法">
+      <node id="16725" label="東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法" url="http://law.e-gov.go.jp/htmldata/H23/H23HO117.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO117.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="20.60606" />
+        <viz:position x="-170.62732" y="1265.8342" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16726" label="国際復興開発銀行への加盟に伴う国債の発行等に関する省令">
+      <node id="16726" label="国際復興開発銀行への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S45/S45F03401000023.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S45/S45F03401000023.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-1.743345" y="-253.9041" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16727" label="政府が承継した独立行政法人日本高速道路保有・債務返済機構債務に係る国債の取扱い等に関する省令">
+      <node id="16727" label="政府が承継した独立行政法人日本高速道路保有・債務返済機構債務に係る国債の取扱い等に関する省令" url="http://law.e-gov.go.jp/htmldata/H21/H21F14001000006.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F14001000006.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="6.4754133" y="-135.1328" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16728" label="平成二十三年度における公債の発行の特例に関する法律">
+      <node id="16728" label="平成二十三年度における公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/H23/H23HO106.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H23/H23HO106.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-277.51437" y="1303.2783" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16729" label="国税収納金整理資金に関する法律施行令">
+      <node id="16729" label="国税収納金整理資金に関する法律施行令" url="http://law.e-gov.go.jp/htmldata/S29/S29SE051.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S29/S29SE051.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-214.85619" y="1396.6013" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16730" label="国債証券の分割の一部停止等に関する省令">
+      <node id="16730" label="国債証券の分割の一部停止等に関する省令" url="http://law.e-gov.go.jp/htmldata/S27/S27F03401000037.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S27/S27F03401000037.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="94.78786" y="-336.2526" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16731" label="明治三十二年発行の英貨公債を償還する等のため発行する外貨公債に関する特別措置法">
+      <node id="16731" label="明治三十二年発行の英貨公債を償還する等のため発行する外貨公債に関する特別措置法" url="http://law.e-gov.go.jp/htmldata/S38/S38HO130.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38HO130.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="-92.638725" y="623.3375" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16732" label="支出官事務規程">
+      <node id="16732" label="支出官事務規程" url="http://law.e-gov.go.jp/htmldata/S22/S22F03401000094.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S22/S22F03401000094.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-98.203384" y="116.515274" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16733" label="平成十八年度における財政運営のための公債の発行の特例等に関する法律">
+      <node id="16733" label="平成十八年度における財政運営のための公債の発行の特例等に関する法律" url="http://law.e-gov.go.jp/htmldata/H18/H18HO011.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18HO011.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="4675.182" y="1596.0577" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16734" label="平成十八年度における財政運営のための公債の発行の特例等に関する法律の規定による国家公務員共済組合の事務に要する費用の負担の特例に関する政令">
+      <node id="16734" label="平成十八年度における財政運営のための公債の発行の特例等に関する法律の規定による国家公務員共済組合の事務に要する費用の負担の特例に関する政令" url="http://law.e-gov.go.jp/htmldata/H18/H18SE145.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H18/H18SE145.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="4643.0825" y="1637.8951" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16735" label="平成十六年度における財政運営のための公債の発行の特例等に関する法律">
+      <node id="16735" label="平成十六年度における財政運営のための公債の発行の特例等に関する法律" url="http://law.e-gov.go.jp/htmldata/H16/H16HO022.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16HO022.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-4447.3813" y="1613.3827" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16736" label="外貨公債の発行に関する法律">
+      <node id="16736" label="外貨公債の発行に関する法律" url="http://law.e-gov.go.jp/htmldata/S38/S38HO063.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38HO063.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="22.18182" />
+        <viz:position x="-33.669323" y="650.3854" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16737" label="法人特別税法施行令">
+      <node id="16737" label="法人特別税法施行令" url="http://law.e-gov.go.jp/htmldata/H04/H04SE089.html">
         <attvalues>
-          <attvalue for="modularity" value="国税"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H04/H04SE089.html"/>
+          <attvalue for="modularity" value="国税" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="414.40085" y="889.1635" />
+        <viz:color b="237" g="89" r="143" />
       </node>
-      <node id="16738" label="産業投資特別会計の貸付の財源に充てるための外貨債の発行に関する法律">
+      <node id="16738" label="産業投資特別会計の貸付の財源に充てるための外貨債の発行に関する法律" url="http://law.e-gov.go.jp/htmldata/S33/S33HO178.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33HO178.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="12.727273" />
+        <viz:position x="150.91249" y="509.54544" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16739" label="昭和五十四年度の公債の発行の特例に関する法律">
+      <node id="16739" label="昭和五十四年度の公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/S54/S54HO026.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S54/S54HO026.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-494.5897" y="-691.5678" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16740" label="米貨公債の事務の取扱に関する省令">
+      <node id="16740" label="米貨公債の事務の取扱に関する省令" url="http://law.e-gov.go.jp/htmldata/S34/S34F03401000007.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34F03401000007.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="68.21716" y="384.73575" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16741" label="日本銀行に交付した国債元利払資金の残額の報告期限の特例に関する省令">
+      <node id="16741" label="日本銀行に交付した国債元利払資金の残額の報告期限の特例に関する省令" url="http://law.e-gov.go.jp/htmldata/S33/S33F03401000017.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S33/S33F03401000017.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-182.16606" y="-123.096855" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16742" label="日本銀行財政融資資金出納及び計算整理規則">
+      <node id="16742" label="日本銀行財政融資資金出納及び計算整理規則" url="http://law.e-gov.go.jp/htmldata/S49/S49F03401000023.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S49/S49F03401000023.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="154.4801" y="-375.72452" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16743" label="株式会社日本政策投資銀行に交付される国債の発行等に関する省令">
+      <node id="16743" label="株式会社日本政策投資銀行に交付される国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/H21/H21F14001000052.html">
         <attvalues>
-          <attvalue for="modularity" value="金融・保険"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H21/H21F14001000052.html"/>
+          <attvalue for="modularity" value="金融・保険" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="151.24045" y="-301.09048" />
+        <viz:color b="89" g="237" r="143" />
       </node>
-      <node id="16744" label="日本銀行国債事務取扱規程">
+      <node id="16744" label="日本銀行国債事務取扱規程" url="http://law.e-gov.go.jp/htmldata/T11/T11F03401000032.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/T11/T11F03401000032.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="26.909092" />
+        <viz:position x="-63.226902" y="-85.827126" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16745" label="米貨公債の発行等に関する省令">
+      <node id="16745" label="米貨公債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S38/S38F03401000022.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S38/S38F03401000022.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="9.575758" />
+        <viz:position x="-6.887976" y="454.63385" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16746" label="供託規則">
+      <node id="16746" label="供託規則" url="http://law.e-gov.go.jp/htmldata/S34/S34F03201000002.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S34/S34F03201000002.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="-171.26239" y="72.22755" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16747" label="平成六年分所得税の特別減税の実施等のための公債の発行の特例に関する法律">
+      <node id="16747" label="平成六年分所得税の特別減税の実施等のための公債の発行の特例に関する法律" url="http://law.e-gov.go.jp/htmldata/H06/H06HO028.html">
         <attvalues>
-          <attvalue for="modularity" value="cat"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H06/H06HO028.html"/>
+          <attvalue for="modularity" value="cat" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="2682.5303" y="3938.2212" />
+        <viz:color b="116" g="237" r="89" />
       </node>
-      <node id="16748" label="国債の金利スワップ取引に関する省令">
+      <node id="16748" label="国債の金利スワップ取引に関する省令" url="http://law.e-gov.go.jp/htmldata/H17/H17F14001000072.html">
         <attvalues>
-          <attvalue for="modularity" value="財務通則"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H17/H17F14001000072.html"/>
+          <attvalue for="modularity" value="財務通則" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="26.285915" y="48.852585" />
+        <viz:color b="89" g="89" r="237" />
       </node>
-      <node id="16749" label="政府短期証券及び割引短期国庫債券の取扱いに関する省令">
+      <node id="16749" label="政府短期証券及び割引短期国庫債券の取扱いに関する省令" url="http://law.e-gov.go.jp/htmldata/H14/H14F14001000067.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F14001000067.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="12.727273" />
+        <viz:position x="-79.7575" y="32.05191" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16750" label="多数国間投資保証機関への加盟に伴う国債の発行等に関する省令">
+      <node id="16750" label="多数国間投資保証機関への加盟に伴う国債の発行等に関する省令" url="http://law.e-gov.go.jp/htmldata/S63/S63F03401000031.html">
         <attvalues>
-          <attvalue for="modularity" value="外事"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/S63/S63F03401000031.html"/>
+          <attvalue for="modularity" value="外事" />
         </attvalues>
+        <viz:size value="8.0" />
+        <viz:position x="227.82858" y="-223.47928" />
+        <viz:color b="237" g="89" r="223" />
       </node>
-      <node id="16751" label="分離適格振替国債の指定等に関する省令">
+      <node id="16751" label="分離適格振替国債の指定等に関する省令" url="http://law.e-gov.go.jp/htmldata/H14/H14F14001000066.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H14/H14F14001000066.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="11.151515" />
+        <viz:position x="-294.8443" y="10.66787" />
+        <viz:color b="169" g="89" r="237" />
       </node>
-      <node id="16752" label="物価連動国債の取扱いに関する省令">
+      <node id="16752" label="物価連動国債の取扱いに関する省令" url="http://law.e-gov.go.jp/htmldata/H16/H16F14001000007.html">
         <attvalues>
-          <attvalue for="modularity" value="国債"/>
-          <attvalue for="URI" value="http://law.e-gov.go.jp/htmldata/H16/H16F14001000007.html"/>
+          <attvalue for="modularity" value="国債" />
         </attvalues>
+        <viz:size value="12.727273" />
+        <viz:position x="-118.06795" y="-27.895786" />
+        <viz:color b="169" g="89" r="237" />
       </node>
     </nodes>
     <edges>
-      <edge id="29858" source="16722" target="16673"/>
-      <edge id="29859" source="16725" target="16723"/>
-      <edge id="29860" source="16725" target="16706"/>
-      <edge id="29861" source="16725" target="16728"/>
-      <edge id="29862" source="16725" target="16702"/>
-      <edge id="29863" source="16725" target="16718"/>
-      <edge id="29864" source="16725" target="16648"/>
-      <edge id="29865" source="16725" target="16720"/>
-      <edge id="29866" source="16725" target="16729"/>
-      <edge id="29867" source="16725" target="16676"/>
-      <edge id="29868" source="16691" target="16673"/>
-      <edge id="29869" source="16693" target="16654"/>
-      <edge id="29870" source="16693" target="16673"/>
-      <edge id="29871" source="16731" target="16647"/>
-      <edge id="29872" source="16731" target="16658"/>
-      <edge id="29873" source="16733" target="16734"/>
-      <edge id="29874" source="16640" target="16637"/>
-      <edge id="29875" source="16640" target="16724"/>
-      <edge id="29876" source="16640" target="16690"/>
-      <edge id="29877" source="16640" target="16726"/>
-      <edge id="29878" source="16640" target="16727"/>
-      <edge id="29879" source="16640" target="16663"/>
-      <edge id="29880" source="16640" target="16730"/>
-      <edge id="29881" source="16640" target="16664"/>
-      <edge id="29882" source="16640" target="16692"/>
-      <edge id="29883" source="16640" target="16689"/>
-      <edge id="29884" source="16640" target="16642"/>
-      <edge id="29885" source="16640" target="16695"/>
-      <edge id="29886" source="16640" target="16651"/>
-      <edge id="29887" source="16640" target="16742"/>
-      <edge id="29888" source="16640" target="16743"/>
-      <edge id="29889" source="16640" target="16744"/>
-      <edge id="29890" source="16640" target="16701"/>
-      <edge id="29891" source="16640" target="16649"/>
-      <edge id="29892" source="16640" target="16650"/>
-      <edge id="29893" source="16640" target="16677"/>
-      <edge id="29894" source="16640" target="16707"/>
-      <edge id="29895" source="16640" target="16708"/>
-      <edge id="29896" source="16640" target="16750"/>
-      <edge id="29897" source="16640" target="16654"/>
-      <edge id="29898" source="16640" target="16655"/>
-      <edge id="29899" source="16640" target="16712"/>
-      <edge id="29900" source="16640" target="16656"/>
-      <edge id="29901" source="16640" target="16714"/>
-      <edge id="29902" source="16640" target="16674"/>
-      <edge id="29903" source="16640" target="16682"/>
-      <edge id="29904" source="16640" target="16659"/>
-      <edge id="29905" source="16640" target="16717"/>
-      <edge id="29906" source="16640" target="16721"/>
-      <edge id="29907" source="16735" target="16638"/>
-      <edge id="29908" source="16736" target="16669"/>
-      <edge id="29909" source="16736" target="16705"/>
-      <edge id="29910" source="16736" target="16658"/>
-      <edge id="29911" source="16736" target="16645"/>
-      <edge id="29912" source="16736" target="16647"/>
-      <edge id="29913" source="16736" target="16745"/>
-      <edge id="29914" source="16736" target="16671"/>
-      <edge id="29915" source="16736" target="16731"/>
-      <edge id="29916" source="16736" target="16718"/>
-      <edge id="29917" source="16736" target="16672"/>
-      <edge id="29918" source="16643" target="16652"/>
-      <edge id="29919" source="16667" target="16687"/>
-      <edge id="29920" source="16667" target="16700"/>
-      <edge id="29921" source="16667" target="16672"/>
-      <edge id="29922" source="16668" target="16661"/>
-      <edge id="29923" source="16738" target="16740"/>
-      <edge id="29924" source="16738" target="16675"/>
-      <edge id="29925" source="16738" target="16672"/>
-      <edge id="29926" source="16738" target="16688"/>
-      <edge id="29927" source="16739" target="16673"/>
-      <edge id="29928" source="16669" target="16652"/>
-      <edge id="29929" source="16740" target="16652"/>
-      <edge id="29930" source="16740" target="16675"/>
-      <edge id="29931" source="16646" target="16650"/>
-      <edge id="29932" source="16646" target="16680"/>
-      <edge id="29933" source="16646" target="16644"/>
-      <edge id="29934" source="16646" target="16652"/>
-      <edge id="29935" source="16646" target="16749"/>
-      <edge id="29936" source="16646" target="16732"/>
-      <edge id="29937" source="16646" target="16744"/>
-      <edge id="29938" source="16646" target="16700"/>
-      <edge id="29939" source="16647" target="16652"/>
-      <edge id="29940" source="16694" target="16670"/>
-      <edge id="29941" source="16698" target="16652"/>
-      <edge id="29942" source="16674" target="16652"/>
-      <edge id="29943" source="16675" target="16652"/>
-      <edge id="29944" source="16703" target="16684"/>
-      <edge id="29945" source="16703" target="16721"/>
-      <edge id="29946" source="16650" target="16680"/>
-      <edge id="29947" source="16650" target="16748"/>
-      <edge id="29948" source="16650" target="16713"/>
-      <edge id="29949" source="16650" target="16727"/>
-      <edge id="29950" source="16650" target="16646"/>
-      <edge id="29951" source="16650" target="16682"/>
-      <edge id="29952" source="16650" target="16652"/>
-      <edge id="29953" source="16650" target="16749"/>
-      <edge id="29954" source="16650" target="16746"/>
-      <edge id="29955" source="16650" target="16751"/>
-      <edge id="29956" source="16650" target="16744"/>
-      <edge id="29957" source="16650" target="16700"/>
-      <edge id="29958" source="16650" target="16752"/>
-      <edge id="29959" source="16705" target="16652"/>
-      <edge id="29960" source="16745" target="16652"/>
-      <edge id="29961" source="16749" target="16732"/>
-      <edge id="29962" source="16749" target="16744"/>
-      <edge id="29963" source="16709" target="16652"/>
-      <edge id="29964" source="16710" target="16701"/>
-      <edge id="29965" source="16710" target="16673"/>
-      <edge id="29966" source="16711" target="16673"/>
-      <edge id="29967" source="16711" target="16666"/>
-      <edge id="29968" source="16711" target="16651"/>
-      <edge id="29969" source="16747" target="16678"/>
-      <edge id="29970" source="16657" target="16698"/>
-      <edge id="29971" source="16679" target="16673"/>
-      <edge id="29972" source="16665" target="16737"/>
-      <edge id="29973" source="16665" target="16641"/>
-      <edge id="29974" source="16665" target="16660"/>
-      <edge id="29975" source="16665" target="16704"/>
-      <edge id="29976" source="16665" target="16672"/>
-      <edge id="29977" source="16713" target="16639"/>
-      <edge id="29978" source="16713" target="16650"/>
-      <edge id="29979" source="16653" target="16696"/>
-      <edge id="29980" source="16744" target="16650"/>
-      <edge id="29981" source="16744" target="16646"/>
-      <edge id="29982" source="16744" target="16652"/>
-      <edge id="29983" source="16744" target="16654"/>
-      <edge id="29984" source="16744" target="16741"/>
-      <edge id="29985" source="16744" target="16651"/>
-      <edge id="29986" source="16744" target="16701"/>
-      <edge id="29987" source="16681" target="16652"/>
-      <edge id="29988" source="16716" target="16673"/>
-      <edge id="29989" source="16682" target="16652"/>
-      <edge id="29990" source="16682" target="16640"/>
-      <edge id="29991" source="16682" target="16744"/>
-      <edge id="29992" source="16683" target="16716"/>
-      <edge id="29993" source="16683" target="16673"/>
-      <edge id="29994" source="16685" target="16697"/>
-      <edge id="29995" source="16686" target="16652"/>
-      <edge id="29996" source="16715" target="16699"/>
-      <edge id="29997" source="16751" target="16719"/>
-      <edge id="29998" source="16751" target="16662"/>
-      <edge id="29999" source="16752" target="16650"/>
-      <edge id="30000" source="16752" target="16744"/>
-      <edge id="30001" source="16752" target="16680"/>
+      <edge id="29874" source="16640" target="16637" />
+      <edge id="29884" source="16640" target="16642" />
+      <edge id="29891" source="16640" target="16649" />
+      <edge id="29892" source="16640" target="16650" />
+      <edge id="29886" source="16640" target="16651" />
+      <edge id="29897" source="16640" target="16654" />
+      <edge id="29898" source="16640" target="16655" />
+      <edge id="29900" source="16640" target="16656" />
+      <edge id="29904" source="16640" target="16659" />
+      <edge id="29879" source="16640" target="16663" />
+      <edge id="29881" source="16640" target="16664" />
+      <edge id="29902" source="16640" target="16674" />
+      <edge id="29893" source="16640" target="16677" />
+      <edge id="29903" source="16640" target="16682" />
+      <edge id="29883" source="16640" target="16689" />
+      <edge id="29876" source="16640" target="16690" />
+      <edge id="29882" source="16640" target="16692" />
+      <edge id="29885" source="16640" target="16695" />
+      <edge id="29890" source="16640" target="16701" />
+      <edge id="29894" source="16640" target="16707" />
+      <edge id="29895" source="16640" target="16708" />
+      <edge id="29899" source="16640" target="16712" />
+      <edge id="29901" source="16640" target="16714" />
+      <edge id="29905" source="16640" target="16717" />
+      <edge id="29906" source="16640" target="16721" />
+      <edge id="29875" source="16640" target="16724" />
+      <edge id="29877" source="16640" target="16726" />
+      <edge id="29878" source="16640" target="16727" />
+      <edge id="29880" source="16640" target="16730" />
+      <edge id="29887" source="16640" target="16742" />
+      <edge id="29888" source="16640" target="16743" />
+      <edge id="29889" source="16640" target="16744" />
+      <edge id="29896" source="16640" target="16750" />
+      <edge id="29918" source="16643" target="16652" />
+      <edge id="29933" source="16646" target="16644" />
+      <edge id="29931" source="16646" target="16650" />
+      <edge id="29934" source="16646" target="16652" />
+      <edge id="29932" source="16646" target="16680" />
+      <edge id="29938" source="16646" target="16700" />
+      <edge id="29936" source="16646" target="16732" />
+      <edge id="29937" source="16646" target="16744" />
+      <edge id="29935" source="16646" target="16749" />
+      <edge id="29939" source="16647" target="16652" />
+      <edge id="29950" source="16650" target="16646" />
+      <edge id="29952" source="16650" target="16652" />
+      <edge id="29946" source="16650" target="16680" />
+      <edge id="29951" source="16650" target="16682" />
+      <edge id="29957" source="16650" target="16700" />
+      <edge id="29948" source="16650" target="16713" />
+      <edge id="29949" source="16650" target="16727" />
+      <edge id="29956" source="16650" target="16744" />
+      <edge id="29954" source="16650" target="16746" />
+      <edge id="29947" source="16650" target="16748" />
+      <edge id="29953" source="16650" target="16749" />
+      <edge id="29955" source="16650" target="16751" />
+      <edge id="29958" source="16650" target="16752" />
+      <edge id="29979" source="16653" target="16696" />
+      <edge id="29970" source="16657" target="16698" />
+      <edge id="29973" source="16665" target="16641" />
+      <edge id="29974" source="16665" target="16660" />
+      <edge id="29976" source="16665" target="16672" />
+      <edge id="29975" source="16665" target="16704" />
+      <edge id="29972" source="16665" target="16737" />
+      <edge id="29921" source="16667" target="16672" />
+      <edge id="29919" source="16667" target="16687" />
+      <edge id="29920" source="16667" target="16700" />
+      <edge id="29922" source="16668" target="16661" />
+      <edge id="29928" source="16669" target="16652" />
+      <edge id="29942" source="16674" target="16652" />
+      <edge id="29943" source="16675" target="16652" />
+      <edge id="29971" source="16679" target="16673" />
+      <edge id="29987" source="16681" target="16652" />
+      <edge id="29990" source="16682" target="16640" />
+      <edge id="29989" source="16682" target="16652" />
+      <edge id="29991" source="16682" target="16744" />
+      <edge id="29993" source="16683" target="16673" />
+      <edge id="29992" source="16683" target="16716" />
+      <edge id="29994" source="16685" target="16697" />
+      <edge id="29995" source="16686" target="16652" />
+      <edge id="29868" source="16691" target="16673" />
+      <edge id="29869" source="16693" target="16654" />
+      <edge id="29870" source="16693" target="16673" />
+      <edge id="29940" source="16694" target="16670" />
+      <edge id="29941" source="16698" target="16652" />
+      <edge id="29944" source="16703" target="16684" />
+      <edge id="29945" source="16703" target="16721" />
+      <edge id="29959" source="16705" target="16652" />
+      <edge id="29963" source="16709" target="16652" />
+      <edge id="29965" source="16710" target="16673" />
+      <edge id="29964" source="16710" target="16701" />
+      <edge id="29968" source="16711" target="16651" />
+      <edge id="29967" source="16711" target="16666" />
+      <edge id="29966" source="16711" target="16673" />
+      <edge id="29977" source="16713" target="16639" />
+      <edge id="29978" source="16713" target="16650" />
+      <edge id="29996" source="16715" target="16699" />
+      <edge id="29988" source="16716" target="16673" />
+      <edge id="29858" source="16722" target="16673" />
+      <edge id="29864" source="16725" target="16648" />
+      <edge id="29867" source="16725" target="16676" />
+      <edge id="29862" source="16725" target="16702" />
+      <edge id="29860" source="16725" target="16706" />
+      <edge id="29863" source="16725" target="16718" />
+      <edge id="29865" source="16725" target="16720" />
+      <edge id="29859" source="16725" target="16723" />
+      <edge id="29861" source="16725" target="16728" />
+      <edge id="29866" source="16725" target="16729" />
+      <edge id="29871" source="16731" target="16647" />
+      <edge id="29872" source="16731" target="16658" />
+      <edge id="29873" source="16733" target="16734" />
+      <edge id="29907" source="16735" target="16638" />
+      <edge id="29911" source="16736" target="16645" />
+      <edge id="29912" source="16736" target="16647" />
+      <edge id="29910" source="16736" target="16658" />
+      <edge id="29908" source="16736" target="16669" />
+      <edge id="29914" source="16736" target="16671" />
+      <edge id="29917" source="16736" target="16672" />
+      <edge id="29909" source="16736" target="16705" />
+      <edge id="29916" source="16736" target="16718" />
+      <edge id="29915" source="16736" target="16731" />
+      <edge id="29913" source="16736" target="16745" />
+      <edge id="29925" source="16738" target="16672" />
+      <edge id="29924" source="16738" target="16675" />
+      <edge id="29926" source="16738" target="16688" />
+      <edge id="29923" source="16738" target="16740" />
+      <edge id="29927" source="16739" target="16673" />
+      <edge id="29929" source="16740" target="16652" />
+      <edge id="29930" source="16740" target="16675" />
+      <edge id="29981" source="16744" target="16646" />
+      <edge id="29980" source="16744" target="16650" />
+      <edge id="29985" source="16744" target="16651" />
+      <edge id="29982" source="16744" target="16652" />
+      <edge id="29983" source="16744" target="16654" />
+      <edge id="29986" source="16744" target="16701" />
+      <edge id="29984" source="16744" target="16741" />
+      <edge id="29960" source="16745" target="16652" />
+      <edge id="29969" source="16747" target="16678" />
+      <edge id="29961" source="16749" target="16732" />
+      <edge id="29962" source="16749" target="16744" />
+      <edge id="29998" source="16751" target="16662" />
+      <edge id="29997" source="16751" target="16719" />
+      <edge id="29999" source="16752" target="16650" />
+      <edge id="30001" source="16752" target="16680" />
+      <edge id="30000" source="16752" target="16744" />
     </edges>
   </graph>
 </gexf>
