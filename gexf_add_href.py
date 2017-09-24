@@ -10,6 +10,7 @@ from gexf import Gexf,GexfImport
 from glob import glob
 import logging
 import unicodecsv
+import xml.etree.ElementTree as ET
 logging.basicConfig(level=logging.DEBUG,\
                         format="%(asctime)s %(levelname)s %(message)s")
 
@@ -31,6 +32,8 @@ def importGraph(f,mp,law_dict):
     graph.addNodeAttribute('URI',defaultValue="",type='string',force_id='URI')
     for node_id,node in graph.nodes.iteritems():
         regbase=u"^{}（".format(node.label)
+        attr=node.getAttributes()
+        logging.info(attr)
         if law_dict.has_key(node.label):
             v=law_dict[node.label]
             logging.info("v={}".format(v.encode('utf-8')))
@@ -40,15 +43,45 @@ def importGraph(f,mp,law_dict):
         blink=''
         if sz==1:
             blink=tt[0]['body_link']
-        node.addAttribute("URI",blink)
+        #node.addAttribute("URI",blink)
         node.label=ab_law
-    dstf="addurl/"+dst
-    g_import.write(open(dstf,'wb'))
+    #dstf="addurl2/"+dst
+    #g_import.write(open(dstf,'wb'))
+def modifyxml(f,law_dict,mp):
+    dst=f.split('/')[-1]
+    tree = ET.parse(f)
+    ET.register_namespace('','http://www.gexf.net/1.3')
+    ET.register_namespace('viz','http://www.gexf.net/1.3/viz')
+
+    root = tree.getroot()
+    #for e in root.getiterator():
+    #    logging.info(e.tag)
+    for n in root.findall(".//{http://www.gexf.net/1.3}node"):
+        n.attrib['url']=''
+        if not 'label' in n.attrib:
+            logging.info(n.attrib)
+            continue
+        label=n.attrib['label']
+        regbase=u"^{}（".format(label)
+        tt=mp.col.find({"title":{"$regex":regbase}})
+        sz=tt.count()
+        blink=''
+        if sz==1:
+            blink=tt[0]['body_link']
+        #if law_dict.has_key(label):
+        #    v=law_dict[label]
+            #logging.info("v={}".format(v.encode('utf-8')))
+        ab_law=law_dict.get(label,label)
+        n.attrib['label']=ab_law
+        n.attrib['url']=blink
+    dstf="addurl2/"+dst
+    tree.write(dstf,'UTF-8',True)
+    
 def main():
     law_dict=readcsv()
     mp=NewMongoOp('localhost')
     for f in list(glob("gexfall/*.gexf")):
-        print(f)
-        importGraph(f,mp,law_dict)
+        logging.info(f)
+        modifyxml(f,law_dict,mp)
 
 if __name__=='__main__':main()
