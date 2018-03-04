@@ -11,6 +11,7 @@ from glob import glob
 import logging
 import unicodecsv
 import xml.etree.ElementTree as ET
+
 logging.basicConfig(level=logging.DEBUG,\
                         format="%(asctime)s %(levelname)s %(message)s")
 
@@ -47,36 +48,61 @@ def importGraph(f,mp,law_dict):
         node.label=ab_law
     #dstf="addurl2/"+dst
     #g_import.write(open(dstf,'wb'))
-def modifyxml(f,law_dict,mp):
-    dst=f.split('/')[-1]
-    tree = ET.parse(f)
-    ET.register_namespace('','http://www.gexf.net/1.3')
-    ET.register_namespace('viz','http://www.gexf.net/1.3/viz')
+class ModifyXML(object):
+    def __modify_label(self,root):
+        for n in root.findall(".//{http://www.gexf.net/1.3}node"):
+            if not 'label' in n.attrib:
+                logging.info(n.attrib)
+                continue
+            label=n.attrib['label']
+            ab_law=self.law_dict.get(label,label)
+            n.attrib['label']=ab_law
+    def __add_meta(self,root):
+        attr=root.find(".//{http://www.gexf.net/1.3}attributes")
+        alt=ET.Element("attribute",{"id":"url","title":"url","type":"string"})
+        attr.append(alt)
+    def __modify_url(self,root):
+        for n in root.findall(".//{http://www.gexf.net/1.3}node"):
+            if not 'label' in n.attrib:
+                logging.info(n.attrib)
+                continue
+            label=n.attrib['label']
+            regbase=u"^{}（".format(label)
+            tt=self.mp.col.find({"title":{"$regex":regbase}})
+            sz=tt.count()
+            blink=''
+            if sz==1:
+                blink=tt[0]['body_link']
+            attrs=n.find("{http://www.gexf.net/1.3}attvalues")
+            #logging.info(attrs)
+            elm=ET.Element("attvalue",{"for":"url","value":blink})
+            attrs.append(elm)
 
-    root = tree.getroot()
-    #for e in root.getiterator():
-    #    logging.info(e.tag)
-    for n in root.findall(".//{http://www.gexf.net/1.3}node"):
-        n.attrib['url']=''
-        if not 'label' in n.attrib:
-            logging.info(n.attrib)
-            continue
-        label=n.attrib['label']
-        regbase=u"^{}（".format(label)
-        tt=mp.col.find({"title":{"$regex":regbase}})
-        sz=tt.count()
-        blink=''
-        if sz==1:
-            blink=tt[0]['body_link']
-        #if law_dict.has_key(label):
-        #    v=law_dict[label]
-            #logging.info("v={}".format(v.encode('utf-8')))
-        ab_law=law_dict.get(label,label)
-        n.attrib['label']=ab_law
-        n.attrib['url']=blink
-    dstf="addurl2/"+dst
-    tree.write(dstf,'UTF-8',True)
-    
+    def save(self):
+        dstf="addurl2/"+self.dst
+        self.tree.write(dstf,'UTF-8',True)
+    def modify(self):
+        self.__add_meta(self.root)
+        self.__modify_url(self.root)
+        self.__modify_label(self.root)
+    def __init__(self,f,law_dict,mp):
+        self.mp=mp
+        self.law_dict=law_dict
+        self.dst=f.split('/')[-1]
+        self.tree = ET.parse(f)
+        ET.register_namespace('','http://www.gexf.net/1.3')
+        ET.register_namespace('viz','http://www.gexf.net/1.3/viz')
+
+        self.root = self.tree.getroot()
+    def show(self):
+        for e in self.root.getiterator():
+            logging.info(e.tag)
+
+def modifyxml(f,law_dict,mp):
+    mx=ModifyXML(f,law_dict,mp)
+    mx.modify()
+    #mx.show()
+    mx.save()
 def main():
     law_dict=readcsv()
     mp=NewMongoOp('localhost')
