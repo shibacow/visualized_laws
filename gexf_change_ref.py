@@ -165,11 +165,26 @@ def write_alone(f):
             img.size=size
         if img.u0 and img.size> 30:
             logging.info(u'img={}'.format(img))
+def write_https(f):
+    logging.info("write={}".format(f))
+    tree = ET.ElementTree(file=f)
+    root = tree.getroot()
+    xpath=".//{http://www.gexf.net/1.3}node"
+    ET.register_namespace('', 'http://www.gexf.net/1.3')
+    ET.register_namespace('viz', 'http://www.gexf.net/1.3/viz')
+    for n in root.findall(xpath):
+        label=n.get('label')
+        for attr in n.getiterator("{http://www.gexf.net/1.3}attvalue"):
+            if attr.get('for')=='url':
+                u0=attr.get('value')
+                u0=re.sub('http://elaws\.e-gov\.go\.jp/','https://elaws.e-gov.go.jp/',u0)
+                attr.set('value',u0)
+    tree.write(f,encoding='utf-8')
 
 def gleaning():
     gd='../visualized_laws_web/app/data/*.gexf'
     for f in glob(gd):
-        write_alone(f)
+        write_https(f)
     
 def main():
     gleaning()
