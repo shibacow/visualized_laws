@@ -6,10 +6,20 @@ import os
 
 load_dotenv(find_dotenv())
 MONGO_DB=os.environ.get("MONGO_DB")
+MONGO_HOST=os.environ.get("MONGO_HOST")
+MONGO_USER=os.environ.get("MONGO_USER")
+PASSWORD=os.environ.get("PASSWORD")
+AUTHSOURCE=os.environ.get("AUTHSOURCE")
 
 class NewMongoOp(object):
-    def __init__(self,host):
-        self.con=pymongo.MongoClient(host,27017)
+    def __init__(self,host=MONGO_HOST,port=27017):
+        self.con = pymongo.MongoClient(host,
+                                       port,
+                                       username=MONGO_USER,
+                                       password=PASSWORD,
+                                       authSource=AUTHSOURCE,
+                                       authMechanism='SCRAM-SHA-1')
+
         self.db=self.con[MONGO_DB]
         self.col=self.db.laws
     def insert(self,dkt):
@@ -20,8 +30,13 @@ class NewMongoOp(object):
         return self.col.find_one({title:title})
 
 class MongoOp(object):
-    def __init__(self,host):
-        self.con=pymongo.MongoClient(host,27017)
+    def __init__(self,host=MONGO_HOST,port=27017):
+        self.con = pymongo.MongoClient(host,
+                                       port,
+                                       username=MONGO_USER,
+                                       password=PASSWORD,
+                                       authSource=AUTHSOURCE,
+                                       authMechanism='SCRAM-SHA-1')
         self.db=self.con.laws
         self.law_base=self.db.base
         self.ref=self.db.ref_title

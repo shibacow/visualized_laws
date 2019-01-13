@@ -62,12 +62,14 @@ class LinkCheck(object):
                 graph.node[n]['start']=sft
                 graph.node[n]['end']=end
                 graph.node[n]['label']=self.__strip_title(n)
-        nx.write_gexf(graph,u"out_gexf/gexf_{}.gexf".format(cat["_id"]))
+                graph.node[n]['cat']=cat
+        #nx.write_gexf(graph,u"out_gexf/gexf_{}.gexf".format(cat["_id"]))
     def groupby_cat(self):
         return self.mp.groupby_cat('base')
 
 def main():
-    mp=mog_op.MongoOp('localhost')
+    mp=mog_op.MongoOp()
+    print(mp)
     lc=LinkCheck(mp)
     catlist=lc.groupby_cat()
     for i,c in enumerate(catlist):
