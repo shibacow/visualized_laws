@@ -48,10 +48,20 @@ def gettext(pdfname):
     return re.sub(r"\s|　",'',ret)
 
 def main():
-    pdf = "/home/shibacow/prog/fetch_law_data/pdfs/999/069999_hanrei.pdf"
+    pdfs = []
     pdfsrc='/home/shibacow/prog/fetch_law_data/pdfs/'
     for root,dirs,files in os.walk(pdfsrc):
-        print(root)
-    #result = gettext(pdf)
-    #print(result)
+        for f in files:
+            if re.search('\.pdf$',f):
+                pp=root+os.sep+f
+                #print(pp)
+                pdfs.append(pp)
+    sz=[]
+    for pp in pdfs[:100]:
+        result = gettext(pp)
+        #print(len(result))
+        lensz=len(result)
+        sz.append((lensz,pp))
+    for s,p in sz:
+        print('size={} p={}'.format(s,p))
 if __name__=='__main__':main()
